@@ -17,10 +17,11 @@ class Video(object):
     def getLogFile(self):
         logfile = self.s3_video_path.replace('phi/', 'non-phi/')
         path = logfile.rsplit('/',1)[0]
-        path = ROOT + path + "/*"
+        path = ROOT + path
         print path
-        list_of_files = glob.glob(path)
-        lastest_file = max(list_of_files, key=os.path.getctime)
+        files = os.listdir(path)
+        print files
+        lastest_file = max(files, key=os.path.getctime)
         return lastest_file
 
 

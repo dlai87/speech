@@ -29,6 +29,8 @@ def createVideoList():
     with open('map_filename_to_s3.pkl', 'rb') as f:
         data = pickle.load(f)
         for key, value in data.items():
+            print key
+            print value
             video = Video(key, value)
 
 

@@ -15,7 +15,7 @@ class Video(object):
         print "<==="
 
     def getLogFile(self):
-        logfile = self.s3_video_path.replace('phi/', 'non_phi/')
+        logfile = self.s3_video_path.replace('phi/client100prod_1525443315/', 'non_phi/')
         path = logfile.rsplit('/',1)[0]
         path = ROOT + path
         print path

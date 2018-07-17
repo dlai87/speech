@@ -1,0 +1,14 @@
+2018-05-20 10:54:13.751 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-20 10:54:13.778 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-20 10:54:13.778 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 10:54:13.778 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 10:54:13.801 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 10:54:13.801 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 10:54:13.807 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-20 10:54:15.167 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-20 10:54:15.288 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-20 10:54:15.288 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 10:54:15.288 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 10:54:15.407 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 10:54:15.407 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 10:54:15.417 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary

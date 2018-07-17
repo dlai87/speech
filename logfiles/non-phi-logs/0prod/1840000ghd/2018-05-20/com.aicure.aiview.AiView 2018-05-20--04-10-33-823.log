@@ -1,0 +1,118 @@
+2018-05-20 00:10:33.797 | I | -[AppDelegate application:didFinishLaunchingWithOptions:] | [line:186] | [MESSAGE] application Did Finish Launching
+2018-05-20 00:10:33.806 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID 0prod1499883450
+2018-05-20 00:10:33.806 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name pro
+2018-05-20 00:10:33.807 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone7,1
+2018-05-20 00:10:33.807 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone 6 PLUS
+2018-05-20 00:10:33.807 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 11.3.1
+2018-05-20 00:10:33.807 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.3
+2018-05-20 00:10:33.807 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language zh-Hans-US
+2018-05-20 00:10:33.809 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID FF259990-6104-4966-B64B-F2ABFD5E60A5
+2018-05-20 00:10:33.810 | I | -[AppDelegate logMataData] | [line:173] | [MESSAGE] Patient ID (null)
+2018-05-20 00:10:33.829 | I | +[AIUtil hasInternetConnection] | [line:683] | [MESSAGE] has internet connnection = 1
+2018-05-20 00:10:34.054 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:437] | [MESSAGE] Succeded to get APNS token data: <5c966fed 61f03cba 59dc7059 427135d9 8ebb668d 7e0f8425 91616cf8 e136f4b8>
+2018-05-20 00:10:34.054 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:443] | [MESSAGE] deviceToken:  5c966fed61f03cba59dc7059427135d98ebb668d7e0f842591616cf8e136f4b8
+2018-05-20 00:10:34.467 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-20 00:10:34.515 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-05-20 00:10:34.870 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-20 00:10:35.420 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-20 00:10:36.102 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 0
+2018-05-20 00:10:36.102 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 0
+2018-05-20 00:10:36.255 | I | -[TransmitionViewController viewDidLoad] | [line:73] | [MESSAGE] view did load
+2018-05-20 00:10:37.140 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-20 00:10:37.648 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-20 00:10:38.257 | I | -[Transmission sendAll] | [line:80] | [MESSAGE] Transmission send all
+2018-05-20 00:10:38.262 | I | -[Transmission sendAll] | [line:90] | [MESSAGE] Task added: FR
+2018-05-20 00:10:38.265 | I | -[Transmission sendAll] | [line:115] | [MESSAGE] Encrypting files
+2018-05-20 00:10:39.474 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Face_registration_video failed
+2018-05-20 00:10:39.476 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 1
+2018-05-20 00:10:39.604 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 2
+2018-05-20 00:10:39.722 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task pk_clinic_visit_only failed
+2018-05-20 00:10:39.723 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 3
+2018-05-20 00:10:39.848 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 4
+2018-05-20 00:10:39.959 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task kiosk_dose_check failed
+2018-05-20 00:10:39.961 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 5
+2018-05-20 00:10:40.190 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6
+2018-05-20 00:10:40.301 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task reimbursement_sync failed
+2018-05-20 00:10:40.303 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 7
+2018-05-20 00:10:40.305 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task pause_resume_report failed
+2018-05-20 00:10:40.307 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 8
+2018-05-20 00:10:40.458 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 9
+2018-05-20 00:10:40.577 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-20 00:10:41.520 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-20 00:10:41.522 | I | -[Transmission sendAll] | [line:80] | [MESSAGE] Transmission send all
+2018-05-20 00:10:41.526 | I | -[Transmission sendAll] | [line:90] | [MESSAGE] Task added: FR
+2018-05-20 00:10:41.528 | I | -[Transmission sendAll] | [line:115] | [MESSAGE] Encrypting files
+2018-05-20 00:10:42.172 | I | -[Transmission update:task_name:] | [line:230] | [MESSAGE] File transmitted /var/mobile/Containers/Data/Application/2B575114-93AE-4E35-98AD-E7401D71DD43/Library/transmission/face_recognition.mp4
+2018-05-20 00:10:42.172 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 1
+2018-05-20 00:10:42.297 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Update_device_version failed
+2018-05-20 00:10:42.299 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 2
+2018-05-20 00:10:42.623 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 3
+2018-05-20 00:10:42.730 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task push_token_registration failed
+2018-05-20 00:10:42.732 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 4
+2018-05-20 00:10:42.865 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 5
+2018-05-20 00:10:42.980 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task questionnaire_sync failed
+2018-05-20 00:10:42.982 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6
+2018-05-20 00:10:43.422 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 7
+2018-05-20 00:10:43.425 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task pause_resume_report failed
+2018-05-20 00:10:43.428 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 8
+2018-05-20 00:10:43.609 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task side_effects_report failed
+2018-05-20 00:10:43.611 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 9
+2018-05-20 00:10:43.899 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-20 00:10:44.692 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-20 00:10:44.698 | I | -[Transmission sendAll] | [line:80] | [MESSAGE] Transmission send all
+2018-05-20 00:10:44.706 | I | -[Transmission sendAll] | [line:115] | [MESSAGE] Encrypting files
+2018-05-20 00:10:44.837 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Update_device_version failed
+2018-05-20 00:10:44.839 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 1
+2018-05-20 00:10:45.115 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 2
+2018-05-20 00:10:45.221 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task push_token_registration failed
+2018-05-20 00:10:45.222 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 3
+2018-05-20 00:10:45.363 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 4
+2018-05-20 00:10:45.466 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task questionnaire_sync failed
+2018-05-20 00:10:45.468 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 5
+2018-05-20 00:10:45.690 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6
+2018-05-20 00:10:45.692 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task pause_resume_report failed
+2018-05-20 00:10:45.696 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 7
+2018-05-20 00:10:45.823 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task side_effects_report failed
+2018-05-20 00:10:45.824 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 8
+2018-05-20 00:10:46.042 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-20 00:10:46.908 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-20 00:10:46.912 | I | -[Transmission sendAll] | [line:80] | [MESSAGE] Transmission send all
+2018-05-20 00:10:46.918 | I | -[Transmission sendAll] | [line:115] | [MESSAGE] Encrypting files
+2018-05-20 00:10:47.039 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 1
+2018-05-20 00:10:47.243 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 2
+2018-05-20 00:10:47.377 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 3
+2018-05-20 00:10:47.570 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 4
+2018-05-20 00:10:47.709 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 5
+2018-05-20 00:10:47.856 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6
+2018-05-20 00:10:47.858 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task pause_resume_report failed
+2018-05-20 00:10:47.861 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 7
+2018-05-20 00:10:47.988 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 8
+2018-05-20 00:10:48.290 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-20 00:10:49.123 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-20 00:10:49.164 | I | -[MedicationConfirmVC viewDidLoad] | [line:45] | [MESSAGE] MedicationConfirmVC view did load
+2018-05-20 00:10:50.004 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName conclusion_11
+2018-05-20 00:10:50.004 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name conclusion_11
+2018-05-20 00:10:54.860 | I | -[DigitalClockVC viewDidLoad] | [line:138] | [MESSAGE] DigitalClockVC view did load
+2018-05-20 00:10:54.997 | I | -[Transmission sendAll] | [line:80] | [MESSAGE] Transmission send all
+2018-05-20 00:10:55.002 | I | -[Transmission sendAll] | [line:115] | [MESSAGE] Encrypting files
+2018-05-20 00:10:55.359 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-20 00:10:55.359 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:815] | [MESSAGE] No questionnaire or action schedule found.
+2018-05-20 00:10:55.359 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-20 00:10:55.359 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 00:10:55.359 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 00:10:55.470 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 00:10:55.470 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 00:10:55.500 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-20 00:10:55.665 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 1
+2018-05-20 00:10:55.809 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 2
+2018-05-20 00:10:56.055 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 3
+2018-05-20 00:10:56.378 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 4
+2018-05-20 00:10:56.506 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 5
+2018-05-20 00:10:56.802 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6
+2018-05-20 00:10:56.805 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task pause_resume_report failed
+2018-05-20 00:10:56.809 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 7
+2018-05-20 00:10:56.959 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 8
+2018-05-20 00:10:57.199 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-20 00:10:58.010 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-20 00:11:03.011 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-20 00:11:03.687 | I | -[AppDelegate cleanAlertDialog] | [line:369] | [MESSAGE] clean Alert Dialog

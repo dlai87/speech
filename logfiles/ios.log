@@ -1,0 +1,2231 @@
+{
+  "speechDetectionLog" : {
+    "startTime" : "2018-05-18T11:23:27-0400",
+    "isActive" : true,
+    "isTalking_smooth" : true,
+    "SpeechDetectionRecords" : [
+      {
+        "type" : "start_detection",
+        "timeInSec" : 0
+      },
+      {
+        "type" : "activated",
+        "timeInSec" : 0.00027783203404396772
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 1.873857855796814
+      },
+      {
+        "type" : "begin_smooth",
+        "timeInSec" : 1.8738729953765869
+      },
+      {
+        "type" : "begin_overall",
+        "timeInSec" : 1.8739218711853027
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 2.8253688812255859
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 2.8336360454559326
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 2.8538060188293457
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 2.8752861022949219
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 2.893867015838623
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 2.9138400554656982
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 2.933906078338623
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 2.9538331031799316
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 2.9737639427185059
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 2.9937539100646973
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.0140640735626221
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.0338358879089355
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.0540440082550049
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.0735030174255371
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.0937919616699219
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.1139202117919922
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.1338570117950439
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.1537060737609863
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.1738550662994385
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.1938991546630859
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.2143740653991699
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.233893871307373
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.2537767887115479
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.2737340927124023
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.2937920093536377
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.3137600421905518
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.3337700366973877
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.3537580966949463
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.3730790615081787
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.393841028213501
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.4140090942382812
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.4340782165527344
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.4541211128234863
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.4737811088562012
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.4938888549804688
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.5140891075134277
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.5339360237121582
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.5537281036376953
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.5732920169830322
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.5935909748077393
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.6137838363647461
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.6338210105895996
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.654533863067627
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.6734628677368164
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.6936969757080078
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.7137842178344727
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.7336950302124023
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.75372314453125
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.773813009262085
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.7937657833099365
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.8144676685333252
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.8337612152099609
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.8538520336151123
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.873831033706665
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.8937430381774902
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.9140839576721191
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.9339098930358887
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.9534192085266113
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.9738049507141113
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 3.993800163269043
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 4.0138001441955566
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 4.0338277816772461
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 4.053703784942627
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 4.0727381706237793
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 4.0937337875366211
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 4.113828182220459
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 4.133720874786377
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 4.1536960601806641
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 4.1738958358764648
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 4.1937627792358398
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 4.2137670516967773
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 4.2338910102844238
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 4.2536921501159668
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 4.2737030982971191
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 4.2937679290771484
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 4.313103199005127
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 4.3331999778747559
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 4.3540558815002441
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 4.3740181922912598
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 4.394406795501709
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 4.4169979095458984
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 4.4337000846862793
+      },
+      {
+        "type" : "end_raw",
+        "timeInSec" : 4.4537162780761719
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 5.5338211059570312
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 5.5536880493164062
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 5.5731678009033203
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 5.5937237739562988
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 5.6150941848754883
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 5.6336569786071777
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 5.6539578437805176
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 5.6734910011291504
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 5.693903923034668
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 5.7137641906738281
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 5.7337307929992676
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 5.7534141540527344
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 5.7736821174621582
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 5.7938442230224609
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 5.8142762184143066
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 5.8337240219116211
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 5.8537569046020508
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 5.8736991882324219
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 5.8938388824462891
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 5.9142699241638184
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 5.9337430000305176
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 5.953761100769043
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 5.9736652374267578
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 5.9936418533325195
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.0141201019287109
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.0337409973144531
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.0530099868774414
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.0728859901428223
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.0936517715454102
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.1136808395385742
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.1337161064147949
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.1537389755249023
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.1737298965454102
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.1937251091003418
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.2137417793273926
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.233767032623291
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.2531208992004395
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.2737550735473633
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.2937097549438477
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.3137149810791016
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.3336668014526367
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.3536057472229004
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.3735980987548828
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.3936872482299805
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.4137129783630371
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.4336748123168945
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.4537172317504883
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.4736843109130859
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.4936962127685547
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.5136871337890625
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.533693790435791
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.5537238121032715
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.572659969329834
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.593696117401123
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.6150550842285156
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.6337637901306152
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.6536831855773926
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.6728219985961914
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.6936578750610352
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.7141342163085938
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.7336111068725586
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.7536931037902832
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.7735857963562012
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.793701171875
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.8141508102416992
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.8336977958679199
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.853726863861084
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.8735690116882324
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.8936219215393066
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.9158129692077637
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.9336662292480469
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.9538140296936035
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.9737472534179688
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 6.9937467575073242
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 7.0141749382019043
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 7.0337429046630859
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 7.0543642044067383
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 7.0731430053710938
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 7.0936489105224609
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 7.113926887512207
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 7.1328649520874023
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 7.1537089347839355
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 7.1736478805541992
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 7.1936540603637695
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 7.2141680717468262
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 7.2336721420288086
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 7.2537660598754883
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 7.273655891418457
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 7.2936620712280273
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 7.3146138191223145
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 7.3339948654174805
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 7.3537302017211914
+      },
+      {
+        "type" : "end_raw",
+        "timeInSec" : 7.3737249374389648
+      },
+      {
+        "type" : "end_smooth",
+        "timeInSec" : 10.400608062744141
+      },
+      {
+        "type" : "end_overall",
+        "timeInSec" : 10.400761604309082
+      },
+      {
+        "type" : "deactivated",
+        "timeInSec" : 14.417189598083496
+      },
+      {
+        "type" : "activated",
+        "timeInSec" : 16.297819137573242
+      },
+      {
+        "type" : "deactivated",
+        "timeInSec" : 20.313976287841797
+      },
+      {
+        "type" : "activated",
+        "timeInSec" : 22.427801132202148
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.320289611816406
+      },
+      {
+        "type" : "begin_smooth",
+        "timeInSec" : 25.320306777954102
+      },
+      {
+        "type" : "begin_overall",
+        "timeInSec" : 25.320318222045898
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.340383529663086
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.360298156738281
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.380319595336914
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.399454116821289
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.420343399047852
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.440305709838867
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.460371017456055
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.480354309082031
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.500288009643555
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.519424438476562
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.540245056152344
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.560245513916016
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.579351425170898
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.600244522094727
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.620306015014648
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.640214920043945
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.660236358642578
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.680229187011719
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.7001953125
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.720239639282227
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.739892959594727
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.760366439819336
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.780311584472656
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.799581527709961
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.820283889770508
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.840297698974609
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.860315322875977
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.880277633666992
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.899595260620117
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.920316696166992
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.940248489379883
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.960075378417969
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 25.980289459228516
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.001201629638672
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.020229339599609
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.040168762207031
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.060214996337891
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.080202102661133
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.099697113037109
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.120273590087891
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.140232086181641
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.160346984863281
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.180288314819336
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.199779510498047
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.220256805419922
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.239801406860352
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.260343551635742
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.280271530151367
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.300212860107422
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.336225509643555
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.33955192565918
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.359733581542969
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.380210876464844
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.400142669677734
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.420228958129883
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.440250396728516
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.460330963134766
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.479707717895508
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.499950408935547
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.520278930664062
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.540267944335938
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.560209274291992
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.580270767211914
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.600282669067383
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.61961555480957
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.640279769897461
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.660306930541992
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.680288314819336
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.700199127197266
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.721033096313477
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.739974975585938
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.760223388671875
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.780174255371094
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.804355621337891
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.820224761962891
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.840213775634766
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.860507965087891
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.880260467529297
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.900205612182617
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.920259475708008
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.940263748168945
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.960258483886719
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.980253219604492
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 26.999992370605469
+      },
+      {
+        "type" : "end_raw",
+        "timeInSec" : 27.022769927978516
+      },
+      {
+        "type" : "end_smooth",
+        "timeInSec" : 30.199892044067383
+      },
+      {
+        "type" : "end_overall",
+        "timeInSec" : 30.200172424316406
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 46.780261993408203
+      },
+      {
+        "type" : "begin_smooth",
+        "timeInSec" : 46.780277252197266
+      },
+      {
+        "type" : "begin_overall",
+        "timeInSec" : 46.780288696289062
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 46.799831390380859
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 46.819602966308594
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 46.839408874511719
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 46.859458923339844
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 46.880939483642578
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 46.899486541748047
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 46.919517517089844
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 46.939460754394531
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 46.959163665771484
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 46.980682373046875
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 46.999599456787109
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.019580841064453
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.039394378662109
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.059207916259766
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.080738067626953
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.099475860595703
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.119499206542969
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.139553070068359
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.159194946289062
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.18060302734375
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.199504852294922
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.219524383544922
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.239044189453125
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.259166717529297
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.284446716308594
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.29913330078125
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.319454193115234
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.339408874511719
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.359386444091797
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.379459381103516
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.399406433105469
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.419525146484375
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.439456939697266
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.459205627441406
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.479629516601562
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.499469757080078
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.519527435302734
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.539455413818359
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.559558868408203
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.58050537109375
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.599449157714844
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.619384765625
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.639385223388672
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.658908843994141
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.679466247558594
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.699337005615234
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.719467163085938
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.738883972167969
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.759113311767578
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.780807495117188
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.799446105957031
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.819484710693359
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 47.839447021484375
+      },
+      {
+        "type" : "end_raw",
+        "timeInSec" : 47.859188079833984
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 48.079818725585938
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 48.099380493164062
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 48.119338989257812
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 48.139358520507812
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 48.159137725830078
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 48.179569244384766
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 48.199390411376953
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 48.219490051269531
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 48.238983154296875
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 48.259384155273438
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 48.279376983642578
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 48.299224853515625
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 48.319431304931641
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 48.339408874511719
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 48.359264373779297
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 48.379581451416016
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 48.399456024169922
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 48.419403076171875
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 48.439407348632812
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 48.459060668945312
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 48.479316711425781
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 48.49945068359375
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 48.519344329833984
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 48.539344787597656
+      },
+      {
+        "type" : "end_raw",
+        "timeInSec" : 48.559162139892578
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 49.238994598388672
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 49.259014129638672
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 49.279346466064453
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 49.299301147460938
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 49.318836212158203
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 49.339382171630859
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 49.359123229980469
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 49.379325866699219
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 49.399402618408203
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 49.419414520263672
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 49.439380645751953
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 49.459098815917969
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 49.479286193847656
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 49.498493194580078
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 49.519905090332031
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 49.539447784423828
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 49.559234619140625
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 49.579311370849609
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 49.599369049072266
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 49.619243621826172
+      },
+      {
+        "type" : "end_raw",
+        "timeInSec" : 49.639266967773438
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 49.879306793212891
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 49.899276733398438
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 49.919395446777344
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 49.939327239990234
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 49.9591064453125
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 49.978977203369141
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 49.999267578125
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.019275665283203
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.039222717285156
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.059055328369141
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.079277038574219
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.099372863769531
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.119407653808594
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.139339447021484
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.159084320068359
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.179313659667969
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.199325561523438
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.219253540039062
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.2388916015625
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.259159088134766
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.279254913330078
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.299385070800781
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.319580078125
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.339447021484375
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.359119415283203
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.37969970703125
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.399307250976562
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.419296264648438
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.439243316650391
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.459087371826172
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.479251861572266
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.499340057373047
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.519363403320312
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.539329528808594
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.559047698974609
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.579273223876953
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.599288940429688
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.619335174560547
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.639122009277344
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.659172058105469
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.679271697998047
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.699287414550781
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.7193603515625
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.738895416259766
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.759021759033203
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.779323577880859
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.799228668212891
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.819232940673828
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.839260101318359
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 50.859073638916016
+      },
+      {
+        "type" : "end_raw",
+        "timeInSec" : 50.879249572753906
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.059165954589844
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.079280853271484
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.100856781005859
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.119274139404297
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.139255523681641
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.15899658203125
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.179191589355469
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.19927978515625
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.219322204589844
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.238819122314453
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.259059906005859
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.279476165771484
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.299297332763672
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.319328308105469
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.33929443359375
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.359024047851562
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.379215240478516
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.399177551269531
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.419361114501953
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.439266204833984
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.459205627441406
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.478378295898438
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.499210357666016
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.519191741943359
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.539169311523438
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.559009552001953
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.578220367431641
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.599308013916016
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.619239807128906
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.63922119140625
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.658988952636719
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.678501129150391
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.69927978515625
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.719333648681641
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.738842010498047
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.759101867675781
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.779224395751953
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.799449920654297
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.819656372070312
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.839427947998047
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.858985900878906
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.879215240478516
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.899211883544922
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.919227600097656
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.939193725585938
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.958835601806641
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.979221343994141
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 51.999313354492188
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 52.019298553466797
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 52.039287567138672
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 52.059059143066406
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 52.079181671142578
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 52.0992431640625
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 52.119300842285156
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 52.139202117919922
+      },
+      {
+        "type" : "end_raw",
+        "timeInSec" : 52.159080505371094
+      },
+      {
+        "type" : "end_smooth",
+        "timeInSec" : 55.199192047119141
+      },
+      {
+        "type" : "end_overall",
+        "timeInSec" : 55.199478149414062
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.358749389648438
+      },
+      {
+        "type" : "begin_smooth",
+        "timeInSec" : 59.3587646484375
+      },
+      {
+        "type" : "begin_overall",
+        "timeInSec" : 59.358772277832031
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.379024505615234
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.399124145507812
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.419166564941406
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.438884735107422
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.458835601806641
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.479019165039062
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.498992919921875
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.519031524658203
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.538928985595703
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.558868408203125
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.578937530517578
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.598796844482422
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.619037628173828
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.638935089111328
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.658687591552734
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.678909301757812
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.69818115234375
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.719032287597656
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.738460540771484
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.758739471435547
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.778999328613281
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.798877716064453
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.819026947021484
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.8388671875
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.858737945556641
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.879070281982422
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.898910522460938
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.919013977050781
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.938884735107422
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.958759307861328
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.978870391845703
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 59.998863220214844
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 60.019058227539062
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 60.038944244384766
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 60.058681488037109
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 60.078971862792969
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 60.099010467529297
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 60.119125366210938
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 60.138965606689453
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 60.158771514892578
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 60.179206848144531
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 60.199005126953125
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 60.218902587890625
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 60.238494873046875
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 60.258712768554688
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 60.278953552246094
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 60.298984527587891
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 60.318870544433594
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 60.339618682861328
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 60.358722686767578
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 60.378856658935547
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 60.398941040039062
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 60.418888092041016
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 60.4390869140625
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 60.458690643310547
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 60.478954315185547
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 60.498977661132812
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 60.518123626708984
+      },
+      {
+        "type" : "begin_raw",
+        "timeInSec" : 60.539459228515625
+      },
+      {
+        "type" : "end_smooth",
+        "timeInSec" : 60.544483184814453
+      },
+      {
+        "type" : "end_overall",
+        "timeInSec" : 60.544486999511719
+      }
+    ],
+    "startTimestamp" : 1526657007256.218
+  },
+  "audioPromptLog" : {
+    "logs" : [
+      {
+        "occurTimeInSec" : 18.153733968734741,
+        "occurTime" : "2018-05-18T11:23:41-0400",
+        "audioPromptType" : "short_response_prompt1"
+      }
+    ]
+  }
+}

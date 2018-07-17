@@ -1,0 +1,21 @@
+2018-05-20 09:50:43.277 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-20 09:51:00.755 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-20 09:51:01.534 | I | -[AppDelegate cleanAlertDialog] | [line:369] | [MESSAGE] clean Alert Dialog
+2018-05-20 09:53:31.335 | I | -[AppDelegate applicationWillEnterForeground:] | [line:227] | [MESSAGE] application will enter foreground
+2018-05-20 09:53:31.377 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID 0prod1499883450
+2018-05-20 09:53:31.382 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name 0prod
+2018-05-20 09:53:31.385 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone7,1
+2018-05-20 09:53:31.385 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone 6 PLUS
+2018-05-20 09:53:31.385 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 11.3.1
+2018-05-20 09:53:31.385 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.3
+2018-05-20 09:53:31.385 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language zh-Hans-US
+2018-05-20 09:53:31.411 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID FF259990-6104-4966-B64B-F2ABFD5E60A5
+2018-05-20 09:53:31.415 | I | -[AppDelegate logMataData] | [line:173] | [MESSAGE] Patient ID 1840000ghd
+2018-05-20 09:53:31.422 | I | +[AIUtil hasInternetConnection] | [line:683] | [MESSAGE] has internet connnection = 1
+2018-05-20 09:53:32.112 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-20 09:53:32.118 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-05-20 09:53:32.431 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-20 09:53:33.047 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-20 09:53:33.611 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 0
+2018-05-20 09:53:33.611 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 0
+2018-05-20 09:53:33.791 | I | -[MedicationConfirmVC viewDidLoad] | [line:45] | [MESSAGE] MedicationConfirmVC view did load

@@ -1,0 +1,16 @@
+2018-05-22 13:27:51.607 | I | -[AppDelegate application:didFinishLaunchingWithOptions:] | [line:186] | [MESSAGE] application Did Finish Launching
+2018-05-22 13:27:51.636 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID client100prod_1525443315
+2018-05-22 13:27:51.636 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name pro
+2018-05-22 13:27:51.637 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone10,6
+2018-05-22 13:27:51.637 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone X
+2018-05-22 13:27:51.637 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 11.3.1
+2018-05-22 13:27:51.637 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.3
+2018-05-22 13:27:51.638 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language en-US
+2018-05-22 13:27:51.639 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID CE41411A-EF46-4F7C-AA85-EE3C7C4C4986
+2018-05-22 13:27:51.640 | I | -[AppDelegate logMataData] | [line:173] | [MESSAGE] Patient ID (null)
+2018-05-22 13:27:51.642 | I | +[AIUtil hasInternetConnection] | [line:683] | [MESSAGE] has internet connnection = 1
+2018-05-22 13:27:51.709 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:437] | [MESSAGE] Succeded to get APNS token data: <8d927d7a ddd12903 40aa382a 196da6d8 2ae297d1 74aeb00c 0c55267c b9dc65ea>
+2018-05-22 13:27:51.710 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:443] | [MESSAGE] deviceToken:  8d927d7addd1290340aa382a196da6d82ae297d174aeb00c0c55267cb9dc65ea
+2018-05-22 13:27:52.205 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-22 13:27:52.225 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-05-22 13:27:52.313 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load

@@ -1,0 +1,61 @@
+2018-05-21 20:20:54.536 | I | -[AppDelegate application:didFinishLaunchingWithOptions:] | [line:186] | [MESSAGE] application Did Finish Launching
+2018-05-21 20:20:54.540 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID client100prod_1525443315
+2018-05-21 20:20:54.540 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name pro
+2018-05-21 20:20:54.540 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone10,6
+2018-05-21 20:20:54.540 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone X
+2018-05-21 20:20:54.540 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 11.3.1
+2018-05-21 20:20:54.540 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.3
+2018-05-21 20:20:54.540 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language en-US
+2018-05-21 20:20:54.542 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID AB9C45CA-0FA0-4EB1-A72B-EA3724BD1329
+2018-05-21 20:20:54.542 | I | -[AppDelegate logMataData] | [line:173] | [MESSAGE] Patient ID (null)
+2018-05-21 20:20:54.542 | I | +[AIUtil hasInternetConnection] | [line:683] | [MESSAGE] has internet connnection = 1
+2018-05-21 20:20:54.568 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:437] | [MESSAGE] Succeded to get APNS token data: <e0fbe0c1 85c85989 42b9a2e8 c64020c9 5b24b722 42c5989e aad1b03b 4d7ad70a>
+2018-05-21 20:20:54.568 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:443] | [MESSAGE] deviceToken:  e0fbe0c185c8598942b9a2e8c64020c95b24b72242c5989eaad1b03b4d7ad70a
+2018-05-21 20:20:55.074 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-21 20:20:55.122 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-05-21 20:20:55.332 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-21 20:20:55.542 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-21 20:20:56.516 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 0
+2018-05-21 20:20:56.516 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 0
+2018-05-21 20:20:56.630 | I | -[MedicationConfirmVC viewDidLoad] | [line:45] | [MESSAGE] MedicationConfirmVC view did load
+2018-05-21 20:20:58.304 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName conclusion_11
+2018-05-21 20:20:58.304 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name conclusion_11
+2018-05-21 20:21:00.565 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:256] | [MESSAGE] Neural network config download succeeded.
+2018-05-21 20:21:02.556 | I | -[DigitalClockVC viewDidLoad] | [line:138] | [MESSAGE] DigitalClockVC view did load
+2018-05-21 20:21:02.740 | I | -[Transmission sendAll] | [line:80] | [MESSAGE] Transmission send all
+2018-05-21 20:21:02.744 | I | -[Transmission sendAll] | [line:115] | [MESSAGE] Encrypting files
+2018-05-21 20:21:02.874 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-21 20:21:03.143 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-21 20:21:03.143 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-21 20:21:03.143 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-21 20:21:03.353 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-21 20:21:03.353 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-21 20:21:03.412 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-21 20:21:03.839 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 1
+2018-05-21 20:21:03.842 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-21 20:21:03.842 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-21 20:21:03.842 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-21 20:21:04.051 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-21 20:21:04.052 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-21 20:21:04.112 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-21 20:21:04.152 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 2
+2018-05-21 20:21:04.263 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 3
+2018-05-21 20:21:04.400 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 4
+2018-05-21 20:21:04.517 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 5
+2018-05-21 20:21:04.660 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6
+2018-05-21 20:21:04.797 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-21 20:21:06.400 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:256] | [MESSAGE] Neural network config download succeeded.
+2018-05-21 20:21:06.851 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-21 20:21:07.121 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-21 20:21:07.122 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-21 20:21:07.122 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-21 20:21:07.333 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-21 20:21:07.334 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-21 20:21:07.395 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-21 20:21:08.196 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-21 20:21:08.465 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-21 20:21:08.465 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-21 20:21:08.466 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-21 20:21:08.668 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-21 20:21:08.669 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-21 20:21:08.728 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary

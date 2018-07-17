@@ -1,0 +1,126 @@
+2018-05-20 00:04:26.098 | I | -[AppDelegate application:didFinishLaunchingWithOptions:] | [line:186] | [MESSAGE] application Did Finish Launching
+2018-05-20 00:04:26.136 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID 0prod1499883450
+2018-05-20 00:04:26.137 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name pro
+2018-05-20 00:04:26.138 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone7,1
+2018-05-20 00:04:26.138 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone 6 PLUS
+2018-05-20 00:04:26.138 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 11.3.1
+2018-05-20 00:04:26.138 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.3
+2018-05-20 00:04:26.138 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language zh-Hans-US
+2018-05-20 00:04:26.141 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID FF259990-6104-4966-B64B-F2ABFD5E60A5
+2018-05-20 00:04:26.142 | I | -[AppDelegate logMataData] | [line:173] | [MESSAGE] Patient ID (null)
+2018-05-20 00:04:26.146 | I | +[AIUtil hasInternetConnection] | [line:683] | [MESSAGE] has internet connnection = 1
+2018-05-20 00:04:26.421 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:437] | [MESSAGE] Succeded to get APNS token data: <5c966fed 61f03cba 59dc7059 427135d9 8ebb668d 7e0f8425 91616cf8 e136f4b8>
+2018-05-20 00:04:26.421 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:443] | [MESSAGE] deviceToken:  5c966fed61f03cba59dc7059427135d98ebb668d7e0f842591616cf8e136f4b8
+2018-05-20 00:04:26.879 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-20 00:04:26.943 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-05-20 00:04:27.022 | I | -[ResumeViewController viewDidLoad] | [line:120] | [MESSAGE] ResumeViewController viewDidLoad
+2018-05-20 00:04:27.023 | I | -[ResumeViewController showContinueActivationDialog] | [line:48] | [MESSAGE] ResumeViewController showContinueActivationDialog
+2018-05-20 00:04:32.248 | I | -[ResumeViewController showConfirmIdentityDialog] | [line:77] | [MESSAGE] ResumeViewController showConfirmIdentityDialog
+2018-05-20 00:04:51.737 | I | -[LoginAction loginWithUsername:password:onView:] | [line:61] | [MESSAGE] login with username password
+2018-05-20 00:04:51.740 | I | -[LoginAction getURLTaskWithUsername:password:] | [line:94] | [MESSAGE] [self.urlGetter routingUrl] https://routing.aicure.com/backend/get_url_trial
+2018-05-20 00:04:52.449 | I | -[LoginAction update:task_name:] | [line:131] | [MESSAGE] login transmission task_name routing, result 5004
+2018-05-20 00:04:52.450 | I | -[ResumeViewController handleError] | [line:183] | [MESSAGE] ResumeViewController handleError
+2018-05-20 00:04:52.450 | I | +[AIUtil hasInternetConnection] | [line:683] | [MESSAGE] has internet connnection = 1
+2018-05-20 00:04:54.281 | I | -[ResumeViewController showConfirmIdentityDialog] | [line:77] | [MESSAGE] ResumeViewController showConfirmIdentityDialog
+2018-05-20 00:05:13.674 | I | -[LoginAction loginWithUsername:password:onView:] | [line:61] | [MESSAGE] login with username password
+2018-05-20 00:05:13.675 | I | -[LoginAction getURLTaskWithUsername:password:] | [line:94] | [MESSAGE] [self.urlGetter routingUrl] https://routing.aicure.com/backend/get_url_trial
+2018-05-20 00:05:13.806 | I | -[LoginAction update:task_name:] | [line:131] | [MESSAGE] login transmission task_name routing, result 9999
+2018-05-20 00:05:14.252 | I | -[LoginAction update:task_name:] | [line:131] | [MESSAGE] login transmission task_name trial_setup, result 9999
+2018-05-20 00:05:14.538 | I | -[LoginAction update:task_name:] | [line:131] | [MESSAGE] login transmission task_name trial_setup_serialized, result 9999
+2018-05-20 00:05:14.543 | I | -[LoginAction checkTrainingTask:password:] | [line:102] | [MESSAGE] [self.urlGetter getBackendURI:self.context] https://client0prod.aicure.com/backend/backend
+2018-05-20 00:05:14.694 | I | -[LoginAction update:task_name:] | [line:131] | [MESSAGE] login transmission task_name training, result 9999
+2018-05-20 00:05:14.705 | I | -[ResumeViewController handleTransmissionSuccessfully] | [line:158] | [MESSAGE] ResumeViewController handleTransmissionSuccessfully
+2018-05-20 00:05:14.768 | I | -[TutorialDone viewDidLoad] | [line:41] | [MESSAGE] TutorialDone view did load
+2018-05-20 00:05:16.222 | I | -[AiWebView viewDidLoad] | [line:91] | [MESSAGE] enter web view page
+2018-05-20 00:05:16.338 | I | -[AiWebView syncProtocol] | [line:145] | [MESSAGE] web view page syncProtocol
+2018-05-20 00:05:16.609 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup 9999
+2018-05-20 00:05:16.761 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup_serialized 9999
+2018-05-20 00:05:16.817 | I | -[AiWebView webView:shouldStartLoadWithRequest:navigationType:] | [line:155] | [MESSAGE] web view page button capatured https
+2018-05-20 00:05:16.892 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] dose_protocol_sync 5005
+2018-05-20 00:05:16.892 | I | -[AiWebView syncProtocol] | [line:145] | [MESSAGE] web view page syncProtocol
+2018-05-20 00:05:17.113 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup 9999
+2018-05-20 00:05:17.269 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup_serialized 9999
+2018-05-20 00:05:17.394 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] dose_protocol_sync 5005
+2018-05-20 00:05:17.394 | I | -[AiWebView syncProtocol] | [line:145] | [MESSAGE] web view page syncProtocol
+2018-05-20 00:05:17.526 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup 9999
+2018-05-20 00:05:17.681 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup_serialized 9999
+2018-05-20 00:05:17.799 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] dose_protocol_sync 5005
+2018-05-20 00:05:17.799 | I | -[AiWebView syncProtocol] | [line:145] | [MESSAGE] web view page syncProtocol
+2018-05-20 00:05:17.920 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup 9999
+2018-05-20 00:05:18.166 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup_serialized 9999
+2018-05-20 00:05:18.283 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] dose_protocol_sync 5005
+2018-05-20 00:05:18.284 | I | -[AiWebView syncProtocol] | [line:145] | [MESSAGE] web view page syncProtocol
+2018-05-20 00:05:18.402 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup 9999
+2018-05-20 00:05:18.574 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup_serialized 9999
+2018-05-20 00:05:19.214 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] dose_protocol_sync 5005
+2018-05-20 00:05:19.214 | I | -[AiWebView syncProtocol] | [line:145] | [MESSAGE] web view page syncProtocol
+2018-05-20 00:05:19.349 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup 9999
+2018-05-20 00:05:19.610 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup_serialized 9999
+2018-05-20 00:05:19.737 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] dose_protocol_sync 5005
+2018-05-20 00:05:35.276 | I | -[AiWebView webView:shouldStartLoadWithRequest:navigationType:] | [line:155] | [MESSAGE] web view page button capatured https
+2018-05-20 00:05:35.438 | I | -[AiWebView webView:shouldStartLoadWithRequest:navigationType:] | [line:155] | [MESSAGE] web view page button capatured http
+2018-05-20 00:05:35.829 | I | -[AiWebView webView:shouldStartLoadWithRequest:navigationType:] | [line:155] | [MESSAGE] web view page button capatured https
+2018-05-20 00:05:57.507 | I | -[AiWebView webView:shouldStartLoadWithRequest:navigationType:] | [line:155] | [MESSAGE] web view page button capatured https
+2018-05-20 00:05:58.657 | I | -[AiWebView webView:shouldStartLoadWithRequest:navigationType:] | [line:155] | [MESSAGE] web view page button capatured http
+2018-05-20 00:05:58.865 | I | -[AiWebView webView:shouldStartLoadWithRequest:navigationType:] | [line:155] | [MESSAGE] web view page button capatured https
+2018-05-20 00:08:18.328 | I | -[AiWebView webView:shouldStartLoadWithRequest:navigationType:] | [line:155] | [MESSAGE] web view page button capatured inapp
+2018-05-20 00:08:18.329 | I | -[AiWebView syncProtocol] | [line:145] | [MESSAGE] web view page syncProtocol
+2018-05-20 00:08:18.979 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup 9999
+2018-05-20 00:08:19.290 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup_serialized 9999
+2018-05-20 00:08:23.330 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] dose_protocol_sync 9999
+2018-05-20 00:08:28.625 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-20 00:08:28.634 | I | -[AiWebView goToNextPage] | [line:131] | [MESSAGE] web view page goToNextPage
+2018-05-20 00:08:28.679 | I | -[TrainingAddPatientDoneViewController viewDidLoad] | [line:44] | [MESSAGE] TrainingAddPatientDoneViewController view did load
+2018-05-20 00:08:28.976 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] push_token_registration 9999
+2018-05-20 00:08:40.221 | I | -[TutorialFinishVC viewDidLoad] | [line:31] | [MESSAGE] TutorialFinishVC view did load
+2018-05-20 00:08:42.191 | I | -[PackDeviceVC viewDidLoad] | [line:27] | [MESSAGE] PackDeviceVC view did load
+2018-05-20 00:08:47.333 | I | -[DigitalClockVC viewDidLoad] | [line:138] | [MESSAGE] DigitalClockVC view did load
+2018-05-20 00:08:47.497 | I | -[Transmission sendAll] | [line:80] | [MESSAGE] Transmission send all
+2018-05-20 00:08:47.715 | I | -[Transmission sendAll] | [line:115] | [MESSAGE] Encrypting files
+2018-05-20 00:08:47.774 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-20 00:08:47.775 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:815] | [MESSAGE] No questionnaire or action schedule found.
+2018-05-20 00:08:47.775 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-20 00:08:47.775 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 00:08:47.775 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 00:08:47.880 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 00:08:47.880 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 00:08:47.906 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-20 00:08:48.430 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 1
+2018-05-20 00:08:48.608 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 2
+2018-05-20 00:08:49.129 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 3
+2018-05-20 00:08:49.379 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 4
+2018-05-20 00:08:49.548 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 5
+2018-05-20 00:08:49.689 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6
+2018-05-20 00:08:49.692 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task pause_resume_report failed
+2018-05-20 00:08:49.696 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 7
+2018-05-20 00:08:49.843 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 8
+2018-05-20 00:08:50.010 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-20 00:08:50.782 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-20 00:09:03.488 | I | -[SettingsVC viewDidLoad] | [line:47] | [MESSAGE] SettingsVC view did load
+2018-05-20 00:09:15.417 | I | -[TimePickerViewController viewDidLoad] | [line:60] | [MESSAGE] TimePickerViewController view did load
+2018-05-20 00:09:29.306 | I | -[TimePickerViewController onSetButton] | [line:132] | [MESSAGE] set button pressed 
+2018-05-20 00:09:29.732 | I | -[TimePickerViewController setTime] | [line:168] | [MESSAGE] set alarm success 1  current selected time 12:10 上午 
+2018-05-20 00:09:35.472 | I | -[TimePickerViewController syncAlarmTimeToServer:] | [line:227] | [MESSAGE] syncAlarmTimeToServer
+2018-05-20 00:09:45.157 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-20 00:09:45.157 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:815] | [MESSAGE] No questionnaire or action schedule found.
+2018-05-20 00:09:45.157 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-20 00:09:45.157 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 00:09:45.157 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 00:09:45.427 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 00:09:45.427 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 00:09:45.466 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-20 00:09:53.901 | I | -[SettingsVC viewDidLoad] | [line:47] | [MESSAGE] SettingsVC view did load
+2018-05-20 00:09:59.981 | I | -[TimePickerViewController viewDidLoad] | [line:60] | [MESSAGE] TimePickerViewController view did load
+2018-05-20 00:10:13.560 | I | -[TimePickerViewController onSetButton] | [line:132] | [MESSAGE] set button pressed 
+2018-05-20 00:10:13.903 | I | -[TimePickerViewController setTime] | [line:168] | [MESSAGE] set alarm success 1  current selected time 10:00 下午 
+2018-05-20 00:10:19.710 | I | -[TimePickerViewController syncAlarmTimeToServer:] | [line:227] | [MESSAGE] syncAlarmTimeToServer
+2018-05-20 00:10:24.861 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-20 00:10:24.861 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:815] | [MESSAGE] No questionnaire or action schedule found.
+2018-05-20 00:10:24.861 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-20 00:10:24.861 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 00:10:24.862 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 00:10:25.131 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 00:10:25.131 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 00:10:25.170 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-20 00:10:27.950 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-20 00:10:28.750 | I | -[AppDelegate cleanAlertDialog] | [line:369] | [MESSAGE] clean Alert Dialog

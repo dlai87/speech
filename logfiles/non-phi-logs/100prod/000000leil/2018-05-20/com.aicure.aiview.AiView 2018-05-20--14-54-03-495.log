@@ -1,0 +1,44 @@
+2018-05-20 10:54:03.494 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName conclusion_11
+2018-05-20 10:54:03.494 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name conclusion_11
+2018-05-20 10:54:09.808 | I | -[DigitalClockVC viewDidLoad] | [line:138] | [MESSAGE] DigitalClockVC view did load
+2018-05-20 10:54:10.059 | I | -[Transmission sendAll] | [line:80] | [MESSAGE] Transmission send all
+2018-05-20 10:54:10.063 | I | -[Transmission sendAll] | [line:115] | [MESSAGE] Encrypting files
+2018-05-20 10:54:10.338 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-20 10:54:10.470 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-20 10:54:10.470 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 10:54:10.470 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 10:54:10.515 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 10:54:10.515 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 10:54:10.523 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-20 10:54:11.601 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 1
+2018-05-20 10:54:11.602 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-20 10:54:11.602 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 10:54:11.602 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 10:54:11.650 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 10:54:11.650 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 10:54:11.660 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-20 10:54:11.719 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 2
+2018-05-20 10:54:11.839 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 3
+2018-05-20 10:54:11.967 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 4
+2018-05-20 10:54:12.093 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 5
+2018-05-20 10:54:12.223 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6
+2018-05-20 10:54:12.391 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-20 10:54:13.295 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-20 10:54:13.751 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-20 10:54:13.778 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-20 10:54:13.778 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 10:54:13.778 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 10:54:13.801 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 10:54:13.801 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 10:54:13.807 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-20 10:54:15.167 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-20 10:54:15.288 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-20 10:54:15.288 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 10:54:15.288 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 10:54:15.407 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 10:54:15.407 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 10:54:15.417 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+
+2018-05-20 10:54:15.417 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+
+2018-05-20 10:54:15.417 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary

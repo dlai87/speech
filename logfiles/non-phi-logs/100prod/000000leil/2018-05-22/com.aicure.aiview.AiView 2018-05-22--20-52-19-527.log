@@ -1,0 +1,16 @@
+2018-05-22 16:52:19.526 | I | -[AppDelegate applicationWillEnterForeground:] | [line:227] | [MESSAGE] application will enter foreground
+2018-05-22 16:52:19.526 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID client100prod_1525443315
+2018-05-22 16:52:19.526 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name 100prod
+2018-05-22 16:52:19.526 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone10,6
+2018-05-22 16:52:19.526 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone X
+2018-05-22 16:52:19.526 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 11.3.1
+2018-05-22 16:52:19.526 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.3
+2018-05-22 16:52:19.526 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language en-US
+2018-05-22 16:52:19.527 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID CE41411A-EF46-4F7C-AA85-EE3C7C4C4986
+2018-05-22 16:52:19.527 | I | -[AppDelegate logMataData] | [line:173] | [MESSAGE] Patient ID 000000leil
+2018-05-22 16:52:19.527 | I | +[AIUtil hasInternetConnection] | [line:683] | [MESSAGE] has internet connnection = 1
+2018-05-22 16:52:19.846 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 0
+2018-05-22 16:52:19.846 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 0
+2018-05-22 16:52:20.078 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-22 16:52:20.079 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-05-22 16:52:20.116 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load

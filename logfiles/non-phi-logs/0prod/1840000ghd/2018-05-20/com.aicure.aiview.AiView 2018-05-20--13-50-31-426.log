@@ -1,0 +1,42 @@
+2018-05-20 09:50:31.412 | I | -[AppDelegate applicationWillEnterForeground:] | [line:227] | [MESSAGE] application will enter foreground
+2018-05-20 09:50:31.439 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID 0prod1499883450
+2018-05-20 09:50:31.449 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name 0prod
+2018-05-20 09:50:31.450 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone7,1
+2018-05-20 09:50:31.450 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone 6 PLUS
+2018-05-20 09:50:31.454 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 11.3.1
+2018-05-20 09:50:31.454 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.3
+2018-05-20 09:50:31.454 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language zh-Hans-US
+2018-05-20 09:50:31.458 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID FF259990-6104-4966-B64B-F2ABFD5E60A5
+2018-05-20 09:50:31.461 | I | -[AppDelegate logMataData] | [line:173] | [MESSAGE] Patient ID 1840000ghd
+2018-05-20 09:50:31.464 | I | +[AIUtil hasInternetConnection] | [line:683] | [MESSAGE] has internet connnection = 1
+2018-05-20 09:50:32.182 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-20 09:50:32.195 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-05-20 09:50:32.544 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-20 09:50:33.247 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-20 09:50:33.687 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 0
+2018-05-20 09:50:33.687 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 0
+2018-05-20 09:50:33.784 | I | -[MedicationConfirmVC viewDidLoad] | [line:45] | [MESSAGE] MedicationConfirmVC view did load
+2018-05-20 09:50:34.577 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName conclusion_11
+2018-05-20 09:50:34.577 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name conclusion_11
+2018-05-20 09:50:35.528 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-20 09:50:39.561 | I | -[DigitalClockVC viewDidLoad] | [line:138] | [MESSAGE] DigitalClockVC view did load
+2018-05-20 09:50:39.644 | I | -[Transmission sendAll] | [line:80] | [MESSAGE] Transmission send all
+2018-05-20 09:50:39.655 | I | -[Transmission sendAll] | [line:115] | [MESSAGE] Encrypting files
+2018-05-20 09:50:40.010 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-20 09:50:40.011 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:815] | [MESSAGE] No questionnaire or action schedule found.
+2018-05-20 09:50:40.011 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-20 09:50:40.011 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 09:50:40.011 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 09:50:40.131 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 09:50:40.131 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 09:50:40.160 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-20 09:50:40.373 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 1
+2018-05-20 09:50:40.660 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 2
+2018-05-20 09:50:40.799 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 3
+2018-05-20 09:50:41.727 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 4
+2018-05-20 09:50:41.887 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 5
+2018-05-20 09:50:42.030 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6
+2018-05-20 09:50:42.031 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task pause_resume_report failed
+2018-05-20 09:50:42.033 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 7
+2018-05-20 09:50:42.167 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 8
+2018-05-20 09:50:42.429 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed

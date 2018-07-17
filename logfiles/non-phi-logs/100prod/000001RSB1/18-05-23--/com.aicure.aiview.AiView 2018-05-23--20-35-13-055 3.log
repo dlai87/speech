@@ -1,0 +1,3 @@
+2018-05-23 16:35:13.041 | I | -[AIARViewController cancelRecording] | [line:118] | [MESSAGE] ARSession recording cancelled.
+2018-05-23 16:39:52.090 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+5-23 16:39:52.090 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active

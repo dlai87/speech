@@ -1,0 +1,26 @@
+2018-05-21 15:41:19.189 | I | -[AppDelegate application:didFinishLaunchingWithOptions:] | [line:186] | [MESSAGE] application Did Finish Launching
+2018-05-21 15:41:19.310 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID client100prod_1525443315
+2018-05-21 15:41:19.311 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name pro
+2018-05-21 15:41:19.312 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone7,1
+2018-05-21 15:41:19.312 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone 6 PLUS
+2018-05-21 15:41:19.312 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 11.3.1
+2018-05-21 15:41:19.312 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.3
+2018-05-21 15:41:19.313 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language en-US
+2018-05-21 15:41:19.324 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID 21C42E32-E759-441C-BCE6-DD7C88654B9D
+2018-05-21 15:41:19.325 | I | -[AppDelegate logMataData] | [line:173] | [MESSAGE] Patient ID (null)
+2018-05-21 15:41:19.336 | I | +[AIUtil hasInternetConnection] | [line:683] | [MESSAGE] has internet connnection = 1
+2018-05-21 15:41:19.694 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:437] | [MESSAGE] Succeded to get APNS token data: <2d91b5dd 071b1978 7b6aabdb d4b58e7b 9eafe998 f8b62d08 839780b3 e3943ec2>
+2018-05-21 15:41:19.696 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:443] | [MESSAGE] deviceToken:  2d91b5dd071b19787b6aabdbd4b58e7b9eafe998f8b62d08839780b3e3943ec2
+2018-05-21 15:41:20.128 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-21 15:41:20.466 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-05-21 15:41:20.757 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-21 15:41:21.019 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-21 15:41:21.921 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 1
+2018-05-21 15:41:21.975 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:165] | [MESSAGE] protocolID: 3, doseID: 0, numPillsInCurrentMed: 1, correctPillName: smarties-white, targetDate: 2018-05-21 04:00:00 +0000
+2018-05-21 15:41:21.975 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 1
+2018-05-21 15:41:21.994 | I | -[InteruptionRecovery checkInteruptionAndProcessWithUser:inManagedObjectContext:] | [line:93] | [MESSAGE] no interruption found
+2018-05-21 15:41:21.994 | I | -[AiView defineProcess:currentTime:context:] | [line:163] | [MESSAGE] ==== interuptionStatus ==== 10002
+2018-05-21 15:41:21.994 | I | -[AiView defineProcess:currentTime:context:] | [line:165] | [MESSAGE] NO_INTERUPTION_FOUND
+2018-05-21 15:41:21.994 | I | -[AiView defineProcess:currentTime:context:] | [line:167] | [MESSAGE] ==== go to start ====
+2018-05-21 15:41:22.463 | I | -[StartPageViewController viewDidLoad] | [line:65] | [MESSAGE] view did load
+2018-05-21 15:41:24.237 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.

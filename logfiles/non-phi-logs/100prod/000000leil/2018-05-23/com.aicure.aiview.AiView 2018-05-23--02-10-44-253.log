@@ -1,0 +1,33 @@
+2018-05-22 22:10:44.250 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-22 22:11:11.453 | I | -[DigitalClockVC showQuestionnaire] | [line:788] | [MESSAGE] showQuestionnaire
+2018-05-22 22:11:12.694 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-22 22:11:12.695 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-22 22:11:12.769 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-22 22:11:12.769 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-22 22:11:16.003 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-22 22:11:18.488 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-22 22:11:29.465 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageListVC, answering
+2018-05-22 22:11:29.465 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-22 22:11:29.467 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-22 22:11:29.467 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-22 22:11:30.569 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-22 22:11:32.598 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageListVC, answering
+2018-05-22 22:11:32.598 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-22 22:11:32.599 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-22 22:11:32.599 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-22 22:11:35.166 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageListVC, answering
+2018-05-22 22:11:35.166 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-22 22:11:35.168 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-22 22:11:35.168 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-22 22:11:38.275 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-22 22:11:38.275 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-22 22:11:38.277 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-22 22:11:38.277 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-22 22:11:43.123 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-22 22:11:43.124 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-05-22 22:11:43.185 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-22 22:11:44.212 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 0
+2018-05-22 22:11:44.212 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 0
+2018-05-22 22:11:44.270 | I | -[MedicationConfirmVC viewDidLoad] | [line:45] | [MESSAGE] MedicationConfirmVC view did load
+2018-05-22 22:11:44.924 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName conclusion_11
+2018-05-22 22:11:44.924 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name conclusion_11

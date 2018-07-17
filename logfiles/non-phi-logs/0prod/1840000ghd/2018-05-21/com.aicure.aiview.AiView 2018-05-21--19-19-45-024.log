@@ -1,0 +1,47 @@
+2018-05-21 15:19:44.994 | I | -[Transmission sendAll] | [line:80] | [MESSAGE] Transmission send all
+2018-05-21 15:19:45.012 | I | -[Transmission sendAll] | [line:115] | [MESSAGE] Encrypting files
+2018-05-21 15:19:45.154 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task File_upload failed
+2018-05-21 15:19:45.155 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 1
+2018-05-21 15:19:45.276 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task File_upload failed
+2018-05-21 15:19:45.279 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 2
+2018-05-21 15:19:45.377 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Update_device_version failed
+2018-05-21 15:19:45.380 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 3
+2018-05-21 15:19:45.481 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task pk_clinic_visit_only failed
+2018-05-21 15:19:45.483 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 4
+2018-05-21 15:19:45.583 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task push_token_registration failed
+2018-05-21 15:19:45.585 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 5
+2018-05-21 15:19:45.847 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task kiosk_dose_check failed
+2018-05-21 15:19:45.850 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6
+2018-05-21 15:19:45.954 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task questionnaire_sync failed
+2018-05-21 15:19:45.956 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 7
+2018-05-21 15:19:46.064 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task reimbursement_sync failed
+2018-05-21 15:19:46.066 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 8
+2018-05-21 15:19:46.067 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task pause_resume_report failed
+2018-05-21 15:19:46.069 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 9
+2018-05-21 15:19:46.170 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task side_effects_report failed
+2018-05-21 15:19:46.173 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 10
+2018-05-21 15:19:46.285 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-21 15:19:47.087 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:254] | [MESSAGE] Neural network config download succeeded.
+2018-05-21 15:19:47.089 | I | -[Transmission sendAll] | [line:80] | [MESSAGE] Transmission send all
+2018-05-21 15:19:47.098 | I | -[Transmission sendAll] | [line:115] | [MESSAGE] Encrypting files
+2018-05-21 15:19:47.260 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task File_upload failed
+2018-05-21 15:19:47.261 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 1
+2018-05-21 15:19:47.383 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task File_upload failed
+2018-05-21 15:19:47.384 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 2
+2018-05-21 15:19:47.482 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Update_device_version failed
+2018-05-21 15:19:47.484 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 3
+2018-05-21 15:19:47.584 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task pk_clinic_visit_only failed
+2018-05-21 15:19:47.585 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 4
+2018-05-21 15:19:47.684 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task push_token_registration failed
+2018-05-21 15:19:47.686 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 5
+2018-05-21 15:19:47.786 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task kiosk_dose_check failed
+2018-05-21 15:19:47.787 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6
+2018-05-21 15:19:48.011 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task questionnaire_sync failed
+2018-05-21 15:19:48.013 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 7
+2018-05-21 15:19:48.130 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task reimbursement_sync failed
+2018-05-21 15:19:48.132 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 8
+2018-05-21 15:19:48.134 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task pause_resume_report failed
+2018-05-21 15:19:48.135 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 9
+2018-05-21 15:19:48.236 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task side_effects_report failed
+2018-05-21 15:19:48.238 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 10
+2018-05-21 15:19:48.338 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed

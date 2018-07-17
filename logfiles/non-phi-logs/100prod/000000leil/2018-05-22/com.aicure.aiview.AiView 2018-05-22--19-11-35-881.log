@@ -1,0 +1,6 @@
+2018-05-22 15:11:35.880 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 0
+2018-05-22 15:11:35.881 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 0
+2018-05-22 15:11:35.910 | I | -[MedicationConfirmVC viewDidLoad] | [line:45] | [MESSAGE] MedicationConfirmVC view did load
+2018-05-22 15:11:35.987 | I | -[AppDelegate cleanAlertDialog] | [line:369] | [MESSAGE] clean Alert Dialog
+2018-05-22 15:11:36.902 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName conclusion_11
+2018-05-22 15:11:36.902 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name conclusion_11

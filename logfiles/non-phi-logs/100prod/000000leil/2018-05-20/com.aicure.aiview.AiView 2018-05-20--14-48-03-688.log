@@ -1,0 +1,39 @@
+2018-05-20 10:48:03.684 | I | -[Transmission sendAll] | [line:80] | [MESSAGE] Transmission send all
+2018-05-20 10:48:03.687 | I | -[Transmission sendAll] | [line:90] | [MESSAGE] Task added: FR
+2018-05-20 10:48:03.701 | I | -[Transmission sendAll] | [line:110] | [MESSAGE] Add data for transmission 1
+2018-05-20 10:48:03.803 | I | -[Transmission sendAll] | [line:115] | [MESSAGE] Encrypting files
+2018-05-20 10:48:04.916 | I | -[Transmission update:task_name:] | [line:230] | [MESSAGE] File transmitted /var/mobile/Containers/Data/Application/C1D5A1C6-C69C-48DF-B2FD-3E318FC78552/Library/transmission/face_recognition.mp4
+2018-05-20 10:48:04.916 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 1
+2018-05-20 10:48:05.956 | I | -[Transmission update:task_name:] | [line:219] | [MESSAGE] Transmitted successfully on user:CE41411A-EF46-4F7C-AA85-EE3C7C4C4986 pill:smarties-white date:2018-05-20 04:00:00 +0000 doseID:0
+2018-05-20 10:48:05.956 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id don2018-2018-05-20 10:48:12.407 | I | -[Transmission update:task_name:] | [line:230] | [MESSAGE] File transmitted /var/mobile/Containers/Data/Application/C1D5A1C6-C69C-48DF-B2FD-3E318FC78552/Library/transmission/0_smarties-white_0_2018-05-20.mp4
+2018-05-20 10:48:12.408 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 3
+2018-05-20 10:48:12.598 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 4
+2018-05-20 10:48:12.723 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 5
+2018-05-20 10:48:12.841 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6
+2018-05-20 10:48:12.991 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 7
+2018-05-20 10:48:13.118 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 8
+2018-05-20 10:48:13.247 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 9
+2018-05-20 10:48:13.934 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-20 10:48:13.982 | I | -[MedicationConfirmVC viewDidLoad] | [line:45] | [MESSAGE] MedicationConfirmVC view did load
+2018-05-20 10:48:14.538 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName conclusion_11
+2018-05-20 10:48:14.538 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name conclusion_11
+2018-05-20 10:48:19.563 | I | -[DigitalClockVC viewDidLoad] | [line:138] | [MESSAGE] DigitalClockVC view did load
+2018-05-20 10:48:19.584 | I | -[Transmission sendAll] | [line:80] | [MESSAGE] Transmission send all
+2018-05-20 10:48:19.585 | I | -[Transmission sendAll] | [line:115] | [MESSAGE] Encrypting files
+2018-05-20 10:48:19.621 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-20 10:48:19.647 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-20 10:48:19.647 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 10:48:19.647 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] show2018-05-20 10:48:192018-05-20 10:48:19.669 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] display2018-05-20 102018-05-20 10:48:19.669 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 10:48:19.676 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-20 10:48:19.733 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] sho2018-05-20 10:48:19.733 |2018-05-20 10:48:19.733 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 10:48:19.733 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 10:48:19.756 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 10:48:19.756 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 10:48:19.763 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESS2018-05-20 10:48:19.763 | I | -[Digit2018-05-20 10:48:19.768 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 1
+2018-05-20 10:48:19.878 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 2
+2018-05-20 10:48:20.074 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 3
+2018-05-20 10:48:20.203 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 4
+2018-05-20 10:48:20.329 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 5
+2018-05-20 10:48:20.454 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6
+2018-05-20 10:48:20.593 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+ | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed

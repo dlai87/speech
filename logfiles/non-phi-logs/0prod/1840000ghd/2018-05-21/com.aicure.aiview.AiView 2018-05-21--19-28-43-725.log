@@ -1,0 +1,7 @@
+2018-05-21 15:28:43.722 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-21 15:28:43.722 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic acc2018-05-21 15:22018-05-21 15:28:54.778 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-21 15:28:54.845 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:252018-05-21 15:28:54.845 | I | -[AINeuralNetworkConfigMana2018-05-21 15:28:55.060 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-21 15:28:55.825 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 0
+2018-05-21 15:28:55.825 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 0
+2018-05-21 15:28:55.849 | I | -[TransmitionViewController viewDidLoad] | [line:73] | [MESSAGE] view did load
+-05-21 15:28:55.849 | I | -[TransmitionViewController viewDidLoad] | [line:73] | [MESSAGE] view did load

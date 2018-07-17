@@ -1,0 +1,16 @@
+2018-05-20 09:53:48.651 | I | -[TimePickerViewController viewDidLoad] | [line:60] | [MESSAGE] TimePickerViewController view did load
+2018-05-20 09:53:52.782 | I | -[TimePickerViewController onSetButton] | [line:132] | [MESSAGE] set button pressed 
+2018-05-20 09:53:52.792 | I | -[TimePickerViewController setTime] | [line:168] | [MESSAGE] set alarm success 0  current selected time 1:00 下午 
+2018-05-20 09:53:59.982 | I | -[TimePickerViewController onSetButton] | [line:132] | [MESSAGE] set button pressed 
+2018-05-20 09:54:00.338 | I | -[TimePickerViewController setTime] | [line:168] | [MESSAGE] set alarm success 1  current selected time 4:00 下午 
+2018-05-20 09:54:06.222 | I | -[TimePickerViewController syncAlarmTimeToServer:] | [line:227] | [MESSAGE] syncAlarmTimeToServer
+2018-05-20 09:54:10.899 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-20 09:54:10.899 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:815] | [MESSAGE] No questionnaire or action schedule found.
+2018-05-20 09:54:10.899 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-20 09:54:10.899 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 09:54:10.900 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 09:54:11.167 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 09:54:11.168 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 09:54:11.206 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-20 09:54:13.344 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-20 09:54:14.006 | I | -[AppDelegate cleanAlertDialog] | [line:369] | [MESSAGE] clean Alert Dialog

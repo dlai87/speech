@@ -1,0 +1,21 @@
+2018-05-22 10:40:29.275 | I | -[AppDelegate applicationWillEnterForeground:] | [line:227] | [MESSAGE] application will enter foreground
+2018-05-22 10:40:29.275 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID client100prod_1525443315
+2018-05-22 10:40:29.277 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name 100prod
+2018-05-22 10:40:29.277 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone7,1
+2018-05-22 10:40:29.277 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone 6 PLUS
+2018-05-22 10:40:29.277 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 11.3.1
+2018-05-22 10:40:29.277 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.3
+2018-05-22 10:40:29.278 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language zh-Hans-US
+2018-05-22 10:40:29.280 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID 03DCCC7F-8495-4774-85FD-681A1ED2E1A5
+2018-05-22 10:40:29.282 | I | -[AppDelegate logMataData] | [line:173] | [MESSAGE] Patient ID 000000z023
+2018-05-22 10:40:29.283 | I | +[AIUtil hasInternetConnection] | [line:683] | [MESSAGE] has internet connnection = 1
+2018-05-22 10:40:29.848 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-22 10:40:29.860 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-05-22 10:40:29.955 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-22 10:40:30.327 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-22 10:40:30.579 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-22 10:40:30.994 | I | -[AppDelegate cleanAlertDialog] | [line:369] | [MESSAGE] clean Alert Dialog
+2018-05-22 10:40:31.081 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 0
+2018-05-22 10:40:31.081 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 0
+2018-05-22 10:40:31.138 | I | -[TransmitionViewController viewDidLoad] | [line:73] | [MESSAGE] view did load
+2018-05-22 10:40:32.118 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:256] | [MESSAGE] Neural network config download succeeded.

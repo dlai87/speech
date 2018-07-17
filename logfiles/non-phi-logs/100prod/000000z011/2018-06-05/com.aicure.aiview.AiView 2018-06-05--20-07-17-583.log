@@ -1,0 +1,940 @@
+2018-06-05 16:07:17.554 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1527710676533-4f646284-ab1d-46f5-b721-759eb008008c.
+2018-06-05 16:07:17.572 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6. Name: Ecological Momentary Assessment.
+2018-06-05 16:07:17.596 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6.
+2018-06-05 16:07:17.621 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf. Name: CDX Training Set.
+2018-06-05 16:07:17.652 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf.
+2018-06-05 16:07:17.657 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede. Name: delete.
+2018-06-05 16:07:17.658 | I | getQuestionnaire(questionnaireID:) | [line:136] | [MESSAGE] [API Gateway] Questionnaire is neither active nor daily_dose mode. Skip it. Questionnaire ID: Questionnaire ID: client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede. Name: delete
+2018-06-05 16:07:17.723 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197. Name: VST Day 7.
+2018-06-05 16:07:17.748 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197.
+2018-06-05 16:07:17.878 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4. Name: VST and ANSA Day 1.
+2018-06-05 16:07:17.988 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4.
+2018-06-05 16:07:18.082 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3. Name: VST and ANSA Day 14.
+2018-06-05 16:07:18.174 | I | -[StartPageViewController onStartButtonPressed:] | [line:138] | [MESSAGE] POP_QUESTION_BEFORE_DOSING == 0
+2018-06-05 16:07:18.187 | I | -[AiViewDaily viewDidLoad] | [line:52] | [MESSAGE] AiViewDaily view did load
+2018-06-05 16:07:18.187 | I | -[AiViewDaily viewDidLoad] | [line:70] | [MESSAGE] Current medication name smarties-white
+2018-06-05 16:07:18.187 | I | -[AiViewDaily viewDidLoad] | [line:71] | [MESSAGE] Current dosing amount 0
+2018-06-05 16:07:18.188 | I | -[AiViewDaily viewDidLoad] | [line:77] | [MESSAGE] Current dosing steps 0, 1, 2, 3, 9, 
+2018-06-05 16:07:18.232 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:93] | [MESSAGE] Set current medication name: smarties-white, shape: round, color: white.
+2018-06-05 16:07:18.249 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3.
+2018-06-05 16:07:18.755 | I | -[StepsController init:uiView:steps:viewController:recordVideo:] | [line:90] | [MESSAGE] should record video flag 0
+2018-06-05 16:07:18.760 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-06-05 16:07:18.762 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-06-05 16:07:19.821 | I | -[FlexibleVideoPlayerController playTutorialVideoOnView:step:] | [line:178] | [MESSAGE] playTutorialVideo short_version_face_identification_order_0_numpill_0_total_0
+2018-06-05 16:07:42.817 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-06-05 16:07:42.818 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 9
+2018-06-05 16:07:42.962 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 16:07:42.962 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 16:07:43.036 | I | -[CameraUIView displayPreInstruction:] | [line:186] | [MESSAGE] show pre instruction animation
+2018-06-05 16:07:43.038 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-06-05 16:07:43.039 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-06-05 16:07:43.040 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 9
+2018-06-05 16:07:43.056 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 16:07:43.056 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 16:07:43.089 | I | -[CameraUIView displayPreInstruction:] | [line:186] | [MESSAGE] show pre instruction animation
+2018-06-05 16:07:43.091 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-06-05 16:07:43.091 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 9
+2018-06-05 16:07:43.102 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 16:07:43.102 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 16:07:43.313 | I | -[CameraUIView displayPreInstruction:] | [line:186] | [MESSAGE] show pre instruction animation
+2018-06-05 16:07:43.340 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-06-05 16:07:43.341 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 0
+2018-06-05 16:07:43.452 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 16:07:43.452 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 16:07:43.508 | I | -[FlexibleVideoPlayerController videoPlayingComplete:] | [line:193] | [MESSAGE] flex video videoPlayingComplete
+2018-06-05 16:07:43.771 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 16:07:43.865 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 10
+2018-06-05 16:07:44.038 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 16:07:44.092 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 16:07:44.156 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 10
+2018-06-05 16:07:44.328 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-06-05 16:07:44.341 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-06-05 16:07:44.364 | I | -[CameraUIView displayConfirm] | [line:330] | [MESSAGE] show step confirm animation
+2018-06-05 16:07:44.365 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-06-05 16:07:44.453 | I | -[CameraUIView displayConfirm] | [line:330] | [MESSAGE] show step confirm animation
+2018-06-05 16:07:44.453 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-06-05 16:07:46.519 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-06-05 16:07:46.540 | I | -[FlexibleVideoPlayerController playTutorialVideoOnView:step:] | [line:178] | [MESSAGE] playTutorialVideo full_version_pill_identification_order_0_numpill_0_total_0
+2018-06-05 16:08:11.587 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-06-05 16:08:11.587 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 9
+2018-06-05 16:08:11.594 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 16:08:11.594 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 16:08:11.625 | I | -[CameraUIView displayPreInstruction:] | [line:186] | [MESSAGE] show pre instruction animation
+2018-06-05 16:08:11.628 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-06-05 16:08:11.629 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 9
+2018-06-05 16:08:11.636 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 16:08:11.637 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 16:08:11.668 | I | -[CameraUIView displayPreInstruction:] | [line:186] | [MESSAGE] show pre instruction animation
+2018-06-05 16:08:11.671 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-06-05 16:08:11.672 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 9
+2018-06-05 16:08:11.679 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 16:08:11.679 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 16:08:11.717 | I | -[CameraUIView displayPreInstruction:] | [line:186] | [MESSAGE] show pre instruction animation
+2018-06-05 16:08:11.725 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-06-05 16:08:11.725 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 1
+2018-06-05 16:08:12.218 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 16:08:12.218 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 16:08:12.246 | I | -[FlexibleVideoPlayerController videoPlayingComplete:] | [line:193] | [MESSAGE] flex video videoPlayingComplete
+2018-06-05 16:08:12.489 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 16:08:12.630 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 16:08:12.673 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 16:08:12.726 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 16:08:14.691 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 10
+2018-06-05 16:08:14.859 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step pill_identification frame passed. 0.949389, threadhold: 0.800000. Passed frame count: 1
+2018-06-05 16:08:15.068 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 16:08:15.108 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-06-05 16:08:15.206 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-06-05 16:08:15.206 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-06-05 16:08:15.256 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 16:08:15.293 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-06-05 16:08:15.365 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-06-05 16:08:15.365 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-06-05 16:08:15.425 | I | -[CameraUIView displayError:] | [line:287] | [MESSAGE] show error animation; error type 18
+2018-06-05 16:08:20.369 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step pill_identification frame passed. 0.964119, threadhold: 0.800000. Passed frame count: 2
+2018-06-05 16:08:20.418 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step pill_identification frame passed. 0.923178, threadhold: 0.800000. Passed frame count: 3
+2018-06-05 16:08:20.418 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.923178
+2018-06-05 16:08:20.479 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-06-05 16:08:20.530 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.998584
+2018-06-05 16:08:20.539 | I | -[CameraUIView displayConfirm] | [line:330] | [MESSAGE] show step confirm animation
+2018-06-05 16:08:20.540 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-06-05 16:08:20.629 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.524395
+2018-06-05 16:08:20.676 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.431105
+2018-06-05 16:08:20.712 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.968501
+2018-06-05 16:08:20.760 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.729520
+2018-06-05 16:08:20.803 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.858244
+2018-06-05 16:08:20.851 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.143668
+2018-06-05 16:08:20.892 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.010622
+2018-06-05 16:08:20.918 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.015906
+2018-06-05 16:08:20.945 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.383526
+2018-06-05 16:08:20.982 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.109706
+2018-06-05 16:08:21.006 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.029760
+2018-06-05 16:08:21.029 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.014714
+2018-06-05 16:08:21.064 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.121581
+2018-06-05 16:08:21.094 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000296
+2018-06-05 16:08:21.139 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000001
+2018-06-05 16:08:21.168 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000001
+2018-06-05 16:08:21.210 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000001
+2018-06-05 16:08:21.241 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000001
+2018-06-05 16:08:21.276 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000000
+2018-06-05 16:08:21.313 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000001
+2018-06-05 16:08:21.347 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000001
+2018-06-05 16:08:21.384 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000002
+2018-06-05 16:08:21.419 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:21.444 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000004
+2018-06-05 16:08:21.478 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000004
+2018-06-05 16:08:21.509 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000002
+2018-06-05 16:08:21.534 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000001
+2018-06-05 16:08:21.556 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000001
+2018-06-05 16:08:21.604 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000007
+2018-06-05 16:08:21.636 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000023
+2018-06-05 16:08:21.670 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000040
+2018-06-05 16:08:21.701 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000048
+2018-06-05 16:08:21.734 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:21.767 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-06-05 16:08:21.800 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:21.834 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:21.868 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:21.900 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000022
+2018-06-05 16:08:21.928 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000023
+2018-06-05 16:08:21.962 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:21.994 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000009
+2018-06-05 16:08:22.034 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000002
+2018-06-05 16:08:22.061 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000005
+2018-06-05 16:08:22.095 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:22.134 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000005
+2018-06-05 16:08:22.168 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000005
+2018-06-05 16:08:22.200 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000005
+2018-06-05 16:08:22.234 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:22.268 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000002
+2018-06-05 16:08:22.294 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000002
+2018-06-05 16:08:22.330 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000002
+2018-06-05 16:08:22.358 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:22.397 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000002
+2018-06-05 16:08:22.426 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:22.468 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000005
+2018-06-05 16:08:22.503 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000005
+2018-06-05 16:08:22.529 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000005
+2018-06-05 16:08:22.568 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000006
+2018-06-05 16:08:22.596 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000005
+2018-06-05 16:08:22.626 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000004
+2018-06-05 16:08:22.669 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:22.706 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000006
+2018-06-05 16:08:22.708 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-06-05 16:08:22.728 | I | -[FlexibleVideoPlayerController playTutorialVideoOnView:step:] | [line:178] | [MESSAGE] playTutorialVideo full_version_pill_in_mouth_order_0_numpill_0_total_0
+2018-06-05 16:08:22.959 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000006
+2018-06-05 16:08:22.999 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000009
+2018-06-05 16:08:23.027 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000024
+2018-06-05 16:08:23.058 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-06-05 16:08:23.090 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000008
+2018-06-05 16:08:23.122 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:23.188 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:23.212 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:23.237 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:23.261 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000005
+2018-06-05 16:08:23.292 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000035
+2018-06-05 16:08:23.322 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000026
+2018-06-05 16:08:23.354 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000104
+2018-06-05 16:08:23.389 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000025
+2018-06-05 16:08:23.425 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000131
+2018-06-05 16:08:23.458 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000620
+2018-06-05 16:08:23.492 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000063
+2018-06-05 16:08:23.524 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000843
+2018-06-05 16:08:23.559 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.001006
+2018-06-05 16:08:23.597 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.001203
+2018-06-05 16:08:23.632 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000749
+2018-06-05 16:08:23.656 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000099
+2018-06-05 16:08:23.691 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000004
+2018-06-05 16:08:23.724 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000008
+2018-06-05 16:08:23.758 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000091
+2018-06-05 16:08:23.799 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000098
+2018-06-05 16:08:23.833 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000078
+2018-06-05 16:08:23.863 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000275
+2018-06-05 16:08:23.900 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000129
+2018-06-05 16:08:23.938 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000054
+2018-06-05 16:08:23.980 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000102
+2018-06-05 16:08:24.017 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:24.051 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-06-05 16:08:24.088 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000007
+2018-06-05 16:08:24.124 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000005
+2018-06-05 16:08:24.166 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000052
+2018-06-05 16:08:24.201 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000528
+2018-06-05 16:08:24.235 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.001517
+2018-06-05 16:08:24.268 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.001380
+2018-06-05 16:08:24.301 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.006673
+2018-06-05 16:08:24.333 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000292
+2018-06-05 16:08:24.366 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000045
+2018-06-05 16:08:24.396 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000077
+2018-06-05 16:08:24.429 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000108
+2018-06-05 16:08:24.468 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.026506
+2018-06-05 16:08:24.499 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000022
+2018-06-05 16:08:24.535 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000025
+2018-06-05 16:08:24.572 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.001306
+2018-06-05 16:08:24.611 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000025
+2018-06-05 16:08:24.646 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000005
+2018-06-05 16:08:24.685 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000804
+2018-06-05 16:08:24.711 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000148
+2018-06-05 16:08:24.740 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000057
+2018-06-05 16:08:24.765 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000020
+2018-06-05 16:08:24.792 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000009
+2018-06-05 16:08:24.829 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000035
+2018-06-05 16:08:24.859 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000037
+2018-06-05 16:08:24.900 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000114
+2018-06-05 16:08:24.938 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000019
+2018-06-05 16:08:24.970 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000028
+2018-06-05 16:08:25.003 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000151
+2018-06-05 16:08:25.032 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:25.054 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000039
+2018-06-05 16:08:25.099 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000008
+2018-06-05 16:08:25.133 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000004
+2018-06-05 16:08:25.184 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000004
+2018-06-05 16:08:25.222 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000004
+2018-06-05 16:08:25.250 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000002
+2018-06-05 16:08:25.277 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:25.305 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:25.333 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000002
+2018-06-05 16:08:25.364 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:25.398 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000002
+2018-06-05 16:08:25.422 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000004
+2018-06-05 16:08:25.458 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000002
+2018-06-05 16:08:25.492 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000005
+2018-06-05 16:08:25.521 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000004
+2018-06-05 16:08:25.561 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:25.593 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000004
+2018-06-05 16:08:25.627 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000005
+2018-06-05 16:08:25.659 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000004
+2018-06-05 16:08:25.693 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:25.732 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:25.765 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:25.798 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:25.831 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:25.858 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:25.898 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000002
+2018-06-05 16:08:25.936 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000002
+2018-06-05 16:08:25.977 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000004
+2018-06-05 16:08:26.031 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000004
+2018-06-05 16:08:26.064 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:26.097 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000002
+2018-06-05 16:08:26.131 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:26.171 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:26.203 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000002
+2018-06-05 16:08:26.238 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000005
+2018-06-05 16:08:26.269 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000008
+2018-06-05 16:08:26.302 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000002
+2018-06-05 16:08:26.341 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000002
+2018-06-05 16:08:26.377 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:26.409 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000002
+2018-06-05 16:08:26.441 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000004
+2018-06-05 16:08:26.487 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:26.528 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000002
+2018-06-05 16:08:26.564 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000005
+2018-06-05 16:08:26.598 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:26.630 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000004
+2018-06-05 16:08:26.668 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:26.701 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:26.737 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000004
+2018-06-05 16:08:26.762 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:26.784 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:26.818 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:26.851 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:26.883 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:26.917 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:26.959 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:26.994 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000004
+2018-06-05 16:08:27.030 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000003
+2018-06-05 16:08:27.064 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000005
+2018-06-05 16:08:27.097 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000006
+2018-06-05 16:08:27.130 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000008
+2018-06-05 16:08:27.163 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000006
+2018-06-05 16:08:27.197 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000005
+2018-06-05 16:08:27.222 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:27.258 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000004
+2018-06-05 16:08:27.305 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:27.335 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:27.367 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000006
+2018-06-05 16:08:27.400 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:27.429 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000053
+2018-06-05 16:08:27.462 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000044
+2018-06-05 16:08:27.496 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-06-05 16:08:27.531 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000024
+2018-06-05 16:08:27.564 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000024
+2018-06-05 16:08:27.598 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000023
+2018-06-05 16:08:27.634 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000022
+2018-06-05 16:08:27.660 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000023
+2018-06-05 16:08:27.694 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000021
+2018-06-05 16:08:27.718 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000039
+2018-06-05 16:08:27.764 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000270
+2018-06-05 16:08:27.797 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000115
+2018-06-05 16:08:27.823 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000083
+2018-06-05 16:08:27.857 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000044
+2018-06-05 16:08:27.892 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000037
+2018-06-05 16:08:27.930 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000033
+2018-06-05 16:08:27.965 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000032
+2018-06-05 16:08:27.998 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000032
+2018-06-05 16:08:28.029 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000026
+2018-06-05 16:08:28.060 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000030
+2018-06-05 16:08:28.097 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000027
+2018-06-05 16:08:28.131 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:28.164 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:28.197 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-06-05 16:08:28.231 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000035
+2018-06-05 16:08:28.264 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000021
+2018-06-05 16:08:28.297 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000033
+2018-06-05 16:08:28.325 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000031
+2018-06-05 16:08:28.358 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-06-05 16:08:28.397 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000031
+2018-06-05 16:08:28.434 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000022
+2018-06-05 16:08:28.467 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000025
+2018-06-05 16:08:28.503 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000023
+2018-06-05 16:08:28.536 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000020
+2018-06-05 16:08:28.578 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000021
+2018-06-05 16:08:28.607 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000026
+2018-06-05 16:08:28.631 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000025
+2018-06-05 16:08:28.657 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000040
+2018-06-05 16:08:28.697 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000026
+2018-06-05 16:08:28.723 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-06-05 16:08:28.764 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000028
+2018-06-05 16:08:28.802 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-06-05 16:08:28.835 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-06-05 16:08:28.863 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:28.890 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:28.930 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-06-05 16:08:28.958 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-06-05 16:08:28.995 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000021
+2018-06-05 16:08:29.018 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:29.061 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:29.085 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000022
+2018-06-05 16:08:29.118 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000027
+2018-06-05 16:08:29.156 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:29.198 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:29.234 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:29.273 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:29.312 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000026
+2018-06-05 16:08:29.357 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000023
+2018-06-05 16:08:29.385 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000024
+2018-06-05 16:08:29.425 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000032
+2018-06-05 16:08:29.464 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000028
+2018-06-05 16:08:29.506 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000024
+2018-06-05 16:08:29.544 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000019
+2018-06-05 16:08:29.577 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000020
+2018-06-05 16:08:29.607 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:29.637 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:29.669 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-06-05 16:08:29.709 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000021
+2018-06-05 16:08:29.761 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-06-05 16:08:29.804 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:29.847 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:29.885 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-06-05 16:08:29.927 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:29.969 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:30.011 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:30.056 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:30.095 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:30.128 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000009
+2018-06-05 16:08:30.161 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:30.192 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:30.227 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:30.254 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-06-05 16:08:30.297 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:30.334 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:30.371 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:30.409 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:30.444 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:30.477 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000007
+2018-06-05 16:08:30.508 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000006
+2018-06-05 16:08:30.545 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000007
+2018-06-05 16:08:30.577 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000006
+2018-06-05 16:08:30.609 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:30.639 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000009
+2018-06-05 16:08:30.671 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000006
+2018-06-05 16:08:30.701 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000006
+2018-06-05 16:08:30.731 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000006
+2018-06-05 16:08:30.768 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000006
+2018-06-05 16:08:30.799 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000006
+2018-06-05 16:08:30.830 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000008
+2018-06-05 16:08:30.860 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000007
+2018-06-05 16:08:30.893 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:30.919 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:30.960 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:30.994 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000007
+2018-06-05 16:08:31.030 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:31.064 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000031
+2018-06-05 16:08:31.101 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000033
+2018-06-05 16:08:31.139 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000022
+2018-06-05 16:08:31.174 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000020
+2018-06-05 16:08:31.210 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000032
+2018-06-05 16:08:31.244 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000036
+2018-06-05 16:08:31.284 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000027
+2018-06-05 16:08:31.327 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000032
+2018-06-05 16:08:31.364 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000023
+2018-06-05 16:08:31.394 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:31.430 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:31.459 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:31.491 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:31.519 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000008
+2018-06-05 16:08:31.568 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000008
+2018-06-05 16:08:31.619 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:31.660 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:31.695 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-06-05 16:08:31.744 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-06-05 16:08:31.778 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:31.809 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:31.834 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:31.860 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:31.885 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:31.925 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:31.955 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000024
+2018-06-05 16:08:31.982 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:32.019 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:32.051 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-06-05 16:08:32.094 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000025
+2018-06-05 16:08:32.119 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000019
+2018-06-05 16:08:32.158 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000022
+2018-06-05 16:08:32.193 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:32.225 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-06-05 16:08:32.259 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:32.285 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000020
+2018-06-05 16:08:32.327 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:32.360 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:32.390 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:32.431 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:32.477 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:32.519 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:32.562 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000024
+2018-06-05 16:08:32.603 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000008
+2018-06-05 16:08:32.642 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:32.677 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:32.718 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:32.762 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:32.798 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-06-05 16:08:32.836 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:32.879 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:32.920 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:32.963 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:32.998 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:33.031 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:33.064 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-06-05 16:08:33.103 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:33.137 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:33.175 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:33.204 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-06-05 16:08:33.241 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:33.274 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:33.314 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:33.358 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000009
+2018-06-05 16:08:33.407 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:33.446 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:33.480 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000009
+2018-06-05 16:08:33.516 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:33.552 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:33.590 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:33.626 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:33.664 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:33.698 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:33.732 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:33.769 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:33.798 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:33.832 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000009
+2018-06-05 16:08:33.862 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:33.898 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000019
+2018-06-05 16:08:33.931 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-06-05 16:08:33.969 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000019
+2018-06-05 16:08:34.004 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:34.035 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:34.070 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000019
+2018-06-05 16:08:34.105 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:34.145 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000021
+2018-06-05 16:08:34.183 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000039
+2018-06-05 16:08:34.217 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:34.249 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:34.279 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000009
+2018-06-05 16:08:34.323 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:34.351 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:34.398 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000008
+2018-06-05 16:08:34.429 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000007
+2018-06-05 16:08:34.472 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:34.508 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:34.549 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:34.598 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:34.637 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000024
+2018-06-05 16:08:34.677 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000042
+2018-06-05 16:08:34.719 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000034
+2018-06-05 16:08:34.762 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-06-05 16:08:34.806 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:34.831 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:34.860 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:34.884 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:34.918 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-06-05 16:08:34.949 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:34.978 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:35.011 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:35.045 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:35.083 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:35.124 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:35.148 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:35.190 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:35.226 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:35.267 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:35.298 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:35.330 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:35.358 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:35.394 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:35.424 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:35.452 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:35.484 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:35.524 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:35.551 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:35.590 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:35.627 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:35.668 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000009
+2018-06-05 16:08:35.705 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000009
+2018-06-05 16:08:35.746 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000008
+2018-06-05 16:08:35.798 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000008
+2018-06-05 16:08:35.841 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000008
+2018-06-05 16:08:35.885 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000008
+2018-06-05 16:08:35.929 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:35.970 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:36.012 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:36.049 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:36.090 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:36.129 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000009
+2018-06-05 16:08:36.169 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000009
+2018-06-05 16:08:36.206 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000008
+2018-06-05 16:08:36.246 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000009
+2018-06-05 16:08:36.278 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:36.315 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000020
+2018-06-05 16:08:36.347 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:36.396 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000009
+2018-06-05 16:08:36.431 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:36.465 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000009
+2018-06-05 16:08:36.498 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:36.531 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:36.572 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:36.605 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:36.642 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:36.688 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:36.717 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:36.765 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:36.798 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000009
+2018-06-05 16:08:36.829 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:36.865 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:36.903 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:36.942 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000009
+2018-06-05 16:08:36.990 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:37.025 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:37.061 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-06-05 16:08:37.100 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:37.136 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000007
+2018-06-05 16:08:37.182 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:37.229 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:37.267 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000008
+2018-06-05 16:08:37.304 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000008
+2018-06-05 16:08:37.343 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:37.391 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:37.429 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000009
+2018-06-05 16:08:37.465 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000009
+2018-06-05 16:08:37.501 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:37.535 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:37.571 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:37.607 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000009
+2018-06-05 16:08:37.644 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:37.679 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:37.714 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:37.754 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:37.791 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:37.826 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:37.861 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:37.896 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:37.932 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:37.967 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:38.003 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:38.036 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:38.068 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:38.104 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:38.141 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:38.179 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:38.216 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:38.254 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:38.295 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:38.332 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-06-05 16:08:38.366 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:38.399 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:38.444 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-06-05 16:08:38.490 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:38.520 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:38.559 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:38.588 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:38.615 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:38.658 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:38.680 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-06-05 16:08:38.721 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:38.760 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:38.796 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-06-05 16:08:38.838 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000022
+2018-06-05 16:08:38.877 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000020
+2018-06-05 16:08:38.920 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:38.957 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:38.999 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-06-05 16:08:39.033 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-06-05 16:08:39.073 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000019
+2018-06-05 16:08:39.111 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000021
+2018-06-05 16:08:39.149 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:39.192 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:39.228 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-06-05 16:08:39.270 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-06-05 16:08:39.310 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:39.353 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:39.396 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:39.432 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:39.471 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:39.510 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-06-05 16:08:39.555 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:39.599 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-06-05 16:08:39.635 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:39.677 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000019
+2018-06-05 16:08:39.720 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:39.759 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:39.796 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-06-05 16:08:39.838 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:39.877 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:39.932 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:39.966 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-06-05 16:08:40.007 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-06-05 16:08:40.045 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:40.088 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000020
+2018-06-05 16:08:40.124 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-06-05 16:08:40.162 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:40.202 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:40.239 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:40.272 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:40.311 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-06-05 16:08:40.346 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:40.393 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:40.436 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:40.468 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:40.507 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:40.546 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:40.592 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:40.632 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:40.668 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:40.699 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000008
+2018-06-05 16:08:40.736 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:40.772 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:40.808 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:40.846 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000010
+2018-06-05 16:08:40.890 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:40.932 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000008
+2018-06-05 16:08:40.972 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:41.005 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000009
+2018-06-05 16:08:41.036 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000008
+2018-06-05 16:08:41.064 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:41.099 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-06-05 16:08:41.136 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:41.175 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:41.209 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:41.245 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:41.286 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:41.325 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:41.361 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:41.401 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:41.440 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-06-05 16:08:41.479 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-06-05 16:08:41.510 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000021
+2018-06-05 16:08:41.558 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:41.586 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:41.625 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:41.661 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:41.698 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:41.735 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:41.772 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:41.806 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:41.839 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-06-05 16:08:41.873 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:41.909 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:41.943 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:41.986 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:42.017 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:42.046 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:42.076 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:42.113 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:42.148 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:42.191 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:42.224 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000019
+2018-06-05 16:08:42.248 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:42.273 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:42.307 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-06-05 16:08:42.345 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-06-05 16:08:42.382 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-06-05 16:08:42.414 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:42.451 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-06-05 16:08:42.477 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:42.512 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-06-05 16:08:42.552 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000019
+2018-06-05 16:08:42.598 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:42.636 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:42.674 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:42.712 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000019
+2018-06-05 16:08:42.747 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:42.790 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:42.824 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:42.862 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-06-05 16:08:42.898 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-06-05 16:08:42.936 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:42.970 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:43.009 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:43.040 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:43.072 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:43.109 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000020
+2018-06-05 16:08:43.146 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:43.183 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:43.217 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:43.247 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:43.287 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:43.325 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:43.364 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:43.405 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000011
+2018-06-05 16:08:43.441 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:43.478 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:43.515 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-06-05 16:08:43.547 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:43.594 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-06-05 16:08:43.631 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:43.670 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-06-05 16:08:43.698 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:43.725 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-06-05 16:08:43.750 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-06-05 16:08:43.776 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000014
+2018-06-05 16:08:43.814 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000019
+2018-06-05 16:08:43.849 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-06-05 16:08:43.874 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:43.908 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000021
+2018-06-05 16:08:43.939 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000021
+2018-06-05 16:08:43.975 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-06-05 16:08:44.011 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-06-05 16:08:44.037 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000017
+2018-06-05 16:08:44.074 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000024
+2018-06-05 16:08:44.108 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000024
+2018-06-05 16:08:44.121 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-06-05 16:08:44.121 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 9
+2018-06-05 16:08:44.133 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 16:08:44.133 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 16:08:44.175 | I | -[CameraUIView displayPreInstruction:] | [line:186] | [MESSAGE] show pre instruction animation
+2018-06-05 16:08:44.178 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-06-05 16:08:44.178 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 9
+2018-06-05 16:08:44.187 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 16:08:44.187 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 16:08:44.218 | I | -[CameraUIView displayPreInstruction:] | [line:186] | [MESSAGE] show pre instruction animation
+2018-06-05 16:08:44.221 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-06-05 16:08:44.221 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 9
+2018-06-05 16:08:44.256 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 16:08:44.256 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 16:08:44.286 | I | -[CameraUIView displayPreInstruction:] | [line:186] | [MESSAGE] show pre instruction animation
+2018-06-05 16:08:44.293 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-06-05 16:08:44.293 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 2
+2018-06-05 16:08:44.868 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 16:08:44.868 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 16:08:44.901 | I | -[FlexibleVideoPlayerController videoPlayingComplete:] | [line:193] | [MESSAGE] flex video videoPlayingComplete
+2018-06-05 16:08:45.014 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-06-05 16:08:45.158 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 16:08:45.179 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 16:08:45.222 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 16:08:45.294 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 16:08:45.388 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 10
+2018-06-05 16:08:45.837 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 16:08:45.880 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-06-05 16:08:45.966 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-06-05 16:08:45.966 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-06-05 16:08:46.016 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 16:08:46.063 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-06-05 16:08:46.144 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-06-05 16:08:46.147 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-06-05 16:08:46.208 | I | -[CameraUIView displayError:] | [line:287] | [MESSAGE] show error animation; error type 18
+2018-06-05 16:08:51.351 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 16:08:51.606 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-06-05 16:08:51.703 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step pill_in_mouth frame passed. 0.885331, threadhold: 0.800000. Passed frame count: 1
+2018-06-05 16:08:51.733 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-06-05 16:08:51.734 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-06-05 16:08:51.776 | I | -[CameraUIView displayError:] | [line:287] | [MESSAGE] show error animation; error type 18
+2018-06-05 16:08:51.866 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step pill_in_mouth frame passed. 0.842618, threadhold: 0.800000. Passed frame count: 2
+2018-06-05 16:08:51.867 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.02003050781786442 0.842618465423584 0.1322517842054367 0.00509924441576004
+2018-06-05 16:08:51.891 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-06-05 16:08:51.974 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.02663920074701309 0.6944541335105896 0.2678666710853577 0.01103999372571707
+2018-06-05 16:08:51.978 | I | -[CameraUIView displayConfirm] | [line:330] | [MESSAGE] show step confirm animation
+2018-06-05 16:08:51.978 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-06-05 16:08:52.121 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.1108411476016045 0.6504271626472473 0.2326825559139252 0.006049011368304491
+2018-06-05 16:08:52.207 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.1005987003445625 0.8116182088851929 0.08214637637138367 0.005636726506054401
+2018-06-05 16:08:52.290 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.03003075905144215 0.8547893762588501 0.1057946085929871 0.009385221637785435
+2018-06-05 16:08:52.380 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.1866462081670761 0.7463549375534058 0.06280932575464249 0.004189511761069298
+2018-06-05 16:08:52.469 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.043742336332798 0.9038259983062744 0.04365698993206024 0.008774686604738235
+2018-06-05 16:08:52.554 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.05905504152178764 0.8810431957244873 0.05181141942739487 0.008090389892458916
+2018-06-05 16:08:52.653 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.05062693729996681 0.4745796322822571 0.4718069732189178 0.002986403647810221
+2018-06-05 16:08:52.759 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.001176524092443287 0.000543407048098743 0.994084358215332 0.00419565150514245
+2018-06-05 16:08:52.865 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.9597482085227966 0.01326887402683496 0.02155855298042297 0.005424304399639368
+2018-06-05 16:08:53.209 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.8054657578468323 0.02546535432338715 0.1646823137998581 0.004386493004858494
+2018-06-05 16:08:53.286 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.9532928466796875 0.004333465825766325 0.04157910868525505 0.0007945959223434329
+2018-06-05 16:08:54.152 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-06-05 16:08:54.168 | I | -[FlexibleVideoPlayerController playTutorialVideoOnView:step:] | [line:178] | [MESSAGE] playTutorialVideo full_version_empty_mouth_order_0_numpill_0_total_0
+2018-06-05 16:09:14.839 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-06-05 16:09:14.839 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 9
+2018-06-05 16:09:14.847 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 16:09:14.847 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 16:09:14.880 | I | -[CameraUIView displayPreInstruction:] | [line:186] | [MESSAGE] show pre instruction animation
+2018-06-05 16:09:14.884 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-06-05 16:09:14.884 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 9
+2018-06-05 16:09:14.893 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 16:09:14.893 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 16:09:14.924 | I | -[CameraUIView displayPreInstruction:] | [line:186] | [MESSAGE] show pre instruction animation
+2018-06-05 16:09:14.927 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-06-05 16:09:14.927 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 9
+2018-06-05 16:09:14.940 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 16:09:14.941 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 16:09:14.981 | I | -[CameraUIView displayPreInstruction:] | [line:186] | [MESSAGE] show pre instruction animation
+2018-06-05 16:09:14.994 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-06-05 16:09:14.994 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 3
+2018-06-05 16:09:15.566 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 16:09:15.566 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 16:09:15.595 | I | -[FlexibleVideoPlayerController videoPlayingComplete:] | [line:193] | [MESSAGE] flex video videoPlayingComplete
+2018-06-05 16:09:15.850 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 16:09:15.885 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 16:09:15.928 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 16:09:15.995 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 16:09:16.078 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 10
+2018-06-05 16:09:16.649 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 16:09:16.698 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-06-05 16:09:16.778 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-06-05 16:09:16.778 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-06-05 16:09:16.821 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 16:09:16.870 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-06-05 16:09:16.956 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-06-05 16:09:16.956 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-06-05 16:09:17.013 | I | -[CameraUIView displayError:] | [line:287] | [MESSAGE] show error animation; error type 18
+2018-06-05 16:09:26.830 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 16:09:26.931 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-06-05 16:09:27.085 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-06-05 16:09:27.085 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-06-05 16:09:27.124 | I | -[CameraUIView displayError:] | [line:287] | [MESSAGE] show error animation; error type 18
+2018-06-05 16:09:27.218 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step empty_mouth frame passed. 0.809513, threadhold: 0.650000. Passed frame count: 1
+2018-06-05 16:09:27.314 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step empty_mouth frame passed. 0.988742, threadhold: 0.650000. Passed frame count: 2
+2018-06-05 16:09:27.314 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.000487336510559544 0.0004988934379070997 0.988742470741272 0.01027132850140333
+2018-06-05 16:09:27.415 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.0001563124533277005 0.000116616181912832 0.9961196184158325 0.003607509657740593
+2018-06-05 16:09:27.432 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-06-05 16:09:27.526 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.0001563621481182054 7.075376925058663e-05 0.9983839988708496 0.001388884847983718
+2018-06-05 16:09:27.526 | I | -[CameraUIView displayConfirm] | [line:330] | [MESSAGE] show step confirm animation
+2018-06-05 16:09:27.526 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-06-05 16:09:27.681 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.0004091587325092405 4.515050386544317e-05 0.9983983039855957 0.001147513627074659
+2018-06-05 16:09:27.786 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 6.128467794042081e-05 3.519282108754851e-05 0.999238133430481 0.0006653378950431943
+2018-06-05 16:09:27.897 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.0001008672043099068 7.336489943554625e-05 0.9994661211967468 0.0003597067261580378
+2018-06-05 16:09:27.996 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.0001428552059223875 0.0002512089267838746 0.9978859424591064 0.001720057683996856
+2018-06-05 16:09:28.097 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.001445965026505291 0.0005085738375782967 0.992301344871521 0.005744089838117361
+2018-06-05 16:09:28.205 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.000387123174732551 0.0001301775191677734 0.9967532157897949 0.002729483414441347
+2018-06-05 16:09:28.310 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.0009084512130357325 6.510483945021406e-05 0.97411048412323 0.02491597458720207
+2018-06-05 16:09:29.702 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-06-05 16:09:29.717 | I | -[FlexibleVideoPlayerController playTutorialVideoOnView:step:] | [line:178] | [MESSAGE] playTutorialVideo full_version_pill_not_under_the_tongue_order_0_numpill_0_total_0
+2018-06-05 16:09:48.550 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-06-05 16:09:48.550 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 9
+2018-06-05 16:09:48.579 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 16:09:48.580 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 16:09:48.635 | I | -[CameraUIView displayPreInstruction:] | [line:186] | [MESSAGE] show pre instruction animation
+2018-06-05 16:09:48.638 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-06-05 16:09:48.638 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 9
+2018-06-05 16:09:48.650 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 16:09:48.650 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 16:09:48.685 | I | -[CameraUIView displayPreInstruction:] | [line:186] | [MESSAGE] show pre instruction animation
+2018-06-05 16:09:48.688 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-06-05 16:09:48.689 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 9
+2018-06-05 16:09:48.704 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 16:09:48.704 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 16:09:48.740 | I | -[CameraUIView displayPreInstruction:] | [line:186] | [MESSAGE] show pre instruction animation
+2018-06-05 16:09:48.745 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-06-05 16:09:48.745 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 9
+2018-06-05 16:09:49.405 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 16:09:49.405 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 16:09:49.444 | I | -[CameraUIView displayPreInstruction:] | [line:186] | [MESSAGE] show pre instruction animation
+2018-06-05 16:09:49.445 | I | -[FlexibleVideoPlayerController videoPlayingComplete:] | [line:193] | [MESSAGE] flex video videoPlayingComplete
+2018-06-05 16:09:49.773 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 16:09:49.793 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 16:09:49.794 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 16:09:49.870 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 10
+2018-06-05 16:09:50.230 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 16:09:50.263 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-06-05 16:09:50.345 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-06-05 16:09:50.346 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-06-05 16:09:50.443 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 16:09:50.446 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 16:09:50.560 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 10
+2018-06-05 16:09:51.554 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 16:09:52.833 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-06-05 16:09:52.997 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-06-05 16:09:52.997 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-06-05 16:09:53.046 | I | -[CameraUIView displayError:] | [line:287] | [MESSAGE] show error animation; error type 18
+2018-06-05 16:09:54.791 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 16:10:01.942 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step pill_not_under_the_tongue frame passed. 0.997656, threadhold: 0.650000. Passed frame count: 1
+2018-06-05 16:10:01.942 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.0005942992866039276 9.42015594773693e-06 0.001739933155477047 0.9976564049720764
+2018-06-05 16:10:01.969 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-06-05 16:10:02.058 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.0008216440910473466 1.665764466451947e-05 0.05118199437856674 0.9479796886444092
+2018-06-05 16:10:02.058 | I | -[CameraUIView displayConfirm] | [line:330] | [MESSAGE] show step confirm animation
+2018-06-05 16:10:02.059 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-06-05 16:10:02.178 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 2.701735502341762e-05 3.599714091251371e-06 0.05271479114890099 0.9472545981407166
+2018-06-05 16:10:02.274 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.001957175089046359 3.921664392692037e-05 0.1119863539934158 0.8860173225402832
+2018-06-05 16:10:02.364 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.001969759585335851 3.900897718267515e-05 0.204883798956871 0.7931073904037476
+2018-06-05 16:10:02.458 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.0002668306115083396 1.470483857701765e-05 0.1123734414577484 0.8873450756072998
+2018-06-05 16:10:02.557 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.0001984011760214344 6.014647624397185e-06 0.04355991259217262 0.9562356472015381
+2018-06-05 16:10:02.648 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.00149694993160665 2.806780139508191e-05 0.1730239242315292 0.8254510164260864
+2018-06-05 16:10:02.738 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.0003909858351107687 1.613790846022312e-05 0.163378894329071 0.836214005947113
+2018-06-05 16:10:02.831 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.0008018204825930297 1.687033363850787e-05 0.220162034034729 0.7790192365646362
+2018-06-05 16:10:02.938 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.0009493451216258109 0.001071555190719664 0.3590867817401886 0.6388923525810242
+2018-06-05 16:10:03.057 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.01034343242645264 0.04693684726953506 0.9374728202819824 0.005246918182820082
+2018-06-05 16:10:04.230 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-06-05 16:10:04.256 | I | -[StepsController currentPillAllDone] | [line:651] | [MESSAGE] currentPillAllDone username C93F7AC8-0166-4BD1-8588-D0B4C3AA2021, pill id 0, dose id 0
+2018-06-05 16:10:04.356 | I | -[AiViewDaily handleAllStepsDone] | [line:192] | [MESSAGE] handle All Steps Done
+2018-06-05 16:10:04.376 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-06-05 16:10:04.402 | I | -[CameraEngine pauseCapture] | [line:231] | [MESSAGE] Pausing capture
+2018-06-05 16:10:04.403 | I | -[AiViewDaily viewWillDisappear:] | [line:145] | [MESSAGE] view will disappear
+2018-06-05 16:10:04.509 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-06-05 16:10:04.987 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-06-05 16:10:05.467 | I | -[AiView goToNextPill] | [line:244] | [MESSAGE] all medication done, no more next medication........
+2018-06-05 16:10:05.522 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 0
+2018-06-05 16:10:05.522 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 0
+2018-06-05 16:10:05.645 | I | -[TransmitionViewController viewDidLoad] | [line:73] | [MESSAGE] view did load
+2018-06-05 16:10:06.712 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:261] | [MESSAGE] [DNN] Downloading neural network config succeeded.
+2018-06-05 16:10:06.733 | E | sendUnsentQuestionnaires() | [line:485] | [MESSAGE] [Questionnaire] Send unsent questionnaire failed. Error Domain=NSCocoaErrorDomain Code=260 "The file “event” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///var/mobile/Containers/Data/Application/263DF61B-42A2-4179-97CD-5BD0FF575BF3/Documents/event, NSFilePath=/var/mobile/Containers/Data/Application/263DF61B-42A2-4179-97CD-5BD0FF575BF3/Documents/event, NSUnderlyingError=0x12bc3d430 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+2018-06-05 16:10:06.945 | I | saveQuestionnaireIDsToFile(trialID:) | [line:193] | [MESSAGE] [Questionnaire] Save questionnaire IDs succeeded. Filename: questionnaireIDs_client100prod_1525443315.

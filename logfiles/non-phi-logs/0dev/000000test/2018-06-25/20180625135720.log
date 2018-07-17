@@ -1,0 +1,35 @@
+1529949443039,2018.06.25 13:57:23.039,ERROR,aiview_android,BackendServiceTask.logAndFailWithServiceException  (BackendServiceTask.java:166),Caught an AmazonServiceException, which means your request made it to Amazon S3, but was rejected with an error response for some reason.
+1529949443040,2018.06.25 13:57:23.040,ERROR,aiview_android,BackendServiceTask.logAndFailWithServiceException  (BackendServiceTask.java:170),Error Message:    Access Denied (Service: Amazon S3; Status Code: 403; Error Code: AccessDenied; Request ID: ADBEFA2D5790CCF0)
+1529949443040,2018.06.25 13:57:23.040,ERROR,aiview_android,BackendServiceTask.logAndFailWithServiceException  (BackendServiceTask.java:171),HTTP Status Code: 403
+1529949443041,2018.06.25 13:57:23.041,ERROR,aiview_android,BackendServiceTask.logAndFailWithServiceException  (BackendServiceTask.java:172),HTTP error Code: AccessDenied
+1529949443041,2018.06.25 13:57:23.041,ERROR,aiview_android,BackendServiceTask.logAndFailWithServiceException  (BackendServiceTask.java:173),Error Type:       Client
+1529949443042,2018.06.25 13:57:23.042,ERROR,aiview_android,BackendServiceTask.logAndFailWithServiceException  (BackendServiceTask.java:174),Request ID:       ADBEFA2D5790CCF0
+1529949443043,2018.06.25 13:57:23.043,ERROR,aiview_android,AbstractBoltsAsyncTask.taskFailsWithException  (AbstractBoltsAsyncTask.java:51),Task {downloadConfigTask} fails with exception -- Access Denied (Service: Amazon S3; Status Code: 403; Error Code: AccessDenied; Request ID: ADBEFA2D5790CCF0)
+1529949443056,2018.06.25 13:57:23.056,ERROR,aiview_android,AppUtil$7.onBoltsAsyncTaskFailure  (AppUtil.java:1002),ConfigModelDownloadTask failed
+1529949443060,2018.06.25 13:57:23.060,DEBUG,aiview_android,SendLogsToS3Task.lambda$buildTasksChain$0$SendLogsToS3Task  (SendLogsToS3Task.java:104),upload completed for file: 20180717165213.log.zip
+1529949443194,2018.06.25 13:57:23.194,DEBUG,aiview_android,SendLogsToS3Task.lambda$buildTasksChain$0$SendLogsToS3Task  (SendLogsToS3Task.java:104),upload completed for file: 20180625135720.log.zip
+1529949443300,2018.06.25 13:57:23.300,DEBUG,aiview_android,SendLogsToS3Task.lambda$buildTasksChain$0$SendLogsToS3Task  (SendLogsToS3Task.java:104),upload completed for file: 20180717165050.log.zip
+1529949455342,2018.06.25 13:57:35.342,DEBUG,aiview_android,AiviewFragment.initialize  (AiviewFragment.java:171),Playing tutorial -- true
+1529949455343,2018.06.25 13:57:35.343,DEBUG,aiview_android,AiviewFragment.initialize  (AiviewFragment.java:172),Steps ---[0, 1, 2, 3, 9]
+1529949457135,2018.06.25 13:57:37.135,DEBUG,aiview_android,Camera2Fragment.startCamera  (Camera2Fragment.java:845),Should record video -- true
+1529949457135,2018.06.25 13:57:37.135,DEBUG,aiview_android,Camera2Fragment.startCamera  (Camera2Fragment.java:847),Video is recorded in --- /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/temp_record/NAME=0_tak-831_0_2018-06-25SUFFIX=0.aac
+1529949457139,2018.06.25 13:57:37.139,INFO,aiview_android,Camera2Fragment.startBackgroundThread  (Camera2Fragment.java:339),Starting background thread.
+1529949457187,2018.06.25 13:57:37.187,INFO,aiview_android,Camera2Fragment.openCamera  (Camera2Fragment.java:393),Openning the camera.
+1529949457222,2018.06.25 13:57:37.222,INFO,aiview_android,Camera2Fragment.openCamera  (Camera2Fragment.java:427),Camera should record video -- true
+1529949457361,2018.06.25 13:57:37.361,INFO,aiview_android,Camera2Fragment$2.onOpened  (Camera2Fragment.java:209),Camera is successfully opened.
+1529949457431,2018.06.25 13:57:37.431,INFO,aiview_android,StepsController.defineCurrentStep  (StepsController.java:582),Entering FACE_ID step.
+1529949457990,2018.06.25 13:57:37.990,INFO,aiview_android,InCameraViewControllerV3.displayNormal  (InCameraViewControllerV3.java:253),display normal step :0 inCameraView true view android.widget.RelativeLayout{d464080 G.E...... ......I. 0,0-0,0 #7f090282 app:id/silhouette_layout}
+1529949460558,2018.06.25 13:57:40.558,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:45),Audio playing flag -- true
+1529949460559,2018.06.25 13:57:40.559,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:46),Questionnaire in progress  -- false
+1529949460560,2018.06.25 13:57:40.560,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1529949460560,2018.06.25 13:57:40.560,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:60),play audio: voice/confirm.mp3
+1529949463194,2018.06.25 13:57:43.194,INFO,aiview_android,StepsController$6.onComplete  (StepsController.java:1038),Current step completes.
+1529949463222,2018.06.25 13:57:43.222,INFO,aiview_android,StepsController.defineCurrentStep  (StepsController.java:604),Entering PILL_ID step.
+1529949463229,2018.06.25 13:57:43.229,ERROR,aiview_android,DNNConfigManager.updateMedication  (DNNConfigManager.java:77),config for DNN is null
+1529949466397,2018.06.25 13:57:46.397,INFO,aiview_android,Camera2Fragment.stopCamera  (Camera2Fragment.java:873),Stopping camera.
+1529949466547,2018.06.25 13:57:46.547,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1529949466552,2018.06.25 13:57:46.552,INFO,aiview_android,Camera2Fragment.closeCamera  (Camera2Fragment.java:447),Closing the camera.
+1529949466568,2018.06.25 13:57:46.568,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1529949466601,2018.06.25 13:57:46.601,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1529949466628,2018.06.25 13:57:46.628,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1529949467044,2018.06.25 13:57:47.044,INFO,aiview_android,InCameraViewControllerV3.cleanMemory  (InCameraViewControllerV3.java:430),Clear all camera views including animations and instructions.

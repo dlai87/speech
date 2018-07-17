@@ -1,0 +1,30 @@
+2018-06-05 16:14:20.752 | I | -[AppDelegate cleanAlertDialog] | [line:369] | [MESSAGE] clean Alert Dialog
+2018-06-05 16:14:23.529 | I | -[AppDelegate applicationWillEnterForeground:] | [line:227] | [MESSAGE] application will enter foreground
+2018-06-05 16:14:23.529 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID client100prod_1525443315
+2018-06-05 16:14:23.530 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name 100prod
+2018-06-05 16:14:23.531 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone7,1
+2018-06-05 16:14:23.531 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone 6 PLUS
+2018-06-05 16:14:23.532 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 11.3.1
+2018-06-05 16:14:23.532 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.3
+2018-06-05 16:14:23.532 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language en-US
+2018-06-05 16:14:23.535 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID C93F7AC8-0166-4BD1-8588-D0B4C3AA2021
+2018-06-05 16:14:23.536 | I | -[AppDelegate logMataData] | [line:173] | [MESSAGE] Patient ID 000000z011
+2018-06-05 16:14:23.537 | I | +[AIUtil hasInternetConnection] | [line:683] | [MESSAGE] has internet connnection = 1
+2018-06-05 16:14:24.155 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-06-05 16:14:24.156 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-06-05 16:14:24.483 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-06-05 16:14:24.720 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-06-05 16:14:25.604 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 0
+2018-06-05 16:14:25.604 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 0
+2018-06-05 16:14:25.699 | I | -[MedicationConfirmVC viewDidLoad] | [line:45] | [MESSAGE] MedicationConfirmVC view did load
+2018-06-05 16:14:26.447 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName conclusion_11
+2018-06-05 16:14:26.447 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name conclusion_11
+2018-06-05 16:14:26.635 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:261] | [MESSAGE] [DNN] Downloading neural network config succeeded.
+2018-06-05 16:14:26.687 | E | sendUnsentQuestionnaires() | [line:485] | [MESSAGE] [Questionnaire] Send unsent questionnaire failed. Error Domain=NSCocoaErrorDomain Code=260 "The file “event” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///var/mobile/Containers/Data/Application/263DF61B-42A2-4179-97CD-5BD0FF575BF3/Documents/event, NSFilePath=/var/mobile/Containers/Data/Application/263DF61B-42A2-4179-97CD-5BD0FF575BF3/Documents/event, NSUnderlyingError=0x12c3c5b50 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+2018-06-05 16:14:26.832 | I | saveQuestionnaireIDsToFile(trialID:) | [line:193] | [MESSAGE] [Questionnaire] Save questionnaire IDs succeeded. Filename: questionnaireIDs_client100prod_1525443315.
+2018-06-05 16:14:26.832 | I | getQuestionnaireIDs(trialID:) | [line:88] | [MESSAGE] [API Gateway] Getting questionnaire IDs succeeded. TrialID: client100prod_1525443315. Questionnaire IDs: ["client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197", "client100prod_1525443315-1527710676533-4f646284-ab1d-46f5-b721-759eb008008c", "client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3", "client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4", "client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6", "client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf", "client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede"]
+2018-06-05 16:14:26.911 | I | getPatientSchdule() | [line:54] | [MESSAGE] [API Gateway] Getting action schedules success.
+2018-06-05 16:14:26.940 | I | saveActionSchedulesToFile(actionSchedules:) | [line:98] | [MESSAGE] [Action Schedules] Saving action schedules succeeded. Filename: action_schedules.
+2018-06-05 16:14:26.972 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197. Name: VST Day 7.
+2018-06-05 16:14:27.051 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197.
+2018-06-05 16:14:27.101 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf. Name: CDX Training Set.

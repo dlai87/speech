@@ -1,0 +1,221 @@
+2018-05-23 17:33:26.153 | I | -[AppDelegate application:didFinishLaunchingWithOptions:] | [line:186] | [MESSAGE] application Did Finish Launching
+2018-05-23 17:33:26.186 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID (null)
+2018-05-23 17:33:26.186 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name pro
+2018-05-23 17:33:26.187 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone10,6
+2018-05-23 17:33:26.187 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone X
+2018-05-23 17:33:26.187 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 11.3.1
+2018-05-23 17:33:26.187 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.3
+2018-05-23 17:33:26.187 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language en-US
+2018-05-23 17:33:26.189 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID C04C627B-BD6E-4B4A-9104-83D7305475CA
+2018-05-23 17:33:26.190 | I | -[AppDelegate logMataData] | [line:173] | [MESSAGE] Patient ID (null)
+2018-05-23 17:33:26.191 | I | +[AIUtil hasInternetConnection] | [line:683] | [MESSAGE] has internet connnection = 1
+2018-05-23 17:33:26.382 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-23 17:33:26.855 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-23 17:33:26.892 | I | +[AIUtil checkPermission] | [line:1129] | [MESSAGE] camera access / mic access Not Determined
+2018-05-23 17:33:26.944 | I | -[LoginVC viewDidLoad] | [line:72] | [MESSAGE] LoginVC view did load
+2018-05-23 17:33:26.945 | I | +[AIUtil checkWifiConnection] | [line:705] | [MESSAGE] check wifi connection = CONNECT_WIFI
+2018-05-23 17:33:35.269 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-23 17:33:35.735 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-23 17:33:59.638 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-23 17:34:00.555 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:437] | [MESSAGE] Succeded to get APNS token data: <fc909559 2d16c91c 2262818a c9b3ae65 e4b8de0d 11cc2661 e33de189 ffe43564>
+2018-05-23 17:34:00.555 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:443] | [MESSAGE] deviceToken:  fc9095592d16c91c2262818ac9b3ae65e4b8de0d11cc2661e33de189ffe43564
+2018-05-23 17:34:44.748 | I | -[RelinkAction relinkWithUsername:code:] | [line:92] | [MESSAGE] relinkWithUsername C04C627B-BD6E-4B4A-9104-83D7305475CA url /backend/backend
+2018-05-23 17:34:45.188 | I | -[RelinkAction update:task_name:] | [line:152] | [MESSAGE] relink transmission task_name routing, result 9999
+2018-05-23 17:34:45.937 | I | -[RelinkAction update:task_name:] | [line:152] | [MESSAGE] relink transmission task_name Relink, result 9999
+2018-05-23 17:34:46.065 | I | -[RelinkAction update:task_name:] | [line:152] | [MESSAGE] relink transmission task_name kiosk_dose_check, result 9999
+2018-05-23 17:34:46.201 | I | -[TransmissionProtocol update:task_name:] | [line:65] | [MESSAGE] trial_setup 9999
+2018-05-23 17:34:46.360 | I | -[TransmissionProtocol update:task_name:] | [line:65] | [MESSAGE] trial_setup_serialized 9999
+2018-05-23 17:34:46.621 | I | -[TransmissionProtocol update:task_name:] | [line:65] | [MESSAGE] dose_protocol_sync 9999
+2018-05-23 17:34:49.240 | E | loadUnsentQuestionnaires() | [line:463] | [MESSAGE] [Questionnaire] Load unsent questionnaire failed. Error Domain=NSCocoaErrorDomain Code=260 "The file “event” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///var/mobile/Containers/Data/Application/EC0090B0-929B-48D8-9FC3-F5758282F5B2/Documents/event, NSFilePath=/var/mobile/Containers/Data/Application/EC0090B0-929B-48D8-9FC3-F5758282F5B2/Documents/event, NSUnderlyingError=0x1d025b150 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+2018-05-23 17:34:49.242 | E | sendUnsentQuestionnaires() | [line:485] | [MESSAGE] [Questionnaire] Send unsent questionnaire failed. Error Domain=NSCocoaErrorDomain Code=260 "The file “event” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///var/mobile/Containers/Data/Application/EC0090B0-929B-48D8-9FC3-F5758282F5B2/Documents/event, NSFilePath=/var/mobile/Containers/Data/Application/EC0090B0-929B-48D8-9FC3-F5758282F5B2/Documents/event, NSUnderlyingError=0x1d025b930 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+2018-05-23 17:34:49.420 | I | saveQuestionnaireIDsToFile(trialID:) | [line:193] | [MESSAGE] [Questionnaire] Save questionnaire IDs succeeded. Filename: questionnaireIDs_client100prod_1525443315.
+2018-05-23 17:34:49.421 | I | getQuestionnaireIDs(trialID:) | [line:88] | [MESSAGE] [API Gateway] Getting questionnaire IDs succeeded. TrialID: client100prod_1525443315. Questionnaire IDs: ["client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b", "client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197", "client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3", "client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4", "client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6", "client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf", "client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede"]
+2018-05-23 17:34:49.462 | I | getPatientSchdule() | [line:54] | [MESSAGE] [API Gateway] Getting action schedules success.
+2018-05-23 17:34:49.473 | I | saveActionSchedulesToFile(actionSchedules:) | [line:98] | [MESSAGE] [Action Schedules] Saving action schedules succeeded. Filename: action_schedules.
+2018-05-23 17:34:49.525 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede. Name: delete.
+2018-05-23 17:34:49.525 | I | getQuestionnaire(questionnaireID:) | [line:136] | [MESSAGE] [API Gateway] Questionnaire is neither active nor daily_dose mode. Skip it. Questionnaire ID: Questionnaire ID: client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede. Name: delete
+2018-05-23 17:34:49.566 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf. Name: CDX Training Set.
+2018-05-23 17:34:49.586 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf.
+2018-05-23 17:34:49.591 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6. Name: Ecological Momentary Assessment.
+2018-05-23 17:34:49.596 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6.
+2018-05-23 17:34:49.601 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b. Name: Facial Expression Exercise.
+2018-05-23 17:34:49.607 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b.
+2018-05-23 17:34:49.614 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197. Name: VST Day 7.
+2018-05-23 17:34:49.622 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197.
+2018-05-23 17:34:49.752 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4. Name: VST and ANSA Day 1.
+2018-05-23 17:34:49.776 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4.
+2018-05-23 17:34:49.793 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3. Name: VST and ANSA Day 14.
+2018-05-23 17:34:49.812 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3.
+2018-05-23 17:34:50.849 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:261] | [MESSAGE] [DNN] Downloading neural network config succeeded.
+2018-05-23 17:34:52.604 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:266] | [MESSAGE] [DNN] Downloading neural network model succeeded. Filename: pih-generic-20180508.mlmodel.
+2018-05-23 17:34:52.756 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:266] | [MESSAGE] [DNN] Downloading neural network model succeeded. Filename: MC_MN05_resplit.mlmodel.
+2018-05-23 17:34:52.759 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:272] | [MESSAGE] [DNN] Model is updated on 2018-05-23 17:34:52
+2018-05-23 17:34:52.765 | I | -[LoginVC handleRelinkSuccess] | [line:334] | [MESSAGE] relink success
+2018-05-23 17:34:52.909 | I | -[TransmissionProtocol update:task_name:] | [line:65] | [MESSAGE] push_token_registration 9999
+2018-05-23 17:34:56.022 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-23 17:34:56.023 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-05-23 17:34:56.076 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-23 17:34:56.924 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:261] | [MESSAGE] [DNN] Downloading neural network config succeeded.
+2018-05-23 17:34:56.926 | E | sendUnsentQuestionnaires() | [line:485] | [MESSAGE] [Questionnaire] Send unsent questionnaire failed. Error Domain=NSCocoaErrorDomain Code=260 "The file “event” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///var/mobile/Containers/Data/Application/EC0090B0-929B-48D8-9FC3-F5758282F5B2/Documents/event, NSFilePath=/var/mobile/Containers/Data/Application/EC0090B0-929B-48D8-9FC3-F5758282F5B2/Documents/event, NSUnderlyingError=0x1d044df80 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+2018-05-23 17:34:57.051 | I | saveQuestionnaireIDsToFile(trialID:) | [line:193] | [MESSAGE] [Questionnaire] Save questionnaire IDs succeeded. Filename: questionnaireIDs_client100prod_1525443315.
+2018-05-23 17:34:57.051 | I | getQuestionnaireIDs(trialID:) | [line:88] | [MESSAGE] [API Gateway] Getting questionnaire IDs succeeded. TrialID: client100prod_1525443315. Questionnaire IDs: ["client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b", "client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197", "client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3", "client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4", "client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6", "client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf", "client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede"]
+2018-05-23 17:34:57.141 | I | getPatientSchdule() | [line:54] | [MESSAGE] [API Gateway] Getting action schedules success.
+2018-05-23 17:34:57.146 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 1
+2018-05-23 17:34:57.155 | I | saveActionSchedulesToFile(actionSchedules:) | [line:98] | [MESSAGE] [Action Schedules] Saving action schedules succeeded. Filename: action_schedules.
+2018-05-23 17:34:57.159 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:165] | [MESSAGE] protocolID: 3, doseID: 0, numPillsInCurrentMed: 1, correctPillName: smarties-white, targetDate: 2018-05-23 04:00:00 +0000
+2018-05-23 17:34:57.159 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 1
+2018-05-23 17:34:57.160 | I | -[InteruptionRecovery checkInteruptionAndProcessWithUser:inManagedObjectContext:] | [line:93] | [MESSAGE] no interruption found
+2018-05-23 17:34:57.160 | I | -[AiView defineProcess:currentTime:context:] | [line:163] | [MESSAGE] ==== interuptionStatus ==== 10002
+2018-05-23 17:34:57.160 | I | -[AiView defineProcess:currentTime:context:] | [line:165] | [MESSAGE] NO_INTERUPTION_FOUND
+2018-05-23 17:34:57.160 | I | -[AiView defineProcess:currentTime:context:] | [line:167] | [MESSAGE] ==== go to start ====
+2018-05-23 17:34:57.163 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b. Name: Facial Expression Exercise.
+2018-05-23 17:34:57.169 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b.
+2018-05-23 17:34:57.170 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede. Name: delete.
+2018-05-23 17:34:57.170 | I | getQuestionnaire(questionnaireID:) | [line:136] | [MESSAGE] [API Gateway] Questionnaire is neither active nor daily_dose mode. Skip it. Questionnaire ID: Questionnaire ID: client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede. Name: delete
+2018-05-23 17:34:57.180 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197. Name: VST Day 7.
+2018-05-23 17:34:57.183 | I | -[StartPageViewController viewDidLoad] | [line:65] | [MESSAGE] view did load
+2018-05-23 17:34:57.189 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197.
+2018-05-23 17:34:57.194 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6. Name: Ecological Momentary Assessment.
+2018-05-23 17:34:57.203 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6.
+2018-05-23 17:34:57.327 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4. Name: VST and ANSA Day 1.
+2018-05-23 17:34:57.349 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4.
+2018-05-23 17:34:57.366 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3. Name: VST and ANSA Day 14.
+2018-05-23 17:34:57.385 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3.
+2018-05-23 17:34:57.389 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf. Name: CDX Training Set.
+2018-05-23 17:34:57.393 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf.
+2018-05-23 17:35:31.145 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-23 17:35:32.227 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 0
+2018-05-23 17:35:32.227 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 0
+2018-05-23 17:35:32.235 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:261] | [MESSAGE] [DNN] Downloading neural network config succeeded.
+2018-05-23 17:35:32.238 | E | sendUnsentQuestionnaires() | [line:485] | [MESSAGE] [Questionnaire] Send unsent questionnaire failed. Error Domain=NSCocoaErrorDomain Code=260 "The file “event” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///var/mobile/Containers/Data/Application/EC0090B0-929B-48D8-9FC3-F5758282F5B2/Documents/event, NSFilePath=/var/mobile/Containers/Data/Application/EC0090B0-929B-48D8-9FC3-F5758282F5B2/Documents/event, NSUnderlyingError=0x1d4852c90 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+2018-05-23 17:35:32.245 | I | -[TransmitionViewController viewDidLoad] | [line:73] | [MESSAGE] view did load
+2018-05-23 17:35:32.367 | I | saveQuestionnaireIDsToFile(trialID:) | [line:193] | [MESSAGE] [Questionnaire] Save questionnaire IDs succeeded. Filename: questionnaireIDs_client100prod_1525443315.
+2018-05-23 17:35:32.367 | I | getQuestionnaireIDs(trialID:) | [line:88] | [MESSAGE] [API Gateway] Getting questionnaire IDs succeeded. TrialID: client100prod_1525443315. Questionnaire IDs: ["client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b", "client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197", "client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3", "client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4", "client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6", "client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf", "client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede"]
+2018-05-23 17:35:32.423 | I | getPatientSchdule() | [line:54] | [MESSAGE] [API Gateway] Getting action schedules success.
+2018-05-23 17:35:32.432 | I | saveActionSchedulesToFile(actionSchedules:) | [line:98] | [MESSAGE] [Action Schedules] Saving action schedules succeeded. Filename: action_schedules.
+2018-05-23 17:35:32.489 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6. Name: Ecological Momentary Assessment.
+2018-05-23 17:35:32.501 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6.
+2018-05-23 17:35:32.513 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b. Name: Facial Expression Exercise.
+2018-05-23 17:35:32.525 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b.
+2018-05-23 17:35:32.531 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197. Name: VST Day 7.
+2018-05-23 17:35:32.540 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197.
+2018-05-23 17:35:32.540 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede. Name: delete.
+2018-05-23 17:35:32.540 | I | getQuestionnaire(questionnaireID:) | [line:136] | [MESSAGE] [API Gateway] Questionnaire is neither active nor daily_dose mode. Skip it. Questionnaire ID: Questionnaire ID: client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede. Name: delete
+2018-05-23 17:35:32.546 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf. Name: CDX Training Set.
+2018-05-23 17:35:32.553 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf.
+2018-05-23 17:35:32.648 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3. Name: VST and ANSA Day 14.
+2018-05-23 17:35:32.673 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3.
+2018-05-23 17:35:32.690 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4. Name: VST and ANSA Day 1.
+2018-05-23 17:35:32.711 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4.
+2018-05-23 17:35:34.247 | I | -[Transmission sendAll] | [line:80] | [MESSAGE] Transmission send all
+2018-05-23 17:35:34.264 | I | -[Transmission sendAll] | [line:110] | [MESSAGE] Add data for transmission 1
+2018-05-23 17:35:34.265 | I | -[Transmission sendAll] | [line:115] | [MESSAGE] Encrypting files
+2018-05-23 17:35:34.613 | I | -[Transmission update:task_name:] | [line:219] | [MESSAGE] Transmitted successfully on user:C04C627B-BD6E-4B4A-9104-83D7305475CA pill:smarties-white date:2018-05-23 04:00:00 +0000 doseID:0
+2018-05-23 17:35:34.613 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 1
+2018-05-23 17:35:34.738 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 2
+2018-05-23 17:35:34.856 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 3
+2018-05-23 17:35:34.960 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 4
+2018-05-23 17:35:35.101 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 5
+2018-05-23 17:35:35.214 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6
+2018-05-23 17:35:35.331 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 7
+2018-05-23 17:35:36.096 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:261] | [MESSAGE] [DNN] Downloading neural network config succeeded.
+2018-05-23 17:35:36.097 | E | sendUnsentQuestionnaires() | [line:485] | [MESSAGE] [Questionnaire] Send unsent questionnaire failed. Error Domain=NSCocoaErrorDomain Code=260 "The file “event” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///var/mobile/Containers/Data/Application/EC0090B0-929B-48D8-9FC3-F5758282F5B2/Documents/event, NSFilePath=/var/mobile/Containers/Data/Application/EC0090B0-929B-48D8-9FC3-F5758282F5B2/Documents/event, NSUnderlyingError=0x1d0442d00 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+2018-05-23 17:35:36.109 | I | -[MedicationConfirmVC viewDidLoad] | [line:45] | [MESSAGE] MedicationConfirmVC view did load
+2018-05-23 17:35:36.206 | I | getPatientSchdule() | [line:54] | [MESSAGE] [API Gateway] Getting action schedules success.
+2018-05-23 17:35:36.210 | I | saveActionSchedulesToFile(actionSchedules:) | [line:98] | [MESSAGE] [Action Schedules] Saving action schedules succeeded. Filename: action_schedules.
+2018-05-23 17:35:36.243 | I | saveQuestionnaireIDsToFile(trialID:) | [line:193] | [MESSAGE] [Questionnaire] Save questionnaire IDs succeeded. Filename: questionnaireIDs_client100prod_1525443315.
+2018-05-23 17:35:36.243 | I | getQuestionnaireIDs(trialID:) | [line:88] | [MESSAGE] [API Gateway] Getting questionnaire IDs succeeded. TrialID: client100prod_1525443315. Questionnaire IDs: ["client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b", "client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197", "client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3", "client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4", "client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6", "client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf", "client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede"]
+2018-05-23 17:35:36.371 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b. Name: Facial Expression Exercise.
+2018-05-23 17:35:36.384 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b.
+2018-05-23 17:35:36.394 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf. Name: CDX Training Set.
+2018-05-23 17:35:36.403 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf.
+2018-05-23 17:35:36.409 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197. Name: VST Day 7.
+2018-05-23 17:35:36.416 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197.
+2018-05-23 17:35:36.436 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3. Name: VST and ANSA Day 14.
+2018-05-23 17:35:36.458 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3.
+2018-05-23 17:35:36.459 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede. Name: delete.
+2018-05-23 17:35:36.459 | I | getQuestionnaire(questionnaireID:) | [line:136] | [MESSAGE] [API Gateway] Questionnaire is neither active nor daily_dose mode. Skip it. Questionnaire ID: Questionnaire ID: client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede. Name: delete
+2018-05-23 17:35:36.461 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6. Name: Ecological Momentary Assessment.
+2018-05-23 17:35:36.463 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6.
+2018-05-23 17:35:36.523 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4. Name: VST and ANSA Day 1.
+2018-05-23 17:35:36.545 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4.
+2018-05-23 17:35:36.817 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName conclusion_11
+2018-05-23 17:35:36.817 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name conclusion_11
+2018-05-23 17:35:41.718 | I | -[DigitalClockVC viewDidLoad] | [line:138] | [MESSAGE] DigitalClockVC view did load
+2018-05-23 17:35:41.748 | I | -[Transmission sendAll] | [line:80] | [MESSAGE] Transmission send all
+2018-05-23 17:35:41.748 | I | -[Transmission sendAll] | [line:115] | [MESSAGE] Encrypting files
+2018-05-23 17:35:41.777 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-23 17:35:41.807 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-23 17:35:41.807 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 17:35:41.807 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 17:35:41.826 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 17:35:41.826 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 17:35:41.831 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-23 17:35:41.879 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-23 17:35:41.879 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 17:35:41.879 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 17:35:41.899 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 17:35:41.899 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 17:35:41.904 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-23 17:35:41.913 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 1
+2018-05-23 17:35:42.027 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 2
+2018-05-23 17:35:42.146 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 3
+2018-05-23 17:35:42.287 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 4
+2018-05-23 17:35:42.417 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 5
+2018-05-23 17:35:42.550 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6
+2018-05-23 17:35:43.359 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:261] | [MESSAGE] [DNN] Downloading neural network config succeeded.
+2018-05-23 17:35:43.361 | E | sendUnsentQuestionnaires() | [line:485] | [MESSAGE] [Questionnaire] Send unsent questionnaire failed. Error Domain=NSCocoaErrorDomain Code=260 "The file “event” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///var/mobile/Containers/Data/Application/EC0090B0-929B-48D8-9FC3-F5758282F5B2/Documents/event, NSFilePath=/var/mobile/Containers/Data/Application/EC0090B0-929B-48D8-9FC3-F5758282F5B2/Documents/event, NSUnderlyingError=0x1d0643660 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+2018-05-23 17:35:43.475 | I | saveQuestionnaireIDsToFile(trialID:) | [line:193] | [MESSAGE] [Questionnaire] Save questionnaire IDs succeeded. Filename: questionnaireIDs_client100prod_1525443315.
+2018-05-23 17:35:43.475 | I | getQuestionnaireIDs(trialID:) | [line:88] | [MESSAGE] [API Gateway] Getting questionnaire IDs succeeded. TrialID: client100prod_1525443315. Questionnaire IDs: ["client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b", "client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197", "client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3", "client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4", "client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6", "client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf", "client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede"]
+2018-05-23 17:35:43.482 | I | getPatientSchdule() | [line:54] | [MESSAGE] [API Gateway] Getting action schedules success.
+2018-05-23 17:35:43.482 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-23 17:35:43.516 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-23 17:35:43.516 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 17:35:43.516 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 17:35:43.520 | I | saveActionSchedulesToFile(actionSchedules:) | [line:98] | [MESSAGE] [Action Schedules] Saving action schedules succeeded. Filename: action_schedules.
+2018-05-23 17:35:43.537 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 17:35:43.537 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 17:35:43.542 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-23 17:35:43.579 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6. Name: Ecological Momentary Assessment.
+2018-05-23 17:35:43.583 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6.
+2018-05-23 17:35:43.584 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede. Name: delete.
+2018-05-23 17:35:43.584 | I | getQuestionnaire(questionnaireID:) | [line:136] | [MESSAGE] [API Gateway] Questionnaire is neither active nor daily_dose mode. Skip it. Questionnaire ID: Questionnaire ID: client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede. Name: delete
+2018-05-23 17:35:43.587 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b. Name: Facial Expression Exercise.
+2018-05-23 17:35:43.591 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b.
+2018-05-23 17:35:43.595 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197. Name: VST Day 7.
+2018-05-23 17:35:43.600 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197.
+2018-05-23 17:35:43.604 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf. Name: CDX Training Set.
+2018-05-23 17:35:43.609 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf.
+2018-05-23 17:35:43.625 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3. Name: VST and ANSA Day 14.
+2018-05-23 17:35:43.646 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3.
+2018-05-23 17:35:43.663 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4. Name: VST and ANSA Day 1.
+2018-05-23 17:35:43.684 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4.
+2018-05-23 17:35:43.685 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-23 17:35:43.706 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-23 17:35:43.706 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 17:35:43.706 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 17:35:43.725 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 17:35:43.725 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 17:35:43.730 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-23 17:35:44.582 | I | -[DigitalClockVC showQuestionnaire] | [line:788] | [MESSAGE] showQuestionnaire
+2018-05-23 17:35:45.858 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-23 17:35:45.858 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-23 17:35:45.971 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-23 17:35:45.971 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-23 17:35:45.990 | I | -[AIARViewController viewDidLoad] | [line:82] | [MESSAGE] AIARViewController viewDidLoad finished.
+2018-05-23 17:38:15.276 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/mobile/Containers/Data/Application/EC0090B0-929B-48D8-9FC3-F5758282F5B2/Library/Application%20Support/questionnaire/assets/a3a365b9-0a8d-4688-b771-41b11cb4b1b0_83.mp3. Successfully? 1
+2018-05-23 17:38:15.277 | I | -[QuestionPageVC startSpeechDetection] | [line:905] | [MESSAGE] [Speech Detection] Start speech detector.
+2018-05-23 17:38:15.277 | I | -[QuestionPageVC resumeSpeechDetection] | [line:914] | [MESSAGE] [Speech Detection] Resume speech detector.
+2018-05-23 17:38:15.277 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-23 17:38:15.278 | I | -[QuestionPageVC startTimerOfNoResponse1] | [line:996] | [MESSAGE] [Audio prompt] Start counting 8.000000 seconds. No response 1.
+2018-05-23 17:38:21.349 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/mobile/Containers/Data/Application/EC0090B0-929B-48D8-9FC3-F5758282F5B2/Library/Application%20Support/questionnaire/assets/a3a365b9-0a8d-4688-b771-41b11cb4b1b0_83.mp3. Successfully? 1
+2018-05-23 17:38:21.433 | I | -[AIARViewController cancelRecording] | [line:118] | [MESSAGE] ARSession recording cancelled.
+2018-05-23 17:38:21.434 | I | -[AIARViewController finishRecording] | [line:256] | [MESSAGE] ARSession recording finished.
+2018-05-23 17:38:21.434 | I | -[QuestionPageVC stopSpeechDetection] | [line:928] | [MESSAGE] [Speech Detection] Stop speech detector.
+2018-05-23 17:38:21.439 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-23 17:38:21.465 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-23 17:38:21.465 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 17:38:21.466 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 17:38:21.486 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 17:38:21.486 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 17:38:21.491 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary

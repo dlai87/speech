@@ -1,0 +1,60 @@
+2018-05-20 17:22:58.501 | I | -[AppDelegate application:didFinishLaunchingWithOptions:] | [line:186] | [MESSAGE] application Did Finish Launching
+2018-05-20 17:22:58.539 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID 0prod1499883450
+2018-05-20 17:22:58.541 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name pro
+2018-05-20 17:22:58.541 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone7,1
+2018-05-20 17:22:58.541 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone 6 PLUS
+2018-05-20 17:22:58.541 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 11.3.1
+2018-05-20 17:22:58.541 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.3
+2018-05-20 17:22:58.541 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language zh-Hans-US
+2018-05-20 17:22:58.545 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID FF259990-6104-4966-B64B-F2ABFD5E60A5
+2018-05-20 17:22:58.546 | I | -[AppDelegate logMataData] | [line:173] | [MESSAGE] Patient ID (null)
+2018-05-20 17:22:58.549 | I | +[AIUtil hasInternetConnection] | [line:683] | [MESSAGE] has internet connnection = 1
+2018-05-20 17:22:58.865 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:437] | [MESSAGE] Succeded to get APNS token data: <5c966fed 61f03cba 59dc7059 427135d9 8ebb668d 7e0f8425 91616cf8 e136f4b8>
+2018-05-20 17:22:58.866 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:443] | [MESSAGE] deviceToken:  5c966fed61f03cba59dc7059427135d98ebb668d7e0f842591616cf8e136f4b8
+2018-05-20 17:22:59.321 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-20 17:22:59.391 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-05-20 17:22:59.826 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-20 17:23:00.487 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-20 17:23:01.034 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 1
+2018-05-20 17:23:01.076 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:165] | [MESSAGE] protocolID: 5, doseID: 1, numPillsInCurrentMed: 1, correctPillName: ctn, targetDate: 2018-05-20 04:00:00 +0000
+2018-05-20 17:23:01.077 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 1
+2018-05-20 17:23:01.082 | I | -[InteruptionRecovery checkInteruptionAndProcessWithUser:inManagedObjectContext:] | [line:93] | [MESSAGE] no interruption found
+2018-05-20 17:23:01.082 | I | -[AiView defineProcess:currentTime:context:] | [line:163] | [MESSAGE] ==== interuptionStatus ==== 10002
+2018-05-20 17:23:01.082 | I | -[AiView defineProcess:currentTime:context:] | [line:165] | [MESSAGE] NO_INTERUPTION_FOUND
+2018-05-20 17:23:01.082 | I | -[AiView defineProcess:currentTime:context:] | [line:167] | [MESSAGE] ==== go to start ====
+2018-05-20 17:23:01.231 | I | -[StartPageViewController viewDidLoad] | [line:65] | [MESSAGE] view did load
+2018-05-20 17:23:02.044 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-20 17:23:02.829 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-20 17:23:03.470 | I | -[StartPageViewController onStartButtonPressed:] | [line:138] | [MESSAGE] POP_QUESTION_BEFORE_DOSING == 1
+2018-05-20 17:23:07.436 | I | -[AiViewDaily viewDidLoad] | [line:52] | [MESSAGE] AiViewDaily view did load
+2018-05-20 17:23:07.436 | I | -[AiViewDaily viewDidLoad] | [line:70] | [MESSAGE] Current medication name (null)
+2018-05-20 17:23:07.436 | I | -[AiViewDaily viewDidLoad] | [line:71] | [MESSAGE] Current dosing amount 50
+2018-05-20 17:23:07.436 | I | -[AiViewDaily viewDidLoad] | [line:77] | [MESSAGE] Current dosing steps 0, 1, 2, 3, 9, 
+2018-05-20 17:23:07.491 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: (null), shape: round, color: (null).
+2018-05-20 17:23:08.045 | I | -[StepsController init:uiView:steps:viewController:recordVideo:] | [line:90] | [MESSAGE] should record video flag 0
+2018-05-20 17:23:08.047 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-05-20 17:23:08.050 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 17:23:09.094 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 17:23:09.094 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 0
+2018-05-20 17:23:09.134 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-05-20 17:23:09.134 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-05-20 17:23:09.375 | I | -[CameraUIView displayPreInstruction:] | [line:185] | [MESSAGE] show pre instruction animation
+2018-05-20 17:23:09.376 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 17:23:14.383 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-05-20 17:23:14.436 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName D_3_1_Head_in_Outline
+2018-05-20 17:23:14.436 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name D_3_1_Head_in_Outline
+2018-05-20 17:23:14.538 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 10
+2018-05-20 17:23:14.904 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 17:23:14.926 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-05-20 17:23:14.988 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-05-20 17:23:14.988 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-05-20 17:23:15.026 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 17:23:15.038 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-05-20 17:23:15.091 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-05-20 17:23:15.091 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-05-20 17:23:15.119 | I | -[CameraUIView displayError:] | [line:286] | [MESSAGE] show error animation; error type 18
+2018-05-20 17:23:15.788 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-20 17:23:16.679 | I | -[AppDelegate cleanAlertDialog] | [line:369] | [MESSAGE] clean Alert Dialog
+2018-05-20 17:23:17.006 | I | -[AiViewDaily appGoToBackground] | [line:155] | [MESSAGE] App go to background
+2018-05-20 17:23:17.006 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 17:23:19.103 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed

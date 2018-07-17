@@ -1,0 +1,4 @@
+2018-06-28 13:15:23.758 | I | -[SupportVC viewDidLoad] | [line:40] | [MESSAGE] SupportVC view did load
+2018-06-28 13:17:19.269 | I | -[AppDelegate applicationWillResignActive:] | [line:203] | [MESSAGE] application Will Resign Active
+2018-06-28 13:17:19.722 | I | upload(fileURL:bucket:) | [line:60] | [MESSAGE] [S3] Upload succeeded. prod-cd-temp-lambda-s3.aicure.com/non_phi/logs/0prod/1840000z04/2018-06-28/com.aicure.aiview.AiView 2018-06-28--17-12-26-212.log.
+2018-06-28 13:17:20.065 | I | -[AppDelegate cleanAlertDialog] | [line:378] | [MESSAGE] clean Alert Dialog

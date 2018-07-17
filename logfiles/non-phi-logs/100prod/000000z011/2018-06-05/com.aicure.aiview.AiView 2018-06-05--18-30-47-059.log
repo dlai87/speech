@@ -1,0 +1,24 @@
+2018-06-05 14:30:47.047 | I | -[AppDelegate application:didFinishLaunchingWithOptions:] | [line:186] | [MESSAGE] application Did Finish Launching
+2018-06-05 14:30:47.126 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID (null)
+2018-06-05 14:30:47.127 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name pro
+2018-06-05 14:30:47.128 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone7,1
+2018-06-05 14:30:47.128 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone 6 PLUS
+2018-06-05 14:30:47.128 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 11.3.1
+2018-06-05 14:30:47.128 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.3
+2018-06-05 14:30:47.129 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language en-US
+2018-06-05 14:30:47.137 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID DA51546D-5D19-4D5B-81E1-566C4A4D2425
+2018-06-05 14:30:47.138 | I | -[AppDelegate logMataData] | [line:173] | [MESSAGE] Patient ID (null)
+2018-06-05 14:30:47.198 | I | +[AIUtil hasInternetConnection] | [line:683] | [MESSAGE] has internet connnection = 1
+2018-06-05 14:30:48.503 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-06-05 14:30:48.846 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-06-05 14:30:49.079 | I | +[AIUtil checkPermission] | [line:1129] | [MESSAGE] camera access / mic access Not Determined
+2018-06-05 14:30:49.525 | I | -[LoginVC viewDidLoad] | [line:72] | [MESSAGE] LoginVC view did load
+2018-06-05 14:30:49.533 | I | +[AIUtil checkWifiConnection] | [line:710] | [MESSAGE] check wifi connection = CONNECT_3G
+2018-06-05 14:30:50.575 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-06-05 14:36:42.303 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-06-05 14:36:43.940 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-06-05 14:36:45.612 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-06-05 14:36:47.541 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-06-05 14:36:47.950 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:437] | [MESSAGE] Succeded to get APNS token data: <18986ff9 268bddd0 09019cdd c47dff18 b0f38215 2b4b19dc 2276c1ba 1340b735>
+2018-06-05 14:36:47.954 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:443] | [MESSAGE] deviceToken:  18986ff9268bddd009019cddc47dff18b0f382152b4b19dc2276c1ba1340b735
+2018-06-05 14:36:51.517 | I | -[AppDelegate cleanAlertDialog] | [line:369] | [MESSAGE] clean Alert Dialog

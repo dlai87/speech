@@ -1,0 +1,96 @@
+2018-05-20 20:13:23.022 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-20 20:13:23.283 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-20 20:13:23.330 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-20 20:13:23.331 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 20:13:23.331 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 20:13:23.360 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 20:13:23.360 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 20:13:23.368 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-20 20:13:23.632 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-20 20:13:23.665 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-20 20:13:23.665 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 20:13:23.665 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 20:13:23.697 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 20:13:23.697 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 20:13:23.708 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-20 20:13:26.080 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-20 20:13:26.080 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:13:26.082 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-20 20:13:26.082 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:13:34.478 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-20 20:13:34.478 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:13:34.480 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-20 20:13:34.480 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:13:45.228 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-20 20:13:45.228 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:13:45.230 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-20 20:13:45.230 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:13:50.672 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-20 20:13:50.672 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:13:50.674 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-20 20:13:50.674 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:13:59.466 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-20 20:13:59.467 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:13:59.468 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-20 20:13:59.468 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:14:09.616 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-20 20:14:09.616 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:14:09.617 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-20 20:14:09.617 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:14:20.100 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-20 20:14:20.100 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:14:20.101 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-20 20:14:20.101 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:14:24.218 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:14:24.598 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:14:28.018 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:14:32.018 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-20 20:14:33.948 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:14:34.864 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:14:37.948 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-20 20:14:37.970 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:14:40.118 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:14:40.118 | I | -[SpeechDetector activateDetection] | [line:76] | [MESSAGE] Speech Detector onSpeechBeginOverall
+2018-05-20 20:14:41.971 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-20 20:14:41.987 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:14:44.109 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:14:44.109 | I | -[SpeechDetector activateDetection] | [line:76] | [MESSAGE] Speech Detector onSpeechBeginOverall
+2018-05-20 20:14:47.862 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-20 20:14:47.862 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:14:47.864 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-20 20:14:47.864 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:14:48.755 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:14:51.352 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:14:51.754 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:14:55.352 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-20 20:14:55.362 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:14:57.258 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:14:57.258 | I | -[SpeechDetector activateDetection] | [line:76] | [MESSAGE] Speech Detector onSpeechBeginOverall
+2018-05-20 20:15:01.263 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-20 20:15:01.283 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:15:03.431 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:15:03.431 | I | -[SpeechDetector activateDetection] | [line:76] | [MESSAGE] Speech Detector onSpeechBeginOverall
+2018-05-20 20:15:05.284 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-20 20:15:05.300 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:15:07.400 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:15:07.400 | I | -[SpeechDetector activateDetection] | [line:76] | [MESSAGE] Speech Detector onSpeechBeginOverall
+2018-05-20 20:15:11.491 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-20 20:15:11.491 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:15:11.493 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-20 20:15:11.493 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:15:11.557 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:15:14.387 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-20 20:15:14.432 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-20 20:15:14.432 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 20:15:14.433 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 20:15:14.468 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 20:15:14.468 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 20:15:14.476 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-20 20:15:14.497 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-20 20:15:14.497 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 20:15:14.497 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 20:15:14.531 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 20:15:14.531 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 20:15:14.540 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-20 20:15:14.548 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:15:16.926 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active

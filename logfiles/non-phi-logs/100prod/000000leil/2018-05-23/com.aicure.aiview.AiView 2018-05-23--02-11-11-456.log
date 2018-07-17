@@ -1,0 +1,52 @@
+2018-05-22 22:11:11.453 | I | -[DigitalClockVC showQuestionnaire] | [line:788] | [MESSAGE] showQuestionnaire
+2018-05-22 22:11:12.694 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-22 22:11:12.695 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-22 22:11:12.769 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did l2018-05-22 22:11:12.769 | I | -[QuestionPageVC viewDidLoa2018-05-22 22:11:12.769 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-22 22:11:16.003 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-22 22:11:18.488 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-22 22:11:29.465 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did l2018-05-22 22:11:29.465 | I | -[QuestionPageVC viewDidLoa2018-05-22 22:11:29.465 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-22 22:11:29.467 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-22 22:11:29.467 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-22 22:11:30.569 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-22 22:11:32.598 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageListVC, answering
+2018-05-22 22:11:32.598 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-22 22:11:32.599 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-22 22:11:32.599 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-22 22:11:35.166 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageListVC, answering
+2018-05-22 22:11:35.166 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-22 22:11:35.168 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-22 22:11:35.168 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-22 22:11:38.275 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-22 22:11:38.275 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is 20182018-05-22 22:11:38.277 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-22 22:11:38.277 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-22 22:11:43.123 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-22 22:11:43.124 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-05-22 22:11:43.185 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-22 22:11:44.212 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 0
+2018-05-22 22:11:44.212 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 0
+2018-05-22 22:11:44.270 | I | -[MedicationConfirmVC viewDidLoad] | [line:45] | [MESSAGE] MedicationConfirmVC view did load
+2018-05-22 22:11:44.924 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName conclusion_11
+2018-05-22 22:11:44.924 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name conclusio2018-2018-05-22 22:11:45.062 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:256] | [MESSAGE] Neural network config download succeeded.
+2018-05-22 22:11:50.010 | I | -[DigitalClockVC viewDidLoad] | [line:138] | [MESSAGE] DigitalClockVC view did load
+2018-05-22 22:11:50.455 | I | -[Transmission sendAll] | [line:80] | [MESSAGE] Transmission send all
+2018-05-22 22:11:50.457 | I | -[Transmission sendAll] | [line:115] | [MESSAGE] Encrypting files
+2018-05-22 22:11:50.630 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-22 22:11:50.731 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-22 22:11:50.731 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-22 22:11:50.731 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalCl2018-05-222018-05-22 22:11:50.763 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-22 22:11:50.763 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-22 22:11:50.770 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-22 22:11:50.858 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 1
+2018-05-22 22:11:50.859 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-22 22:11:50.859 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderV20182018-05-22 22:11:50.859 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-22 22:11:50.891 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-22 22:11:50.892 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-22 22:11:50.900 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] star2018-05-22 22:11:50.900 | I 2018-05-22 22:11:50.976 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 2
+2018-05-22 22:11:51.085 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 3
+2018-05-22 22:11:51.234 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 4
+2018-05-22 22:11:51.382 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 5
+2018-05-22 22:11:51.539 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6
+: 5
+2018-05-22 22:11:51.539 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6
+: 5
+2018-05-22 22:11:51.539 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6

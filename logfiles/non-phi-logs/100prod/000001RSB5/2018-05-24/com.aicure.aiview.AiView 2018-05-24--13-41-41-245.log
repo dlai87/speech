@@ -1,0 +1,24 @@
+2018-05-24 09:41:41.239 | I | -[AppDelegate application:didFinishLaunchingWithOptions:] | [line:181] | [MESSAGE] application Did Finish Launching
+2018-05-24 09:41:41.245 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID client100prod_1525443315
+2018-05-24 09:41:41.245 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name pro
+2018-05-24 09:41:41.245 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone8,1
+2018-05-24 09:41:41.245 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone 6S
+2018-05-24 09:41:41.245 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 11.3.1
+2018-05-24 09:41:41.245 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.2
+2018-05-24 09:41:41.245 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language en-US
+2018-05-24 09:41:41.248 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID 407E4A6C-D564-406A-8640-E2A8FFC89968
+2018-05-24 09:41:41.330 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:414] | [MESSAGE] Succeded to get APNS token data: <a0e079f7 f3a8f0fe ccf5347a 1401bfb5 5aaedd89 8fddaf9a 0027e859 91a18dd0>
+2018-05-24 09:41:41.330 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:420] | [MESSAGE] deviceToken:  a0e079f7f3a8f0feccf5347a1401bfb55aaedd898fddaf9a0027e85991a18dd0
+2018-05-24 09:41:41.407 | D | -[AiViewSwitch startApp] | [line:157] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-24 09:41:41.469 | I | +[AIUtil checkPermission] | [line:1131] | [MESSAGE] camera access / mic access Authorized
+2018-05-24 09:41:41.563 | D | -[AiViewSwitch startApp] | [line:157] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-24 09:41:41.563 | I | +[AIUtil checkPermission] | [line:1131] | [MESSAGE] camera access / mic access Authorized
+2018-05-24 09:41:41.619 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-24 09:41:42.163 | E | -[Transmission update:task_name:] | [line:229] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-24 09:41:42.721 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 1
+2018-05-24 09:41:42.724 | I | -[InteruptionRecovery checkInteruptionAndProcessWithUser:inManagedObjectContext:] | [line:93] | [MESSAGE] no interruption found
+2018-05-24 09:41:42.724 | I | -[AiView defineProcess:currentTime:context:] | [line:163] | [MESSAGE] ==== interuptionStatus ==== 10002
+2018-05-24 09:41:42.725 | I | -[AiView defineProcess:currentTime:context:] | [line:165] | [MESSAGE] NO_INTERUPTION_FOUND
+2018-05-24 09:41:42.725 | I | -[AiView defineProcess:currentTime:context:] | [line:167] | [MESSAGE] ==== go to start ====
+2018-05-24 09:41:42.785 | I | -[StartPageViewController viewDidLoad] | [line:65] | [MESSAGE] view did load
+2018-05-24 09:41:45.841 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:45] | [MESSAGE] AIFaceRecognitionCameraViewController view did load

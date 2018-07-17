@@ -1,0 +1,61 @@
+2018-06-28 16:32:34.755 | I | -[AppDelegate application:didFinishLaunchingWithOptions:] | [line:191] | [MESSAGE] application Did Finish Launching
+2018-06-28 16:32:34.811 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial ID 0prod1499883450
+2018-06-28 16:32:34.828 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] trial name 0prod
+2018-06-28 16:32:34.829 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone7,1
+2018-06-28 16:32:34.829 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] Device Hardware iPhone 6 PLUS
+2018-06-28 16:32:34.829 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] OS Version 11.4
+2018-06-28 16:32:34.829 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] AiView build version 2018.4
+2018-06-28 16:32:34.829 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device language en-US
+2018-06-28 16:32:34.835 | I | -[AppDelegate logMataData] | [line:171] | [MESSAGE] device UUID A02DD34B-CA14-4349-ACD7-FD0D4C2AB2AC
+2018-06-28 16:32:34.838 | I | -[AppDelegate logMataData] | [line:174] | [MESSAGE] Patient ID 1840000z23
+2018-06-28 16:32:34.846 | I | +[AIUtil hasInternetConnection] | [line:706] | [MESSAGE] has internet connnection = 1
+2018-06-28 16:32:35.473 | D | -[AiViewSwitch startApp] | [line:157] | [MESSAGE] StartApp in AiViewSwitch
+2018-06-28 16:32:35.584 | I | +[AIUtil checkPermission] | [line:1155] | [MESSAGE] camera access / mic access Authorized
+2018-06-28 16:32:36.091 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:446] | [MESSAGE] Succeded to get APNS token data: <c0fafd0a 12220aae 5d31dab7 f3aa7bdd d29f213b 5ed18730 9945e1fe e75ffd57>
+2018-06-28 16:32:36.091 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:452] | [MESSAGE] deviceToken:  c0fafd0a12220aae5d31dab7f3aa7bddd29f213b5ed187309945e1fee75ffd57
+2018-06-28 16:32:37.398 | E | -[AICognitoHelper login]_block_invoke | [line:162] | [MESSAGE] [Cognito] Get session failed. Error Domain=com.amazonaws.AWSCognitoIdentityProviderErrorDomain Code=34 "(null)" UserInfo={__type=UserNotFoundException, message=User does not exist.}
+2018-06-28 16:32:37.456 | E | -[AIDownloadAssetsViewController viewDidLoad]_block_invoke | [line:53] | [MESSAGE] [Download Assets] Get Cognito session succeeded. Downloading assets.
+2018-06-28 16:32:45.839 | E | getKitNum() | [line:21] | [MESSAGE] [API Gateway] Get kit num failed. No auth token.
+2018-06-28 16:32:45.852 | I | -[AIKitNumManager syncStatus] | [line:141] | [MESSAGE] [KitNum] No kit num status to put.
+2018-06-28 16:32:45.997 | I | -[AICognitoHelper signUp]_block_invoke | [line:231] | [MESSAGE] [Cognito] Sign up succeeded.
+2018-06-28 16:32:46.686 | I | -[AICognitoHelper login]_block_invoke | [line:183] | [MESSAGE] [Cognito] Get session succeeded.
+2018-06-28 16:32:46.745 | I | getKitNum() | [line:37] | [MESSAGE] [API Gateway] Get Cognito session succeeded. Getting kit num.
+2018-06-28 16:32:46.768 | E | postCachedQuestionnaireEvents() | [line:501] | [MESSAGE] [Questionnaire] Post cached questionnaire events failed. Error Domain=NSCocoaErrorDomain Code=260 "The file “event” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///var/mobile/Containers/Data/Application/86FEEE0D-2401-4B96-BF7C-C0210C08D295/Documents/event, NSFilePath=/var/mobile/Containers/Data/Application/86FEEE0D-2401-4B96-BF7C-C0210C08D295/Documents/event, NSUnderlyingError=0x10a61c470 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+2018-06-28 16:32:46.891 | I | upload(fileURL:bucket:) | [line:60] | [MESSAGE] [S3] Upload succeeded. prod-cd-temp-lambda-s3.aicure.com/non_phi/logs/0prod/1840000z23/2018-06-28/com.aicure.aiview.AiView 2018-06-28--20-26-08-169.log.
+2018-06-28 16:32:47.119 | E | getKitNum() | [line:49] | [MESSAGE] [API Geteway] Get kit num failed. Error Domain=com.amazonaws.AWSAPIGatewayErrorDomain Code=1 "(null)" UserInfo={HTTPHeaderFields=<CFBasicHash 0x108f93210 [0x1b3f78538]>{type = immutable dict, count = 12,
+entries =>
+	0 : Content-Type = <CFString 0x108f90700 [0x1b3f78538]>{contents = "application/json"}
+	1 : x-amz-cf-id = <CFString 0x108f92740 [0x1b3f78538]>{contents = "5cipaZrcvtgYmhFxGz6PAofvnIBwlbvnUULeGH4aa4r_4M7Jp36Xkw=="}
+	2 : Access-Control-Allow-Origin = *
+	3 : x-cache = <CFString 0x108f92710 [0x1b3f78538]>{contents = "Error from cloudfront"}
+	5 : Via = <CFString 0x1033d6ed0 [0x1b3f78538]>{contents = "1.1 35d0cb9682c1de5fc36b9654b593db96.cloudfront.net (CloudFront)"}
+	6 : access-control-allow-methods = <CFString 0x1033bfaf0 [0x1b3f78538]>{contents = "GET,OPTIONS"}
+	10 : access-control-allow-headers = <CFString 0x108f8f1f0 [0x1b3f78538]>{contents = "Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token"}
+	12 : x-amz-apigw-id = <CFString 0x108f8f280 [0x1b3f78538]>{contents = "JNfdWHX2vHcF6KQ="}
+	13 : Date = <CFString 0x108f1a3e0 [0x1b3f78538]>{contents = "Thu, 28 Jun 2018 20:32:47 GMT"}
+	15 : Content-Length = 26
+	19 : x-amzn-requestid = <CFString 0x108f8ecf0 [0x1b3f78538]>{contents = "6b10c98d-7b12-11e8-bcf6-bdb2ed7b8547"}
+	22 : x-amzn-errortype = <CFString 0x108f8f250 [0x1b3f78538]>{contents = "UnauthorizedException"}
+}
+, HTTPBody={
+    message = Unauthorized;
+}}
+2018-06-28 16:32:47.124 | I | -[AIKitNumManager syncStatus] | [line:141] | [MESSAGE] [KitNum] No kit num status to put.
+2018-06-28 16:33:55.861 | I | -[AppDelegate applicationWillResignActive:] | [line:203] | [MESSAGE] application Will Resign Active
+2018-06-28 16:33:56.589 | I | -[AppDelegate cleanAlertDialog] | [line:378] | [MESSAGE] clean Alert Dialog
+2018-06-28 16:33:57.136 | I | -[AppDelegate applicationWillEnterForeground:] | [line:227] | [MESSAGE] application will enter foreground
+2018-06-28 16:33:57.136 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial ID 0prod1499883450
+2018-06-28 16:33:57.150 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] trial name 0prod
+2018-06-28 16:33:57.150 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone7,1
+2018-06-28 16:33:57.150 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] Device Hardware iPhone 6 PLUS
+2018-06-28 16:33:57.150 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] OS Version 11.4
+2018-06-28 16:33:57.150 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] AiView build version 2018.4
+2018-06-28 16:33:57.150 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device language en-US
+2018-06-28 16:33:57.153 | I | -[AppDelegate logMataData] | [line:171] | [MESSAGE] device UUID A02DD34B-CA14-4349-ACD7-FD0D4C2AB2AC
+2018-06-28 16:33:57.154 | I | -[AppDelegate logMataData] | [line:174] | [MESSAGE] Patient ID 1840000z23
+2018-06-28 16:33:57.155 | I | +[AIUtil hasInternetConnection] | [line:706] | [MESSAGE] has internet connnection = 1
+2018-06-28 16:33:57.678 | D | -[AiViewSwitch startApp] | [line:157] | [MESSAGE] StartApp in AiViewSwitch
+2018-06-28 16:33:57.681 | I | +[AIUtil checkPermission] | [line:1155] | [MESSAGE] camera access / mic access Authorized
+2018-06-28 16:33:57.727 | E | -[AIDownloadAssetsViewController viewDidLoad]_block_invoke | [line:53] | [MESSAGE] [Download Assets] Get Cognito session succeeded. Downloading assets.
+2018-06-28 16:56:05.144 | I | getKitNum() | [line:37] | [MESSAGE] [API Gateway] Get Cognito session succeeded. Getting kit num.
+2018-06-28 16:56:05.369 | I | -[AppDelegate applicationWillResignActive:] | [line:203] | [MESSAGE] application Will Resign Active

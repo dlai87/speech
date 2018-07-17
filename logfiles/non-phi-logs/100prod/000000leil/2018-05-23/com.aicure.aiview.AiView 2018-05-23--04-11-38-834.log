@@ -1,0 +1,318 @@
+2018-05-23 00:11:38.832 | I | saveQuestionnaireIDsToFile(trialID:) | [line:193] | [MESSAGE] [Questionnaire] Save questionnaire IDs succeeded. Filename: questionnaireIDs_client100prod_1525443315.
+2018-05-23 00:11:38.833 | I | getQuestionnaireIDs(trialID:) | [line:88] | [MESSAGE] [API Gateway] Getting questionnaire IDs succeeded. TrialID: client100prod_1525443315. Questionnaire IDs: ["client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b", "client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197", "client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3", "client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4", "client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6", "client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf", "client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede"]
+2018-05-23 00:11:38.890 | I | getPatientSchdule() | [line:54] | [MESSAGE] [API Gateway] Getting action schedules success.
+2018-05-23 00:11:38.899 | I | saveActionSchedulesToFile(actionSchedules:) | [line:98] | [MESSAGE] [Action Schedules] Saving action schedules succeeded. Filename: action_schedules.
+2018-05-23 00:11:38.976 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b. Name: Facial Expression Exercise.
+2018-05-23 00:11:38.990 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b.
+2018-05-23 00:11:38.995 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6. Name: Ecological Momentary Assessment.
+2018-05-23 00:11:39.001 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6.
+2018-05-23 00:11:39.039 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197. Name: VST Day 7.
+2018-05-23 00:11:39.048 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197.
+2018-05-23 00:11:39.092 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede. Name: delete.
+2018-05-23 00:11:39.092 | I | getQuestionnaire(questionnaireID:) | [line:136] | [MESSAGE] [API Gateway] Questionnaire is neither active nor daily_dose mode. Skip it. Questionnaire ID: Questionnaire ID: client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede. Name: delete
+2018-05-23 00:11:39.180 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4. Name: VST and ANSA Day 1.
+2018-05-23 00:11:39.210 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4.
+2018-05-23 00:11:39.228 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3. Name: VST and ANSA Day 14.
+2018-05-23 00:11:39.234 | I | -[StartPageViewController onStartButtonPressed:] | [line:138] | [MESSAGE] POP_QUESTION_BEFORE_DOSING == 0
+2018-05-23 00:11:39.237 | I | -[AiViewDaily viewDidLoad] | [line:52] | [MESSAGE] AiViewDaily view did load
+2018-05-23 00:11:39.237 | I | -[AiViewDaily viewDidLoad] | [line:70] | [MESSAGE] Current medication name smarties-white
+2018-05-23 00:11:39.237 | I | -[AiViewDaily viewDidLoad] | [line:71] | [MESSAGE] Current dosing amount 0
+2018-05-23 00:11:39.237 | I | -[AiViewDaily viewDidLoad] | [line:77] | [MESSAGE] Current dosing steps 0, 1, 2, 3, 9, 
+2018-05-23 00:11:39.249 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:93] | [MESSAGE] Set current medication name: smarties-white, shape: round, color: white.
+2018-05-23 00:11:39.251 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3.
+2018-05-23 00:11:39.255 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf. Name: CDX Training Set.
+2018-05-23 00:11:39.261 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf.
+2018-05-23 00:11:39.382 | I | -[StepsController init:uiView:steps:viewController:recordVideo:] | [line:90] | [MESSAGE] should record video flag 0
+2018-05-23 00:11:39.384 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-05-23 00:11:39.385 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-23 00:11:40.352 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-23 00:11:40.352 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 0
+2018-05-23 00:11:40.362 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-05-23 00:11:40.362 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-05-23 00:11:40.486 | I | -[CameraUIView displayPreInstruction:] | [line:186] | [MESSAGE] show pre instruction animation
+2018-05-23 00:11:40.486 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-23 00:11:45.491 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-05-23 00:11:45.521 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName D_3_1_Head_in_Outline
+2018-05-23 00:11:45.521 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name D_3_1_Head_in_Outline
+2018-05-23 00:11:45.620 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-05-23 00:11:45.649 | I | -[CameraUIView displayConfirm] | [line:330] | [MESSAGE] show step confirm animation
+2018-05-23 00:11:45.650 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-05-23 00:11:47.839 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-05-23 00:11:47.840 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-23 00:11:47.840 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 1
+2018-05-23 00:11:47.989 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-05-23 00:11:47.989 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-05-23 00:11:48.199 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-05-23 00:11:48.210 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName D_3_10_Show_Pill_(New)
+2018-05-23 00:11:48.210 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name D_3_10_Show_Pill_(New)
+2018-05-23 00:11:48.289 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 10
+2018-05-23 00:11:48.751 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-23 00:11:48.786 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-05-23 00:11:48.851 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-05-23 00:11:48.851 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-05-23 00:11:48.887 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-23 00:11:48.900 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-05-23 00:11:48.931 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-05-23 00:11:48.931 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-05-23 00:11:48.972 | I | -[CameraUIView displayError:] | [line:287] | [MESSAGE] show error animation; error type 18
+2018-05-23 00:11:49.196 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step pill_identification frame passed. 0.999349, threadhold: 0.866000. Passed frame count: 1
+2018-05-23 00:11:49.236 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step pill_identification frame passed. 0.999999, threadhold: 0.866000. Passed frame count: 2
+2018-05-23 00:11:49.276 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step pill_identification frame passed. 0.999996, threadhold: 0.866000. Passed frame count: 3
+2018-05-23 00:11:49.276 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.999996
+2018-05-23 00:11:49.319 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.999707
+2018-05-23 00:11:49.330 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-05-23 00:11:49.357 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.999984
+2018-05-23 00:11:49.358 | I | -[CameraUIView displayConfirm] | [line:330] | [MESSAGE] show step confirm animation
+2018-05-23 00:11:49.380 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-05-23 00:11:49.490 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.999993
+2018-05-23 00:11:49.501 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.999995
+2018-05-23 00:11:49.513 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 1.000000
+2018-05-23 00:11:49.554 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 1.000000
+2018-05-23 00:11:49.597 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 1.000000
+2018-05-23 00:11:49.640 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.999999
+2018-05-23 00:11:49.692 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.999998
+2018-05-23 00:11:49.725 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.999999
+2018-05-23 00:11:49.769 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 1.000000
+2018-05-23 00:11:49.810 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 1.000000
+2018-05-23 00:11:49.851 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 1.000000
+2018-05-23 00:11:49.894 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.999999
+2018-05-23 00:11:49.935 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.999998
+2018-05-23 00:11:49.976 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 1.000000
+2018-05-23 00:11:50.019 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.999999
+2018-05-23 00:11:50.057 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.999999
+2018-05-23 00:11:50.101 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 1.000000
+2018-05-23 00:11:50.139 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 1.000000
+2018-05-23 00:11:50.178 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 1.000000
+2018-05-23 00:11:50.222 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.156105
+2018-05-23 00:11:50.258 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000285
+2018-05-23 00:11:50.306 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000645
+2018-05-23 00:11:50.343 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000497
+2018-05-23 00:11:50.387 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000191
+2018-05-23 00:11:50.426 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000200
+2018-05-23 00:11:50.467 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000089
+2018-05-23 00:11:50.509 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000009
+2018-05-23 00:11:50.551 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000056
+2018-05-23 00:11:50.590 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-05-23 00:11:50.632 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000002
+2018-05-23 00:11:50.673 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-05-23 00:11:50.713 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000077
+2018-05-23 00:11:50.752 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000772
+2018-05-23 00:11:50.796 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.001784
+2018-05-23 00:11:50.836 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000093
+2018-05-23 00:11:50.876 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000060
+2018-05-23 00:11:50.920 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000179
+2018-05-23 00:11:50.959 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000687
+2018-05-23 00:11:51.002 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.015906
+2018-05-23 00:11:51.042 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.011710
+2018-05-23 00:11:51.083 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.004774
+2018-05-23 00:11:51.124 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.018264
+2018-05-23 00:11:51.164 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000290
+2018-05-23 00:11:51.206 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000120
+2018-05-23 00:11:51.248 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000605
+2018-05-23 00:11:51.289 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000018
+2018-05-23 00:11:51.328 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000005
+2018-05-23 00:11:51.369 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000004
+2018-05-23 00:11:51.410 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000001
+2018-05-23 00:11:51.452 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000001
+2018-05-23 00:11:51.491 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000000
+2018-05-23 00:11:51.534 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000000
+2018-05-23 00:11:51.535 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-05-23 00:11:51.535 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-23 00:11:51.535 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 2
+2018-05-23 00:11:51.691 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-05-23 00:11:51.691 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-05-23 00:11:51.799 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000001
+2018-05-23 00:11:51.900 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-05-23 00:11:51.912 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName D_3_3_PIM
+2018-05-23 00:11:51.912 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name D_3_3_PIM
+2018-05-23 00:11:51.969 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step pill_in_mouth frame passed. 0.991742, threadhold: 0.900000. Passed frame count: 1
+2018-05-23 00:11:51.996 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step pill_in_mouth frame passed. 0.994187, threadhold: 0.900000. Passed frame count: 2
+2018-05-23 00:11:51.996 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 10
+2018-05-23 00:11:52.028 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step pill_in_mouth frame passed. 0.989033, threadhold: 0.900000. Passed frame count: 3
+2018-05-23 00:11:52.028 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.008411822840571404 0.9890333414077759 0.002385441912338138 0.0001694585371296853
+2018-05-23 00:11:52.031 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-05-23 00:11:52.068 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.001940661342814565 0.996490478515625 0.001444996101781726 0.0001239412085851654
+2018-05-23 00:11:52.068 | I | -[CameraUIView displayConfirm] | [line:330] | [MESSAGE] show step confirm animation
+2018-05-23 00:11:52.073 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-05-23 00:11:52.170 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.002265453105792403 0.9862862229347229 0.01107498444616795 0.0003734543861355633
+2018-05-23 00:11:52.195 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.006718751043081284 0.97977614402771 0.01232152339071035 0.001183615531772375
+2018-05-23 00:11:52.237 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.002321127103641629 0.9948577880859375 0.002748342696577311 7.274189556483179e-05
+2018-05-23 00:11:52.275 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.02684210240840912 0.9099677801132202 0.06177308410406113 0.001417033723555505
+2018-05-23 00:11:52.321 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.08125615864992142 0.8594127893447876 0.05825576558709145 0.001075360225513577
+2018-05-23 00:11:52.358 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.1451387405395508 0.6051186919212341 0.245207354426384 0.004535203333944082
+2018-05-23 00:11:52.401 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.05976453050971031 0.8686376214027405 0.07105882465839386 0.0005391077138483524
+2018-05-23 00:11:52.438 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.2656347751617432 0.6823084950447083 0.05164674296975136 0.0004100360674783587
+2018-05-23 00:11:52.484 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.04610148444771767 0.9456204175949097 0.008245385251939297 3.266026760684326e-05
+2018-05-23 00:11:52.521 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.1381149291992188 0.8489533066749573 0.01267843414098024 0.0002532993967179209
+2018-05-23 00:11:52.561 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.01084675639867783 0.9683226346969604 0.0206187330186367 0.0002117881085723639
+2018-05-23 00:11:52.604 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.06056427955627441 0.2172765880823135 0.7187116742134094 0.00344738713465631
+2018-05-23 00:11:52.649 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.04782352969050407 0.9152324795722961 0.02229437604546547 0.0146495932713151
+2018-05-23 00:11:52.687 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.09650333970785141 0.05033490434288979 0.818735659122467 0.03442613035440445
+2018-05-23 00:11:52.729 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.005247985478490591 0.004241656046360731 0.8843009471893311 0.1062094047665596
+2018-05-23 00:11:52.767 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.1037151739001274 0.01592466421425343 0.8703068494796753 0.01005337294191122
+2018-05-23 00:11:52.808 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.3698740303516388 0.006499066017568111 0.6185157299041748 0.005111148580908775
+2018-05-23 00:11:52.855 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.06389198452234268 0.003252506488934159 0.9304572343826294 0.002398249227553606
+2018-05-23 00:11:52.931 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.6833820343017578 0.003839773358777165 0.309532105922699 0.003246068488806486
+2018-05-23 00:11:52.974 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.7849940657615662 0.01246716175228357 0.1952097415924072 0.007329065818339586
+2018-05-23 00:11:54.236 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-05-23 00:11:54.236 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-23 00:11:54.236 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 3
+2018-05-23 00:11:54.333 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-05-23 00:11:54.333 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-05-23 00:11:54.341 | I | -[CameraUIView displayPreInstruction:] | [line:186] | [MESSAGE] show pre instruction animation
+2018-05-23 00:11:54.348 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName D_3_4_Swallow
+2018-05-23 00:11:54.348 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name D_3_4_Swallow
+2018-05-23 00:11:59.344 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-05-23 00:11:59.372 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName D_3_5_EM
+2018-05-23 00:11:59.372 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name D_3_5_EM
+2018-05-23 00:11:59.487 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 10
+2018-05-23 00:11:59.892 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-23 00:11:59.933 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-05-23 00:11:59.985 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-05-23 00:11:59.985 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-05-23 00:12:00.008 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-23 00:12:00.043 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step empty_mouth frame passed. 0.849680, threadhold: 0.650000. Passed frame count: 1
+2018-05-23 00:12:00.044 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-05-23 00:12:00.072 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step empty_mouth frame passed. 0.993238, threadhold: 0.650000. Passed frame count: 2
+2018-05-23 00:12:00.080 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-05-23 00:12:00.080 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-05-23 00:12:00.115 | I | -[CameraUIView displayError:] | [line:287] | [MESSAGE] show error animation; error type 18
+2018-05-23 00:12:00.146 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step empty_mouth frame passed. 0.997462, threadhold: 0.650000. Passed frame count: 3
+2018-05-23 00:12:00.146 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.0006500385934486985 0.0006628596456721425 0.9974620938301086 0.001225153100676835
+2018-05-23 00:12:00.178 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 3.689485674840398e-05 0.0003150098782498389 0.999593198299408 5.495474397321232e-05
+2018-05-23 00:12:00.180 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-05-23 00:12:00.208 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.0003702360263559967 0.002526093041524291 0.9970721006393433 3.147825191263109e-05
+2018-05-23 00:12:00.208 | I | -[CameraUIView displayConfirm] | [line:330] | [MESSAGE] show step confirm animation
+2018-05-23 00:12:00.208 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-05-23 00:12:00.293 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 7.386677316389978e-05 0.00141019350849092 0.9984725117683411 4.342403553891927e-05
+2018-05-23 00:12:00.324 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.0003034637193195522 0.000322720326948911 0.9993613362312317 1.254994003829779e-05
+2018-05-23 00:12:00.355 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.0001529137807665393 0.000263695721514523 0.9995200634002686 6.337156082736328e-05
+2018-05-23 00:12:00.397 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.0008272257400676608 0.0008080629631876945 0.9982717037200928 9.299363591708243e-05
+2018-05-23 00:12:00.438 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.0006705255364067852 0.003990824799984694 0.9952968955039978 4.179060852038674e-05
+2018-05-23 00:12:00.478 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.002393136732280254 0.01283649727702141 0.9845024943351746 0.0002679787576198578
+2018-05-23 00:12:00.521 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.0007029912667348981 0.007325335405766964 0.9918205738067627 0.0001511443260824308
+2018-05-23 00:12:00.559 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.0006807540194131434 0.000553990073967725 0.9987070560455322 5.821929153171368e-05
+2018-05-23 00:12:00.602 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.001176706980913877 0.0001916236942633986 0.9986177682876587 1.393550519424025e-05
+2018-05-23 00:12:00.639 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.04435762017965317 0.1751318424940109 0.7803010940551758 0.000209511534194462
+2018-05-23 00:12:00.685 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.019532211124897 0.008210103958845139 0.970514714717865 0.00174291804432869
+2018-05-23 00:12:00.721 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.03532879427075386 0.005159658845514059 0.2697277665138245 0.6897837519645691
+2018-05-23 00:12:00.761 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.02578353695571423 0.003547833999618888 0.0564265064895153 0.914242148399353
+2018-05-23 00:12:00.804 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.2228219658136368 0.003735920647159219 0.09873190522193909 0.674710214138031
+2018-05-23 00:12:00.844 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.008277883753180504 0.0006663474487140775 0.02863982692360878 0.9624159336090088
+2018-05-23 00:12:00.892 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.01073709689080715 0.0001499010832048953 0.01880742236971855 0.9703055620193481
+2018-05-23 00:12:00.927 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.0008123308070935309 0.0001290324871661142 0.0282882209867239 0.9707704782485962
+2018-05-23 00:12:00.972 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 1.164658169727772e-05 2.62459598161513e-05 0.001084844581782818 0.998877227306366
+2018-05-23 00:12:01.010 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 2.246229269076139e-05 9.237907943315804e-05 0.004328898619860411 0.9955562949180603
+2018-05-23 00:12:01.055 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 1.080881429516012e-05 7.088593974913238e-06 0.001535201445221901 0.9984468817710876
+2018-05-23 00:12:01.091 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 7.644074685231317e-06 5.484349912876496e-06 0.0003173496224917471 0.9996695518493652
+2018-05-23 00:12:01.132 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 8.511843816449982e-07 6.42507700376882e-07 7.289855420822278e-05 0.9999256134033203
+2018-05-23 00:12:01.173 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 8.726080523047131e-06 4.105841071577743e-06 0.0007433303981088102 0.9992438554763794
+2018-05-23 00:12:01.213 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 2.63218566942669e-06 4.850070354223135e-07 3.669279612950049e-05 0.99996018409729
+2018-05-23 00:12:01.255 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 6.240458787942771e-06 8.090338496913319e-07 7.448114774888381e-05 0.9999184608459473
+2018-05-23 00:12:01.296 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 4.322556378610898e-06 8.217578510993917e-07 9.572732960805297e-05 0.99989914894104
+2018-05-23 00:12:01.339 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 5.113061433803523e-06 8.314294746014639e-07 0.0001130128002841957 0.9998810291290283
+2018-05-23 00:12:01.377 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 7.281747912202263e-06 5.223614039095992e-07 5.433322439785115e-05 0.999937891960144
+2018-05-23 00:12:01.422 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 2.6580712528812e-06 1.982745772011185e-07 1.693127524049487e-05 0.9999802112579346
+2018-05-23 00:12:01.458 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 1.733021122163336e-06 2.264363985204909e-07 1.802325095923152e-05 0.9999799728393555
+2018-05-23 00:12:01.502 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 3.327321792312432e-06 4.03650091129748e-07 5.738738036598079e-05 0.9999388456344604
+2018-05-23 00:12:01.540 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 1.010815253721375e-06 2.606148541417497e-07 6.414511881303042e-05 0.9999345541000366
+2018-05-23 00:12:01.584 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 1.541335564070323e-06 4.246826392773073e-07 4.629314207704738e-05 0.9999517202377319
+2018-05-23 00:12:01.622 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 1.075961677088344e-06 1.339054392701655e-06 0.0001065823016688228 0.9998910427093506
+2018-05-23 00:12:01.663 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 3.486778041406069e-06 1.459193299524486e-06 0.0001212441493407823 0.9998737573623657
+2018-05-23 00:12:01.705 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 2.672990831342759e-06 2.396053332631709e-06 0.0002768108097370714 0.9997181296348572
+2018-05-23 00:12:01.745 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 7.884353180998005e-06 1.95903230633121e-05 0.0006032201345078647 0.9993693232536316
+2018-05-23 00:12:01.788 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.0001226765307364985 0.0008565479074604809 0.004962902516126633 0.9940578937530518
+2018-05-23 00:12:01.827 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 1.124012396758189e-05 0.0001185054716188461 0.005250915884971619 0.9946194291114807
+2018-05-23 00:12:01.868 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.04469628632068634 0.008639422245323658 0.9325999617576599 0.0140643110498786
+2018-05-23 00:12:01.911 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.2582984268665314 0.07842156291007996 0.6216713190078735 0.04160872846841812
+2018-05-23 00:12:01.954 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.03004206903278828 0.08960150927305222 0.4621433615684509 0.4182130992412567
+2018-05-23 00:12:01.993 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.00662622507661581 0.06751328706741333 0.2453308403491974 0.6805296540260315
+2018-05-23 00:12:02.039 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.004070586990565062 0.008685020729899406 0.5404808521270752 0.4467635750770569
+2018-05-23 00:12:02.080 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.01192553713917732 0.009045929647982121 0.9084046483039856 0.07062390446662903
+2018-05-23 00:12:02.123 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.02607800625264645 0.0009896614355966449 0.9319359660148621 0.04099641740322113
+2018-05-23 00:12:02.158 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.003108335891738534 0.02038800530135632 0.9014542698860168 0.07504939287900925
+2018-05-23 00:12:02.205 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.001728811534121633 0.001605147495865822 0.9951596856117249 0.001506424508988857
+2018-05-23 00:12:02.240 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.09748170524835587 0.0625712126493454 0.7887781262397766 0.05116897821426392
+2018-05-23 00:12:02.278 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.08268237859010696 0.02581470273435116 0.3846601247787476 0.5068427920341492
+2018-05-23 00:12:02.321 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.1286485940217972 0.004073277581483126 0.02056495845317841 0.846713125705719
+2018-05-23 00:12:02.361 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.9221004843711853 0.001678768778219819 0.02961194328963757 0.04660887643694878
+2018-05-23 00:12:02.361 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-05-23 00:12:02.361 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-23 00:12:02.361 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 9
+2018-05-23 00:12:02.467 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-05-23 00:12:02.467 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-05-23 00:12:02.476 | I | -[CameraUIView displayPreInstruction:] | [line:186] | [MESSAGE] show pre instruction animation
+2018-05-23 00:12:02.484 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName D_3_6_Raise_Tongue
+2018-05-23 00:12:02.484 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name D_3_6_Raise_Tongue
+2018-05-23 00:12:02.610 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.7655662894248962 0.002242536749690771 0.1400852799415588 0.09210598468780518
+2018-05-23 00:12:03.480 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-05-23 00:12:03.559 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step pill_not_under_the_tongue frame passed. 0.999761, threadhold: 0.800000. Passed frame count: 1
+2018-05-23 00:12:03.589 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step pill_not_under_the_tongue frame passed. 0.999290, threadhold: 0.800000. Passed frame count: 2
+2018-05-23 00:12:03.589 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 10
+2018-05-23 00:12:03.616 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step pill_not_under_the_tongue frame passed. 0.998919, threadhold: 0.800000. Passed frame count: 3
+2018-05-23 00:12:03.616 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.000327977497363463 1.908774038383854e-06 0.0007507478585466743 0.9989193677902222
+2018-05-23 00:12:03.619 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-05-23 00:12:03.644 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.0001463680091546848 4.087766228622058e-06 0.001110417069867253 0.9987391829490662
+2018-05-23 00:12:03.644 | I | -[CameraUIView displayConfirm] | [line:330] | [MESSAGE] show step confirm animation
+2018-05-23 00:12:03.644 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-05-23 00:12:03.726 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.001124691450968385 6.444033715524711e-06 0.002001067623496056 0.996867835521698
+2018-05-23 00:12:03.756 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.0916689932346344 0.0001523467944934964 0.01029125601053238 0.8978874087333679
+2018-05-23 00:12:03.785 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.02255861647427082 2.754619345068932e-05 0.05042869597673416 0.9269850850105286
+2018-05-23 00:12:03.811 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 6.94439368089661e-05 1.924338448588969e-06 0.000700674019753933 0.9992280006408691
+2018-05-23 00:12:03.838 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.08752277493476868 0.0004792079562321305 0.8332361578941345 0.07876197248697281
+2018-05-23 00:12:03.883 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.06239938363432884 0.008403703570365906 0.08198241144418716 0.8472145199775696
+2018-05-23 00:12:03.922 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 5.344452802091837e-05 2.09291756618768e-05 0.0008541684364899993 0.9990715384483337
+2018-05-23 00:12:03.962 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.000813409686088562 8.724005965632387e-06 0.004066791385412216 0.9951110482215881
+2018-05-23 00:12:04.050 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.0002779196947813034 1.153852372226538e-05 0.00233838427811861 0.9973721504211426
+2018-05-23 00:12:04.088 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.0003859216230921447 1.125124072132166e-05 0.005943237338215113 0.9936595559120178
+2018-05-23 00:12:04.129 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.0002182909520342946 8.547119250579271e-06 0.00171866943128407 0.9980545043945312
+2018-05-23 00:12:04.171 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 3.541694468367496e-06 1.514590894657886e-05 0.00400331849232316 0.995978057384491
+2018-05-23 00:12:04.212 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.004852743353694677 0.03907494246959686 0.2115468233823776 0.7445255517959595
+2018-05-23 00:12:04.258 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.0376177690923214 0.459622859954834 0.4823867380619049 0.02037269063293934
+2018-05-23 00:12:04.294 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.06365901231765747 0.5698854923248291 0.3585458397865295 0.007909713312983513
+2018-05-23 00:12:04.339 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.0429687537252903 0.1529336869716644 0.7873527407646179 0.01674484461545944
+2018-05-23 00:12:05.827 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-05-23 00:12:05.859 | I | -[StepsController currentPillAllDone] | [line:651] | [MESSAGE] currentPillAllDone username CE41411A-EF46-4F7C-AA85-EE3C7C4C4986, pill id 0, dose id 0
+2018-05-23 00:12:05.878 | I | -[AiViewDaily handleAllStepsDone] | [line:192] | [MESSAGE] handle All Steps Done
+2018-05-23 00:12:05.880 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-23 00:12:05.887 | I | -[CameraEngine pauseCapture] | [line:231] | [MESSAGE] Pausing capture
+2018-05-23 00:12:05.887 | I | -[AiViewDaily viewWillDisappear:] | [line:145] | [MESSAGE] view will disappear
+2018-05-23 00:12:05.891 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-23 00:12:05.998 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-23 00:12:06.553 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:261] | [MESSAGE] [DNN] Downloading neural network config succeeded.
+2018-05-23 00:12:06.555 | E | sendUnsentQuestionnaires() | [line:485] | [MESSAGE] [Questionnaire] Send unsent questionnaire failed. Error Domain=NSCocoaErrorDomain Code=260 "The file “event” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///var/mobile/Containers/Data/Application/E8EF8554-2BC2-4C66-975E-ABC520109B77/Documents/event, NSFilePath=/var/mobile/Containers/Data/Application/E8EF8554-2BC2-4C66-975E-ABC520109B77/Documents/event, NSUnderlyingError=0x1d444a500 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+2018-05-23 00:12:06.701 | I | saveQuestionnaireIDsToFile(trialID:) | [line:193] | [MESSAGE] [Questionnaire] Save questionnaire IDs succeeded. Filename: questionnaireIDs_client100prod_1525443315.
+2018-05-23 00:12:06.701 | I | getQuestionnaireIDs(trialID:) | [line:88] | [MESSAGE] [API Gateway] Getting questionnaire IDs succeeded. TrialID: client100prod_1525443315. Questionnaire IDs: ["client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b", "client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197", "client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3", "client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4", "client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6", "client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf", "client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede"]
+2018-05-23 00:12:06.782 | I | getPatientSchdule() | [line:54] | [MESSAGE] [API Gateway] Getting action schedules success.
+2018-05-23 00:12:06.794 | I | saveActionSchedulesToFile(actionSchedules:) | [line:98] | [MESSAGE] [Action Schedules] Saving action schedules succeeded. Filename: action_schedules.
+2018-05-23 00:12:06.809 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede. Name: delete.
+2018-05-23 00:12:06.809 | I | getQuestionnaire(questionnaireID:) | [line:136] | [MESSAGE] [API Gateway] Questionnaire is neither active nor daily_dose mode. Skip it. Questionnaire ID: Questionnaire ID: client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede. Name: delete
+2018-05-23 00:12:06.831 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b. Name: Facial Expression Exercise.
+2018-05-23 00:12:06.843 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b.
+2018-05-23 00:12:06.851 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197. Name: VST Day 7.
+2018-05-23 00:12:06.859 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197.
+2018-05-23 00:12:06.908 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf. Name: CDX Training Set.
+2018-05-23 00:12:06.917 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf.
+2018-05-23 00:12:06.961 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6. Name: Ecological Momentary Assessment.
+2018-05-23 00:12:06.967 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6.
+2018-05-23 00:12:06.986 | I | -[AiView goToNextPill] | [line:244] | [MESSAGE] all medication done, no more next medication........
+2018-05-23 00:12:07.001 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 0
+2018-05-23 00:12:07.001 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 0
+2018-05-23 00:12:07.016 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3. Name: VST and ANSA Day 14.
+2018-05-23 00:12:07.023 | I | -[TransmitionViewController viewDidLoad] | [line:73] | [MESSAGE] view did load
+2018-05-23 00:12:07.057 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3.
+2018-05-23 00:12:07.073 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4. Name: VST and ANSA Day 1.
+2018-05-23 00:12:07.093 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4.
+2018-05-23 00:12:09.024 | I | -[Transmission sendAll] | [line:80] | [MESSAGE] Transmission send all
+2018-05-23 00:12:09.039 | I | -[Transmission sendAll] | [line:110] | [MESSAGE] Add data for transmission 1
+2018-05-23 00:12:09.078 | I | -[Transmission sendAll] | [line:115] | [MESSAGE] Encrypting files
+2018-05-23 00:12:09.768 | I | -[Transmission update:task_name:] | [line:219] | [MESSAGE] Transmitted successfully on user:CE41411A-EF46-4F7C-AA85-EE3C7C4C4986 pill:smarties-white date:2018-05-23 04:00:00 +0000 doseID:0
+2018-05-23 00:12:09.768 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 1
+2018-05-23 00:12:11.397 | I | -[Transmission update:task_name:] | [line:230] | [MESSAGE] File transmitted /var/mobile/Containers/Data/Application/E8EF8554-2BC2-4C66-975E-ABC520109B77/Library/transmission/0_smarties-white_0_2018-05-23.mp4
+2018-05-23 00:12:11.397 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 2
+2018-05-23 00:12:11.594 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 3
+2018-05-23 00:12:11.729 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 4
+2018-05-23 00:12:11.853 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 5
+2018-05-23 00:12:12.006 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6
+2018-05-23 00:12:12.145 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 7
+2018-05-23 00:12:12.289 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 8

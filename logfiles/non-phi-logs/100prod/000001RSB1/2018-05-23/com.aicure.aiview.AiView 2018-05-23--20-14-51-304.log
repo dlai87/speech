@@ -1,0 +1,77 @@
+2018-05-23 16:14:51.293 | I | -[AIARViewController cancelRecording] | [line:118] | [MESSAGE] ARSession recording cancelled.
+2018-05-23 16:16:25.308 | I | -[AIARViewController cancelRecording] | [line:118] | [MESSAGE] ARSession recording cancelled.
+2018-05-23 16:16:25.334 | I | -[AIARViewController finishRecording] | [line:256] | [MESSAGE] ARSession recording finished.
+2018-05-23 16:16:25.352 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-23 16:16:25.399 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-23 16:16:25.399 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 16:16:25.399 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 16:16:25.456 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 16:16:25.456 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 16:16:25.490 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-23 16:16:25.593 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-23 16:16:25.593 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 16:16:25.593 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 16:16:25.653 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 16:16:25.653 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 16:16:25.686 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-23 16:16:27.331 | I | -[DigitalClockVC showQuestionnaire] | [line:788] | [MESSAGE] showQuestionnaire
+2018-05-23 16:16:28.447 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-23 16:16:28.448 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-23 16:16:28.451 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-23 16:16:28.451 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-23 16:16:28.472 | I | -[AIARViewController viewDidLoad] | [line:82] | [MESSAGE] AIARViewController viewDidLoad finished.
+2018-05-23 16:16:35.938 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/mobile/Containers/Data/Application/060EAE0E-3932-4E5D-9369-4B5D9DD74D33/Library/Application%20Support/questionnaire/assets/6169607e-0269-4db7-b7b3-29b0d2977162_227.mp3. Successfully? 1
+2018-05-23 16:16:35.939 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/mobile/Containers/Data/Application/060EAE0E-3932-4E5D-9369-4B5D9DD74D33/Library/Application%20Support/questionnaire/assets/6169607e-0269-4db7-b7b3-29b0d2977162_227.mp3. Successfully? 1
+2018-05-23 16:20:40.834 | I | -[AIARViewController finishRecording] | [line:256] | [MESSAGE] ARSession recording finished.
+2018-05-23 16:20:41.928 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-23 16:20:41.928 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-23 16:20:41.931 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-23 16:20:41.931 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-23 16:20:41.949 | I | -[AIARViewController viewDidLoad] | [line:82] | [MESSAGE] AIARViewController viewDidLoad finished.
+2018-05-23 16:20:44.623 | I | -[AIARViewController cancelRecording] | [line:118] | [MESSAGE] ARSession recording cancelled.
+2018-05-23 16:20:44.641 | I | -[AIARViewController finishRecording] | [line:256] | [MESSAGE] ARSession recording finished.
+2018-05-23 16:20:44.664 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-23 16:20:44.704 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-23 16:20:44.704 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 16:20:44.704 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 16:20:44.767 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 16:20:44.768 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 16:20:44.800 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-23 16:20:44.846 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-23 16:20:44.846 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 16:20:44.846 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 16:20:44.909 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 16:20:44.909 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 16:20:44.941 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-23 16:20:46.163 | I | -[DigitalClockVC showQuestionnaire] | [line:788] | [MESSAGE] showQuestionnaire
+2018-05-23 16:20:47.279 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-23 16:20:47.279 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-23 16:20:47.281 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-23 16:20:47.281 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-23 16:20:47.308 | I | -[AIARViewController viewDidLoad] | [line:82] | [MESSAGE] AIARViewController viewDidLoad finished.
+2018-05-23 16:20:54.767 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/mobile/Containers/Data/Application/060EAE0E-3932-4E5D-9369-4B5D9DD74D33/Library/Application%20Support/questionnaire/assets/6169607e-0269-4db7-b7b3-29b0d2977162_227.mp3. Successfully? 1
+2018-05-23 16:20:54.768 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/mobile/Containers/Data/Application/060EAE0E-3932-4E5D-9369-4B5D9DD74D33/Library/Application%20Support/questionnaire/assets/6169607e-0269-4db7-b7b3-29b0d2977162_227.mp3. Successfully? 1
+2018-05-23 16:26:51.908 | I | -[AIARViewController cancelRecording] | [line:118] | [MESSAGE] ARSession recording cancelled.
+2018-05-23 16:26:51.914 | I | -[AIARViewController finishRecording] | [line:256] | [MESSAGE] ARSession recording finished.
+2018-05-23 16:26:51.922 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-23 16:26:51.969 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-23 16:26:51.969 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 16:26:51.969 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 16:26:52.031 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 16:26:52.031 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 16:26:52.065 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-23 16:26:52.111 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-23 16:26:52.111 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 16:26:52.112 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 16:26:52.172 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 16:26:52.172 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 16:26:52.205 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-23 16:26:52.721 | I | -[DigitalClockVC showQuestionnaire] | [line:788] | [MESSAGE] showQuestionnaire
+2018-05-23 16:26:53.837 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-23 16:26:53.837 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-23 16:26:53.838 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-23 16:26:53.838 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-23 16:26:53.855 | I | -[AIARViewController viewDidLoad] | [line:82] | [MESSAGE] AIARViewController viewDidLoad finished.
+2018-05-23 16:27:01.322 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/mobile/Containers/Data/Application/060EAE0E-3932-4E5D-9369-4B5D9DD74D33/Library/Application%20Support/questionnaire/assets/6169607e-0269-4db7-b7b3-29b0d2977162_227.mp3. Successfully? 1
+2018-05-23 16:27:01.323 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/mobile/Containers/Data/Application/060EAE0E-3932-4E5D-9369-4B5D9DD74D33/Library/Application%20Support/questionnaire/assets/6169607e-0269-4db7-b7b3-29b0d2977162_227.mp3. Successfully? 1
+2018-05-23 16:30:58.525 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active

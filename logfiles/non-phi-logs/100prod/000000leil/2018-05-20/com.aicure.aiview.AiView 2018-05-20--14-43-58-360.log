@@ -1,0 +1,31 @@
+2018-05-20 10:43:58.358 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-20 10:44:01.252 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:254] | [MESSAGE] Neural network model download succeeded. Filename: pih-generic-20180508.mlmodel.
+2018-05-20 10:44:02.382 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:254] | [MESSAGE] Neural network model download succeeded. Filename: MC_MN05_resplit.mlmodel.
+2018-05-20 10:44:02.386 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:260] | [MESSAGE] model is updated on 2018-05-20 10:44:02
+2018-05-20 10:44:02.392 | I | -[AiWebView goToNextPage] | [line:131] | [MESSAGE] web view page goToNextPage
+2018-05-20 10:44:02.414 | I | -[TrainingAddPatientDoneViewController viewDidLoad] | [line:44] | [MESSAGE] TrainingAddPatientDoneViewController view did load
+2018-05-20 10:44:02.564 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] push_token_registration 9999
+2018-05-20 10:44:09.257 | I | -[TutorialFinishVC viewDidLoad] | [line:31] | [MESSAGE] TutorialFinishVC view did load
+2018-05-20 10:44:10.482 | I | -[PackDeviceVC viewDidLoad] | [line:27] | [MESSAGE] PackDeviceVC view did load
+2018-05-20 10:44:15.548 | I | -[DigitalClockVC viewDidLoad] | [line:138] | [MESSAGE] DigitalClockVC view did load
+2018-05-20 10:44:15.572 | I | -[Transmission sendAll] | [line:80] | [MESSAGE] Transmission send all
+2018-05-20 10:44:15.593 | I | -[Transmission sendAll] | [line:115] | [MESSAGE] Encrypting files
+2018-05-20 10:44:15.606 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-20 10:44:15.650 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-20 10:44:15.650 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 10:44:15.650 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 10:44:15.672 | I | -[DigitalClockVC showReminder1Button] | [line:615] | [MESSAGE] showReminder1Button
+2018-05-20 10:44:15.677 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-20 10:44:15.682 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-20 10:44:15.689 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-20 10:44:15.689 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 10:44:15.689 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 10:44:15.709 | I | -[DigitalClockVC showReminder1Button] | [line:615] | [MESSAGE] showReminder1Button
+2018-05-20 10:44:15.714 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-20 10:44:15.749 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-20 10:44:15.755 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 1
+2018-05-20 10:44:15.899 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-20 10:44:16.094 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-20 10:44:16.166 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 2
+2018-05-20 10:44:16.286 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 3
+2018-05-20 10:44:16.443 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.

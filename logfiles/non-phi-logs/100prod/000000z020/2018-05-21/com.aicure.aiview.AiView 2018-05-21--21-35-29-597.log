@@ -1,0 +1,43 @@
+2018-05-21 17:35:29.596 | I | -[AppDelegate applicationWillEnterForeground:] | [line:227] | [MESSAGE] application will enter foreground
+2018-05-21 17:35:29.596 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID client100prod_1525443315
+2018-05-21 17:35:29.596 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name 100prod
+2018-05-21 17:35:29.596 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone10,6
+2018-05-21 17:35:29.597 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone X
+2018-05-21 17:35:29.597 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 11.3.1
+2018-05-21 17:35:29.597 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.3
+2018-05-21 17:35:29.597 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language en-US
+2018-05-21 17:35:29.597 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID 31361FD4-EF01-40B6-A0AB-BE10F13DF372
+2018-05-21 17:35:29.598 | I | -[AppDelegate logMataData] | [line:173] | [MESSAGE] Patient ID 000000z020
+2018-05-21 17:35:29.598 | I | +[AIUtil hasInternetConnection] | [line:682] | [MESSAGE] has internet connnection = 1
+2018-05-21 17:35:30.161 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-21 17:35:30.163 | I | +[AIUtil checkPermission] | [line:1131] | [MESSAGE] camera access / mic access Authorized
+2018-05-21 17:35:30.217 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-21 17:35:31.349 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 0
+2018-05-21 17:35:31.349 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 0
+2018-05-21 17:35:31.375 | I | -[MedicationConfirmVC viewDidLoad] | [line:45] | [MESSAGE] MedicationConfirmVC view did load
+2018-05-21 17:35:31.767 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:265] | [MESSAGE] Neural network config download succeeded.
+2018-05-21 17:35:32.076 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName conclusion_11
+2018-05-21 17:35:32.076 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name conclusion_11
+2018-05-21 17:35:36.962 | I | -[DigitalClockVC viewDidLoad] | [line:138] | [MESSAGE] DigitalClockVC view did load
+2018-05-21 17:35:36.993 | I | -[Transmission sendAll] | [line:80] | [MESSAGE] Transmission send all
+2018-05-21 17:35:36.993 | I | -[Transmission sendAll] | [line:115] | [MESSAGE] Encrypting files
+2018-05-21 17:35:37.024 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-21 17:35:37.030 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:836] | [MESSAGE] Questionnaire ID [client100prod_1525443315-1526516487988-f9ca94ae-d959-44b0-ae8b-ccfffded4877] not found in active schedule ID [client100prod_1525443315_23-1526523602173-988c4f79-24b8-4aef-bb05-5ab9b2c90421]
+2018-05-21 17:35:37.030 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-21 17:35:37.030 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-21 17:35:37.030 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-21 17:35:37.050 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-21 17:35:37.050 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-21 17:35:37.056 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-21 17:35:37.101 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-21 17:35:37.102 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-21 17:35:37.102 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-21 17:35:37.121 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-21 17:35:37.121 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-21 17:35:37.126 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-21 17:35:37.982 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 1
+2018-05-21 17:35:38.091 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 2
+2018-05-21 17:35:39.574 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 3
+2018-05-21 17:35:39.793 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 4
+2018-05-21 17:35:40.057 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 5
+2018-05-21 17:35:40.183 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6

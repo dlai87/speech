@@ -1,0 +1,19 @@
+2018-06-28 16:56:16.058 | I | -[Transmission sendAll] | [line:75] | [MESSAGE] Transmission send all
+2018-06-28 16:56:16.065 | I | -[Transmission sendAll] | [line:110] | [MESSAGE] Encrypting files
+2018-06-28 16:56:16.169 | I | getKitNum() | [line:43] | [MESSAGE] [API Gateway] Get kit num succeeded. No (non-synchronized) kit num.
+2018-06-28 16:56:16.171 | I | -[AIKitNumManager updateWithData:] | [line:158] | [MESSAGE] [KitNum] Update kit nums with GET response succeeded. Saved the download time 2018-06-28 20:56:16 +0000 to user defaults.
+2018-06-28 16:56:16.171 | E | -[AIKitNumManager updateWithData:] | [line:164] | [MESSAGE] [KitNum] Empty kit num list returned.
+2018-06-28 16:56:16.178 | I | -[AIKitNumManager syncStatus] | [line:141] | [MESSAGE] [KitNum] No kit num status to put.
+2018-06-28 16:56:16.178 | E | -[Transmission update:task_name:] | [line:234] | [MESSAGE] Task Update_device_version failed
+2018-06-28 16:56:16.185 | I | -[Transmission update:task_name:] | [line:241] | [MESSAGE] Task id done: 1
+2018-06-28 16:56:16.293 | E | -[Transmission update:task_name:] | [line:234] | [MESSAGE] Task pk_clinic_visit_only failed
+2018-06-28 16:56:16.298 | I | -[Transmission update:task_name:] | [line:241] | [MESSAGE] Task id done: 2
+2018-06-28 16:56:16.402 | E | -[Transmission update:task_name:] | [line:234] | [MESSAGE] Task push_token_registration failed
+2018-06-28 16:56:16.405 | I | -[Transmission update:task_name:] | [line:241] | [MESSAGE] Task id done: 3
+2018-06-28 16:56:16.526 | E | -[Transmission update:task_name:] | [line:234] | [MESSAGE] Task kiosk_dose_check failed
+2018-06-28 16:56:16.530 | I | -[Transmission update:task_name:] | [line:241] | [MESSAGE] Task id done: 4
+2018-06-28 16:56:16.658 | E | -[Transmission update:task_name:] | [line:234] | [MESSAGE] Task questionnaire_sync failed
+2018-06-28 16:56:16.663 | I | -[Transmission update:task_name:] | [line:241] | [MESSAGE] Task id done: 5
+2018-06-28 16:56:16.780 | E | -[Transmission update:task_name:] | [line:234] | [MESSAGE] Task reimbursement_sync failed
+2018-06-28 16:56:16.784 | I | -[Transmission update:task_name:] | [line:241] | [MESSAGE] Task id done: 6
+2018-06-28 16:56:16.899 | E | -[Transmission update:task_name:] | [line:234] | [MESSAGE] Task Dose_miss_time_report failed

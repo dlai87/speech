@@ -1,0 +1,18 @@
+2018-05-31 20:40:20.913 | I | -[AppDelegate application:didFinishLaunchingWithOptions:] | [line:186] | [MESSAGE] application Did Finish Launching
+2018-05-31 20:40:20.941 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID client100prod_1525443315
+2018-05-31 20:40:20.942 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name pro
+2018-05-31 20:40:20.943 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone10,6
+2018-05-31 20:40:20.943 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone X
+2018-05-31 20:40:20.943 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 11.3.1
+2018-05-31 20:40:20.943 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.3
+2018-05-31 20:40:20.943 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language en-US
+2018-05-31 20:40:20.946 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID 43CBF65F-4631-46A0-BD52-C9BC78449D01
+2018-05-31 20:40:20.947 | I | -[AppDelegate logMataData] | [line:173] | [MESSAGE] Patient ID (null)
+2018-05-31 20:40:20.949 | I | +[AIUtil hasInternetConnection] | [line:683] | [MESSAGE] has internet connnection = 1
+2018-05-31 20:40:21.026 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:437] | [MESSAGE] Succeded to get APNS token data: <db7f2d95 46ca272a c20c057d 92e36e73 7d16cae5 b2e76298 664bd3ad 945aa4c5>
+2018-05-31 20:40:21.026 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:443] | [MESSAGE] deviceToken:  db7f2d9546ca272ac20c057d92e36e737d16cae5b2e76298664bd3ad945aa4c5
+2018-05-31 20:40:21.058 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-31 20:40:21.547 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-31 20:40:21.563 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-05-31 20:40:21.621 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-31 20:40:21.818 | I | -[AppDelegate cleanAlertDialog] | [line:369] | [MESSAGE] clean Alert Dialog

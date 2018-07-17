@@ -1,0 +1,95 @@
+2018-05-21 11:13:14.795 | I | -[AppDelegate application:didFinishLaunchingWithOptions:] | [line:186] | [MESSAGE] application Did Finish Launching
+2018-05-21 11:13:14.868 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID (null)
+2018-05-21 11:13:14.869 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name pro
+2018-05-21 11:13:14.870 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone7,1
+2018-05-21 11:13:14.870 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone 6 PLUS
+2018-05-21 11:13:14.870 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 11.3.1
+2018-05-21 11:13:14.870 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.3
+2018-05-21 11:13:14.870 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language en-US
+2018-05-21 11:13:14.878 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID 41875618-4352-4126-A36D-E4EF5336E439
+2018-05-21 11:13:14.880 | I | -[AppDelegate logMataData] | [line:173] | [MESSAGE] Patient ID (null)
+2018-05-21 11:13:14.892 | I | +[AIUtil hasInternetConnection] | [line:683] | [MESSAGE] has internet connnection = 1
+2018-05-21 11:13:16.043 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-21 11:13:16.112 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-21 11:13:16.297 | I | +[AIUtil checkPermission] | [line:1129] | [MESSAGE] camera access / mic access Not Determined
+2018-05-21 11:13:16.555 | I | -[LoginVC viewDidLoad] | [line:72] | [MESSAGE] LoginVC view did load
+2018-05-21 11:13:16.558 | I | +[AIUtil checkWifiConnection] | [line:705] | [MESSAGE] check wifi connection = CONNECT_WIFI
+2018-05-21 11:13:29.569 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-21 11:13:30.101 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-21 11:13:31.227 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-21 11:13:34.796 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:437] | [MESSAGE] Succeded to get APNS token data: <19c82f93 b9bbe035 269549e1 db5985e6 b9a47b33 4ae8d482 f6db1562 a98bfae1>
+2018-05-21 11:13:34.796 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:443] | [MESSAGE] deviceToken:  19c82f93b9bbe035269549e1db5985e6b9a47b334ae8d482f6db1562a98bfae1
+2018-05-21 11:13:49.593 | I | -[RelinkAction relinkWithUsername:code:] | [line:92] | [MESSAGE] relinkWithUsername 41875618-4352-4126-A36D-E4EF5336E439 url /backend/backend
+2018-05-21 11:13:50.245 | I | -[RelinkAction update:task_name:] | [line:152] | [MESSAGE] relink transmission task_name routing, result 9999
+2018-05-21 11:13:52.147 | I | -[RelinkAction update:task_name:] | [line:152] | [MESSAGE] relink transmission task_name Relink, result 9999
+2018-05-21 11:13:52.270 | I | -[RelinkAction update:task_name:] | [line:152] | [MESSAGE] relink transmission task_name kiosk_dose_check, result 9999
+2018-05-21 11:13:52.392 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup 9999
+2018-05-21 11:13:52.543 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup_serialized 9999
+2018-05-21 11:13:52.840 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] dose_protocol_sync 9999
+2018-05-21 11:13:53.697 | I | -[LoginVC handleRelinkSuccess] | [line:334] | [MESSAGE] relink success
+2018-05-21 11:13:54.302 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] push_token_registration 9999
+2018-05-21 11:13:57.682 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-21 11:13:57.683 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-05-21 11:13:57.842 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-21 11:13:59.053 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 1
+2018-05-21 11:13:59.085 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:165] | [MESSAGE] protocolID: 3, doseID: 0, numPillsInCurrentMed: 1, correctPillName: smarties-white, targetDate: 2018-05-21 04:00:00 +0000
+2018-05-21 11:13:59.085 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 1
+2018-05-21 11:13:59.090 | I | -[InteruptionRecovery checkInteruptionAndProcessWithUser:inManagedObjectContext:] | [line:93] | [MESSAGE] no interruption found
+2018-05-21 11:13:59.090 | I | -[AiView defineProcess:currentTime:context:] | [line:163] | [MESSAGE] ==== interuptionStatus ==== 10002
+2018-05-21 11:13:59.090 | I | -[AiView defineProcess:currentTime:context:] | [line:165] | [MESSAGE] NO_INTERUPTION_FOUND
+2018-05-21 11:13:59.090 | I | -[AiView defineProcess:currentTime:context:] | [line:167] | [MESSAGE] ==== go to start ====
+2018-05-21 11:13:59.265 | I | -[StartPageViewController viewDidLoad] | [line:65] | [MESSAGE] view did load
+2018-05-21 11:13:59.454 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-21 11:13:59.503 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-21 11:14:00.643 | I | -[StartPageViewController onStartButtonPressed:] | [line:138] | [MESSAGE] POP_QUESTION_BEFORE_DOSING == 0
+2018-05-21 11:14:00.653 | I | -[AiViewDaily viewDidLoad] | [line:52] | [MESSAGE] AiViewDaily view did load
+2018-05-21 11:14:00.653 | I | -[AiViewDaily viewDidLoad] | [line:70] | [MESSAGE] Current medication name smarties-white
+2018-05-21 11:14:00.653 | I | -[AiViewDaily viewDidLoad] | [line:71] | [MESSAGE] Current dosing amount 0
+2018-05-21 11:14:00.653 | I | -[AiViewDaily viewDidLoad] | [line:77] | [MESSAGE] Current dosing steps 0, 1, 2, 3, 9, 
+2018-05-21 11:14:00.720 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: smarties-white, shape: round, color: white.
+2018-05-21 11:14:01.761 | I | -[StepsController init:uiView:steps:viewController:recordVideo:] | [line:90] | [MESSAGE] should record video flag 0
+2018-05-21 11:14:01.768 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-05-21 11:14:01.776 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-21 11:14:03.373 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-21 11:14:03.375 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 0
+2018-05-21 11:14:03.423 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-05-21 11:14:03.424 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-05-21 11:14:04.424 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-21 11:14:06.372 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-05-21 11:14:06.806 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 10
+2018-05-21 11:14:07.350 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-05-21 11:14:07.408 | I | -[CameraUIView displayConfirm] | [line:329] | [MESSAGE] show step confirm animation
+2018-05-21 11:14:07.409 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-05-21 11:14:09.589 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-05-21 11:14:09.598 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-21 11:14:09.599 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 1
+2018-05-21 11:17:19.676 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-05-21 11:17:19.677 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-05-21 11:17:22.989 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-05-21 11:17:23.044 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-21 11:17:23.595 | I | -[AppDelegate cleanAlertDialog] | [line:369] | [MESSAGE] clean Alert Dialog
+2018-05-21 11:17:23.640 | I | -[AiViewDaily appGoToBackground] | [line:155] | [MESSAGE] App go to background
+2018-05-21 11:17:23.640 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-21 11:17:23.985 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-21 11:29:48.125 | I | -[AppDelegate applicationWillEnterForeground:] | [line:227] | [MESSAGE] application will enter foreground
+2018-05-21 11:29:48.195 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID client100prod_1525443315
+2018-05-21 11:29:48.229 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name 100prod
+2018-05-21 11:29:48.243 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone7,1
+2018-05-21 11:29:48.243 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone 6 PLUS
+2018-05-21 11:29:48.243 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 11.3.1
+2018-05-21 11:29:48.243 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.3
+2018-05-21 11:29:48.243 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language en-US
+2018-05-21 11:29:48.248 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID 41875618-4352-4126-A36D-E4EF5336E439
+2018-05-21 11:29:48.251 | I | -[AppDelegate logMataData] | [line:173] | [MESSAGE] Patient ID 000000z023
+2018-05-21 11:29:48.254 | I | +[AIUtil hasInternetConnection] | [line:683] | [MESSAGE] has internet connnection = 1
+2018-05-21 11:29:48.565 | I | -[CameraEngine pauseCapture] | [line:231] | [MESSAGE] Pausing capture
+2018-05-21 11:29:48.565 | I | -[AiViewDaily viewWillDisappear:] | [line:145] | [MESSAGE] view will disappear
+2018-05-21 11:29:49.129 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-21 11:29:49.135 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-05-21 11:29:49.311 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-21 11:29:50.487 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 1
+2018-05-21 11:29:50.506 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:165] | [MESSAGE] protocolID: 3, doseID: 0, numPillsInCurrentMed: 1, correctPillName: smarties-white, targetDate: 2018-05-21 04:00:00 +0000
+2018-05-21 11:29:50.507 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 1
+2018-05-21 11:29:50.511 | I | -[InteruptionRecovery checkInteruptionAndProcessWithUser:inManagedObjectContext:] | [line:84] | [MESSAGE] AiView is interupted last time
+2018-05-21 11:29:50.578 | I | -[AiView defineProcess:currentTime:context:] | [line:163] | [MESSAGE] ==== interuptionStatus ==== 10001
+2018-05-21 11:29:50.578 | I | -[AiView defineProcess:currentTime:context:] | [line:183] | [MESSAGE] PILLS_LEFT_AFTER_RECVOERY

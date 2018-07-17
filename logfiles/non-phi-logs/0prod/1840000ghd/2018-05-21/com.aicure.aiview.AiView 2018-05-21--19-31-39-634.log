@@ -1,0 +1,2 @@
+2018-05-21 15:31:39.625 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:254] | [MESSAGE] Neural network config download succeeded.
+2018-05-21 15:31:57.074 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active

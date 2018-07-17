@@ -1,0 +1,45 @@
+2018-06-28 13:47:52.789 | I | upload(fileURL:bucket:) | [line:60] | [MESSAGE] [S3] Upload succeeded. prod-cd-temp-lambda-s3.aicure.com/non_phi/logs/0prod/1840000z23/2018-06-28/com.aicure.aiview.AiView 2018-06-28--17-22-44-153.log.
+2018-06-28 13:47:52.805 | I | upload(fileURL:bucket:) | [line:60] | [MESSAGE] [S3] Upload succeeded. prod-cd-temp-lambda-s3.aicure.com/non_phi/logs/0prod/1840000z23/2018-06-28/com.aicure.aiview.AiView 2018-06-28--17-22-02-621.log.
+2018-06-28 13:47:52.839 | I | upload(fileURL:bucket:) | [line:60] | [MESSAGE] [S3] Upload succeeded. prod-cd-temp-lambda-s3.aicure.com/non_phi/logs/0prod/1840000z23/2018-06-28/com.aicure.aiview.AiView 2018-06-28--17-22-02-621.log.
+2018-06-28 13:47:53.413 | I | getKitNum() | [line:37] | [MESSAGE] [API Gateway] Get Cognito session succeeded. Getting kit num.
+2018-06-28 13:47:53.618 | E | getKitNum() | [line:49] | [MESSAGE] [API Geteway] Get kit num failed. Error Domain=com.amazonaws.AWSAPIGatewayErrorDomain Code=1 "(null)" UserInfo={HTTPHeaderFields=<CFBasicHash 0x125131e90 [0x1b3f78538]>{type = immutable dict, count = 12,
+entries =>
+	0 : Content-Type = <CFString 0x125199910 [0x1b3f78538]>{contents = "application/json"}
+	1 : x-amz-cf-id = <CFString 0x1244c2310 [0x1b3f78538]>{contents = "4Fbd62koecuXw2TlfTCzFWiWNKTbFwQGmqZjAvRnfI050uVRcA2v2g=="}
+	2 : Access-Control-Allow-Origin = *
+	3 : x-cache = <CFString 0x1244e7cd0 [0x1b3f78538]>{contents = "Error from cloudfront"}
+	5 : Via = <CFString 0x127f10d50 [0x1b3f78538]>{contents = "1.1 0cbd8799a17a2d96a24ab9504cb8ff1f.cloudfront.net (CloudFront)"}
+	6 : access-control-allow-methods = <CFString 0x1244d0f40 [0x1b3f78538]>{contents = "GET,OPTIONS"}
+	10 : access-control-allow-headers = <CFString 0x1257dd1d0 [0x1b3f78538]>{contents = "Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token"}
+	12 : x-amz-apigw-id = <CFString 0x125700440 [0x1b3f78538]>{contents = "JNHTfE96PHcFsPQ="}
+	13 : Date = <CFString 0x1251b36f0 [0x1b3f78538]>{contents = "Thu, 28 Jun 2018 17:47:53 GMT"}
+	15 : Content-Length = 1141
+	19 : x-amzn-requestid = <CFString 0x127e04710 [0x1b3f78538]>{contents = "6215dd99-7afb-11e8-b76b-7d537d54c2a6"}
+	22 : x-amzn-errortype = <CFString 0x1257da450 [0x1b3f78538]>{contents = "IncompleteSignatureException"}
+}
+, HTTPBody={
+    message = "Authorization header requires 'Credential' parameter. Authorization header requires 'Signature' parameter. Authorization header requires 'SignedHeaders' parameter. Authorization=eyJraWQiOiJDN29TT3k0T2dPS3dZYnZ5S29KYWdVZTNZRmFwUHQxYUpiU3dpNEVhY05vPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIzNjdhMWZkMS1kN2MyLTRmYTYtYTY4Mi03ZjNkNjJjZjMxMDEiLCJhdWQiOiI1aGw1aTYwdDBxZ2VjZ2d2bXJvNG9jbXVyMiIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJldmVudF9pZCI6IjYwNDQ5ZjUxLTdhZmItMTFlOC1iNjA3LTQ1YjZlN2QyNjRmOCIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNTMwMjA4MDcwLCJpc3MiOiJodHRwczpcL1wvY29nbml0by1pZHAudXMtd2VzdC0yLmFtYXpvbmF3cy5jb21cL3VzLXdlc3QtMl9HdWFMUE11dU4iLCJjb2duaXRvOnVzZXJuYW1lIjoiMTA5OTA1MTktMTc1OC00MjUzLThCQTktQTdERTUwM0ZCRDNFIiwiZXhwIjoxNTMwMjExNjcwLCJpYXQiOjE1MzAyMDgwNzAsImVtYWlsIjoiZGV2QGFpY3VyZS5jb20ifQ.OejVqgfGgkndDHtbPgepHJarA41gXk9VFJjkVL_G6SJuwOWP72UgF0E3dTgCqiEy__bih5IZMlSkQDPRAoUCvZDmlvEj2Os5Hy4PwXanBIpY5xxQwhbUBuuyCplz88DLexKVrji0Af-jaDZE0x-7hI_jKlt4Zm0mXeLqR8CYd3bYQLwftVpuAraijVmy6Z-YTcOrH8TyCz5tnoCOCKpocdcVLlOhY8AiAeNGUwJdSayPveU70f35cGaZtRdTAC6x2HP47oE0yLcVignadfiibQwKDyh_AghREnLm-u1YPPhUa0BVogkxkWWKw25H9imtNGaYOpv5-pCcsWnBI5M9fg";
+}}
+2018-06-28 13:47:53.627 | I | -[AIKitNumManager syncStatus] | [line:141] | [MESSAGE] [KitNum] No kit num status to put.
+2018-06-28 13:47:54.514 | I | getKitNum() | [line:37] | [MESSAGE] [API Gateway] Get Cognito session succeeded. Getting kit num.
+2018-06-28 13:47:54.886 | E | getKitNum() | [line:49] | [MESSAGE] [API Geteway] Get kit num failed. Error Domain=com.amazonaws.AWSAPIGatewayErrorDomain Code=1 "(null)" UserInfo={HTTPHeaderFields=<CFBasicHash 0x124f4e2a0 [0x1b3f78538]>{type = immutable dict, count = 12,
+entries =>
+	0 : Content-Type = <CFString 0x1244e0350 [0x1b3f78538]>{contents = "application/json"}
+	1 : x-amz-cf-id = <CFString 0x1244db0b0 [0x1b3f78538]>{contents = "ueIV3Mbag2HT_PPWuFTEW2rJzN2BaUmWe86figD0-NxCQwumxPAhRQ=="}
+	2 : Access-Control-Allow-Origin = *
+	3 : x-cache = <CFString 0x125725930 [0x1b3f78538]>{contents = "Error from cloudfront"}
+	5 : Via = <CFString 0x127f03ae0 [0x1b3f78538]>{contents = "1.1 0cbd8799a17a2d96a24ab9504cb8ff1f.cloudfront.net (CloudFront)"}
+	6 : access-control-allow-methods = <CFString 0x1257c4fc0 [0x1b3f78538]>{contents = "GET,OPTIONS"}
+	10 : access-control-allow-headers = <CFString 0x1244892d0 [0x1b3f78538]>{contents = "Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token"}
+	12 : x-amz-apigw-id = <CFString 0x125746080 [0x1b3f78538]>{contents = "JNHTsEBGPHcFr2g="}
+	13 : Date = <CFString 0x12572d7e0 [0x1b3f78538]>{contents = "Thu, 28 Jun 2018 17:47:54 GMT"}
+	15 : Content-Length = 1141
+	19 : x-amzn-requestid = <CFString 0x12571dc70 [0x1b3f78538]>{contents = "62d49932-7afb-11e8-8c3f-992e14f9346f"}
+	22 : x-amzn-errortype = <CFString 0x1244ec340 [0x1b3f78538]>{contents = "IncompleteSignatureException"}
+}
+, HTTPBody={
+    message = "Authorization header requires 'Credential' parameter. Authorization header requires 'Signature' parameter. Authorization header requires 'SignedHeaders' parameter. Authorization=eyJraWQiOiJDN29TT3k0T2dPS3dZYnZ5S29KYWdVZTNZRmFwUHQxYUpiU3dpNEVhY05vPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIzNjdhMWZkMS1kN2MyLTRmYTYtYTY4Mi03ZjNkNjJjZjMxMDEiLCJhdWQiOiI1aGw1aTYwdDBxZ2VjZ2d2bXJvNG9jbXVyMiIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJldmVudF9pZCI6IjYwNDQ5ZjUxLTdhZmItMTFlOC1iNjA3LTQ1YjZlN2QyNjRmOCIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNTMwMjA4MDcwLCJpc3MiOiJodHRwczpcL1wvY29nbml0by1pZHAudXMtd2VzdC0yLmFtYXpvbmF3cy5jb21cL3VzLXdlc3QtMl9HdWFMUE11dU4iLCJjb2duaXRvOnVzZXJuYW1lIjoiMTA5OTA1MTktMTc1OC00MjUzLThCQTktQTdERTUwM0ZCRDNFIiwiZXhwIjoxNTMwMjExNjcwLCJpYXQiOjE1MzAyMDgwNzAsImVtYWlsIjoiZGV2QGFpY3VyZS5jb20ifQ.OejVqgfGgkndDHtbPgepHJarA41gXk9VFJjkVL_G6SJuwOWP72UgF0E3dTgCqiEy__bih5IZMlSkQDPRAoUCvZDmlvEj2Os5Hy4PwXanBIpY5xxQwhbUBuuyCplz88DLexKVrji0Af-jaDZE0x-7hI_jKlt4Zm0mXeLqR8CYd3bYQLwftVpuAraijVmy6Z-YTcOrH8TyCz5tnoCOCKpocdcVLlOhY8AiAeNGUwJdSayPveU70f35cGaZtRdTAC6x2HP47oE0yLcVignadfiibQwKDyh_AghREnLm-u1YPPhUa0BVogkxkWWKw25H9imtNGaYOpv5-pCcsWnBI5M9fg";
+}}
+2018-06-28 13:47:54.892 | I | -[AIKitNumManager syncStatus] | [line:141] | [MESSAGE] [KitNum] No kit num status to put.
+2018-06-28 13:48:00.731 | I | -[AppDelegate applicationWillResignActive:] | [line:203] | [MESSAGE] application Will Resign Active
+2018-06-28 13:48:01.066 | I | upload(fileURL:bucket:) | [line:60] | [MESSAGE] [S3] Upload succeeded. prod-cd-temp-lambda-s3.aicure.com/non_phi/logs/0prod/1840000z23/2018-06-28/com.aicure.aiview.AiView 2018-06-28--17-34-22-260.log.

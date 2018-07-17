@@ -1,0 +1,125 @@
+2018-06-28 13:51:23.138 | I | -[AppDelegate application:didFinishLaunchingWithOptions:] | [line:191] | [MESSAGE] application Did Finish Launching
+2018-06-28 13:51:23.175 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial ID (null)
+2018-06-28 13:51:23.175 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] trial name pro
+2018-06-28 13:51:23.176 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone10,6
+2018-06-28 13:51:23.176 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] Device Hardware iPhone X
+2018-06-28 13:51:23.176 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] OS Version 11.3.1
+2018-06-28 13:51:23.176 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] AiView build version 2018.4
+2018-06-28 13:51:23.176 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device language en-US
+2018-06-28 13:51:23.177 | I | -[AppDelegate logMataData] | [line:171] | [MESSAGE] device UUID 620E5F14-4076-4EE3-8F65-EF54D603219B
+2018-06-28 13:51:23.178 | I | -[AppDelegate logMataData] | [line:174] | [MESSAGE] Patient ID (null)
+2018-06-28 13:51:23.179 | I | +[AIUtil hasInternetConnection] | [line:706] | [MESSAGE] has internet connnection = 1
+2018-06-28 13:51:23.232 | I | -[AppDelegate applicationWillResignActive:] | [line:203] | [MESSAGE] application Will Resign Active
+2018-06-28 13:51:23.703 | D | -[AiViewSwitch startApp] | [line:157] | [MESSAGE] StartApp in AiViewSwitch
+2018-06-28 13:51:23.728 | I | +[AIUtil checkPermission] | [line:1152] | [MESSAGE] camera access / mic access Not Determined
+2018-06-28 13:51:23.764 | I | -[LoginVC viewDidLoad] | [line:72] | [MESSAGE] LoginVC view did load
+2018-06-28 13:51:23.765 | I | +[AIUtil checkWifiConnection] | [line:728] | [MESSAGE] check wifi connection = CONNECT_WIFI
+2018-06-28 13:51:25.646 | I | -[AppDelegate applicationWillResignActive:] | [line:203] | [MESSAGE] application Will Resign Active
+2018-06-28 13:51:26.091 | I | -[AppDelegate applicationWillResignActive:] | [line:203] | [MESSAGE] application Will Resign Active
+2018-06-28 13:51:27.114 | I | -[AppDelegate applicationWillResignActive:] | [line:203] | [MESSAGE] application Will Resign Active
+2018-06-28 13:51:27.980 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:446] | [MESSAGE] Succeded to get APNS token data: <5a9eccaa b9367b24 29c03dbe a5edf8b7 c1446a84 d0391dd7 4451d651 6b10933d>
+2018-06-28 13:51:27.981 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:452] | [MESSAGE] deviceToken:  5a9eccaab9367b2429c03dbea5edf8b7c1446a84d0391dd74451d6516b10933d
+2018-06-28 13:52:00.800 | I | -[LoginAction loginWithUsername:password:onView:] | [line:61] | [MESSAGE] login with username password
+2018-06-28 13:52:00.800 | I | -[LoginAction getURLTaskWithUsername:password:] | [line:94] | [MESSAGE] [self.urlGetter routingUrl] https://routing.aicure.com/backend/get_url_trial
+2018-06-28 13:52:01.564 | I | -[LoginAction update:task_name:] | [line:131] | [MESSAGE] login transmission task_name routing, result 9999
+2018-06-28 13:52:02.022 | I | -[LoginAction update:task_name:] | [line:131] | [MESSAGE] login transmission task_name trial_setup, result 9999
+2018-06-28 13:52:02.160 | I | -[LoginAction update:task_name:] | [line:131] | [MESSAGE] login transmission task_name trial_setup_serialized, result 9999
+2018-06-28 13:52:02.161 | I | -[LoginAction checkTrainingTask:password:] | [line:102] | [MESSAGE] [self.urlGetter getBackendURI:self.context] https://client0prod.aicure.com/backend/backend
+2018-06-28 13:52:02.366 | I | -[LoginAction update:task_name:] | [line:131] | [MESSAGE] login transmission task_name training, result 9999
+2018-06-28 13:52:02.370 | I | -[LoginVC handleTransmissionSuccessfully] | [line:265] | [MESSAGE] handleTransmissionSuccessfully
+2018-06-28 13:52:16.318 | I | -[ParticipantLanguageViewController viewDidLoad] | [line:48] | [MESSAGE] ParticipantLanguageViewController viewDidLoad
+2018-06-28 13:52:21.019 | I | -[ParticipantLanguageViewController submitButtonPressed:] | [line:158] | [MESSAGE] language selected en
+2018-06-28 13:52:21.101 | I | -[TermConditionsVC loadWebView] | [line:160] | [MESSAGE] url https://client0prod.aicure.com/backend/backend/regulation/terms_and_conditions?lang=en
+2018-06-28 13:52:21.102 | I | -[TermConditionsVC viewDidLoad] | [line:83] | [MESSAGE] TermConditionsVC view did load
+2018-06-28 13:52:21.121 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone10,6
+2018-06-28 13:52:21.122 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone10,6
+2018-06-28 13:52:21.805 | I | -[TermConditionsVC viewDidAppear:] | [line:127] | [MESSAGE] TermConditionsVC viewDidAppear
+2018-06-28 13:52:22.189 | I | -[TermConditionsVC agreeButtonPressed:] | [line:178] | [MESSAGE] agreeButtonPressed
+2018-06-28 13:52:23.306 | I | -[AiWebView viewDidLoad] | [line:93] | [MESSAGE] enter web view page
+2018-06-28 13:52:23.333 | I | -[AiWebView webView:shouldStartLoadWithRequest:navigationType:] | [line:163] | [MESSAGE] web view page button capatured https
+2018-06-28 13:52:23.840 | I | -[AiWebView syncProtocol] | [line:153] | [MESSAGE] web view page syncProtocol
+2018-06-28 13:52:24.303 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup 9999
+2018-06-28 13:52:24.422 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup_serialized 9999
+2018-06-28 13:52:24.577 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] dose_protocol_sync 5005
+2018-06-28 13:52:24.577 | I | -[AiWebView syncProtocol] | [line:153] | [MESSAGE] web view page syncProtocol
+2018-06-28 13:52:24.685 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup 9999
+2018-06-28 13:52:24.809 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup_serialized 9999
+2018-06-28 13:52:24.909 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] dose_protocol_sync 5005
+2018-06-28 13:52:24.909 | I | -[AiWebView syncProtocol] | [line:153] | [MESSAGE] web view page syncProtocol
+2018-06-28 13:52:25.016 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup 9999
+2018-06-28 13:52:25.138 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup_serialized 9999
+2018-06-28 13:52:25.241 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] dose_protocol_sync 5005
+2018-06-28 13:52:25.241 | I | -[AiWebView syncProtocol] | [line:153] | [MESSAGE] web view page syncProtocol
+2018-06-28 13:52:25.349 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup 9999
+2018-06-28 13:52:25.482 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup_serialized 9999
+2018-06-28 13:52:25.587 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] dose_protocol_sync 5005
+2018-06-28 13:52:25.587 | I | -[AiWebView syncProtocol] | [line:153] | [MESSAGE] web view page syncProtocol
+2018-06-28 13:52:25.691 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup 9999
+2018-06-28 13:52:25.818 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup_serialized 9999
+2018-06-28 13:52:25.933 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] dose_protocol_sync 5005
+2018-06-28 13:52:25.933 | I | -[AiWebView syncProtocol] | [line:153] | [MESSAGE] web view page syncProtocol
+2018-06-28 13:52:26.042 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup 9999
+2018-06-28 13:52:26.345 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup_serialized 9999
+2018-06-28 13:52:26.453 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] dose_protocol_sync 5005
+2018-06-28 13:52:35.303 | I | -[AiWebView webView:shouldStartLoadWithRequest:navigationType:] | [line:163] | [MESSAGE] web view page button capatured https
+2018-06-28 13:52:36.189 | I | -[AiWebView webView:shouldStartLoadWithRequest:navigationType:] | [line:163] | [MESSAGE] web view page button capatured http
+2018-06-28 13:52:36.376 | I | -[AiWebView webView:shouldStartLoadWithRequest:navigationType:] | [line:163] | [MESSAGE] web view page button capatured https
+2018-06-28 13:53:27.895 | I | -[AppDelegate applicationWillResignActive:] | [line:203] | [MESSAGE] application Will Resign Active
+2018-06-28 13:54:08.035 | I | -[AiWebView webView:shouldStartLoadWithRequest:navigationType:] | [line:163] | [MESSAGE] web view page button capatured inapp
+2018-06-28 13:54:08.035 | I | -[AiWebView syncProtocol] | [line:153] | [MESSAGE] web view page syncProtocol
+2018-06-28 13:54:08.457 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup 9999
+2018-06-28 13:54:08.591 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup_serialized 9999
+2018-06-28 13:54:11.876 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] dose_protocol_sync 9999
+2018-06-28 13:54:12.450 | E | -[AICognitoHelper login]_block_invoke | [line:162] | [MESSAGE] [Cognito] Get session failed. Error Domain=com.amazonaws.AWSCognitoIdentityProviderErrorDomain Code=34 "(null)" UserInfo={__type=UserNotFoundException, message=User does not exist.}
+2018-06-28 13:54:12.484 | I | -[AiWebView goToNextPage] | [line:133] | [MESSAGE] web view page goToNextPage
+2018-06-28 13:54:12.653 | E | -[AICognitoHelper login]_block_invoke | [line:162] | [MESSAGE] [Cognito] Get session failed. Error Domain=com.amazonaws.AWSCognitoIdentityProviderErrorDomain Code=34 "(null)" UserInfo={__type=UserNotFoundException, message=User does not exist.}
+2018-06-28 13:54:12.669 | E | -[AIDownloadAssetsViewController viewDidLoad]_block_invoke | [line:53] | [MESSAGE] [Download Assets] Get Cognito session succeeded. Downloading assets.
+2018-06-28 13:54:12.672 | E | getKitNum() | [line:21] | [MESSAGE] [API Gateway] Get kit num failed. No auth token.
+2018-06-28 13:54:12.673 | I | -[AIKitNumManager syncStatus] | [line:141] | [MESSAGE] [KitNum] No kit num status to put.
+2018-06-28 13:54:12.696 | I | -[AICognitoHelper signUp]_block_invoke | [line:231] | [MESSAGE] [Cognito] Sign up succeeded.
+2018-06-28 13:54:12.790 | I | -[AICognitoHelper signUp]_block_invoke | [line:223] | [MESSAGE] [Cognito] User already exists. Logging in.
+2018-06-28 13:54:12.794 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] push_token_registration 9999
+2018-06-28 13:54:13.112 | I | -[AICognitoHelper login]_block_invoke | [line:183] | [MESSAGE] [Cognito] Get session succeeded.
+2018-06-28 13:54:13.127 | I | getKitNum() | [line:37] | [MESSAGE] [API Gateway] Get Cognito session succeeded. Getting kit num.
+2018-06-28 13:54:13.129 | E | postCachedQuestionnaireEvents() | [line:501] | [MESSAGE] [Questionnaire] Post cached questionnaire events failed. Error Domain=NSCocoaErrorDomain Code=260 "The file “event” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///var/mobile/Containers/Data/Application/92FA3F91-3D6E-4F16-A0D7-16473F6AE08A/Documents/event, NSFilePath=/var/mobile/Containers/Data/Application/92FA3F91-3D6E-4F16-A0D7-16473F6AE08A/Documents/event, NSUnderlyingError=0x1d0457520 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+2018-06-28 13:54:13.213 | I | -[AICognitoHelper login]_block_invoke | [line:183] | [MESSAGE] [Cognito] Get session succeeded.
+2018-06-28 13:54:13.218 | I | getKitNum() | [line:37] | [MESSAGE] [API Gateway] Get Cognito session succeeded. Getting kit num.
+2018-06-28 13:54:13.219 | E | postCachedQuestionnaireEvents() | [line:501] | [MESSAGE] [Questionnaire] Post cached questionnaire events failed. Error Domain=NSCocoaErrorDomain Code=260 "The file “event” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///var/mobile/Containers/Data/Application/92FA3F91-3D6E-4F16-A0D7-16473F6AE08A/Documents/event, NSFilePath=/var/mobile/Containers/Data/Application/92FA3F91-3D6E-4F16-A0D7-16473F6AE08A/Documents/event, NSUnderlyingError=0x1d4656ec0 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+2018-06-28 13:54:13.332 | E | getKitNum() | [line:49] | [MESSAGE] [API Geteway] Get kit num failed. Error Domain=com.amazonaws.AWSAPIGatewayErrorDomain Code=1 "(null)" UserInfo={HTTPHeaderFields=<CFBasicHash 0x1c426fbc0 [0x1b43b9538]>{type = immutable dict, count = 12,
+entries =>
+	0 : Content-Type = <CFString 0x1c4445b20 [0x1b43b9538]>{contents = "application/json"}
+	1 : x-amz-cf-id = <CFString 0x1c4096490 [0x1b43b9538]>{contents = "RcvXXs5LC-MvlyLUXg5Ct5Jm9TAxFs7030kRwOXFyPKFEfFtbDCcJQ=="}
+	2 : Access-Control-Allow-Origin = *
+	3 : x-cache = <CFString 0x1c444a260 [0x1b43b9538]>{contents = "Error from cloudfront"}
+	5 : Via = <CFString 0x1c40ab640 [0x1b43b9538]>{contents = "1.1 5eeb97aa7733a60bc509534d9745abc7.cloudfront.net (CloudFront)"}
+	6 : access-control-allow-methods = <CFString 0x1c4037800 [0x1b43b9538]>{contents = "GET,OPTIONS"}
+	10 : access-control-allow-headers = <CFString 0x1c40ad680 [0x1b43b9538]>{contents = "Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token"}
+	12 : x-amz-apigw-id = <CFString 0x1c44492a0 [0x1b43b9538]>{contents = "JNIO0H5yvHcFW9w="}
+	13 : Date = <CFString 0x1c4446240 [0x1b43b9538]>{contents = "Thu, 28 Jun 2018 17:54:13 GMT"}
+	15 : Content-Length = 1141
+	19 : x-amzn-requestid = <CFString 0x1c4270780 [0x1b43b9538]>{contents = "4467caed-7afc-11e8-87ba-ff09c77dd73f"}
+	22 : x-amzn-errortype = <CFString 0x1c444a170 [0x1b43b9538]>{contents = "IncompleteSignatureException"}
+}
+, HTTPBody={
+    message = "Authorization header requires 'Credential' parameter. Authorization header requires 'Signature' parameter. Authorization header requires 'SignedHeaders' parameter. Authorization=eyJraWQiOiJDN29TT3k0T2dPS3dZYnZ5S29KYWdVZTNZRmFwUHQxYUpiU3dpNEVhY05vPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI3MjZjNzQ4MS1lYzhmLTRmNWYtODRhNS03MDk1MzU4NjAyMGUiLCJhdWQiOiI1aGw1aTYwdDBxZ2VjZ2d2bXJvNG9jbXVyMiIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJldmVudF9pZCI6IjQ0NDgzNDY2LTdhZmMtMTFlOC1iNjFhLTdiZTEwMWU0Mjc1ZCIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNTMwMjA4NDUzLCJpc3MiOiJodHRwczpcL1wvY29nbml0by1pZHAudXMtd2VzdC0yLmFtYXpvbmF3cy5jb21cL3VzLXdlc3QtMl9HdWFMUE11dU4iLCJjb2duaXRvOnVzZXJuYW1lIjoiNjIwRTVGMTQtNDA3Ni00RUUzLThGNjUtRUY1NEQ2MDMyMTlCIiwiZXhwIjoxNTMwMjEyMDUzLCJpYXQiOjE1MzAyMDg0NTMsImVtYWlsIjoiZGV2QGFpY3VyZS5jb20ifQ.i4-x-XE3inSgL80jh-fv4PTZdhGlt6jGBGz9TwYMv5VoM4Ul--LeDQKwzSUkAOeUBhlvfbbMV02MtiEe5AdgvTWIsvaclX9aV2SGf-38C-Ua_ILNW088bW1C5w9u796abQkg2vP7qXzXJu5tGCgFfrOfGsJp1uk4y7HMOplUCsstJdUKtAAn-30WosNi0s1AcCHKG_r8UGOyIUeZuwcDd4u_kvCMjC60RdGvetPcH00wQxnLlOrdPpP0iefOCSSpGTqjUMKLwKwAFN7qMKT2blWEVLvO9U_lx0g-Xz2oS8A8BKyuMWEg9OaJawj3b1niDl3LYiNk02wxX308D8Myow";
+}}
+2018-06-28 13:54:13.335 | I | -[AIKitNumManager syncStatus] | [line:141] | [MESSAGE] [KitNum] No kit num status to put.
+2018-06-28 13:54:13.477 | E | getKitNum() | [line:49] | [MESSAGE] [API Geteway] Get kit num failed. Error Domain=com.amazonaws.AWSAPIGatewayErrorDomain Code=1 "(null)" UserInfo={HTTPHeaderFields=<CFBasicHash 0x1c8078900 [0x1b43b9538]>{type = immutable dict, count = 12,
+entries =>
+	0 : Content-Type = <CFString 0x1c805b000 [0x1b43b9538]>{contents = "application/json"}
+	1 : x-amz-cf-id = <CFString 0x1c80981f0 [0x1b43b9538]>{contents = "t2sjuh1ExUnCGVkTHo6_GpEc1da49YN6uvRM9ciQj88bmuLiGjkqYw=="}
+	2 : Access-Control-Allow-Origin = *
+	3 : x-cache = <CFString 0x1c8056440 [0x1b43b9538]>{contents = "Error from cloudfront"}
+	5 : Via = <CFString 0x1c80ab940 [0x1b43b9538]>{contents = "1.1 5eeb97aa7733a60bc509534d9745abc7.cloudfront.net (CloudFront)"}
+	6 : access-control-allow-methods = <CFString 0x1c8039640 [0x1b43b9538]>{contents = "GET,OPTIONS"}
+	10 : access-control-allow-headers = <CFString 0x1c80ac180 [0x1b43b9538]>{contents = "Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token"}
+	12 : x-amz-apigw-id = <CFString 0x1c805bfc0 [0x1b43b9538]>{contents = "JNIO2GJSvHcFonQ="}
+	13 : Date = <CFString 0x1c80534d0 [0x1b43b9538]>{contents = "Thu, 28 Jun 2018 17:54:13 GMT"}
+	15 : Content-Length = 1141
+	19 : x-amzn-requestid = <CFString 0x1c807e740 [0x1b43b9538]>{contents = "447efbf6-7afc-11e8-a758-6f20ee8fdf1e"}
+	22 : x-amzn-errortype = <CFString 0x1c805c7a0 [0x1b43b9538]>{contents = "IncompleteSignatureException"}
+}
+, HTTPBody={
+    message = "Authorization header requires 'Credential' parameter. Authorization header requires 'Signature' parameter. Authorization header requires 'SignedHeaders' parameter. Authorization=eyJraWQiOiJDN29TT3k0T2dPS3dZYnZ5S29KYWdVZTNZRmFwUHQxYUpiU3dpNEVhY05vPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI3MjZjNzQ4MS1lYzhmLTRmNWYtODRhNS03MDk1MzU4NjAyMGUiLCJhdWQiOiI1aGw1aTYwdDBxZ2VjZ2d2bXJvNG9jbXVyMiIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJldmVudF9pZCI6IjQ0M2EyYjAzLTdhZmMtMTFlOC1iNjA3LTQ1YjZlN2QyNjRmOCIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNTMwMjA4NDUzLCJpc3MiOiJodHRwczpcL1wvY29nbml0by1pZHAudXMtd2VzdC0yLmFtYXpvbmF3cy5jb21cL3VzLXdlc3QtMl9HdWFMUE11dU4iLCJjb2duaXRvOnVzZXJuYW1lIjoiNjIwRTVGMTQtNDA3Ni00RUUzLThGNjUtRUY1NEQ2MDMyMTlCIiwiZXhwIjoxNTMwMjEyMDUzLCJpYXQiOjE1MzAyMDg0NTMsImVtYWlsIjoiZGV2QGFpY3VyZS5jb20ifQ.YQM3MSKFj58SU8s_7_555qYaAKxYs6BuJPvS6VFfZt0nxgqBsAGEyKLXAAVz3m94jKwZlYbaGJ2noD2pO8HOaVhMSz2ZBFKyVgegTKX-hZEQMjPMwp3NiwDnj3aCa8OCY7j84ZM_CFqVhz6kJx-rH8CpBGS6xCIiiaMDxXMW3ifZWy1GjJXB-FQJqSIoZ1hnq9boWqrbilQeTaE7arxmuVCqx7qLfiYW2WkJcfShwwImuerVwOpTRZMxsESRWJyE1PRiq0cEBknjcs80R-C5DvVR1vbJA2bQkEV5V7HTNuv8d4J3J6AAjYUCh-IcxeT-KGEEH5dtqIKWynElbuifDA";
+}}
+2018-06-28 13:54:13.481 | I | -[AIKitNumManager syncStatus] | [line:141] | [MESSAGE] [KitNum] No kit num status to put.

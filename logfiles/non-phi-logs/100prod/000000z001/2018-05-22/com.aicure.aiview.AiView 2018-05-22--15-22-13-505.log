@@ -1,0 +1,24 @@
+2018-05-22 11:22:13.501 | I | -[DigitalClockVC viewDidLoad] | [line:138] | [MESSAGE] DigitalClockVC view did load
+2018-05-22 11:22:13.583 | I | -[Transmission sendAll] | [line:80] | [MESSAGE] Transmission send all
+2018-05-22 11:22:13.585 | I | -[Transmission sendAll] | [line:115] | [MESSAGE] Encrypting files
+2018-05-22 11:22:13.817 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-22 11:22:14.145 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:836] | [MESSAGE] Questionnaire ID [client100prod_1525443315-1526302685591-aedaa579-2f3e-4474-82e1-81e132adf92c] not found in active schedule ID [client100prod_1525443315_3-1526411430640-05d120b5-6a65-4851-8536-f9a125ee3bad]
+2018-05-22 11:22:14.155 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:836] | [MESSAGE] Questionnaire ID [client100prod_1525443315-1526322583899-20e945c4-c614-4eb1-b960-8f8eb49a55c3] not found in active schedule ID [client100prod_1525443315_3-1526411431122-568f4589-0ae1-44a0-be41-ca03de5deb12]
+2018-05-22 11:22:14.155 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-22 11:22:14.155 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-22 11:22:14.155 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-22 11:22:14.317 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-22 11:22:14.317 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-22 11:22:14.365 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-22 11:22:14.606 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 1
+2018-05-22 11:22:14.615 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-22 11:22:14.618 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-22 11:22:14.623 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-22 11:22:14.792 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-22 11:22:14.792 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-22 11:22:14.841 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-22 11:22:14.875 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 2
+2018-05-22 11:22:15.033 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 3
+2018-05-22 11:22:15.223 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 4
+2018-05-22 11:22:15.370 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 5
+2018-05-22 11:22:15.508 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6

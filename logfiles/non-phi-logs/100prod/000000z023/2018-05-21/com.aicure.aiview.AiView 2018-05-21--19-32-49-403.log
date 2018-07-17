@@ -1,0 +1,109 @@
+2018-05-21 15:32:49.397 | I | -[AppDelegate application:didFinishLaunchingWithOptions:] | [line:186] | [MESSAGE] application Did Finish Launching
+2018-05-21 15:32:49.435 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID (null)
+2018-05-21 15:32:49.435 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name pro
+2018-05-21 15:32:49.436 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone7,1
+2018-05-21 15:32:49.436 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone 6 PLUS
+2018-05-21 15:32:49.436 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 11.3.1
+2018-05-21 15:32:49.436 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.3
+2018-05-21 15:32:49.437 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language zh-Hans-US
+2018-05-21 15:32:49.442 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID 4EC52793-E767-478D-9749-084D29B23A30
+2018-05-21 15:32:49.444 | I | -[AppDelegate logMataData] | [line:173] | [MESSAGE] Patient ID (null)
+2018-05-21 15:32:49.448 | I | +[AIUtil hasInternetConnection] | [line:682] | [MESSAGE] has internet connnection = 1
+2018-05-21 15:32:49.999 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-21 15:32:50.298 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-21 15:32:50.485 | I | +[AIUtil checkPermission] | [line:1128] | [MESSAGE] camera access / mic access Not Determined
+2018-05-21 15:32:50.762 | I | -[LoginVC viewDidLoad] | [line:72] | [MESSAGE] LoginVC view did load
+2018-05-21 15:32:50.765 | I | +[AIUtil checkWifiConnection] | [line:704] | [MESSAGE] check wifi connection = CONNECT_WIFI
+2018-05-21 15:32:56.215 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-21 15:32:56.728 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-21 15:32:58.156 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-21 15:33:00.347 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:437] | [MESSAGE] Succeded to get APNS token data: <1fe0f441 e4d28f49 7ff818f1 83fbd68e bfc6992a fedc0a94 cec6a547 c03830df>
+2018-05-21 15:33:00.347 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:443] | [MESSAGE] deviceToken:  1fe0f441e4d28f497ff818f183fbd68ebfc6992afedc0a94cec6a547c03830df
+2018-05-21 15:33:07.709 | I | -[RelinkAction relinkWithUsername:code:] | [line:92] | [MESSAGE] relinkWithUsername 4EC52793-E767-478D-9749-084D29B23A30 url /backend/backend
+2018-05-21 15:33:08.329 | I | -[RelinkAction update:task_name:] | [line:152] | [MESSAGE] relink transmission task_name routing, result 9999
+2018-05-21 15:33:09.447 | I | -[RelinkAction update:task_name:] | [line:152] | [MESSAGE] relink transmission task_name Relink, result 9999
+2018-05-21 15:33:09.605 | I | -[RelinkAction update:task_name:] | [line:152] | [MESSAGE] relink transmission task_name kiosk_dose_check, result 9999
+2018-05-21 15:33:09.754 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup 9999
+2018-05-21 15:33:09.937 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup_serialized 9999
+2018-05-21 15:33:10.263 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] dose_protocol_sync 9999
+2018-05-21 15:33:11.125 | I | -[LoginVC handleRelinkSuccess] | [line:334] | [MESSAGE] relink success
+2018-05-21 15:33:11.552 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] push_token_registration 9999
+2018-05-21 15:33:13.660 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-21 15:33:13.663 | I | +[AIUtil checkPermission] | [line:1131] | [MESSAGE] camera access / mic access Authorized
+2018-05-21 15:33:13.810 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-21 15:33:13.992 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:254] | [MESSAGE] Neural network config download succeeded.
+2018-05-21 15:33:15.030 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:254] | [MESSAGE] Neural network config download succeeded.
+2018-05-21 15:33:15.089 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 1
+2018-05-21 15:33:15.106 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:165] | [MESSAGE] protocolID: 3, doseID: 0, numPillsInCurrentMed: 1, correctPillName: smarties-white, targetDate: 2018-05-21 04:00:00 +0000
+2018-05-21 15:33:15.106 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 1
+2018-05-21 15:33:15.109 | I | -[InteruptionRecovery checkInteruptionAndProcessWithUser:inManagedObjectContext:] | [line:93] | [MESSAGE] no interruption found
+2018-05-21 15:33:15.110 | I | -[AiView defineProcess:currentTime:context:] | [line:163] | [MESSAGE] ==== interuptionStatus ==== 10002
+2018-05-21 15:33:15.110 | I | -[AiView defineProcess:currentTime:context:] | [line:165] | [MESSAGE] NO_INTERUPTION_FOUND
+2018-05-21 15:33:15.110 | I | -[AiView defineProcess:currentTime:context:] | [line:167] | [MESSAGE] ==== go to start ====
+2018-05-21 15:33:15.175 | I | -[StartPageViewController viewDidLoad] | [line:65] | [MESSAGE] view did load
+2018-05-21 15:33:15.768 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:259] | [MESSAGE] Neural network model download succeeded. Filename: pih-generic-20180508.mlmodel.
+2018-05-21 15:33:16.594 | I | -[StartPageViewController onStartButtonPressed:] | [line:138] | [MESSAGE] POP_QUESTION_BEFORE_DOSING == 0
+2018-05-21 15:33:16.606 | I | -[AiViewDaily viewDidLoad] | [line:52] | [MESSAGE] AiViewDaily view did load
+2018-05-21 15:33:16.606 | I | -[AiViewDaily viewDidLoad] | [line:70] | [MESSAGE] Current medication name smarties-white
+2018-05-21 15:33:16.606 | I | -[AiViewDaily viewDidLoad] | [line:71] | [MESSAGE] Current dosing amount 0
+2018-05-21 15:33:16.606 | I | -[AiViewDaily viewDidLoad] | [line:77] | [MESSAGE] Current dosing steps 0, 1, 2, 3, 9, 
+2018-05-21 15:33:16.709 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: smarties-white, shape: round, color: white.
+2018-05-21 15:33:17.275 | I | -[StepsController init:uiView:steps:viewController:recordVideo:] | [line:90] | [MESSAGE] should record video flag 0
+2018-05-21 15:33:17.279 | I | +[AIUtil checkPermission] | [line:1131] | [MESSAGE] camera access / mic access Authorized
+2018-05-21 15:33:17.281 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-21 15:33:18.684 | I | -[FlexibleVideoPlayerController playTutorialVideoOnView:step:] | [line:178] | [MESSAGE] playTutorialVideo short_version_face_identification_order_0_numpill_0_total_0
+2018-05-21 15:33:18.690 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:259] | [MESSAGE] Neural network model download succeeded. Filename: MC_MN05_resplit.mlmodel.
+2018-05-21 15:33:18.691 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:265] | [MESSAGE] model is updated on 2018-05-21 15:33:18
+2018-05-21 15:33:41.620 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-21 15:33:41.620 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 0
+2018-05-21 15:33:41.688 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-05-21 15:33:41.689 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-05-21 15:33:42.112 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-21 15:33:42.121 | I | -[FlexibleVideoPlayerController videoPlayingComplete:] | [line:193] | [MESSAGE] flex video videoPlayingComplete
+2018-05-21 15:34:00.337 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-05-21 15:34:00.504 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 10
+2018-05-21 15:34:00.860 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-21 15:34:00.892 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-05-21 15:34:01.162 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-05-21 15:34:01.162 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-05-21 15:34:01.219 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-21 15:34:01.252 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-05-21 15:34:01.507 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-05-21 15:34:01.507 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-05-21 15:34:01.537 | I | -[CameraUIView displayError:] | [line:286] | [MESSAGE] show error animation; error type 18
+2018-05-21 15:34:02.927 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-05-21 15:34:02.955 | I | -[CameraUIView displayConfirm] | [line:329] | [MESSAGE] show step confirm animation
+2018-05-21 15:34:02.955 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-05-21 15:34:05.111 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-05-21 15:34:05.138 | I | -[FlexibleVideoPlayerController playTutorialVideoOnView:step:] | [line:178] | [MESSAGE] playTutorialVideo full_version_pill_identification_order_0_numpill_0_total_0
+2018-05-21 15:34:30.189 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-21 15:34:30.189 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 1
+2018-05-21 15:34:31.438 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-05-21 15:34:31.438 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-05-21 15:34:31.648 | I | -[FlexibleVideoPlayerController videoPlayingComplete:] | [line:193] | [MESSAGE] flex video videoPlayingComplete
+2018-05-21 15:34:44.743 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-05-21 15:34:46.762 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 10
+2018-05-21 15:34:47.120 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-21 15:34:47.149 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-05-21 15:34:47.431 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-05-21 15:34:47.431 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-05-21 15:34:47.466 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-21 15:34:49.658 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-05-21 15:34:49.966 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-05-21 15:34:49.966 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-05-21 15:34:49.984 | I | -[CameraUIView displayError:] | [line:286] | [MESSAGE] show error animation; error type 18
+2018-05-21 15:34:51.038 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-21 15:34:53.150 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-05-21 15:34:53.439 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-05-21 15:34:53.440 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-05-21 15:34:53.460 | I | -[CameraUIView displayError:] | [line:286] | [MESSAGE] show error animation; error type 18
+2018-05-21 15:34:55.522 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-21 15:34:59.844 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-05-21 15:35:00.184 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-05-21 15:35:00.184 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-05-21 15:35:00.201 | I | -[CameraUIView displayError:] | [line:286] | [MESSAGE] show error animation; error type 18
+2018-05-21 15:35:03.709 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-21 15:35:04.006 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-05-21 15:35:04.300 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-05-21 15:35:04.300 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-05-21 15:35:04.319 | I | -[CameraUIView displayError:] | [line:286] | [MESSAGE] show error animation; error type 18

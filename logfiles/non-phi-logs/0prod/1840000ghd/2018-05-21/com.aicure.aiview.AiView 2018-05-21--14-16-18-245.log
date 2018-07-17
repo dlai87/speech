@@ -1,0 +1,24 @@
+2018-05-21 10:16:18.238 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-21 10:16:19.589 | I | -[AiViewDaily viewDidLoad] | [line:52] | [MESSAGE] AiViewDaily view did load
+2018-05-21 10:16:19.589 | I | -[AiViewDaily viewDidLoad] | [line:70] | [MESSAGE] Current medication name (null)
+2018-05-21 10:16:19.589 | I | -[AiViewDaily viewDidLoad] | [line:71] | [MESSAGE] Current dosing amount 50
+2018-05-21 10:16:19.589 | I | -[AiViewDaily viewDidLoad] | [line:77] | [MESSAGE] Current dosing steps 0, 1, 2, 3, 9, 
+2018-05-21 10:16:19.621 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: (null), shape: round, color: (null).
+2018-05-21 10:16:20.139 | I | -[StepsController init:uiView:steps:viewController:recordVideo:] | [line:90] | [MESSAGE] should record video flag 0
+2018-05-21 10:16:20.141 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-05-21 10:16:20.143 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-21 10:16:20.990 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-21 10:16:20.991 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 0
+2018-05-21 10:16:21.011 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-05-21 10:16:21.011 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-05-21 10:16:21.083 | I | -[CameraUIView displayPreInstruction:] | [line:185] | [MESSAGE] show pre instruction animation
+2018-05-21 10:16:21.083 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-21 10:16:26.092 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-05-21 10:16:26.190 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName D_3_1_Head_in_Outline
+2018-05-21 10:16:26.190 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name D_3_1_Head_in_Outline
+2018-05-21 10:16:26.289 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-05-21 10:16:26.343 | I | -[CameraUIView displayConfirm] | [line:329] | [MESSAGE] show step confirm animation
+2018-05-21 10:16:26.343 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-05-21 10:16:28.498 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-05-21 10:16:28.498 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-21 10:16:28.498 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 1

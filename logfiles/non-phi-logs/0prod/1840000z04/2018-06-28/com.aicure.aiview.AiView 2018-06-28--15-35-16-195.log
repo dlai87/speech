@@ -1,0 +1,73 @@
+2018-06-28 11:35:16.175 | I | -[AppDelegate application:didFinishLaunchingWithOptions:] | [line:191] | [MESSAGE] application Did Finish Launching
+2018-06-28 11:35:16.522 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial ID (null)
+2018-06-28 11:35:16.523 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] trial name pro
+2018-06-28 11:35:16.524 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone7,1
+2018-06-28 11:35:16.524 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] Device Hardware iPhone 6 PLUS
+2018-06-28 11:35:16.524 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] OS Version 11.4
+2018-06-28 11:35:16.524 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] AiView build version 2018.4
+2018-06-28 11:35:16.524 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device language en-US
+2018-06-28 11:35:16.527 | I | -[AppDelegate logMataData] | [line:171] | [MESSAGE] device UUID 551C694B-57BD-4364-991F-78AE82B26855
+2018-06-28 11:35:16.529 | I | -[AppDelegate logMataData] | [line:174] | [MESSAGE] Patient ID (null)
+2018-06-28 11:35:16.531 | I | +[AIUtil hasInternetConnection] | [line:706] | [MESSAGE] has internet connnection = 1
+2018-06-28 11:35:16.971 | I | -[AppDelegate applicationWillResignActive:] | [line:203] | [MESSAGE] application Will Resign Active
+2018-06-28 11:35:17.169 | D | -[AiViewSwitch startApp] | [line:157] | [MESSAGE] StartApp in AiViewSwitch
+2018-06-28 11:35:17.374 | I | +[AIUtil checkPermission] | [line:1152] | [MESSAGE] camera access / mic access Not Determined
+2018-06-28 11:35:17.612 | I | -[LoginVC viewDidLoad] | [line:72] | [MESSAGE] LoginVC view did load
+2018-06-28 11:35:17.615 | I | +[AIUtil checkWifiConnection] | [line:728] | [MESSAGE] check wifi connection = CONNECT_WIFI
+2018-06-28 11:42:52.071 | I | -[AppDelegate applicationWillResignActive:] | [line:203] | [MESSAGE] application Will Resign Active
+2018-06-28 11:42:52.658 | I | -[AppDelegate applicationWillResignActive:] | [line:203] | [MESSAGE] application Will Resign Active
+2018-06-28 11:42:53.284 | I | -[AppDelegate applicationWillResignActive:] | [line:203] | [MESSAGE] application Will Resign Active
+2018-06-28 11:44:18.902 | I | -[AppDelegate applicationWillResignActive:] | [line:203] | [MESSAGE] application Will Resign Active
+2018-06-28 11:44:20.434 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:446] | [MESSAGE] Succeded to get APNS token data: <05b0a6f0 6bbc4ab0 a074786b deb4e810 3d6e9a4e f5165c2f ee28b139 092affce>
+2018-06-28 11:44:20.439 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:452] | [MESSAGE] deviceToken:  05b0a6f06bbc4ab0a074786bdeb4e8103d6e9a4ef5165c2fee28b139092affce
+2018-06-28 11:44:27.721 | I | -[RelinkAction relinkWithUsername:code:] | [line:92] | [MESSAGE] relinkWithUsername 551C694B-57BD-4364-991F-78AE82B26855 url /backend/backend
+2018-06-28 11:44:28.228 | I | -[RelinkAction update:task_name:] | [line:149] | [MESSAGE] relink transmission task_name routing, result 9999
+2018-06-28 11:44:33.308 | I | -[RelinkAction update:task_name:] | [line:149] | [MESSAGE] relink transmission task_name Relink, result 9999
+2018-06-28 11:44:34.321 | I | -[RelinkAction update:task_name:] | [line:149] | [MESSAGE] relink transmission task_name kiosk_dose_check, result 9999
+2018-06-28 11:44:34.459 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup 9999
+2018-06-28 11:44:34.656 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup_serialized 9999
+2018-06-28 11:44:39.307 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] dose_protocol_sync 9999
+2018-06-28 11:44:40.042 | E | -[AICognitoHelper login]_block_invoke | [line:162] | [MESSAGE] [Cognito] Get session failed. Error Domain=com.amazonaws.AWSCognitoIdentityProviderErrorDomain Code=34 "(null)" UserInfo={__type=UserNotFoundException, message=User does not exist.}
+2018-06-28 11:44:40.103 | I | -[LoginVC handleRelinkSuccess] | [line:334] | [MESSAGE] relink success
+2018-06-28 11:44:40.444 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] push_token_registration 9999
+2018-06-28 11:44:40.519 | I | -[AICognitoHelper signUp]_block_invoke | [line:231] | [MESSAGE] [Cognito] Sign up succeeded.
+2018-06-28 11:44:40.996 | I | -[AICognitoHelper login]_block_invoke | [line:183] | [MESSAGE] [Cognito] Get session succeeded.
+2018-06-28 11:44:41.100 | E | postCachedQuestionnaireEvents() | [line:501] | [MESSAGE] [Questionnaire] Post cached questionnaire events failed. Error Domain=NSCocoaErrorDomain Code=260 "The file “event” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///var/mobile/Containers/Data/Application/40073C57-0DDF-48FC-93BC-14F4AE4ED5CF/Documents/event, NSFilePath=/var/mobile/Containers/Data/Application/40073C57-0DDF-48FC-93BC-14F4AE4ED5CF/Documents/event, NSUnderlyingError=0x10aa7f3e0 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+2018-06-28 11:44:42.748 | D | -[AiViewSwitch startApp] | [line:157] | [MESSAGE] StartApp in AiViewSwitch
+2018-06-28 11:44:42.764 | I | +[AIUtil checkPermission] | [line:1155] | [MESSAGE] camera access / mic access Authorized
+2018-06-28 11:44:43.132 | I | -[AiView viewDidLoad] | [line:69] | [MESSAGE] AiView view did load
+2018-06-28 11:44:44.340 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 1
+2018-06-28 11:44:44.365 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:165] | [MESSAGE] protocolID: 5, doseID: 0, numPillsInCurrentMed: 1, correctPillName: ctn, targetDate: 2018-06-28 04:00:00 +0000
+2018-06-28 11:44:44.365 | I | -[AiView defineProcess:currentTime:context:] | [line:158] | [MESSAGE] allMedsWithinDoseNotFinished 1
+2018-06-28 11:44:44.368 | I | -[InteruptionRecovery checkInteruptionAndProcessWithUser:inManagedObjectContext:] | [line:93] | [MESSAGE] no interruption found
+2018-06-28 11:44:44.368 | I | -[AiView defineProcess:currentTime:context:] | [line:164] | [MESSAGE] ==== interuptionStatus ==== 10002
+2018-06-28 11:44:44.368 | I | -[AiView defineProcess:currentTime:context:] | [line:166] | [MESSAGE] NO_INTERUPTION_FOUND
+2018-06-28 11:44:44.368 | I | -[AiView defineProcess:currentTime:context:] | [line:168] | [MESSAGE] ==== go to start ====
+2018-06-28 11:44:44.458 | I | -[StartPageViewController viewDidLoad] | [line:65] | [MESSAGE] view did load
+2018-06-28 11:44:44.603 | I | -[AICognitoHelper login]_block_invoke | [line:183] | [MESSAGE] [Cognito] Get session succeeded.
+2018-06-28 11:44:44.609 | E | postCachedQuestionnaireEvents() | [line:501] | [MESSAGE] [Questionnaire] Post cached questionnaire events failed. Error Domain=NSCocoaErrorDomain Code=260 "The file “event” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///var/mobile/Containers/Data/Application/40073C57-0DDF-48FC-93BC-14F4AE4ED5CF/Documents/event, NSFilePath=/var/mobile/Containers/Data/Application/40073C57-0DDF-48FC-93BC-14F4AE4ED5CF/Documents/event, NSUnderlyingError=0x10c84ea90 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+2018-06-28 11:54:01.845 | I | -[AppDelegate applicationWillResignActive:] | [line:203] | [MESSAGE] application Will Resign Active
+2018-06-28 11:54:02.627 | I | -[AppDelegate cleanAlertDialog] | [line:378] | [MESSAGE] clean Alert Dialog
+2018-06-28 13:12:26.063 | I | -[AppDelegate applicationWillEnterForeground:] | [line:227] | [MESSAGE] application will enter foreground
+2018-06-28 13:12:26.160 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial ID 0prod1499883450
+2018-06-28 13:12:26.197 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] trial name 0prod
+2018-06-28 13:12:26.207 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone7,1
+2018-06-28 13:12:26.207 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] Device Hardware iPhone 6 PLUS
+2018-06-28 13:12:26.207 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] OS Version 11.4
+2018-06-28 13:12:26.207 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] AiView build version 2018.4
+2018-06-28 13:12:26.207 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device language en-US
+2018-06-28 13:12:26.216 | I | -[AppDelegate logMataData] | [line:171] | [MESSAGE] device UUID 551C694B-57BD-4364-991F-78AE82B26855
+2018-06-28 13:12:26.219 | I | -[AppDelegate logMataData] | [line:174] | [MESSAGE] Patient ID 1840000z04
+2018-06-28 13:12:26.226 | I | +[AIUtil hasInternetConnection] | [line:706] | [MESSAGE] has internet connnection = 1
+2018-06-28 13:12:27.140 | D | -[AiViewSwitch startApp] | [line:157] | [MESSAGE] StartApp in AiViewSwitch
+2018-06-28 13:12:27.149 | I | +[AIUtil checkPermission] | [line:1155] | [MESSAGE] camera access / mic access Authorized
+2018-06-28 13:12:27.565 | I | -[AiView viewDidLoad] | [line:69] | [MESSAGE] AiView view did load
+2018-06-28 13:12:28.732 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 1
+2018-06-28 13:12:28.761 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:165] | [MESSAGE] protocolID: 5, doseID: 0, numPillsInCurrentMed: 1, correctPillName: ctn, targetDate: 2018-06-28 04:00:00 +0000
+2018-06-28 13:12:28.761 | I | -[AiView defineProcess:currentTime:context:] | [line:158] | [MESSAGE] allMedsWithinDoseNotFinished 1
+2018-06-28 13:12:28.765 | I | -[InteruptionRecovery checkInteruptionAndProcessWithUser:inManagedObjectContext:] | [line:93] | [MESSAGE] no interruption found
+2018-06-28 13:12:28.765 | I | -[AiView defineProcess:currentTime:context:] | [line:164] | [MESSAGE] ==== interuptionStatus ==== 10002
+2018-06-28 13:12:28.765 | I | -[AiView defineProcess:currentTime:context:] | [line:166] | [MESSAGE] NO_INTERUPTION_FOUND
+2018-06-28 13:12:28.765 | I | -[AiView defineProcess:currentTime:context:] | [line:168] | [MESSAGE] ==== go to start ====
+2018-06-28 13:12:28.881 | I | -[StartPageViewController viewDidLoad] | [line:65] | [MESSAGE] view did load
+2018-06-28 13:12:32.111 | I | -[AICognitoHelper login]_block_invoke | [line:183] | [MESSAGE] [Cognito] Get session succeeded.

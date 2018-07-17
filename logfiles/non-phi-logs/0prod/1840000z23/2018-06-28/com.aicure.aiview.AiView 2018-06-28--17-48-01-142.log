@@ -1,0 +1,2 @@
+2018-06-28 13:48:01.138 | I | upload(fileURL:bucket:) | [line:60] | [MESSAGE] [S3] Upload succeeded. prod-cd-temp-lambda-s3.aicure.com/non_phi/logs/0prod/1840000z23/2018-06-28/com.aicure.aiview.AiView 2018-06-28--17-47-52-801.log.
+2018-06-28 13:48:01.555 | I | -[AppDelegate cleanAlertDialog] | [line:378] | [MESSAGE] clean Alert Dialog

@@ -1,0 +1,43 @@
+2018-06-01 08:58:18.939 | I | -[AppDelegate application:didFinishLaunchingWithOptions:] | [line:186] | [MESSAGE] application Did Finish Launching
+2018-06-01 08:58:18.967 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID client100prod_1525443315
+2018-06-01 08:58:18.968 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name pro
+2018-06-01 08:58:18.970 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone10,6
+2018-06-01 08:58:18.970 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone X
+2018-06-01 08:58:18.970 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 11.3.1
+2018-06-01 08:58:18.970 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.3
+2018-06-01 08:58:18.970 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language en-US
+2018-06-01 08:58:18.971 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID 43CBF65F-4631-46A0-BD52-C9BC78449D01
+2018-06-01 08:58:18.973 | I | -[AppDelegate logMataData] | [line:173] | [MESSAGE] Patient ID (null)
+2018-06-01 08:58:18.975 | I | +[AIUtil hasInternetConnection] | [line:683] | [MESSAGE] has internet connnection = 1
+2018-06-01 08:58:19.037 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:437] | [MESSAGE] Succeded to get APNS token data: <db7f2d95 46ca272a c20c057d 92e36e73 7d16cae5 b2e76298 664bd3ad 945aa4c5>
+2018-06-01 08:58:19.037 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:443] | [MESSAGE] deviceToken:  db7f2d9546ca272ac20c057d92e36e737d16cae5b2e76298664bd3ad945aa4c5
+2018-06-01 08:58:19.536 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-06-01 08:58:19.558 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-06-01 08:58:19.670 | I | -[DigitalClockVC viewDidLoad] | [line:138] | [MESSAGE] DigitalClockVC view did load
+2018-06-01 08:58:19.709 | I | -[Transmission sendAll] | [line:80] | [MESSAGE] Transmission send all
+2018-06-01 08:58:19.712 | I | -[Transmission sendAll] | [line:115] | [MESSAGE] Encrypting files
+2018-06-01 08:58:19.740 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-06-01 08:58:19.761 | E | loadUnsentQuestionnaires() | [line:475] | [MESSAGE] [Questionnaire] Loading saved questionnaire event(s) failed. Error Domain=NSCocoaErrorDomain Code=260 "The file “event” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///var/mobile/Containers/Data/Application/EB49B994-F31D-4DDD-A945-CF705A8E66FD/Documents/event, NSFilePath=/var/mobile/Containers/Data/Application/EB49B994-F31D-4DDD-A945-CF705A8E66FD/Documents/event, NSUnderlyingError=0x1d025f1d0 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+2018-06-01 08:58:19.761 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:815] | [MESSAGE] No questionnaire or action schedule found.
+2018-06-01 08:58:19.761 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-06-01 08:58:19.761 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-06-01 08:58:19.762 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-06-01 08:58:19.782 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-06-01 08:58:19.782 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-06-01 08:58:19.788 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-06-01 08:58:19.871 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Update_device_version failed
+2018-06-01 08:58:19.872 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 1
+2018-06-01 08:58:19.997 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task pk_clinic_visit_only failed
+2018-06-01 08:58:19.998 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 2
+2018-06-01 08:58:20.117 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task push_token_registration failed
+2018-06-01 08:58:20.119 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 3
+2018-06-01 08:58:20.255 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task kiosk_dose_check failed
+2018-06-01 08:58:20.256 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 4
+2018-06-01 08:58:20.384 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task questionnaire_sync failed
+2018-06-01 08:58:20.385 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 5
+2018-06-01 08:58:20.506 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task reimbursement_sync failed
+2018-06-01 08:58:20.507 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6
+2018-06-01 08:58:20.627 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-06-01 08:58:20.710 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-06-01 08:58:21.605 | I | -[AppDelegate cleanAlertDialog] | [line:369] | [MESSAGE] clean Alert Dialog
+2018-06-01 08:58:21.702 | I | sendUnsentQuestionnaires() | [line:485] | [MESSAGE] [Questionnaire] Posting saved questionnaire event(s).

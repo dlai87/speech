@@ -1,0 +1,449 @@
+2018-05-23 23:30:23.845 | I | -[AppDelegate cleanAlertDialog] | [line:369] | [MESSAGE] clean Alert Dialog
+2018-05-23 21:30:41.692 | I | -[AppDelegate applicationWillEnterForeground:] | [line:227] | [MESSAGE] application will enter foreground
+2018-05-23 21:30:41.692 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID client100prod_1525443315
+2018-05-23 21:30:41.693 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name 100prod
+2018-05-23 21:30:41.694 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone10,6
+2018-05-23 21:30:41.694 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone X
+2018-05-23 21:30:41.694 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 11.3.1
+2018-05-23 21:30:41.694 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.3
+2018-05-23 21:30:41.694 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language en-US
+2018-05-23 21:30:41.695 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID 832E81FF-719C-4FF4-A381-0192EDDB4EBE
+2018-05-23 21:30:41.695 | I | -[AppDelegate logMataData] | [line:173] | [MESSAGE] Patient ID 000000llee
+2018-05-23 21:30:41.695 | I | +[AIUtil hasInternetConnection] | [line:683] | [MESSAGE] has internet connnection = 1
+2018-05-23 21:30:42.249 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-23 21:30:42.250 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-05-23 21:30:42.310 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-23 21:30:43.561 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-23 21:30:44.211 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 0
+2018-05-23 21:30:44.211 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 0
+2018-05-23 21:30:44.236 | I | -[MedicationConfirmVC viewDidLoad] | [line:45] | [MESSAGE] MedicationConfirmVC view did load
+2018-05-23 21:30:44.456 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:261] | [MESSAGE] [DNN] Downloading neural network config succeeded.
+2018-05-23 21:30:44.457 | I | sendUnsentQuestionnaires() | [line:485] | [MESSAGE] [Questionnaire] Posting saved questionnaire event(s).
+2018-05-23 21:30:44.653 | I | getPatientSchdule() | [line:54] | [MESSAGE] [API Gateway] Getting action schedules success.
+2018-05-23 21:30:44.659 | I | saveActionSchedulesToFile(actionSchedules:) | [line:98] | [MESSAGE] [Action Schedules] Saving action schedules succeeded. Filename: action_schedules.
+2018-05-23 21:30:44.663 | I | saveQuestionnaireIDsToFile(trialID:) | [line:193] | [MESSAGE] [Questionnaire] Saving questionnaire IDs succeeded. Filename: questionnaireIDs_client100prod_1525443315.
+2018-05-23 21:30:44.663 | I | getQuestionnaireIDs(trialID:) | [line:88] | [MESSAGE] [API Gateway] Getting questionnaire IDs succeeded. TrialID: client100prod_1525443315. Questionnaire IDs: ["client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b", "client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197", "client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3", "client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4", "client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6", "client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf", "client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede"]
+2018-05-23 21:30:44.801 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b. Name: Facial Expression Exercise.
+2018-05-23 21:30:44.812 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Saving questionnaire succeeded. Filename: client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b.
+2018-05-23 21:30:44.818 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6. Name: Ecological Momentary Assessment.
+2018-05-23 21:30:44.823 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Saving questionnaire succeeded. Filename: client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6.
+2018-05-23 21:30:44.873 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197. Name: VST Day 7.
+2018-05-23 21:30:44.879 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Saving questionnaire succeeded. Filename: client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197.
+2018-05-23 21:30:44.916 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName conclusion_11
+2018-05-23 21:30:44.916 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name conclusion_11
+2018-05-23 21:30:44.938 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4. Name: VST and ANSA Day 1.
+2018-05-23 21:30:44.958 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Saving questionnaire succeeded. Filename: client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4.
+2018-05-23 21:30:44.959 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede. Name: delete.
+2018-05-23 21:30:44.959 | I | getQuestionnaire(questionnaireID:) | [line:136] | [MESSAGE] [API Gateway] Questionnaire is neither active nor daily_dose mode. Skip it. Questionnaire ID: Questionnaire ID: client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede. Name: delete
+2018-05-23 21:30:44.990 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf. Name: CDX Training Set.
+2018-05-23 21:30:44.996 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Saving questionnaire succeeded. Filename: client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf.
+2018-05-23 21:30:45.014 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3. Name: VST and ANSA Day 14.
+2018-05-23 21:30:45.035 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Saving questionnaire succeeded. Filename: client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3.
+2018-05-23 21:30:49.833 | I | -[DigitalClockVC viewDidLoad] | [line:138] | [MESSAGE] DigitalClockVC view did load
+2018-05-23 21:30:49.864 | I | -[Transmission sendAll] | [line:80] | [MESSAGE] Transmission send all
+2018-05-23 21:30:49.865 | I | -[Transmission sendAll] | [line:115] | [MESSAGE] Encrypting files
+2018-05-23 21:30:49.889 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-23 21:30:49.915 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:836] | [MESSAGE] Questionnaire ID [client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf] not found in active schedule ID [client100prod_1525443315_56-1527132580133-cf7f2a02-797f-4c67-b4be-d909c96b1b08]
+2018-05-23 21:30:49.917 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-23 21:30:49.917 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 21:30:49.917 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 21:30:49.940 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 21:30:49.940 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 21:30:49.947 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-23 21:30:49.998 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-23 21:30:49.998 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 21:30:49.998 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 21:30:50.020 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 21:30:50.020 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 21:30:50.027 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-23 21:30:50.031 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 1
+2018-05-23 21:30:50.144 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 2
+2018-05-23 21:30:50.256 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 3
+2018-05-23 21:30:50.391 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 4
+2018-05-23 21:30:50.517 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 5
+2018-05-23 21:30:50.669 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6
+2018-05-23 21:30:50.800 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-23 21:30:51.051 | I | -[DigitalClockVC showQuestionnaire] | [line:788] | [MESSAGE] showQuestionnaire
+2018-05-23 21:30:51.391 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:261] | [MESSAGE] [DNN] Downloading neural network config succeeded.
+2018-05-23 21:30:51.394 | I | sendUnsentQuestionnaires() | [line:485] | [MESSAGE] [Questionnaire] Posting saved questionnaire event(s).
+2018-05-23 21:30:51.526 | I | saveQuestionnaireIDsToFile(trialID:) | [line:193] | [MESSAGE] [Questionnaire] Saving questionnaire IDs succeeded. Filename: questionnaireIDs_client100prod_1525443315.
+2018-05-23 21:30:51.527 | I | getQuestionnaireIDs(trialID:) | [line:88] | [MESSAGE] [API Gateway] Getting questionnaire IDs succeeded. TrialID: client100prod_1525443315. Questionnaire IDs: ["client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b", "client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197", "client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3", "client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4", "client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6", "client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf", "client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede"]
+2018-05-23 21:30:51.579 | I | getPatientSchdule() | [line:54] | [MESSAGE] [API Gateway] Getting action schedules success.
+2018-05-23 21:30:51.579 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-23 21:30:51.611 | I | saveActionSchedulesToFile(actionSchedules:) | [line:98] | [MESSAGE] [Action Schedules] Saving action schedules succeeded. Filename: action_schedules.
+2018-05-23 21:30:51.635 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede. Name: delete.
+2018-05-23 21:30:51.636 | I | getQuestionnaire(questionnaireID:) | [line:136] | [MESSAGE] [API Gateway] Questionnaire is neither active nor daily_dose mode. Skip it. Questionnaire ID: Questionnaire ID: client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede. Name: delete
+2018-05-23 21:30:51.645 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b. Name: Facial Expression Exercise.
+2018-05-23 21:30:51.649 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Saving questionnaire succeeded. Filename: client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b.
+2018-05-23 21:30:51.664 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6. Name: Ecological Momentary Assessment.
+2018-05-23 21:30:51.667 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Saving questionnaire succeeded. Filename: client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6.
+2018-05-23 21:30:51.684 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf. Name: CDX Training Set.
+2018-05-23 21:30:51.689 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Saving questionnaire succeeded. Filename: client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf.
+2018-05-23 21:30:51.722 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197. Name: VST Day 7.
+2018-05-23 21:30:51.727 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Saving questionnaire succeeded. Filename: client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197.
+2018-05-23 21:30:51.816 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3. Name: VST and ANSA Day 14.
+2018-05-23 21:30:51.835 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Saving questionnaire succeeded. Filename: client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3.
+2018-05-23 21:30:51.971 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4. Name: VST and ANSA Day 1.
+2018-05-23 21:30:51.990 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Saving questionnaire succeeded. Filename: client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4.
+2018-05-23 21:30:51.990 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-23 21:30:52.230 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-23 21:30:52.230 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-23 21:30:52.261 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-23 21:30:52.261 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-23 21:30:52.279 | I | -[AIARViewController viewDidLoad] | [line:85] | [MESSAGE] AIARViewController viewDidLoad finished.
+2018-05-23 21:30:52.715 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-23 21:30:52.715 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 21:30:52.715 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 21:30:52.745 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 21:30:52.745 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 21:30:52.754 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-23 21:30:52.759 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-23 21:30:52.759 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 21:30:52.759 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 21:30:52.785 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 21:30:52.785 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 21:30:52.792 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-23 21:30:59.887 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/mobile/Containers/Data/Application/E0EB96E3-3E24-49F0-91FD-C0348FCD5E85/Library/Application%20Support/questionnaire/assets/7ac2b82d-f20e-48fe-bfd6-08800ee92e92_3.mp3. Successfully? 1
+2018-05-23 21:31:00.460 | I | -[AIARViewController finishRecording] | [line:267] | [MESSAGE] ARSession recording finished.
+2018-05-23 21:31:00.501 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-23 21:31:00.501 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-23 21:31:00.505 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-23 21:31:00.505 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-23 21:31:00.514 | I | -[AIARViewController viewDidLoad] | [line:85] | [MESSAGE] AIARViewController viewDidLoad finished.
+2018-05-23 21:31:08.400 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/mobile/Containers/Data/Application/E0EB96E3-3E24-49F0-91FD-C0348FCD5E85/Library/Application%20Support/questionnaire/assets/a8c944b1-fb63-4af4-b13b-e703900b4d70_4.mp3. Successfully? 1
+2018-05-23 21:31:13.911 | I | -[AIARViewController finishRecording] | [line:267] | [MESSAGE] ARSession recording finished.
+2018-05-23 21:31:13.937 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-23 21:31:13.937 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-23 21:31:13.940 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-23 21:31:13.940 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-23 21:31:13.945 | I | -[AIARViewController viewDidLoad] | [line:85] | [MESSAGE] AIARViewController viewDidLoad finished.
+2018-05-23 21:31:18.803 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/mobile/Containers/Data/Application/E0EB96E3-3E24-49F0-91FD-C0348FCD5E85/Library/Application%20Support/questionnaire/assets/5955e305-5f40-4bf9-ac48-7e9e57a9b53c_5.mp3. Successfully? 1
+2018-05-23 21:31:23.285 | I | -[AIARViewController finishRecording] | [line:267] | [MESSAGE] ARSession recording finished.
+2018-05-23 21:31:23.297 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-23 21:31:23.297 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-23 21:31:23.298 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-23 21:31:23.299 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-23 21:31:23.304 | I | -[AIARViewController viewDidLoad] | [line:85] | [MESSAGE] AIARViewController viewDidLoad finished.
+2018-05-23 21:31:28.215 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/mobile/Containers/Data/Application/E0EB96E3-3E24-49F0-91FD-C0348FCD5E85/Library/Application%20Support/questionnaire/assets/e0236564-01f6-4479-9399-b4b1f728843a_6.mp3. Successfully? 1
+2018-05-23 21:31:30.039 | I | -[AIARViewController finishRecording] | [line:267] | [MESSAGE] ARSession recording finished.
+2018-05-23 21:31:30.053 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-23 21:31:30.054 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-23 21:31:30.056 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-23 21:31:30.056 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-23 21:31:30.062 | I | -[AIARViewController viewDidLoad] | [line:85] | [MESSAGE] AIARViewController viewDidLoad finished.
+2018-05-23 21:31:38.732 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/mobile/Containers/Data/Application/E0EB96E3-3E24-49F0-91FD-C0348FCD5E85/Library/Application%20Support/questionnaire/assets/ec3f583f-177e-422a-a297-8ddb97b4741f_7.mp3. Successfully? 1
+2018-05-23 21:31:39.426 | I | -[AIARViewController finishRecording] | [line:267] | [MESSAGE] ARSession recording finished.
+2018-05-23 21:31:39.437 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-23 21:31:39.437 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-23 21:31:39.438 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-23 21:31:39.439 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-23 21:31:39.444 | I | -[AIARViewController viewDidLoad] | [line:85] | [MESSAGE] AIARViewController viewDidLoad finished.
+2018-05-23 21:31:49.036 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/mobile/Containers/Data/Application/E0EB96E3-3E24-49F0-91FD-C0348FCD5E85/Library/Application%20Support/questionnaire/assets/47112e67-9919-4568-9211-21a5bbcd3fee_8.mp3. Successfully? 1
+2018-05-23 21:31:50.576 | I | -[AIARViewController finishRecording] | [line:267] | [MESSAGE] ARSession recording finished.
+2018-05-23 21:31:50.591 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-23 21:31:50.591 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-23 21:31:50.592 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-23 21:31:50.592 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-23 21:31:50.598 | I | -[AIARViewController viewDidLoad] | [line:85] | [MESSAGE] AIARViewController viewDidLoad finished.
+2018-05-23 21:31:57.942 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/mobile/Containers/Data/Application/E0EB96E3-3E24-49F0-91FD-C0348FCD5E85/Library/Application%20Support/questionnaire/assets/3a418c45-eb86-42f7-bd4a-487d38dd8c14_9.mp3. Successfully? 1
+2018-05-23 21:31:58.470 | I | -[AIARViewController finishRecording] | [line:267] | [MESSAGE] ARSession recording finished.
+2018-05-23 21:31:58.486 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-23 21:31:58.486 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-23 21:31:58.487 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-23 21:31:58.487 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-23 21:31:58.494 | I | -[AIARViewController viewDidLoad] | [line:85] | [MESSAGE] AIARViewController viewDidLoad finished.
+2018-05-23 21:32:07.350 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/mobile/Containers/Data/Application/E0EB96E3-3E24-49F0-91FD-C0348FCD5E85/Library/Application%20Support/questionnaire/assets/9e2d29d2-0f78-44e6-af97-49cb6c592e6c_10.mp3. Successfully? 1
+2018-05-23 21:32:09.360 | I | -[AIARViewController finishRecording] | [line:267] | [MESSAGE] ARSession recording finished.
+2018-05-23 21:32:09.385 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-23 21:32:09.385 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-23 21:32:09.387 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-23 21:32:09.387 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-23 21:32:09.396 | I | -[AIARViewController viewDidLoad] | [line:85] | [MESSAGE] AIARViewController viewDidLoad finished.
+2018-05-23 21:32:13.515 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/mobile/Containers/Data/Application/E0EB96E3-3E24-49F0-91FD-C0348FCD5E85/Library/Application%20Support/questionnaire/assets/d3f09ad9-3607-4014-a2f0-c05d9d37ec8a_VST.Q5.mp3. Successfully? 1
+2018-05-23 21:32:13.515 | I | -[QuestionPageVC startSpeechDetection] | [line:905] | [MESSAGE] [Speech Detection] Start speech detector.
+2018-05-23 21:32:13.516 | I | -[QuestionPageVC resumeSpeechDetection] | [line:914] | [MESSAGE] [Speech Detection] Resume speech detector.
+2018-05-23 21:32:13.516 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-23 21:32:13.516 | I | -[QuestionPageVC startTimerOfNoResponse1] | [line:996] | [MESSAGE] [Audio prompt] Start counting 8.000000 seconds. No response 1.
+2018-05-23 21:32:15.464 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 21:32:15.464 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 180.000000 seconds. Answer too long.
+2018-05-23 21:32:15.464 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 10.000000 seconds. Minumum required.
+2018-05-23 21:32:24.716 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 21:32:24.716 | I | -[QuestionPageVC startTimerOfShortResponse1] | [line:1032] | [MESSAGE] [Audio prompt] Start counting 4.000000 seconds. Short response 1.
+2018-05-23 21:32:28.716 | I | -[QuestionPageVC pauseSpeechDetection] | [line:921] | [MESSAGE] [Speech Detection] Pause speech detector.
+2018-05-23 21:32:28.716 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-23 21:32:28.805 | I | -[QuestionPageVC startTimerOfShortResponse1]_block_invoke | [line:1030] | [MESSAGE] [Audio prompt] Playing short response 1.
+2018-05-23 21:32:30.621 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/containers/Bundle/Application/0F5973BB-C13B-493D-9D32-F8ECA98B9234/AiView.app/IMA.prompt.not%20enough.1.mp3. Successfully? 1
+2018-05-23 21:32:30.621 | I | -[QuestionPageVC resumeSpeechDetection] | [line:914] | [MESSAGE] [Speech Detection] Resume speech detector.
+2018-05-23 21:32:30.621 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-23 21:32:30.622 | I | -[QuestionPageVC startTimerOfShortResponse2] | [line:1050] | [MESSAGE] [Audio prompt] Start counting 4.000000 seconds. Short response 2.
+2018-05-23 21:32:34.622 | I | -[QuestionPageVC pauseSpeechDetection] | [line:921] | [MESSAGE] [Speech Detection] Pause speech detector.
+2018-05-23 21:32:34.622 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-23 21:32:34.716 | I | -[QuestionPageVC startTimerOfShortResponse2]_block_invoke | [line:1048] | [MESSAGE] [Audio prompt] Playing short response 2.
+2018-05-23 21:32:36.787 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/containers/Bundle/Application/0F5973BB-C13B-493D-9D32-F8ECA98B9234/AiView.app/IMA.prompt.not%20enough.2.mp3. Successfully? 1
+2018-05-23 21:32:36.787 | I | -[QuestionPageVC resumeSpeechDetection] | [line:914] | [MESSAGE] [Speech Detection] Resume speech detector.
+2018-05-23 21:32:36.787 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-23 21:32:37.711 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 21:32:37.711 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 170.747890 seconds. Answer too long.
+2018-05-23 21:32:37.711 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.747890 seconds. Minumum required.
+2018-05-23 21:32:39.606 | I | -[QuestionPageVC stopSpeechDetection] | [line:928] | [MESSAGE] [Speech Detection] Stop speech detector.
+2018-05-23 21:32:39.611 | I | -[AIARViewController finishRecording] | [line:267] | [MESSAGE] ARSession recording finished.
+2018-05-23 21:32:39.647 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-23 21:32:39.647 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-23 21:32:39.649 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-23 21:32:39.649 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-23 21:32:39.659 | I | -[AIARViewController viewDidLoad] | [line:85] | [MESSAGE] AIARViewController viewDidLoad finished.
+2018-05-23 21:32:40.571 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 21:32:40.571 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 180.000000 seconds. Answer too long.
+2018-05-23 21:32:40.571 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 10.000000 seconds. Minumum required.
+2018-05-23 21:32:43.130 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/mobile/Containers/Data/Application/E0EB96E3-3E24-49F0-91FD-C0348FCD5E85/Library/Application%20Support/questionnaire/assets/27d06e87-5b4f-4d7c-a3ae-76baf8f2094f_VST.Q6.mp3. Successfully? 1
+2018-05-23 21:32:43.130 | I | -[QuestionPageVC startSpeechDetection] | [line:905] | [MESSAGE] [Speech Detection] Start speech detector.
+2018-05-23 21:32:43.130 | I | -[QuestionPageVC resumeSpeechDetection] | [line:914] | [MESSAGE] [Speech Detection] Resume speech detector.
+2018-05-23 21:32:43.130 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-23 21:32:43.130 | I | -[QuestionPageVC startTimerOfShortResponse1] | [line:1032] | [MESSAGE] [Audio prompt] Start counting 4.000000 seconds. Short response 1.
+2018-05-23 21:32:43.530 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 21:32:43.530 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 180.000000 seconds. Answer too long.
+2018-05-23 21:32:43.530 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 10.000000 seconds. Minumum required.
+2018-05-23 21:32:50.931 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 21:32:50.931 | I | -[QuestionPageVC startTimerOfShortResponse1] | [line:1032] | [MESSAGE] [Audio prompt] Start counting 4.000000 seconds. Short response 1.
+2018-05-23 21:32:54.931 | I | -[QuestionPageVC pauseSpeechDetection] | [line:921] | [MESSAGE] [Speech Detection] Pause speech detector.
+2018-05-23 21:32:54.931 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-23 21:32:55.013 | I | -[QuestionPageVC startTimerOfShortResponse1]_block_invoke | [line:1030] | [MESSAGE] [Audio prompt] Playing short response 1.
+2018-05-23 21:32:56.827 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/containers/Bundle/Application/0F5973BB-C13B-493D-9D32-F8ECA98B9234/AiView.app/IMA.prompt.not%20enough.1.mp3. Successfully? 1
+2018-05-23 21:32:56.827 | I | -[QuestionPageVC resumeSpeechDetection] | [line:914] | [MESSAGE] [Speech Detection] Resume speech detector.
+2018-05-23 21:32:56.827 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-23 21:32:56.827 | I | -[QuestionPageVC startTimerOfShortResponse2] | [line:1050] | [MESSAGE] [Audio prompt] Start counting 4.000000 seconds. Short response 2.
+2018-05-23 21:32:58.029 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 21:32:58.029 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 172.599376 seconds. Answer too long.
+2018-05-23 21:32:58.029 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 2.599376 seconds. Minumum required.
+2018-05-23 21:33:01.976 | I | -[QuestionPageVC stopSpeechDetection] | [line:928] | [MESSAGE] [Speech Detection] Stop speech detector.
+2018-05-23 21:33:01.988 | I | -[AIARViewController finishRecording] | [line:267] | [MESSAGE] ARSession recording finished.
+2018-05-23 21:33:02.017 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-23 21:33:02.017 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-23 21:33:02.019 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-23 21:33:02.019 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-23 21:33:02.028 | I | -[AIARViewController viewDidLoad] | [line:85] | [MESSAGE] AIARViewController viewDidLoad finished.
+2018-05-23 21:33:02.949 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 21:33:02.949 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 180.000000 seconds. Answer too long.
+2018-05-23 21:33:02.949 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 10.000000 seconds. Minumum required.
+2018-05-23 21:33:05.389 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/mobile/Containers/Data/Application/E0EB96E3-3E24-49F0-91FD-C0348FCD5E85/Library/Application%20Support/questionnaire/assets/ec407ec1-17c9-4200-9984-d08109093660_VST.Q7.mp3. Successfully? 1
+2018-05-23 21:33:05.390 | I | -[QuestionPageVC startSpeechDetection] | [line:905] | [MESSAGE] [Speech Detection] Start speech detector.
+2018-05-23 21:33:05.390 | I | -[QuestionPageVC resumeSpeechDetection] | [line:914] | [MESSAGE] [Speech Detection] Resume speech detector.
+2018-05-23 21:33:05.390 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-23 21:33:05.390 | I | -[QuestionPageVC startTimerOfShortResponse1] | [line:1032] | [MESSAGE] [Audio prompt] Start counting 4.000000 seconds. Short response 1.
+2018-05-23 21:33:05.790 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 21:33:05.790 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 180.000000 seconds. Answer too long.
+2018-05-23 21:33:05.790 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 10.000000 seconds. Minumum required.
+2018-05-23 21:33:17.892 | I | -[QuestionPageVC stopSpeechDetection] | [line:928] | [MESSAGE] [Speech Detection] Stop speech detector.
+2018-05-23 21:33:17.901 | I | -[AIARViewController finishRecording] | [line:267] | [MESSAGE] ARSession recording finished.
+2018-05-23 21:33:17.947 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-23 21:33:17.948 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-23 21:33:17.949 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-23 21:33:17.949 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-23 21:33:17.963 | I | -[AIARViewController viewDidLoad] | [line:85] | [MESSAGE] AIARViewController viewDidLoad finished.
+2018-05-23 21:33:18.009 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 21:33:18.009 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 180.000000 seconds. Answer too long.
+2018-05-23 21:33:18.009 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 10.000000 seconds. Minumum required.
+2018-05-23 21:33:20.284 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/mobile/Containers/Data/Application/E0EB96E3-3E24-49F0-91FD-C0348FCD5E85/Library/Application%20Support/questionnaire/assets/34171a72-c22d-4673-8db3-47bb19cf66b3_VST.Q8.mp3. Successfully? 1
+2018-05-23 21:33:20.285 | I | -[QuestionPageVC startSpeechDetection] | [line:905] | [MESSAGE] [Speech Detection] Start speech detector.
+2018-05-23 21:33:20.285 | I | -[QuestionPageVC resumeSpeechDetection] | [line:914] | [MESSAGE] [Speech Detection] Resume speech detector.
+2018-05-23 21:33:20.285 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-23 21:33:20.285 | I | -[QuestionPageVC startTimerOfShortResponse1] | [line:1032] | [MESSAGE] [Audio prompt] Start counting 4.000000 seconds. Short response 1.
+2018-05-23 21:33:20.670 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 21:33:20.670 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 180.000000 seconds. Answer too long.
+2018-05-23 21:33:20.670 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 10.000000 seconds. Minumum required.
+2018-05-23 21:33:24.485 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 21:33:24.485 | I | -[QuestionPageVC startTimerOfShortResponse1] | [line:1032] | [MESSAGE] [Audio prompt] Start counting 4.000000 seconds. Short response 1.
+2018-05-23 21:33:26.570 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 21:33:26.570 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 176.184623 seconds. Answer too long.
+2018-05-23 21:33:26.570 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 6.184623 seconds. Minumum required.
+2018-05-23 21:33:34.116 | I | -[QuestionPageVC stopSpeechDetection] | [line:928] | [MESSAGE] [Speech Detection] Stop speech detector.
+2018-05-23 21:33:34.121 | I | -[AIARViewController finishRecording] | [line:267] | [MESSAGE] ARSession recording finished.
+2018-05-23 21:33:34.166 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-23 21:33:34.166 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-23 21:33:34.168 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-23 21:33:34.168 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-23 21:33:34.179 | I | -[AIARViewController viewDidLoad] | [line:85] | [MESSAGE] AIARViewController viewDidLoad finished.
+2018-05-23 21:33:35.149 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 21:33:35.149 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 180.000000 seconds. Answer too long.
+2018-05-23 21:33:35.149 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 10.000000 seconds. Minumum required.
+2018-05-23 21:33:37.613 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/mobile/Containers/Data/Application/E0EB96E3-3E24-49F0-91FD-C0348FCD5E85/Library/Application%20Support/questionnaire/assets/9fbc81da-5c30-44ba-833d-bdd5fc9bc848_VST.Q9.mp3. Successfully? 1
+2018-05-23 21:33:37.614 | I | -[QuestionPageVC startSpeechDetection] | [line:905] | [MESSAGE] [Speech Detection] Start speech detector.
+2018-05-23 21:33:37.614 | I | -[QuestionPageVC resumeSpeechDetection] | [line:914] | [MESSAGE] [Speech Detection] Resume speech detector.
+2018-05-23 21:33:37.614 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-23 21:33:37.614 | I | -[QuestionPageVC startTimerOfShortResponse1] | [line:1032] | [MESSAGE] [Audio prompt] Start counting 4.000000 seconds. Short response 1.
+2018-05-23 21:33:38.010 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 21:33:38.010 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 180.000000 seconds. Answer too long.
+2018-05-23 21:33:38.010 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 10.000000 seconds. Minumum required.
+2018-05-23 21:33:41.414 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 21:33:41.415 | I | -[QuestionPageVC startTimerOfShortResponse1] | [line:1032] | [MESSAGE] [Audio prompt] Start counting 4.000000 seconds. Short response 1.
+2018-05-23 21:33:42.610 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 21:33:42.610 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 176.595142 seconds. Answer too long.
+2018-05-23 21:33:42.610 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 6.595142 seconds. Minumum required.
+2018-05-23 21:33:45.814 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 21:33:45.815 | I | -[QuestionPageVC startTimerOfShortResponse1] | [line:1032] | [MESSAGE] [Audio prompt] Start counting 4.000000 seconds. Short response 1.
+2018-05-23 21:33:49.815 | I | -[QuestionPageVC pauseSpeechDetection] | [line:921] | [MESSAGE] [Speech Detection] Pause speech detector.
+2018-05-23 21:33:49.815 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-23 21:33:49.912 | I | -[QuestionPageVC startTimerOfShortResponse1]_block_invoke | [line:1030] | [MESSAGE] [Audio prompt] Playing short response 1.
+2018-05-23 21:33:51.725 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/containers/Bundle/Application/0F5973BB-C13B-493D-9D32-F8ECA98B9234/AiView.app/IMA.prompt.not%20enough.1.mp3. Successfully? 1
+2018-05-23 21:33:51.725 | I | -[QuestionPageVC resumeSpeechDetection] | [line:914] | [MESSAGE] [Speech Detection] Resume speech detector.
+2018-05-23 21:33:51.725 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-23 21:33:51.726 | I | -[QuestionPageVC startTimerOfShortResponse2] | [line:1050] | [MESSAGE] [Audio prompt] Start counting 4.000000 seconds. Short response 2.
+2018-05-23 21:33:55.726 | I | -[QuestionPageVC pauseSpeechDetection] | [line:921] | [MESSAGE] [Speech Detection] Pause speech detector.
+2018-05-23 21:33:55.726 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-23 21:33:55.823 | I | -[QuestionPageVC startTimerOfShortResponse2]_block_invoke | [line:1048] | [MESSAGE] [Audio prompt] Playing short response 2.
+2018-05-23 21:33:57.893 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/containers/Bundle/Application/0F5973BB-C13B-493D-9D32-F8ECA98B9234/AiView.app/IMA.prompt.not%20enough.2.mp3. Successfully? 1
+2018-05-23 21:33:57.893 | I | -[QuestionPageVC resumeSpeechDetection] | [line:914] | [MESSAGE] [Speech Detection] Resume speech detector.
+2018-05-23 21:33:57.893 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-23 21:33:59.058 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 21:33:59.058 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 173.390334 seconds. Answer too long.
+2018-05-23 21:33:59.058 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 3.390334 seconds. Minumum required.
+2018-05-23 21:34:03.518 | I | -[QuestionPageVC stopSpeechDetection] | [line:928] | [MESSAGE] [Speech Detection] Stop speech detector.
+2018-05-23 21:34:03.535 | I | -[AIARViewController finishRecording] | [line:267] | [MESSAGE] ARSession recording finished.
+2018-05-23 21:34:03.580 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-23 21:34:03.580 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-23 21:34:03.582 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-23 21:34:03.582 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-23 21:34:03.594 | I | -[AIARViewController viewDidLoad] | [line:85] | [MESSAGE] AIARViewController viewDidLoad finished.
+2018-05-23 21:34:04.518 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 21:34:04.518 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 180.000000 seconds. Answer too long.
+2018-05-23 21:34:04.518 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 10.000000 seconds. Minumum required.
+2018-05-23 21:34:07.235 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/mobile/Containers/Data/Application/E0EB96E3-3E24-49F0-91FD-C0348FCD5E85/Library/Application%20Support/questionnaire/assets/fb90b5cb-a741-4be9-8f8c-dbd51b1d8d2f_VST.Q10.mp3. Successfully? 1
+2018-05-23 21:34:07.235 | I | -[QuestionPageVC startSpeechDetection] | [line:905] | [MESSAGE] [Speech Detection] Start speech detector.
+2018-05-23 21:34:07.235 | I | -[QuestionPageVC resumeSpeechDetection] | [line:914] | [MESSAGE] [Speech Detection] Resume speech detector.
+2018-05-23 21:34:07.235 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-23 21:34:07.236 | I | -[QuestionPageVC startTimerOfShortResponse1] | [line:1032] | [MESSAGE] [Audio prompt] Start counting 4.000000 seconds. Short response 1.
+2018-05-23 21:34:07.618 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 21:34:07.618 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 180.000000 seconds. Answer too long.
+2018-05-23 21:34:07.618 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 10.000000 seconds. Minumum required.
+2018-05-23 21:34:13.236 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 21:34:13.236 | I | -[QuestionPageVC startTimerOfShortResponse1] | [line:1032] | [MESSAGE] [Audio prompt] Start counting 4.000000 seconds. Short response 1.
+2018-05-23 21:34:14.698 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 21:34:14.698 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 174.381511 seconds. Answer too long.
+2018-05-23 21:34:14.698 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 4.381511 seconds. Minumum required.
+2018-05-23 21:34:20.236 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 21:34:22.591 | I | -[QuestionPageVC stopSpeechDetection] | [line:928] | [MESSAGE] [Speech Detection] Stop speech detector.
+2018-05-23 21:34:22.599 | I | -[AIARViewController finishRecording] | [line:267] | [MESSAGE] ARSession recording finished.
+2018-05-23 21:34:22.626 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-23 21:34:22.626 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-23 21:34:22.628 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-23 21:34:22.628 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-23 21:34:22.640 | I | -[AIARViewController viewDidLoad] | [line:85] | [MESSAGE] AIARViewController viewDidLoad finished.
+2018-05-23 21:34:23.558 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 21:34:23.558 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 180.000000 seconds. Answer too long.
+2018-05-23 21:34:23.558 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 10.000000 seconds. Minumum required.
+2018-05-23 21:34:25.231 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/mobile/Containers/Data/Application/E0EB96E3-3E24-49F0-91FD-C0348FCD5E85/Library/Application%20Support/questionnaire/assets/691d232c-42e3-4210-bfd2-92dfada0ed9d_VST.Q11.mp3. Successfully? 1
+2018-05-23 21:34:25.232 | I | -[QuestionPageVC startSpeechDetection] | [line:905] | [MESSAGE] [Speech Detection] Start speech detector.
+2018-05-23 21:34:25.232 | I | -[QuestionPageVC resumeSpeechDetection] | [line:914] | [MESSAGE] [Speech Detection] Resume speech detector.
+2018-05-23 21:34:25.232 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-23 21:34:25.232 | I | -[QuestionPageVC startTimerOfShortResponse1] | [line:1032] | [MESSAGE] [Audio prompt] Start counting 4.000000 seconds. Short response 1.
+2018-05-23 21:34:25.618 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 21:34:25.618 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 180.000000 seconds. Answer too long.
+2018-05-23 21:34:25.618 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 10.000000 seconds. Minumum required.
+2018-05-23 21:34:36.232 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 21:34:37.117 | I | -[QuestionPageVC stopSpeechDetection] | [line:928] | [MESSAGE] [Speech Detection] Stop speech detector.
+2018-05-23 21:34:37.138 | I | -[AIARViewController finishRecording] | [line:267] | [MESSAGE] ARSession recording finished.
+2018-05-23 21:34:37.167 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-23 21:34:37.167 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-23 21:34:37.169 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-23 21:34:37.169 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-23 21:34:37.183 | I | -[AIARViewController viewDidLoad] | [line:85] | [MESSAGE] AIARViewController viewDidLoad finished.
+2018-05-23 21:34:38.098 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 21:34:38.098 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 180.000000 seconds. Answer too long.
+2018-05-23 21:34:38.098 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 10.000000 seconds. Minumum required.
+2018-05-23 21:34:39.050 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/mobile/Containers/Data/Application/E0EB96E3-3E24-49F0-91FD-C0348FCD5E85/Library/Application%20Support/questionnaire/assets/0ce5988b-c69c-46d8-9516-b517775038d3_VST.Q12.mp3. Successfully? 1
+2018-05-23 21:34:39.050 | I | -[QuestionPageVC startSpeechDetection] | [line:905] | [MESSAGE] [Speech Detection] Start speech detector.
+2018-05-23 21:34:39.051 | I | -[QuestionPageVC resumeSpeechDetection] | [line:914] | [MESSAGE] [Speech Detection] Resume speech detector.
+2018-05-23 21:34:39.051 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-23 21:34:39.051 | I | -[QuestionPageVC startTimerOfShortResponse1] | [line:1032] | [MESSAGE] [Audio prompt] Start counting 4.000000 seconds. Short response 1.
+2018-05-23 21:34:39.438 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 21:34:39.438 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 180.000000 seconds. Answer too long.
+2018-05-23 21:34:39.438 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 10.000000 seconds. Minumum required.
+2018-05-23 21:34:48.251 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 21:34:48.251 | I | -[QuestionPageVC startTimerOfShortResponse1] | [line:1032] | [MESSAGE] [Audio prompt] Start counting 4.000000 seconds. Short response 1.
+2018-05-23 21:34:51.958 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 21:34:51.958 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 171.187156 seconds. Answer too long.
+2018-05-23 21:34:51.958 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 1.187156 seconds. Minumum required.
+2018-05-23 21:34:54.125 | I | -[QuestionPageVC stopSpeechDetection] | [line:928] | [MESSAGE] [Speech Detection] Stop speech detector.
+2018-05-23 21:34:54.131 | I | -[AIARViewController finishRecording] | [line:267] | [MESSAGE] ARSession recording finished.
+2018-05-23 21:34:54.157 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-23 21:34:54.158 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-23 21:34:54.159 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-23 21:34:54.160 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-23 21:34:54.170 | I | -[AIARViewController viewDidLoad] | [line:85] | [MESSAGE] AIARViewController viewDidLoad finished.
+2018-05-23 21:34:55.097 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 21:34:55.097 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 180.000000 seconds. Answer too long.
+2018-05-23 21:34:55.097 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 10.000000 seconds. Minumum required.
+2018-05-23 21:34:55.648 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/mobile/Containers/Data/Application/E0EB96E3-3E24-49F0-91FD-C0348FCD5E85/Library/Application%20Support/questionnaire/assets/6326509c-bf83-4c32-86c4-15ad70b56acc_VST.Q13.mp3. Successfully? 1
+2018-05-23 21:34:55.649 | I | -[QuestionPageVC startSpeechDetection] | [line:905] | [MESSAGE] [Speech Detection] Start speech detector.
+2018-05-23 21:34:55.649 | I | -[QuestionPageVC resumeSpeechDetection] | [line:914] | [MESSAGE] [Speech Detection] Resume speech detector.
+2018-05-23 21:34:55.649 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-23 21:34:55.649 | I | -[QuestionPageVC startTimerOfShortResponse1] | [line:1032] | [MESSAGE] [Audio prompt] Start counting 4.000000 seconds. Short response 1.
+2018-05-23 21:34:56.038 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 21:34:56.038 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 180.000000 seconds. Answer too long.
+2018-05-23 21:34:56.038 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 10.000000 seconds. Minumum required.
+2018-05-23 21:35:00.049 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 21:35:00.049 | I | -[QuestionPageVC startTimerOfShortResponse1] | [line:1032] | [MESSAGE] [Audio prompt] Start counting 4.000000 seconds. Short response 1.
+2018-05-23 21:35:01.591 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-23 21:35:01.829 | I | -[AIARViewController cancelRecording] | [line:121] | [MESSAGE] ARSession recording cancelled.
+2018-05-23 21:35:04.050 | I | -[QuestionPageVC pauseSpeechDetection] | [line:921] | [MESSAGE] [Speech Detection] Pause speech detector.
+2018-05-23 21:35:04.050 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-23 21:35:04.144 | I | -[QuestionPageVC startTimerOfShortResponse1]_block_invoke | [line:1030] | [MESSAGE] [Audio prompt] Playing short response 1.
+2018-05-23 21:35:05.961 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/containers/Bundle/Application/0F5973BB-C13B-493D-9D32-F8ECA98B9234/AiView.app/IMA.prompt.not%20enough.1.mp3. Successfully? 1
+2018-05-23 21:35:05.962 | I | -[QuestionPageVC resumeSpeechDetection] | [line:914] | [MESSAGE] [Speech Detection] Resume speech detector.
+2018-05-23 21:35:05.962 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-23 21:35:05.962 | I | -[QuestionPageVC startTimerOfShortResponse2] | [line:1050] | [MESSAGE] [Audio prompt] Start counting 4.000000 seconds. Short response 2.
+2018-05-23 21:35:06.959 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 21:35:06.960 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 175.988874 seconds. Answer too long.
+2018-05-23 21:35:06.960 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 5.988874 seconds. Minumum required.
+2018-05-23 21:35:18.849 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 21:35:27.179 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 21:35:27.179 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 164.099255 seconds. Answer too long.
+2018-05-23 21:35:27.180 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 21:35:30.849 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 21:35:51.859 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 21:35:51.860 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 160.429160 seconds. Answer too long.
+2018-05-23 21:35:51.860 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 21:35:55.649 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 21:35:56.758 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 21:35:56.758 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 156.639330 seconds. Answer too long.
+2018-05-23 21:35:56.759 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 21:35:57.717 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-23 21:36:00.649 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 21:36:03.362 | I | -[AIARViewController cancelRecording] | [line:121] | [MESSAGE] ARSession recording cancelled.
+2018-05-23 21:36:03.366 | I | -[AIARViewController finishRecording] | [line:267] | [MESSAGE] ARSession recording finished.
+2018-05-23 21:36:03.368 | I | -[QuestionPageVC stopSpeechDetection] | [line:928] | [MESSAGE] [Speech Detection] Stop speech detector.
+2018-05-23 21:36:03.402 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-23 21:36:03.443 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-23 21:36:03.443 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 21:36:03.443 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 21:36:03.472 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 21:36:03.472 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 21:36:03.480 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-23 21:36:03.512 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-23 21:36:03.512 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 21:36:03.512 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 21:36:03.539 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 21:36:03.539 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 21:36:03.549 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-23 21:36:04.404 | I | -[DigitalClockVC showQuestionnaire] | [line:788] | [MESSAGE] showQuestionnaire
+2018-05-23 21:36:07.250 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-23 21:36:08.217 | I | -[AppDelegate cleanAlertDialog] | [line:369] | [MESSAGE] clean Alert Dialog
+2018-05-23 23:47:31.861 | I | -[AppDelegate applicationWillEnterForeground:] | [line:227] | [MESSAGE] application will enter foreground
+2018-05-23 23:47:31.882 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID client100prod_1525443315
+2018-05-23 23:47:31.888 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name 100prod
+2018-05-23 23:47:31.891 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone10,6
+2018-05-23 23:47:31.891 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone X
+2018-05-23 23:47:31.891 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 11.3.1
+2018-05-23 23:47:31.891 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.3
+2018-05-23 23:47:31.891 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language en-US
+2018-05-23 23:47:31.893 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID 832E81FF-719C-4FF4-A381-0192EDDB4EBE
+2018-05-23 23:47:31.894 | I | -[AppDelegate logMataData] | [line:173] | [MESSAGE] Patient ID 000000llee
+2018-05-23 23:47:31.897 | I | +[AIUtil hasInternetConnection] | [line:683] | [MESSAGE] has internet connnection = 1
+2018-05-23 23:47:32.529 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-23 23:47:32.531 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-05-23 23:47:32.601 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-23 23:47:33.147 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-23 23:47:33.738 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 0
+2018-05-23 23:47:33.738 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 0
+2018-05-23 23:47:33.789 | I | -[MedicationConfirmVC viewDidLoad] | [line:45] | [MESSAGE] MedicationConfirmVC view did load
+2018-05-23 23:47:34.224 | I | sendUnsentQuestionnaires() | [line:485] | [MESSAGE] [Questionnaire] Posting saved questionnaire event(s).

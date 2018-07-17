@@ -1,0 +1,16 @@
+1526676983848,2018.05.18 16:56:23.848,DEBUG,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:885),Trial id :null
+1526676983852,2018.05.18 16:56:23.852,ERROR,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:891),getDeviceId: Neither user 10302 nor current process has android.permission.READ_PHONE_STATE.
+1526676983854,2018.05.18 16:56:23.854,DEBUG,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:894),External patient id : 
+1526676983855,2018.05.18 16:56:23.855,DEBUG,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:895),OS version : 26
+1526676983857,2018.05.18 16:56:23.857,DEBUG,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:905),Total available memory for this phone is : 2802.0mb  Percentage : 53.62604008582343%
+1526676983859,2018.05.18 16:56:23.859,DEBUG,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:907), Device has access to internet.
+1526676983860,2018.05.18 16:56:23.860,INFO,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:909),Device is connected to WIFI with fast connection.
+1526676983861,2018.05.18 16:56:23.861,WARN,aiview_android,AiViewSwitch.hasPermissionsGranted  (AiViewSwitch.java:146),No permission granted for :android.permission.CAMERA
+1526676983862,2018.05.18 16:56:23.862,INFO,aiview_android,AiViewSwitch.requestPermissions  (AiViewSwitch.java:98),Request permissions.
+1526676984001,2018.05.18 16:56:24.001,DEBUG,aiview_android,AppUtil$3.onFinished  (AppUtil.java:872),manufacturer : Samsung name :Galaxy Note8 model :SM-N950U1 codename : greatqlteue deviceName : Galaxy Note8
+1526676997259,2018.05.18 16:56:37.259,INFO,aiview_android,AiViewSwitch.StartAppWithoutCheckingVideos  (AiViewSwitch.java:303),Device is not registered, go to AiViewTutorial
+1526676997550,2018.05.18 16:56:37.550,DEBUG,aiview_android,AiViewTutorial.startOrResume  (AiViewTutorial.java:493),Current trainning step is -1.
+1526676997584,2018.05.18 16:56:37.584,DEBUG,aiview_android,LocaleHelper.setLocale  (LocaleHelper.java:71),Setting app locale -- en
+1526676997588,2018.05.18 16:56:37.588,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526676998945,2018.05.18 16:56:38.945,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526676998986,2018.05.18 16:56:38.986,INFO,aiview_android,InCameraViewControllerV3.cleanMemory  (InCameraViewControllerV3.java:430),Clear all camera views including animations and instructions.

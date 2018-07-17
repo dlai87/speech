@@ -1,0 +1,308 @@
+2018-05-23 17:39:02.330 | I | -[AppDelegate application:didFinishLaunchingWithOptions:] | [line:186] | [MESSAGE] application Did Finish Launching
+2018-05-23 17:39:02.370 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID client100prod_1525443315
+2018-05-23 17:39:02.370 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name pro
+2018-05-23 17:39:02.371 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone10,6
+2018-05-23 17:39:02.371 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone X
+2018-05-23 17:39:02.371 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 11.3.1
+2018-05-23 17:39:02.371 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.3
+2018-05-23 17:39:02.371 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language en-US
+2018-05-23 17:39:02.373 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID C04C627B-BD6E-4B4A-9104-83D7305475CA
+2018-05-23 17:39:02.373 | I | -[AppDelegate logMataData] | [line:173] | [MESSAGE] Patient ID (null)
+2018-05-23 17:39:02.375 | I | +[AIUtil hasInternetConnection] | [line:683] | [MESSAGE] has internet connnection = 1
+2018-05-23 17:39:02.487 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:437] | [MESSAGE] Succeded to get APNS token data: <fc909559 2d16c91c 2262818a c9b3ae65 e4b8de0d 11cc2661 e33de189 ffe43564>
+2018-05-23 17:39:02.487 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:443] | [MESSAGE] deviceToken:  fc9095592d16c91c2262818ac9b3ae65e4b8de0d11cc2661e33de189ffe43564
+2018-05-23 17:39:03.012 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-23 17:39:03.050 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-05-23 17:39:03.099 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-23 17:39:04.243 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 0
+2018-05-23 17:39:04.243 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 0
+2018-05-23 17:39:04.277 | I | -[MedicationConfirmVC viewDidLoad] | [line:45] | [MESSAGE] MedicationConfirmVC view did load
+2018-05-23 17:39:04.834 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:261] | [MESSAGE] [DNN] Downloading neural network config succeeded.
+2018-05-23 17:39:04.842 | E | loadUnsentQuestionnaires() | [line:463] | [MESSAGE] [Questionnaire] Load unsent questionnaire failed. Error Domain=NSCocoaErrorDomain Code=260 "The file “event” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///var/mobile/Containers/Data/Application/9A604341-DE87-408D-94D6-E65F5CBA1133/Documents/event, NSFilePath=/var/mobile/Containers/Data/Application/9A604341-DE87-408D-94D6-E65F5CBA1133/Documents/event, NSUnderlyingError=0x1d0249480 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+2018-05-23 17:39:04.843 | E | sendUnsentQuestionnaires() | [line:485] | [MESSAGE] [Questionnaire] Send unsent questionnaire failed. Error Domain=NSCocoaErrorDomain Code=260 "The file “event” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///var/mobile/Containers/Data/Application/9A604341-DE87-408D-94D6-E65F5CBA1133/Documents/event, NSFilePath=/var/mobile/Containers/Data/Application/9A604341-DE87-408D-94D6-E65F5CBA1133/Documents/event, NSUnderlyingError=0x1d024ab30 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+2018-05-23 17:39:05.101 | I | saveQuestionnaireIDsToFile(trialID:) | [line:193] | [MESSAGE] [Questionnaire] Save questionnaire IDs succeeded. Filename: questionnaireIDs_client100prod_1525443315.
+2018-05-23 17:39:05.102 | I | getQuestionnaireIDs(trialID:) | [line:88] | [MESSAGE] [API Gateway] Getting questionnaire IDs succeeded. TrialID: client100prod_1525443315. Questionnaire IDs: ["client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b", "client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197", "client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3", "client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4", "client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6", "client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf", "client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede"]
+2018-05-23 17:39:05.152 | I | getPatientSchdule() | [line:54] | [MESSAGE] [API Gateway] Getting action schedules success.
+2018-05-23 17:39:05.167 | I | saveActionSchedulesToFile(actionSchedules:) | [line:98] | [MESSAGE] [Action Schedules] Saving action schedules succeeded. Filename: action_schedules.
+2018-05-23 17:39:05.271 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf. Name: CDX Training Set.
+2018-05-23 17:39:05.289 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf.
+2018-05-23 17:39:05.294 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b. Name: Facial Expression Exercise.
+2018-05-23 17:39:05.301 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b.
+2018-05-23 17:39:05.305 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6. Name: Ecological Momentary Assessment.
+2018-05-23 17:39:05.309 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6.
+2018-05-23 17:39:05.357 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede. Name: delete.
+2018-05-23 17:39:05.357 | I | getQuestionnaire(questionnaireID:) | [line:136] | [MESSAGE] [API Gateway] Questionnaire is neither active nor daily_dose mode. Skip it. Questionnaire ID: Questionnaire ID: client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede. Name: delete
+2018-05-23 17:39:05.384 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4. Name: VST and ANSA Day 1.
+2018-05-23 17:39:05.406 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4.
+2018-05-23 17:39:05.425 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3. Name: VST and ANSA Day 14.
+2018-05-23 17:39:05.446 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3.
+2018-05-23 17:39:05.460 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197. Name: VST Day 7.
+2018-05-23 17:39:05.468 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197.
+2018-05-23 17:39:05.484 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName conclusion_11
+2018-05-23 17:39:05.484 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name conclusion_11
+2018-05-23 17:39:10.376 | I | -[DigitalClockVC viewDidLoad] | [line:138] | [MESSAGE] DigitalClockVC view did load
+2018-05-23 17:39:10.423 | I | -[Transmission sendAll] | [line:80] | [MESSAGE] Transmission send all
+2018-05-23 17:39:10.423 | I | -[Transmission sendAll] | [line:115] | [MESSAGE] Encrypting files
+2018-05-23 17:39:10.456 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-23 17:39:10.485 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-23 17:39:10.485 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 17:39:10.485 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 17:39:10.505 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 17:39:10.505 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 17:39:10.510 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-23 17:39:10.560 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-23 17:39:10.560 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 17:39:10.560 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 17:39:10.582 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 17:39:10.582 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 17:39:10.587 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-23 17:39:10.590 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 1
+2018-05-23 17:39:10.690 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 2
+2018-05-23 17:39:10.806 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 3
+2018-05-23 17:39:10.935 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 4
+2018-05-23 17:39:11.047 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 5
+2018-05-23 17:39:11.169 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6
+2018-05-23 17:39:11.635 | I | -[DigitalClockVC showQuestionnaire] | [line:788] | [MESSAGE] showQuestionnaire
+2018-05-23 17:39:11.994 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:261] | [MESSAGE] [DNN] Downloading neural network config succeeded.
+2018-05-23 17:39:11.996 | E | sendUnsentQuestionnaires() | [line:485] | [MESSAGE] [Questionnaire] Send unsent questionnaire failed. Error Domain=NSCocoaErrorDomain Code=260 "The file “event” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///var/mobile/Containers/Data/Application/9A604341-DE87-408D-94D6-E65F5CBA1133/Documents/event, NSFilePath=/var/mobile/Containers/Data/Application/9A604341-DE87-408D-94D6-E65F5CBA1133/Documents/event, NSUnderlyingError=0x1d4651a30 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+2018-05-23 17:39:12.144 | I | saveQuestionnaireIDsToFile(trialID:) | [line:193] | [MESSAGE] [Questionnaire] Save questionnaire IDs succeeded. Filename: questionnaireIDs_client100prod_1525443315.
+2018-05-23 17:39:12.144 | I | getQuestionnaireIDs(trialID:) | [line:88] | [MESSAGE] [API Gateway] Getting questionnaire IDs succeeded. TrialID: client100prod_1525443315. Questionnaire IDs: ["client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b", "client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197", "client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3", "client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4", "client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6", "client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf", "client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede"]
+2018-05-23 17:39:12.166 | I | getPatientSchdule() | [line:54] | [MESSAGE] [API Gateway] Getting action schedules success.
+2018-05-23 17:39:12.167 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-23 17:39:12.192 | I | saveActionSchedulesToFile(actionSchedules:) | [line:98] | [MESSAGE] [Action Schedules] Saving action schedules succeeded. Filename: action_schedules.
+2018-05-23 17:39:12.254 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6. Name: Ecological Momentary Assessment.
+2018-05-23 17:39:12.257 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526512173040-60e1a64f-6305-4a01-86bc-44fe58931ac6.
+2018-05-23 17:39:12.260 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede. Name: delete.
+2018-05-23 17:39:12.260 | I | getQuestionnaire(questionnaireID:) | [line:136] | [MESSAGE] [API Gateway] Questionnaire is neither active nor daily_dose mode. Skip it. Questionnaire ID: Questionnaire ID: client100prod_1525443315-1526871500579-38d51912-358c-4c7a-a28e-f729a9af3ede. Name: delete
+2018-05-23 17:39:12.266 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197. Name: VST Day 7.
+2018-05-23 17:39:12.273 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197.
+2018-05-23 17:39:12.350 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b. Name: Facial Expression Exercise.
+2018-05-23 17:39:12.355 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526514832783-06c07c52-5618-4585-9249-b783ddb6f88b.
+2018-05-23 17:39:12.359 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf. Name: CDX Training Set.
+2018-05-23 17:39:12.365 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526575714597-97bea7fb-5305-4d13-b0b0-33f16c3349bf.
+2018-05-23 17:39:12.433 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4. Name: VST and ANSA Day 1.
+2018-05-23 17:39:12.455 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1525890381362-df4f967d-1af6-4b6d-b7e0-9514bd4e58d4.
+2018-05-23 17:39:12.576 | I | getQuestionnaire(questionnaireID:) | [line:128] | [MESSAGE] [API Gateway] Getting questionnaire succeeded. Questionnaire ID: client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3. Name: VST and ANSA Day 14.
+2018-05-23 17:39:12.604 | I | saveQuestionnaireToFile(questionnaire:) | [line:234] | [MESSAGE] [Questionnaire] Save questionnaire succeeded. Filename: client100prod_1525443315-1526411416794-c045df71-1d1b-4346-a3c5-4d3ff4b356f3.
+2018-05-23 17:39:12.604 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-23 17:39:12.852 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-23 17:39:12.852 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-23 17:39:12.912 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-23 17:39:12.912 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-23 17:39:12.928 | I | -[AIARViewController viewDidLoad] | [line:82] | [MESSAGE] AIARViewController viewDidLoad finished.
+2018-05-23 17:39:13.181 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-23 17:39:13.181 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 17:39:13.181 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 17:39:13.204 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 17:39:13.204 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 17:39:13.210 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-23 17:39:13.214 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-23 17:39:13.214 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 17:39:13.214 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 17:39:13.236 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-23 17:39:13.236 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-23 17:39:13.242 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-23 17:39:16.074 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/mobile/Containers/Data/Application/9A604341-DE87-408D-94D6-E65F5CBA1133/Library/Application%20Support/questionnaire/assets/a3a365b9-0a8d-4688-b771-41b11cb4b1b0_83.mp3. Successfully? 1
+2018-05-23 17:39:16.075 | I | -[QuestionPageVC startSpeechDetection] | [line:905] | [MESSAGE] [Speech Detection] Start speech detector.
+2018-05-23 17:39:16.075 | I | -[QuestionPageVC resumeSpeechDetection] | [line:914] | [MESSAGE] [Speech Detection] Resume speech detector.
+2018-05-23 17:39:16.075 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-23 17:39:16.076 | I | -[QuestionPageVC startTimerOfNoResponse1] | [line:996] | [MESSAGE] [Audio prompt] Start counting 8.000000 seconds. No response 1.
+2018-05-23 17:39:20.015 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:39:20.015 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 180.000000 seconds. Answer too long.
+2018-05-23 17:39:20.015 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 10.000000 seconds. Minumum required.
+2018-05-23 17:39:24.476 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:39:24.476 | I | -[QuestionPageVC startTimerOfShortResponse1] | [line:1032] | [MESSAGE] [Audio prompt] Start counting 4.000000 seconds. Short response 1.
+2018-05-23 17:39:28.477 | I | -[QuestionPageVC pauseSpeechDetection] | [line:921] | [MESSAGE] [Speech Detection] Pause speech detector.
+2018-05-23 17:39:28.477 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-23 17:39:28.571 | I | -[QuestionPageVC startTimerOfShortResponse1]_block_invoke | [line:1030] | [MESSAGE] [Audio prompt] Playing short response 1.
+2018-05-23 17:39:30.385 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/containers/Bundle/Application/55FA9535-C909-49DF-9821-BACC72E9D716/AiView.app/IMA.prompt.not%20enough.1.mp3. Successfully? 1
+2018-05-23 17:39:30.386 | I | -[QuestionPageVC resumeSpeechDetection] | [line:914] | [MESSAGE] [Speech Detection] Resume speech detector.
+2018-05-23 17:39:30.386 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-23 17:39:30.386 | I | -[QuestionPageVC startTimerOfShortResponse2] | [line:1050] | [MESSAGE] [Audio prompt] Start counting 4.000000 seconds. Short response 2.
+2018-05-23 17:39:31.319 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:39:31.319 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 175.538857 seconds. Answer too long.
+2018-05-23 17:39:31.320 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 5.538857 seconds. Minumum required.
+2018-05-23 17:39:34.676 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:39:34.677 | I | -[QuestionPageVC startTimerOfShortResponse2] | [line:1050] | [MESSAGE] [Audio prompt] Start counting 4.000000 seconds. Short response 2.
+2018-05-23 17:39:38.677 | I | -[QuestionPageVC pauseSpeechDetection] | [line:921] | [MESSAGE] [Speech Detection] Pause speech detector.
+2018-05-23 17:39:38.677 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-23 17:39:38.787 | I | -[QuestionPageVC startTimerOfShortResponse2]_block_invoke | [line:1048] | [MESSAGE] [Audio prompt] Playing short response 2.
+2018-05-23 17:39:40.858 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/containers/Bundle/Application/55FA9535-C909-49DF-9821-BACC72E9D716/AiView.app/IMA.prompt.not%20enough.2.mp3. Successfully? 1
+2018-05-23 17:39:40.859 | I | -[QuestionPageVC resumeSpeechDetection] | [line:914] | [MESSAGE] [Speech Detection] Resume speech detector.
+2018-05-23 17:39:40.859 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-23 17:41:46.051 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:41:46.051 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 172.181704 seconds. Answer too long.
+2018-05-23 17:41:46.051 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 2.181704 seconds. Minumum required.
+2018-05-23 17:41:49.476 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:42:28.771 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:42:28.771 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 168.757173 seconds. Answer too long.
+2018-05-23 17:42:28.772 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:42:32.075 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:42:45.011 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:42:45.011 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 165.452860 seconds. Answer too long.
+2018-05-23 17:42:45.011 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:42:48.476 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:43:06.791 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:43:06.792 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 161.988167 seconds. Answer too long.
+2018-05-23 17:43:06.792 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:43:10.276 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:43:10.431 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:43:10.431 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 158.503736 seconds. Answer too long.
+2018-05-23 17:43:10.431 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:43:17.076 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:44:40.951 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:44:40.951 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 151.858818 seconds. Answer too long.
+2018-05-23 17:44:40.952 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:44:46.276 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:44:48.250 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:44:48.251 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 146.534221 seconds. Answer too long.
+2018-05-23 17:44:48.251 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:44:52.076 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:45:04.931 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:45:04.931 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 142.708738 seconds. Answer too long.
+2018-05-23 17:45:04.931 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:45:08.476 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:45:12.851 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:45:12.851 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 139.163774 seconds. Answer too long.
+2018-05-23 17:45:12.851 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:45:19.076 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:46:09.650 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:46:09.650 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 132.938486 seconds. Answer too long.
+2018-05-23 17:46:09.650 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:46:13.076 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:46:35.471 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:46:35.471 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 129.512689 seconds. Answer too long.
+2018-05-23 17:46:35.471 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:46:40.076 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:46:49.211 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:46:49.211 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 124.907108 seconds. Answer too long.
+2018-05-23 17:46:49.211 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:46:54.076 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:46:56.130 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:46:56.131 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 120.041757 seconds. Answer too long.
+2018-05-23 17:46:56.131 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:47:02.676 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:47:04.530 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:47:04.531 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 113.496054 seconds. Answer too long.
+2018-05-23 17:47:04.531 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:47:07.878 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:47:12.710 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:47:12.711 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 110.148251 seconds. Answer too long.
+2018-05-23 17:47:12.711 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:47:16.276 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:48:20.531 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:48:20.532 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 106.582643 seconds. Answer too long.
+2018-05-23 17:48:20.532 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:48:23.876 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:49:33.749 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:49:33.750 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 103.238025 seconds. Answer too long.
+2018-05-23 17:49:33.750 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:49:40.076 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:49:42.010 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:49:42.010 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 96.911457 seconds. Answer too long.
+2018-05-23 17:49:42.011 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:49:45.277 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:49:53.549 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:49:53.550 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 93.644640 seconds. Answer too long.
+2018-05-23 17:49:53.550 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:49:57.076 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:51:02.749 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:51:02.750 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 90.117892 seconds. Answer too long.
+2018-05-23 17:51:02.750 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:51:06.076 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:51:35.150 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:51:35.151 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 86.791162 seconds. Answer too long.
+2018-05-23 17:51:35.151 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:51:38.676 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:51:40.590 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:51:40.590 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 83.265457 seconds. Answer too long.
+2018-05-23 17:51:40.590 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:51:46.476 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:51:50.490 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:51:50.490 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 77.379146 seconds. Answer too long.
+2018-05-23 17:51:50.490 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:51:53.876 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:52:45.210 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:52:45.210 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 73.992753 seconds. Answer too long.
+2018-05-23 17:52:45.210 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:52:48.676 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:52:49.790 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:52:49.790 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 70.525785 seconds. Answer too long.
+2018-05-23 17:52:49.790 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:52:54.676 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:53:07.790 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:53:07.790 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 65.638986 seconds. Answer too long.
+2018-05-23 17:53:07.790 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:53:11.476 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:53:13.829 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:53:13.829 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 61.952259 seconds. Answer too long.
+2018-05-23 17:53:13.829 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:53:18.476 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:53:24.429 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:53:24.429 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 57.304569 seconds. Answer too long.
+2018-05-23 17:53:24.429 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:53:29.076 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:53:37.449 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:53:37.449 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 52.657183 seconds. Answer too long.
+2018-05-23 17:53:37.449 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:53:40.877 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:53:43.349 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:53:43.349 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 49.228993 seconds. Answer too long.
+2018-05-23 17:53:43.349 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:53:47.277 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:53:59.829 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:53:59.829 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 45.300615 seconds. Answer too long.
+2018-05-23 17:53:59.830 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:54:03.277 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:54:04.989 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:54:04.990 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 41.853148 seconds. Answer too long.
+2018-05-23 17:54:04.990 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:54:08.477 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:54:17.449 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:54:17.449 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 38.365650 seconds. Answer too long.
+2018-05-23 17:54:17.449 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:54:20.877 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:54:21.909 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:54:21.910 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 34.937122 seconds. Answer too long.
+2018-05-23 17:54:21.910 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:54:25.277 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:54:39.989 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:54:39.990 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 31.569922 seconds. Answer too long.
+2018-05-23 17:54:39.990 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:54:46.877 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:55:45.149 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:55:45.149 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 24.682638 seconds. Answer too long.
+2018-05-23 17:55:45.149 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:55:49.477 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:57:27.129 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:57:27.129 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 20.354961 seconds. Answer too long.
+2018-05-23 17:57:27.130 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:57:30.477 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:58:28.589 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:58:28.589 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 17.007497 seconds. Answer too long.
+2018-05-23 17:58:28.589 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:58:32.077 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:58:41.469 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:58:41.470 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 13.518996 seconds. Answer too long.
+2018-05-23 17:58:41.470 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:58:45.476 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:58:45.829 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:58:45.829 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 9.511829 seconds. Answer too long.
+2018-05-23 17:58:45.829 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:58:49.478 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:58:52.229 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-23 17:58:52.229 | I | -[QuestionPageVC startTimerOfAnswerTooLong] | [line:1067] | [MESSAGE] [Audio prompt] Start counting 5.862909 seconds. Answer too long.
+2018-05-23 17:58:52.229 | I | -[QuestionPageVC startTimerOfMinimumRequired] | [line:1081] | [MESSAGE] [Audio prompt] Start counting 0.000000 seconds. Minumum required.
+2018-05-23 17:58:58.092 | I | -[QuestionPageVC pauseSpeechDetection] | [line:921] | [MESSAGE] [Speech Detection] Pause speech detector.
+2018-05-23 17:58:58.093 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-23 17:58:58.101 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-23 17:58:58.190 | I | -[QuestionPageVC startTimerOfAnswerTooLong]_block_invoke | [line:1065] | [MESSAGE] [Audio prompt] Playing answer too long.
+2018-05-23 17:58:59.919 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/containers/Bundle/Application/55FA9535-C909-49DF-9821-BACC72E9D716/AiView.app/IMA.prompt.move%20on.mp3. Successfully? 1
+2018-05-23 17:58:59.920 | I | -[QuestionPageVC stopSpeechDetection] | [line:928] | [MESSAGE] [Speech Detection] Stop speech detector.
+2018-05-23 17:58:59.988 | I | -[AIARViewController finishRecording] | [line:256] | [MESSAGE] ARSession recording finished.
+2018-05-23 17:59:00.056 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageListVC, answering
+2018-05-23 17:59:00.056 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-23 17:59:00.064 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-23 17:59:00.064 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-23 17:59:00.070 | I | -[AIARViewController viewDidLoad] | [line:82] | [MESSAGE] AIARViewController viewDidLoad finished.
+2018-05-23 17:59:02.202 | I | -[QuestionPageVC audioPlayerDidFinishPlaying:successfully:] | [line:692] | [MESSAGE] Audio playback finished. Played URL file:///var/mobile/Containers/Data/Application/9A604341-DE87-408D-94D6-E65F5CBA1133/Library/Application%20Support/questionnaire/assets/e52c31a2-6d02-4911-a364-500049a2c01f_84.mp3. Successfully? 1

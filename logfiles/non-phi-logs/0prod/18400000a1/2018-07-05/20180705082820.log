@@ -1,0 +1,120 @@
+1530793700639,2018.07.05 08:28:20.639,DEBUG,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:873),AiView app is currently running in daily dose mode
+1530793700662,2018.07.05 08:28:20.662,DEBUG,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:896),Trial id :0prod1499883450
+1530793700664,2018.07.05 08:28:20.664,DEBUG,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:900),Device ID (IMEI) : 990004886219926
+1530793700667,2018.07.05 08:28:20.667,DEBUG,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:905),External patient id : 18400000a1
+1530793700668,2018.07.05 08:28:20.668,DEBUG,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:906),OS version : 24
+1530793700674,2018.07.05 08:28:20.674,DEBUG,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:916),Total available memory for this phone is : 918.0mb  Percentage : 34.298284116079905%
+1530793700675,2018.07.05 08:28:20.675,DEBUG,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:918), Device has access to internet.
+1530793700677,2018.07.05 08:28:20.677,INFO,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:920),Device is connected to WIFI with fast connection.
+1530793700680,2018.07.05 08:28:20.680,INFO,aiview_android,AiViewSwitch.hasPermissionsGranted  (AiViewSwitch.java:150),All permissions have been granted.
+1530793700681,2018.07.05 08:28:20.681,INFO,aiview_android,AiViewSwitch.onStart  (AiViewSwitch.java:450),All required permissions have been granted.
+1530793700684,2018.07.05 08:28:20.684,INFO,aiview_android,AiViewSwitch.runAivewSwitchAfterPermissionGranted  (AiViewSwitch.java:476),Current locale is --- en
+1530793700685,2018.07.05 08:28:20.685,DEBUG,aiview_android,LocaleHelper.setLocale  (LocaleHelper.java:71),Setting app locale -- en
+1530793700698,2018.07.05 08:28:20.698,INFO,aiview_android,AiViewSwitch.StartAppWithoutCheckingVideos  (AiViewSwitch.java:237),Device was registered.
+1530793700734,2018.07.05 08:28:20.734,INFO,aiview_android,AiViewSwitch.StartAppWithoutCheckingVideos  (AiViewSwitch.java:275),It is currently in dosing window.
+1530793700902,2018.07.05 08:28:20.902,DEBUG,aiview_android,AppUtil$3.onFinished  (AppUtil.java:883),manufacturer : Samsung name :Galaxy S6 model :SM-G920V codename : zerofltevzw deviceName : Galaxy S6
+1530793701020,2018.07.05 08:28:21.020,DEBUG,aiview_android,LocaleHelper.setLocale  (LocaleHelper.java:71),Setting app locale -- en
+1530793701084,2018.07.05 08:28:21.084,INFO,aiview_android,MedProtocolController.getNextMed  (MedProtocolController.java:41),get next medication.
+1530793701100,2018.07.05 08:28:21.100,DEBUG,aiview_android,MedProtocolController.getNextMed  (MedProtocolController.java:45),Current dose done -- false
+1530793701100,2018.07.05 08:28:21.100,DEBUG,aiview_android,MedProtocolController.getNextMed  (MedProtocolController.java:55),Next medication ---  pill name : ctn pill nums : 1 pill dose id : 0 alarmTime : 2018-07-05 08:00:00 earlyTime : 2018-07-05 02:00:00 lateTime : 2018-07-05 11:00:00 missTime : 2018-07-05 13:59:59 targetDate : 2018-07-05
+1530793701108,2018.07.05 08:28:21.108,INFO,aiview_android,MedProtocolController.getNextMed  (MedProtocolController.java:82),dose id column exists in protocol time window.
+1530793701110,2018.07.05 08:28:21.110,INFO,aiview_android,MedProtocolController.getNextMed  (MedProtocolController.java:41),get next medication.
+1530793701126,2018.07.05 08:28:21.126,DEBUG,aiview_android,MedProtocolController.getNextMed  (MedProtocolController.java:45),Current dose done -- false
+1530793701126,2018.07.05 08:28:21.126,DEBUG,aiview_android,MedProtocolController.getNextMed  (MedProtocolController.java:55),Next medication ---  pill name : ctn pill nums : 1 pill dose id : 0 alarmTime : 2018-07-05 08:00:00 earlyTime : 2018-07-05 02:00:00 lateTime : 2018-07-05 11:00:00 missTime : 2018-07-05 13:59:59 targetDate : 2018-07-05
+1530793701133,2018.07.05 08:28:21.133,INFO,aiview_android,MedProtocolController.getNextMed  (MedProtocolController.java:82),dose id column exists in protocol time window.
+1530793701608,2018.07.05 08:28:21.608,INFO,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:51),Setting Medication Reminder.
+1530793701635,2018.07.05 08:28:21.635,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:71),Set alarm time to Thu Jul 05 08:30:00 EDT 2018
+1530793701645,2018.07.05 08:28:21.645,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:83),Set miss time to Thu Jul 05 13:59:59 EDT 2018
+1530793701662,2018.07.05 08:28:21.662,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:96),Set next early time to Thu Jul 05 14:00:00 EDT 2018
+1530793701668,2018.07.05 08:28:21.668,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:110),Set  might night time to Fri Jul 06 00:00:00 EDT 2018
+1530793701675,2018.07.05 08:28:21.675,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:124),Set  transmitPKClinicData to Fri Jul 06 00:00:00 EDT 2018
+1530793701676,2018.07.05 08:28:21.676,INFO,aiview_android,Transmission.sendMissEvents  (Transmission.java:234),sending missing events.
+1530793701678,2018.07.05 08:28:21.678,DEBUG,aiview_android,Transmission.sendMissEvents  (Transmission.java:238),Number of events to be transmitted: 0 with time: 2018-07-05 08:28:21 usename: 990004886219926
+1530793701693,2018.07.05 08:28:21.693,INFO,aiview_android,CognitoManager$2.onSuccess  (CognitoManager.java:133),successfully logined in.
+1530793701715,2018.07.05 08:28:21.715,INFO,aiview_android,CognitoManager$2.onSuccess  (CognitoManager.java:133),successfully logined in.
+1530793701716,2018.07.05 08:28:21.716,INFO,aiview_android,VideoMergeManager.finalMergeVideoFiles  (VideoMergeManager.java:237),Final merge files.
+1530793701717,2018.07.05 08:28:21.717,INFO,aiview_android,CognitoManager$2.onSuccess  (CognitoManager.java:133),successfully logined in.
+1530793701717,2018.07.05 08:28:21.717,DEBUG,aiview_android,KitNumTask.lambda$buildTasksChain$0$KitNumTask  (KitNumTask.java:77),Fetching kit num.
+1530793701718,2018.07.05 08:28:21.718,DEBUG,aiview_android,EncryptAndSendVideoBackendTask.lambda$null$1$EncryptAndSendVideoBackendTask  (EncryptAndSendVideoBackendTask.java:80),encrypted 0 files
+1530793701719,2018.07.05 08:28:21.719,DEBUG,aiview_android,EncryptAndSendVideoBackendTask.lambda$buildTasksChain$4$EncryptAndSendVideoBackendTask  (EncryptAndSendVideoBackendTask.java:91),starting uploadVideoTask, received 0 file names
+1530793701720,2018.07.05 08:28:21.720,DEBUG,aiview_android,KitNumTask.lambda$buildTasksChain$0$KitNumTask  (KitNumTask.java:85),kitNumDataTrialTrialUserUserGet -- 7431466f-7c28-4d4c-b813-291086ea403b
+1530793701728,2018.07.05 08:28:21.728,INFO,aiview_android,CognitoManager$2.onSuccess  (CognitoManager.java:133),successfully logined in.
+1530793701729,2018.07.05 08:28:21.729,DEBUG,aiview_android,SendAudioDetectionLogTask.lambda$buildTasksChain$0$SendAudioDetectionLogTask  (SendAudioDetectionLogTask.java:56),starting uploadAudioLogTask, received 0 file names
+1530793701739,2018.07.05 08:28:21.739,INFO,aiview_android,CognitoManager$2.onSuccess  (CognitoManager.java:133),successfully logined in.
+1530793701740,2018.07.05 08:28:21.740,DEBUG,aiview_android,SendLogsToS3Task.lambda$buildTasksChain$0$SendLogsToS3Task  (SendLogsToS3Task.java:55),starting uploadAudioLogTask, received 2 file names
+1530793701754,2018.07.05 08:28:21.754,DEBUG,aiview_android,SendEncryptedVideoBackendTask.lambda$buildTasksChain$0$SendEncryptedVideoBackendTask  (SendEncryptedVideoBackendTask.java:54),starting uploadVideoTask, received 0 file names
+1530793702269,2018.07.05 08:28:22.269,DEBUG,aiview_android,Transmission$2.onComplete  (Transmission.java:254),Transmit miss events successfully: # of non-transmitted events:0
+1530793702805,2018.07.05 08:28:22.805,DEBUG,aiview_android,SendLogsToS3Task.lambda$buildTasksChain$0$SendLogsToS3Task  (SendLogsToS3Task.java:104),upload completed for file: 20180629174514.log.zip
+1530793702910,2018.07.05 08:28:22.910,DEBUG,aiview_android,KitNumTask.lambda$buildTasksChain$0$KitNumTask  (KitNumTask.java:91),Received kit number 11 with status -- false
+1530793702920,2018.07.05 08:28:22.920,DEBUG,aiview_android,KitNumTask.lambda$buildTasksChain$2$KitNumTask  (KitNumTask.java:122),starting updating kit number service.
+1530793702924,2018.07.05 08:28:22.924,DEBUG,aiview_android,KitNumTask.lambda$null$1$KitNumTask  (KitNumTask.java:131),kitNumDataUpdateSyncStatusPut -- 3d43baaa-9444-4ac4-b6a5-36d1e5d71f69
+1530793703499,2018.07.05 08:28:23.499,INFO,aiview_android,InCameraViewControllerV3.cleanMemory  (InCameraViewControllerV3.java:430),Clear all camera views including animations and instructions.
+1530793703669,2018.07.05 08:28:23.669,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1530793703670,2018.07.05 08:28:23.670,INFO,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:51),Setting Medication Reminder.
+1530793703674,2018.07.05 08:28:23.674,DEBUG,aiview_android,KitNumTask.lambda$buildTasksChain$4$KitNumTask  (KitNumTask.java:155),starting updating notification service.
+1530793703681,2018.07.05 08:28:23.681,DEBUG,aiview_android,KitNumTask.lambda$null$3$KitNumTask  (KitNumTask.java:163),notificationMessageUpdateStatusTrialTrialUserUserPut -- 2db79e53-6f68-4177-b613-a71b5d00e77a
+1530793703697,2018.07.05 08:28:23.697,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:71),Set alarm time to Thu Jul 05 08:30:00 EDT 2018
+1530793703704,2018.07.05 08:28:23.704,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:83),Set miss time to Thu Jul 05 13:59:59 EDT 2018
+1530793703709,2018.07.05 08:28:23.709,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:96),Set next early time to Thu Jul 05 14:00:00 EDT 2018
+1530793703718,2018.07.05 08:28:23.718,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:110),Set  might night time to Fri Jul 06 00:00:00 EDT 2018
+1530793703725,2018.07.05 08:28:23.725,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:124),Set  transmitPKClinicData to Fri Jul 06 00:00:00 EDT 2018
+1530793704248,2018.07.05 08:28:24.248,INFO,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:51),Setting Medication Reminder.
+1530793704343,2018.07.05 08:28:24.343,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:71),Set alarm time to Thu Jul 05 08:30:00 EDT 2018
+1530793704381,2018.07.05 08:28:24.381,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:83),Set miss time to Thu Jul 05 13:59:59 EDT 2018
+1530793704402,2018.07.05 08:28:24.402,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:96),Set next early time to Thu Jul 05 14:00:00 EDT 2018
+1530793704431,2018.07.05 08:28:24.431,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:110),Set  might night time to Fri Jul 06 00:00:00 EDT 2018
+1530793704460,2018.07.05 08:28:24.460,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:124),Set  transmitPKClinicData to Fri Jul 06 00:00:00 EDT 2018
+1530793704462,2018.07.05 08:28:24.462,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1530793704587,2018.07.05 08:28:24.587,INFO,aiview_android,KitNumTask.lambda$null$3$KitNumTask  (KitNumTask.java:169),KitNumTask succeeded.
+1530793800130,2018.07.05 08:30:00.130,INFO,aiview_android,MedAlarmReceiver.onReceive  (MedAlarmReceiver.java:76),MedAlarmReceiver received
+1530793800133,2018.07.05 08:30:00.133,INFO,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:51),Setting Medication Reminder.
+1530793800184,2018.07.05 08:30:00.184,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:71),Set alarm time to Thu Jul 05 08:45:00 EDT 2018
+1530793800202,2018.07.05 08:30:00.202,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:83),Set miss time to Thu Jul 05 13:59:59 EDT 2018
+1530793800231,2018.07.05 08:30:00.231,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:96),Set next early time to Thu Jul 05 14:00:00 EDT 2018
+1530793800251,2018.07.05 08:30:00.251,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:110),Set  might night time to Fri Jul 06 00:00:00 EDT 2018
+1530793800273,2018.07.05 08:30:00.273,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:124),Set  transmitPKClinicData to Fri Jul 06 00:00:00 EDT 2018
+1530793800278,2018.07.05 08:30:00.278,DEBUG,aiview_android,MedAlarmReceiver.onReceive  (MedAlarmReceiver.java:82),Current running app 
+1530793800281,2018.07.05 08:30:00.281,INFO,aiview_android,MedProtocolController.getNextMed  (MedProtocolController.java:41),get next medication.
+1530793800320,2018.07.05 08:30:00.320,DEBUG,aiview_android,MedProtocolController.getNextMed  (MedProtocolController.java:45),Current dose done -- false
+1530793800321,2018.07.05 08:30:00.321,DEBUG,aiview_android,MedProtocolController.getNextMed  (MedProtocolController.java:55),Next medication ---  pill name : ctn pill nums : 1 pill dose id : 0 alarmTime : 2018-07-05 08:00:00 earlyTime : 2018-07-05 02:00:00 lateTime : 2018-07-05 11:00:00 missTime : 2018-07-05 13:59:59 targetDate : 2018-07-05
+1530793800337,2018.07.05 08:30:00.337,INFO,aiview_android,MedProtocolController.getNextMed  (MedProtocolController.java:82),dose id column exists in protocol time window.
+1530793800384,2018.07.05 08:30:00.384,INFO,aiview_android,MedAlarmReceiver.onReceive  (MedAlarmReceiver.java:127),ring alarm and start reminder dialog
+1530793800385,2018.07.05 08:30:00.385,INFO,aiview_android,MedAlarmReceiver.onReceive  (MedAlarmReceiver.java:142),Med alarm received and finished
+1530793800461,2018.07.05 08:30:00.461,DEBUG,aiview_android,LocaleHelper.setLocale  (LocaleHelper.java:71),Setting app locale -- en
+1530793800479,2018.07.05 08:30:00.479,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:45),Audio playing flag -- true
+1530793800480,2018.07.05 08:30:00.480,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:46),Questionnaire in progress  -- false
+1530793800480,2018.07.05 08:30:00.480,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1530793800481,2018.07.05 08:30:00.481,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:60),play audio: voice/alarm_9_long.mp3
+1530794752039,2018.07.05 08:45:52.039,INFO,aiview_android,MedAlarmReceiver.onReceive  (MedAlarmReceiver.java:76),MedAlarmReceiver received
+1530794752042,2018.07.05 08:45:52.042,INFO,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:51),Setting Medication Reminder.
+1530794752105,2018.07.05 08:45:52.105,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:71),Set alarm time to Thu Jul 05 09:00:00 EDT 2018
+1530794752123,2018.07.05 08:45:52.123,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:83),Set miss time to Thu Jul 05 13:59:59 EDT 2018
+1530794752139,2018.07.05 08:45:52.139,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:96),Set next early time to Thu Jul 05 14:00:00 EDT 2018
+1530794752180,2018.07.05 08:45:52.180,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:110),Set  might night time to Fri Jul 06 00:00:00 EDT 2018
+1530794752210,2018.07.05 08:45:52.210,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:124),Set  transmitPKClinicData to Fri Jul 06 00:00:00 EDT 2018
+1530794752212,2018.07.05 08:45:52.212,DEBUG,aiview_android,MedAlarmReceiver.onReceive  (MedAlarmReceiver.java:82),Current running app com.aicure.aiview.alarm.ReminderScreenActivity
+1530794752214,2018.07.05 08:45:52.214,INFO,aiview_android,MedProtocolController.getNextMed  (MedProtocolController.java:41),get next medication.
+1530794752257,2018.07.05 08:45:52.257,DEBUG,aiview_android,MedProtocolController.getNextMed  (MedProtocolController.java:45),Current dose done -- false
+1530794752260,2018.07.05 08:45:52.260,DEBUG,aiview_android,MedProtocolController.getNextMed  (MedProtocolController.java:55),Next medication ---  pill name : ctn pill nums : 1 pill dose id : 0 alarmTime : 2018-07-05 08:00:00 earlyTime : 2018-07-05 02:00:00 lateTime : 2018-07-05 11:00:00 missTime : 2018-07-05 13:59:59 targetDate : 2018-07-05
+1530794752273,2018.07.05 08:45:52.273,INFO,aiview_android,MedProtocolController.getNextMed  (MedProtocolController.java:82),dose id column exists in protocol time window.
+1530794752288,2018.07.05 08:45:52.288,INFO,aiview_android,MedAlarmReceiver.onReceive  (MedAlarmReceiver.java:113),Ring alarm and show snooze button
+1530794752296,2018.07.05 08:45:52.296,INFO,aiview_android,MedAlarmReceiver.onReceive  (MedAlarmReceiver.java:142),Med alarm received and finished
+1530794752313,2018.07.05 08:45:52.313,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:45),Audio playing flag -- true
+1530794752313,2018.07.05 08:45:52.313,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:46),Questionnaire in progress  -- false
+1530794752314,2018.07.05 08:45:52.314,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1530794752362,2018.07.05 08:45:52.362,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:60),play audio: voice/alarm_9_long.mp3
+1530795671913,2018.07.05 09:01:11.913,INFO,aiview_android,MedAlarmReceiver.onReceive  (MedAlarmReceiver.java:76),MedAlarmReceiver received
+1530795671915,2018.07.05 09:01:11.915,INFO,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:51),Setting Medication Reminder.
+1530795671976,2018.07.05 09:01:11.976,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:71),Set alarm time to Thu Jul 05 09:15:00 EDT 2018
+1530795672005,2018.07.05 09:01:12.005,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:83),Set miss time to Thu Jul 05 13:59:59 EDT 2018
+1530795672038,2018.07.05 09:01:12.038,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:96),Set next early time to Thu Jul 05 14:00:00 EDT 2018
+1530795672058,2018.07.05 09:01:12.058,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:110),Set  might night time to Fri Jul 06 00:00:00 EDT 2018
+1530795672085,2018.07.05 09:01:12.085,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:124),Set  transmitPKClinicData to Fri Jul 06 00:00:00 EDT 2018
+1530795672087,2018.07.05 09:01:12.087,DEBUG,aiview_android,MedAlarmReceiver.onReceive  (MedAlarmReceiver.java:82),Current running app com.aicure.aiview.alarm.ReminderScreenActivity
+1530795672090,2018.07.05 09:01:12.090,INFO,aiview_android,MedProtocolController.getNextMed  (MedProtocolController.java:41),get next medication.
+1530795672147,2018.07.05 09:01:12.147,DEBUG,aiview_android,MedProtocolController.getNextMed  (MedProtocolController.java:45),Current dose done -- false
+1530795672150,2018.07.05 09:01:12.150,DEBUG,aiview_android,MedProtocolController.getNextMed  (MedProtocolController.java:55),Next medication ---  pill name : ctn pill nums : 1 pill dose id : 0 alarmTime : 2018-07-05 08:00:00 earlyTime : 2018-07-05 02:00:00 lateTime : 2018-07-05 11:00:00 missTime : 2018-07-05 13:59:59 targetDate : 2018-07-05
+1530795672166,2018.07.05 09:01:12.166,INFO,aiview_android,MedProtocolController.getNextMed  (MedProtocolController.java:82),dose id column exists in protocol time window.
+1530795672193,2018.07.05 09:01:12.193,INFO,aiview_android,MedAlarmReceiver.onReceive  (MedAlarmReceiver.java:133),alarm not within the first hour
+1530795672194,2018.07.05 09:01:12.194,INFO,aiview_android,MedAlarmReceiver.onReceive  (MedAlarmReceiver.java:142),Med alarm received and finished
+1530796294898,2018.07.05 09:11:34.898,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.

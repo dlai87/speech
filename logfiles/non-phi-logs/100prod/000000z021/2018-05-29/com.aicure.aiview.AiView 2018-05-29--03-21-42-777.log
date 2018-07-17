@@ -1,0 +1,32 @@
+2018-05-28 23:21:42.733 | I | -[AppDelegate application:didFinishLaunchingWithOptions:] | [line:186] | [MESSAGE] application Did Finish Launching
+2018-05-28 23:21:42.803 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID client100prod_1525443315
+2018-05-28 23:21:42.804 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name pro
+2018-05-28 23:21:42.805 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone7,1
+2018-05-28 23:21:42.805 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone 6 PLUS
+2018-05-28 23:21:42.805 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 11.3.1
+2018-05-28 23:21:42.805 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.3
+2018-05-28 23:21:42.805 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language zh-Hans-US
+2018-05-28 23:21:42.824 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID 310C0109-1D48-4DA6-81EF-DDB10F3D8924
+2018-05-28 23:21:42.825 | I | -[AppDelegate logMataData] | [line:173] | [MESSAGE] Patient ID (null)
+2018-05-28 23:21:42.830 | I | +[AIUtil hasInternetConnection] | [line:683] | [MESSAGE] has internet connnection = 1
+2018-05-28 23:21:43.573 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:437] | [MESSAGE] Succeded to get APNS token data: <eaf8c497 9f42aeb1 90d7b37f 76a8ceb7 18cf5883 2ca26f35 d08943af bafc5a32>
+2018-05-28 23:21:43.574 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:443] | [MESSAGE] deviceToken:  eaf8c4979f42aeb190d7b37f76a8ceb718cf58832ca26f35d08943afbafc5a32
+2018-05-28 23:21:44.025 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-28 23:21:44.172 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-05-28 23:21:44.366 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-28 23:21:45.718 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 1
+2018-05-28 23:21:45.751 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:165] | [MESSAGE] protocolID: 3, doseID: 0, numPillsInCurrentMed: 1, correctPillName: smarties-white, targetDate: 2018-05-28 04:00:00 +0000
+2018-05-28 23:21:45.751 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 1
+2018-05-28 23:21:45.755 | I | -[InteruptionRecovery checkInteruptionAndProcessWithUser:inManagedObjectContext:] | [line:93] | [MESSAGE] no interruption found
+2018-05-28 23:21:45.756 | I | -[AiView defineProcess:currentTime:context:] | [line:163] | [MESSAGE] ==== interuptionStatus ==== 10002
+2018-05-28 23:21:45.756 | I | -[AiView defineProcess:currentTime:context:] | [line:165] | [MESSAGE] NO_INTERUPTION_FOUND
+2018-05-28 23:21:45.756 | I | -[AiView defineProcess:currentTime:context:] | [line:167] | [MESSAGE] ==== go to start ====
+2018-05-28 23:21:45.847 | I | -[StartPageViewController viewDidLoad] | [line:65] | [MESSAGE] view did load
+2018-05-28 23:21:47.795 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:256] | [MESSAGE] Neural network config download succeeded.
+2018-05-28 23:21:48.631 | I | -[SettingsVC viewDidLoad] | [line:47] | [MESSAGE] SettingsVC view did load
+2018-05-28 23:21:57.058 | I | -[SettingsVC onStaffSettingsButtonPressed:] | [line:76] | [MESSAGE] on Staff Settings Button Pressed
+2018-05-28 23:21:57.060 | I | +[AIUtil checkWifiConnection] | [line:705] | [MESSAGE] check wifi connection = CONNECT_WIFI
+2018-05-28 23:21:57.497 | I | -[EndTrialWebVC viewDidLoad] | [line:70] | [MESSAGE] EndTrialWebVC view did load
+2018-05-28 23:21:57.507 | I | -[EndTrialWebVC viewDidLoad] | [line:97] | [MESSAGE] url https://client100prod.aicure.com/aiview/login_mobile?reg=310C0109-1D48-4DA6-81EF-DDB10F3D8924&device_os_type=ios&purpose=2&session_id=0&show_next_session_button=0
+2018-05-28 23:22:29.544 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-28 23:22:30.416 | I | -[AppDelegate cleanAlertDialog] | [line:369] | [MESSAGE] clean Alert Dialog

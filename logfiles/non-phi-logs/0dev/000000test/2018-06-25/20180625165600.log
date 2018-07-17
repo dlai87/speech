@@ -1,0 +1,31 @@
+1529960160773,2018.06.25 16:56:00.773,DEBUG,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:873),AiView app is currently running in daily dose mode
+1529960160829,2018.06.25 16:56:00.829,DEBUG,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:896),Trial id :0dev_1516812416_1524490883
+1529960160831,2018.06.25 16:56:00.831,DEBUG,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:900),Device ID (IMEI) : 990004886219926
+1529960160833,2018.06.25 16:56:00.833,DEBUG,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:905),External patient id : 000000test
+1529960160834,2018.06.25 16:56:00.834,DEBUG,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:906),OS version : 24
+1529960160835,2018.06.25 16:56:00.835,DEBUG,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:916),Total available memory for this phone is : 1148.0mb  Percentage : 42.8841198712686%
+1529960160837,2018.06.25 16:56:00.837,DEBUG,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:918), Device has access to internet.
+1529960160838,2018.06.25 16:56:00.838,INFO,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:920),Device is connected to WIFI with fast connection.
+1529960160841,2018.06.25 16:56:00.841,INFO,aiview_android,AiViewSwitch.hasPermissionsGranted  (AiViewSwitch.java:150),All permissions have been granted.
+1529960160841,2018.06.25 16:56:00.841,INFO,aiview_android,AiViewSwitch.onStart  (AiViewSwitch.java:450),All required permissions have been granted.
+1529960160845,2018.06.25 16:56:00.845,INFO,aiview_android,AiViewSwitch.runAivewSwitchAfterPermissionGranted  (AiViewSwitch.java:476),Current locale is --- en
+1529960160846,2018.06.25 16:56:00.846,DEBUG,aiview_android,LocaleHelper.setLocale  (LocaleHelper.java:71),Setting app locale -- en
+1529960160869,2018.06.25 16:56:00.869,INFO,aiview_android,AiViewSwitch.StartAppWithoutCheckingVideos  (AiViewSwitch.java:237),Device was registered.
+1529960160906,2018.06.25 16:56:00.906,INFO,aiview_android,AiViewSwitch.StartAppWithoutCheckingVideos  (AiViewSwitch.java:275),It is currently in dosing window.
+1529960161123,2018.06.25 16:56:01.123,DEBUG,aiview_android,AppUtil$3.onFinished  (AppUtil.java:883),manufacturer : Samsung name :Galaxy S6 model :SM-G920V codename : zerofltevzw deviceName : Galaxy S6
+1529960161260,2018.06.25 16:56:01.260,DEBUG,aiview_android,LocaleHelper.setLocale  (LocaleHelper.java:71),Setting app locale -- en
+1529960161413,2018.06.25 16:56:01.413,INFO,aiview_android,MedProtocolController.getNextMed  (MedProtocolController.java:41),get next medication.
+1529960161417,2018.06.25 16:56:01.417,DEBUG,aiview_android,MedProtocolController.getNextMed  (MedProtocolController.java:45),Current dose done -- true
+1529960161419,2018.06.25 16:56:01.419,INFO,aiview_android,MedProtocolController.getNextMed  (MedProtocolController.java:41),get next medication.
+1529960161422,2018.06.25 16:56:01.422,DEBUG,aiview_android,MedProtocolController.getNextMed  (MedProtocolController.java:45),Current dose done -- true
+1529960161436,2018.06.25 16:56:01.436,INFO,aiview_android,AiView.transmit  (AiView.java:712),Transmit .......
+1529960161437,2018.06.25 16:56:01.437,DEBUG,aiview_android,AiView.transmit  (AiView.java:713),should take survey before transmit = false;Global.SURVEY_RULE = 0
+1529960161489,2018.06.25 16:56:01.489,INFO,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:51),Setting Medication Reminder.
+1529960161498,2018.06.25 16:56:01.498,DEBUG,aiview_android,ReminderManager.setMedReminder  (ReminderManager.java:110),Set  might night time to Tue Jun 26 00:00:00 EDT 2018
+1529960161503,2018.06.25 16:56:01.503,INFO,aiview_android,Transmission.sendMissEvents  (Transmission.java:234),sending missing events.
+1529960161504,2018.06.25 16:56:01.504,DEBUG,aiview_android,Transmission.sendMissEvents  (Transmission.java:238),Number of events to be transmitted: 0 with time: 2018-06-25 16:56:01 usename: 990004886219926
+1529960161554,2018.06.25 16:56:01.554,INFO,aiview_android,CognitoManager$2.onSuccess  (CognitoManager.java:133),successfully logined in.
+1529960161620,2018.06.25 16:56:01.620,INFO,aiview_android,CognitoManager$2.onSuccess  (CognitoManager.java:133),successfully logined in.
+1529960161621,2018.06.25 16:56:01.621,DEBUG,aiview_android,SendEncryptedVideoBackendTask.lambda$buildTasksChain$0$SendEncryptedVideoBackendTask  (SendEncryptedVideoBackendTask.java:54),starting uploadVideoTask, received 0 file names
+1529960161634,2018.06.25 16:56:01.634,INFO,aiview_android,CognitoManager$2.onSuccess  (CognitoManager.java:133),successfully logined in.
+1529960161634,2018.06.25 16:56:01.634,DEBUG,aiview_android,SendLogsToS3Task.lambda$buildTasksChain$0$SendLogsToS3Task  (SendLogsToS3Task.java:55),starting uploadAudioLogTask, received 3 file names

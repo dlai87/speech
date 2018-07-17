@@ -1,0 +1,457 @@
+2018-06-05 14:33:30.169 | I | -[AppDelegate application:didFinishLaunchingWithOptions:] | [line:181] | [MESSAGE] application Did Finish Launching
+2018-06-05 14:33:30.173 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID (null)
+2018-06-05 14:33:30.174 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name pro
+2018-06-05 14:33:30.174 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone8,1
+2018-06-05 14:33:30.175 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone 6S
+2018-06-05 14:33:30.175 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 11.3.1
+2018-06-05 14:33:30.175 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.2
+2018-06-05 14:33:30.175 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language en-US
+2018-06-05 14:33:30.180 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID 0AF1B679-37C0-4369-9F33-3D784429E4C0
+2018-06-05 14:33:30.382 | I | -[AppDelegate applicationWillResignActive:] | [line:196] | [MESSAGE] application Will Resign Active
+2018-06-05 14:33:30.424 | D | -[AiViewSwitch startApp] | [line:157] | [MESSAGE] StartApp in AiViewSwitch
+2018-06-05 14:33:30.455 | I | +[AIUtil checkPermission] | [line:1128] | [MESSAGE] camera access / mic access Not Determined
+2018-06-05 14:33:30.498 | I | -[LoginVC viewDidLoad] | [line:71] | [MESSAGE] LoginVC view did load
+2018-06-05 14:33:30.500 | I | +[AIUtil checkWifiConnection] | [line:704] | [MESSAGE] check wifi connection = CONNECT_WIFI
+2018-06-05 14:33:30.835 | I | -[AppDelegate applicationWillResignActive:] | [line:196] | [MESSAGE] application Will Resign Active
+2018-06-05 14:33:32.866 | I | -[AppDelegate applicationWillResignActive:] | [line:196] | [MESSAGE] application Will Resign Active
+2018-06-05 14:33:33.366 | I | -[AppDelegate applicationWillResignActive:] | [line:196] | [MESSAGE] application Will Resign Active
+2018-06-05 14:33:34.441 | I | -[AppDelegate applicationWillResignActive:] | [line:196] | [MESSAGE] application Will Resign Active
+2018-06-05 14:33:35.523 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:414] | [MESSAGE] Succeded to get APNS token data: <2e94dc2e 81771c46 2724c85f b9803361 937cef57 4005d653 f30f9594 4ce305f4>
+2018-06-05 14:33:35.523 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:420] | [MESSAGE] deviceToken:  2e94dc2e81771c462724c85fb9803361937cef574005d653f30f95944ce305f4
+2018-06-05 14:34:20.193 | I | -[LoginAction loginWithUsername:password:onView:] | [line:61] | [MESSAGE] login with username password
+2018-06-05 14:34:20.194 | I | -[LoginAction getURLTaskWithUsername:password:] | [line:94] | [MESSAGE] [self.urlGetter routingUrl] https://routing.aicure.com/backend/get_url_trial
+2018-06-05 14:34:20.701 | I | -[LoginAction update:task_name:] | [line:131] | [MESSAGE] login transmission task_name routing, result 9999
+2018-06-05 14:34:21.129 | I | -[LoginAction update:task_name:] | [line:131] | [MESSAGE] login transmission task_name trial_setup, result 9999
+2018-06-05 14:34:21.280 | I | -[LoginAction update:task_name:] | [line:131] | [MESSAGE] login transmission task_name trial_setup_serialized, result 9999
+2018-06-05 14:34:21.281 | I | -[LoginAction checkTrainingTask:password:] | [line:102] | [MESSAGE] [self.urlGetter getBackendURI:self.context] https://client100prod.aicure.com/backend/backend
+2018-06-05 14:34:21.405 | I | -[LoginAction update:task_name:] | [line:131] | [MESSAGE] login transmission task_name training, result 9999
+2018-06-05 14:34:21.529 | I | -[LoginVC handleTransmissionSuccessfully] | [line:263] | [MESSAGE] handleTransmissionSuccessfully
+2018-06-05 14:34:21.560 | D | -[AiViewSwitch startApp] | [line:157] | [MESSAGE] StartApp in AiViewSwitch
+2018-06-05 14:34:21.561 | I | +[AIUtil checkPermission] | [line:1131] | [MESSAGE] camera access / mic access Authorized
+2018-06-05 14:34:21.579 | I | -[LoginVC viewDidLoad] | [line:71] | [MESSAGE] LoginVC view did load
+2018-06-05 14:34:21.580 | I | +[AIUtil checkWifiConnection] | [line:704] | [MESSAGE] check wifi connection = CONNECT_WIFI
+2018-06-05 14:34:42.116 | I | -[LoginAction loginWithUsername:password:onView:] | [line:61] | [MESSAGE] login with username password
+2018-06-05 14:34:42.117 | I | -[LoginAction getURLTaskWithUsername:password:] | [line:94] | [MESSAGE] [self.urlGetter routingUrl] https://routing.aicure.com/backend/get_url_trial
+2018-06-05 14:34:42.248 | I | -[LoginAction update:task_name:] | [line:131] | [MESSAGE] login transmission task_name routing, result 9999
+2018-06-05 14:34:42.359 | I | -[LoginAction update:task_name:] | [line:131] | [MESSAGE] login transmission task_name trial_setup, result 9999
+2018-06-05 14:34:42.517 | I | -[LoginAction update:task_name:] | [line:131] | [MESSAGE] login transmission task_name trial_setup_serialized, result 9999
+2018-06-05 14:34:42.519 | I | -[LoginAction checkTrainingTask:password:] | [line:102] | [MESSAGE] [self.urlGetter getBackendURI:self.context] https://client100prod.aicure.com/backend/backend
+2018-06-05 14:34:42.655 | I | -[LoginAction update:task_name:] | [line:131] | [MESSAGE] login transmission task_name training, result 9999
+2018-06-05 14:34:42.659 | I | -[LoginVC handleTransmissionSuccessfully] | [line:263] | [MESSAGE] handleTransmissionSuccessfully
+2018-06-05 14:34:44.468 | I | -[TermConditionsVC loadWebView] | [line:160] | [MESSAGE] url https://client100prod.aicure.com/backend/backend/regulation/terms_and_conditions?lang=en
+2018-06-05 14:34:44.469 | I | -[TermConditionsVC viewDidLoad] | [line:83] | [MESSAGE] TermConditionsVC view did load
+2018-06-05 14:34:44.511 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone8,1
+2018-06-05 14:34:44.517 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone8,1
+2018-06-05 14:34:45.217 | I | -[TermConditionsVC viewDidAppear:] | [line:127] | [MESSAGE] TermConditionsVC viewDidAppear
+2018-06-05 14:35:07.965 | I | -[TermConditionsVC agreeButtonPressed:] | [line:178] | [MESSAGE] agreeButtonPressed
+2018-06-05 14:35:09.604 | I | -[DownloadTutorialVC viewDidLoad] | [line:52] | [MESSAGE] DownloadTutorialVC viewDidLoad
+2018-06-05 14:35:09.625 | I | -[DownloadTutorialVC downloadVideo:destinationUrl:] | [line:112] | [MESSAGE] downloadVideo originalURL = https://client100prod.aicure.com/tutorial_video_tablet/oral_pill/sfdph/en/full_version_face_identification_order_0_numpill_0_total_0.mp4, destinationURL = file:///var/mobile/Containers/Data/Application/C4849673-73A2-48FB-A5BD-F329EFE2431E/Documents/en/full_version_face_identification_order_0_numpill_0_total_0.mp4
+2018-06-05 14:35:09.635 | I | -[DownloadTutorialVC downloadVideo:destinationUrl:] | [line:112] | [MESSAGE] downloadVideo originalURL = https://client100prod.aicure.com/tutorial_video_tablet/oral_pill/sfdph/en/full_version_pill_identification_order_0_numpill_0_total_0.mp4, destinationURL = file:///var/mobile/Containers/Data/Application/C4849673-73A2-48FB-A5BD-F329EFE2431E/Documents/en/full_version_pill_identification_order_0_numpill_0_total_0.mp4
+2018-06-05 14:35:09.640 | I | -[DownloadTutorialVC downloadVideo:destinationUrl:] | [line:112] | [MESSAGE] downloadVideo originalURL = https://client100prod.aicure.com/tutorial_video_tablet/oral_pill/sfdph/en/full_version_pill_in_mouth_order_0_numpill_0_total_0.mp4, destinationURL = file:///var/mobile/Containers/Data/Application/C4849673-73A2-48FB-A5BD-F329EFE2431E/Documents/en/full_version_pill_in_mouth_order_0_numpill_0_total_0.mp4
+2018-06-05 14:35:09.645 | I | -[DownloadTutorialVC downloadVideo:destinationUrl:] | [line:112] | [MESSAGE] downloadVideo originalURL = https://client100prod.aicure.com/tutorial_video_tablet/oral_pill/sfdph/en/full_version_empty_mouth_order_0_numpill_0_total_0.mp4, destinationURL = file:///var/mobile/Containers/Data/Application/C4849673-73A2-48FB-A5BD-F329EFE2431E/Documents/en/full_version_empty_mouth_order_0_numpill_0_total_0.mp4
+2018-06-05 14:35:09.648 | I | -[DownloadTutorialVC downloadVideo:destinationUrl:] | [line:112] | [MESSAGE] downloadVideo originalURL = https://client100prod.aicure.com/tutorial_video_tablet/oral_pill/sfdph/en/full_version_pill_not_under_the_tongue_order_0_numpill_0_total_0.mp4, destinationURL = file:///var/mobile/Containers/Data/Application/C4849673-73A2-48FB-A5BD-F329EFE2431E/Documents/en/full_version_pill_not_under_the_tongue_order_0_numpill_0_total_0.mp4
+2018-06-05 14:35:09.653 | I | -[DownloadTutorialVC downloadVideo:destinationUrl:] | [line:112] | [MESSAGE] downloadVideo originalURL = https://client100prod.aicure.com/tutorial_video_tablet/oral_pill/sfdph/en/short_version_face_identification_order_0_numpill_0_total_0.mp4, destinationURL = file:///var/mobile/Containers/Data/Application/C4849673-73A2-48FB-A5BD-F329EFE2431E/Documents/en/short_version_face_identification_order_0_numpill_0_total_0.mp4
+2018-06-05 14:35:12.189 | I | -[DownloadTutorialVC handleComplete] | [line:221] | [MESSAGE] down lot tutorial handleComplete
+2018-06-05 14:35:12.886 | I | -[DownloadTutorialVC handleComplete] | [line:221] | [MESSAGE] down lot tutorial handleComplete
+2018-06-05 14:35:13.404 | I | -[DownloadTutorialVC handleComplete] | [line:221] | [MESSAGE] down lot tutorial handleComplete
+2018-06-05 14:35:14.888 | I | -[DownloadTutorialVC handleComplete] | [line:221] | [MESSAGE] down lot tutorial handleComplete
+2018-06-05 14:35:17.587 | I | -[DownloadTutorialVC handleComplete] | [line:221] | [MESSAGE] down lot tutorial handleComplete
+2018-06-05 14:35:17.818 | I | -[DownloadTutorialVC handleComplete] | [line:221] | [MESSAGE] down lot tutorial handleComplete
+2018-06-05 14:35:19.867 | I | -[TutorialStartVC viewDidLoad] | [line:30] | [MESSAGE] TutorialStartVC view did load
+2018-06-05 14:35:24.514 | I | -[TutorialStartVC startButtonPressed:] | [line:98] | [MESSAGE] start Button Pressed
+2018-06-05 14:35:24.797 | I | -[StepsController init:uiView:steps:viewController:recordVideo:] | [line:83] | [MESSAGE] should record video flag 0
+2018-06-05 14:35:24.797 | I | -[AiViewTutorial viewDidLoad] | [line:67] | [MESSAGE] AiViewTutorial viewDidLoad
+2018-06-05 14:35:25.306 | I | +[AIUtil checkPermission] | [line:1131] | [MESSAGE] camera access / mic access Authorized
+2018-06-05 14:35:25.312 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-06-05 14:35:26.929 | I | -[FlexibleVideoPlayerController playTutorialVideoOnView:step:] | [line:178] | [MESSAGE] playTutorialVideo full_version_face_identification_order_0_numpill_0_total_0
+2018-06-05 14:35:53.425 | I | -[AppDelegate applicationWillResignActive:] | [line:196] | [MESSAGE] application Will Resign Active
+2018-06-05 14:35:54.047 | I | -[AppDelegate cleanAlertDialog] | [line:346] | [MESSAGE] clean Alert Dialog
+2018-06-05 14:35:54.083 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-06-05 14:35:54.148 | I | -[AppDelegate applicationWillEnterForeground:] | [line:221] | [MESSAGE] application will enter foreground
+2018-06-05 14:35:54.148 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID client100prod_1525443315
+2018-06-05 14:35:54.149 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name 100prod
+2018-06-05 14:35:54.149 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone8,1
+2018-06-05 14:35:54.149 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone 6S
+2018-06-05 14:35:54.149 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 11.3.1
+2018-06-05 14:35:54.149 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.2
+2018-06-05 14:35:54.149 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language en-US
+2018-06-05 14:35:54.149 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID 0AF1B679-37C0-4369-9F33-3D784429E4C0
+2018-06-05 14:35:54.310 | D | -[AiViewSwitch startApp] | [line:157] | [MESSAGE] StartApp in AiViewSwitch
+2018-06-05 14:35:54.311 | I | +[AIUtil checkPermission] | [line:1131] | [MESSAGE] camera access / mic access Authorized
+2018-06-05 14:35:54.338 | I | -[LoginVC viewDidLoad] | [line:71] | [MESSAGE] LoginVC view did load
+2018-06-05 14:35:54.338 | I | +[AIUtil checkWifiConnection] | [line:704] | [MESSAGE] check wifi connection = CONNECT_WIFI
+2018-06-05 14:36:16.107 | I | -[LoginAction loginWithUsername:password:onView:] | [line:61] | [MESSAGE] login with username password
+2018-06-05 14:36:16.108 | I | -[LoginAction getURLTaskWithUsername:password:] | [line:94] | [MESSAGE] [self.urlGetter routingUrl] https://routing.aicure.com/backend/get_url_trial
+2018-06-05 14:36:16.687 | I | -[LoginAction update:task_name:] | [line:131] | [MESSAGE] login transmission task_name routing, result 9999
+2018-06-05 14:36:17.120 | I | -[LoginAction update:task_name:] | [line:131] | [MESSAGE] login transmission task_name trial_setup, result 9999
+2018-06-05 14:36:17.284 | I | -[LoginAction update:task_name:] | [line:131] | [MESSAGE] login transmission task_name trial_setup_serialized, result 9999
+2018-06-05 14:36:17.286 | I | -[LoginAction checkTrainingTask:password:] | [line:102] | [MESSAGE] [self.urlGetter getBackendURI:self.context] https://client100prod.aicure.com/backend/backend
+2018-06-05 14:36:17.411 | I | -[LoginAction update:task_name:] | [line:131] | [MESSAGE] login transmission task_name training, result 9999
+2018-06-05 14:36:17.414 | I | -[LoginVC handleTransmissionSuccessfully] | [line:263] | [MESSAGE] handleTransmissionSuccessfully
+2018-06-05 14:36:19.006 | I | -[TermConditionsVC loadWebView] | [line:160] | [MESSAGE] url https://client100prod.aicure.com/backend/backend/regulation/terms_and_conditions?lang=en
+2018-06-05 14:36:19.008 | I | -[TermConditionsVC viewDidLoad] | [line:83] | [MESSAGE] TermConditionsVC view did load
+2018-06-05 14:36:19.042 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone8,1
+2018-06-05 14:36:19.048 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone8,1
+2018-06-05 14:36:19.574 | I | -[TermConditionsVC viewDidAppear:] | [line:127] | [MESSAGE] TermConditionsVC viewDidAppear
+2018-06-05 14:36:21.115 | I | -[TermConditionsVC agreeButtonPressed:] | [line:178] | [MESSAGE] agreeButtonPressed
+2018-06-05 14:36:22.761 | I | -[TutorialStartVC viewDidLoad] | [line:30] | [MESSAGE] TutorialStartVC view did load
+2018-06-05 14:36:23.749 | I | -[TutorialStartVC startButtonPressed:] | [line:98] | [MESSAGE] start Button Pressed
+2018-06-05 14:36:23.988 | I | -[StepsController init:uiView:steps:viewController:recordVideo:] | [line:83] | [MESSAGE] should record video flag 0
+2018-06-05 14:36:23.988 | I | -[AiViewTutorial viewDidLoad] | [line:67] | [MESSAGE] AiViewTutorial viewDidLoad
+2018-06-05 14:36:24.497 | I | +[AIUtil checkPermission] | [line:1131] | [MESSAGE] camera access / mic access Authorized
+2018-06-05 14:36:24.497 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-06-05 14:36:25.217 | I | -[FlexibleVideoPlayerController playTutorialVideoOnView:step:] | [line:178] | [MESSAGE] playTutorialVideo full_version_face_identification_order_0_numpill_0_total_0
+2018-06-05 14:37:15.352 | I | -[StepsController goToCamera] | [line:509] | [MESSAGE] goToCamera
+2018-06-05 14:37:15.352 | I | -[StepsController defineCurrentStep] | [line:274] | [MESSAGE] defineCurrentStep 0
+2018-06-05 14:37:15.453 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 14:37:15.454 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 14:37:15.536 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-06-05 14:37:15.553 | I | -[FlexibleVideoPlayerController videoPlayingComplete:] | [line:193] | [MESSAGE] flex video videoPlayingComplete
+2018-06-05 14:37:15.737 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 14:37:15.829 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-06-05 14:37:15.873 | I | -[CameraUIView displayConfirm] | [line:329] | [MESSAGE] show step confirm animation
+2018-06-05 14:37:15.873 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-06-05 14:37:18.045 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-06-05 14:37:18.048 | I | -[FlexibleVideoPlayerController playTutorialVideoOnView:step:] | [line:178] | [MESSAGE] playTutorialVideo full_version_pill_identification_order_0_numpill_0_total_0
+2018-06-05 14:37:44.297 | I | -[StepsController goToCamera] | [line:509] | [MESSAGE] goToCamera
+2018-06-05 14:37:44.297 | I | -[StepsController defineCurrentStep] | [line:274] | [MESSAGE] defineCurrentStep 1
+2018-06-05 14:37:44.299 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 14:37:44.299 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 14:37:44.311 | I | -[FlexibleVideoPlayerController videoPlayingComplete:] | [line:193] | [MESSAGE] flex video videoPlayingComplete
+2018-06-05 14:37:44.512 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 14:37:44.584 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 14:37:44.624 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-06-05 14:37:44.664 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-06-05 14:37:44.664 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-06-05 14:37:44.680 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 14:37:44.687 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-06-05 14:37:44.723 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-06-05 14:37:44.723 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-06-05 14:37:44.765 | I | -[CameraUIView displayError:] | [line:286] | [MESSAGE] show error animation; error type 18
+2018-06-05 14:37:53.883 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 14:37:55.381 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-06-05 14:37:55.415 | I | -[CameraUIView displayConfirm] | [line:329] | [MESSAGE] show step confirm animation
+2018-06-05 14:37:55.418 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-06-05 14:37:57.578 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-06-05 14:37:57.582 | I | -[FlexibleVideoPlayerController playTutorialVideoOnView:step:] | [line:178] | [MESSAGE] playTutorialVideo full_version_pill_in_mouth_order_0_numpill_0_total_0
+2018-06-05 14:38:18.857 | I | -[StepsController goToCamera] | [line:509] | [MESSAGE] goToCamera
+2018-06-05 14:38:18.857 | I | -[StepsController defineCurrentStep] | [line:274] | [MESSAGE] defineCurrentStep 2
+2018-06-05 14:38:18.859 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 14:38:18.859 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 14:38:18.871 | I | -[FlexibleVideoPlayerController videoPlayingComplete:] | [line:193] | [MESSAGE] flex video videoPlayingComplete
+2018-06-05 14:38:19.072 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 14:38:19.142 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 14:38:19.163 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-06-05 14:38:19.207 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-06-05 14:38:19.207 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-06-05 14:38:19.218 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 14:38:19.240 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-06-05 14:38:19.279 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-06-05 14:38:19.279 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-06-05 14:38:19.304 | I | -[CameraUIView displayError:] | [line:286] | [MESSAGE] show error animation; error type 18
+2018-06-05 14:38:19.576 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 14:38:19.649 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-06-05 14:38:19.685 | I | -[CameraUIView displayConfirm] | [line:329] | [MESSAGE] show step confirm animation
+2018-06-05 14:38:19.685 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-06-05 14:38:21.856 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-06-05 14:38:21.859 | I | -[FlexibleVideoPlayerController playTutorialVideoOnView:step:] | [line:178] | [MESSAGE] playTutorialVideo full_version_empty_mouth_order_0_numpill_0_total_0
+2018-06-05 14:38:42.409 | I | -[StepsController goToCamera] | [line:509] | [MESSAGE] goToCamera
+2018-06-05 14:38:42.409 | I | -[StepsController defineCurrentStep] | [line:274] | [MESSAGE] defineCurrentStep 3
+2018-06-05 14:38:42.411 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 14:38:42.411 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 14:38:42.423 | I | -[FlexibleVideoPlayerController videoPlayingComplete:] | [line:193] | [MESSAGE] flex video videoPlayingComplete
+2018-06-05 14:38:42.626 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 14:38:42.682 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 14:38:42.708 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-06-05 14:38:42.752 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-06-05 14:38:42.752 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-06-05 14:38:42.770 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 14:38:42.788 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-06-05 14:38:42.823 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-06-05 14:38:42.823 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-06-05 14:38:42.856 | I | -[CameraUIView displayError:] | [line:286] | [MESSAGE] show error animation; error type 18
+2018-06-05 14:38:43.314 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 14:38:44.180 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-06-05 14:38:44.218 | I | -[CameraUIView displayConfirm] | [line:329] | [MESSAGE] show step confirm animation
+2018-06-05 14:38:44.218 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-06-05 14:38:46.400 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-06-05 14:38:46.404 | I | -[FlexibleVideoPlayerController playTutorialVideoOnView:step:] | [line:178] | [MESSAGE] playTutorialVideo full_version_pill_not_under_the_tongue_order_0_numpill_0_total_0
+2018-06-05 14:39:05.150 | I | -[StepsController goToCamera] | [line:509] | [MESSAGE] goToCamera
+2018-06-05 14:39:05.150 | I | -[StepsController defineCurrentStep] | [line:274] | [MESSAGE] defineCurrentStep 9
+2018-06-05 14:39:05.152 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 14:39:05.152 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 14:39:05.164 | I | -[CameraUIView displayPreInstruction:] | [line:185] | [MESSAGE] show pre instruction animation
+2018-06-05 14:39:05.164 | I | -[FlexibleVideoPlayerController videoPlayingComplete:] | [line:193] | [MESSAGE] flex video videoPlayingComplete
+2018-06-05 14:39:06.167 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 14:39:06.319 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 14:39:06.341 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-06-05 14:39:06.373 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-06-05 14:39:06.373 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-06-05 14:39:06.386 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 14:39:06.410 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-06-05 14:39:06.443 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-06-05 14:39:06.443 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-06-05 14:39:06.472 | I | -[CameraUIView displayError:] | [line:286] | [MESSAGE] show error animation; error type 18
+2018-06-05 14:39:06.894 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 14:39:07.026 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-06-05 14:39:07.075 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-06-05 14:39:07.075 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-06-05 14:39:07.112 | I | -[CameraUIView displayError:] | [line:286] | [MESSAGE] show error animation; error type 18
+2018-06-05 14:39:11.556 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 14:39:11.858 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-06-05 14:39:11.907 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-06-05 14:39:11.907 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-06-05 14:39:12.007 | I | -[CameraUIView displayError:] | [line:286] | [MESSAGE] show error animation; error type 18
+2018-06-05 14:39:12.543 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 14:39:12.694 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-06-05 14:39:12.746 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-06-05 14:39:12.746 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-06-05 14:39:12.775 | I | -[CameraUIView displayError:] | [line:286] | [MESSAGE] show error animation; error type 18
+2018-06-05 14:39:13.200 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 14:39:14.197 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-06-05 14:39:14.229 | I | -[CameraUIView displayConfirm] | [line:329] | [MESSAGE] show step confirm animation
+2018-06-05 14:39:14.230 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-06-05 14:39:16.394 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-06-05 14:39:16.398 | I | -[StepsController currentPillAllDone] | [line:629] | [MESSAGE] currentPillAllDone username 0AF1B679-37C0-4369-9F33-3D784429E4C0, pill id 0, dose id 0
+2018-06-05 14:39:16.400 | I | -[AiViewTutorial handleAllStepsDone] | [line:172] | [MESSAGE] handleAllStepsDone
+2018-06-05 14:39:16.409 | I | -[NextTraining viewDidLoad] | [line:43] | [MESSAGE] NextTraining view Did Load
+2018-06-05 14:39:16.410 | I | -[CameraEngine pauseCapture] | [line:231] | [MESSAGE] Pausing capture
+2018-06-05 14:39:16.417 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-06-05 14:39:20.058 | I | -[StepsController init:uiView:steps:viewController:recordVideo:] | [line:83] | [MESSAGE] should record video flag 0
+2018-06-05 14:39:20.058 | I | -[AiViewTutorial viewDidLoad] | [line:67] | [MESSAGE] AiViewTutorial viewDidLoad
+2018-06-05 14:39:20.567 | I | +[AIUtil checkPermission] | [line:1131] | [MESSAGE] camera access / mic access Authorized
+2018-06-05 14:39:20.568 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-06-05 14:39:20.987 | I | -[FlexibleVideoPlayerController playTutorialVideoOnView:step:] | [line:178] | [MESSAGE] playTutorialVideo short_version_face_identification_order_0_numpill_0_total_0
+2018-06-05 14:40:11.121 | I | -[StepsController goToCamera] | [line:509] | [MESSAGE] goToCamera
+2018-06-05 14:40:11.122 | I | -[StepsController defineCurrentStep] | [line:274] | [MESSAGE] defineCurrentStep 9
+2018-06-05 14:40:11.127 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 14:40:11.127 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 14:40:11.184 | I | -[CameraUIView displayPreInstruction:] | [line:185] | [MESSAGE] show pre instruction animation
+2018-06-05 14:40:11.185 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-06-05 14:40:11.185 | I | -[StepsController goToCamera] | [line:509] | [MESSAGE] goToCamera
+2018-06-05 14:40:11.186 | I | -[StepsController defineCurrentStep] | [line:274] | [MESSAGE] defineCurrentStep 0
+2018-06-05 14:40:11.186 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 14:40:11.186 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 14:40:11.228 | I | -[FlexibleVideoPlayerController videoPlayingComplete:] | [line:193] | [MESSAGE] flex video videoPlayingComplete
+2018-06-05 14:40:11.429 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 14:40:11.495 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-06-05 14:40:11.534 | I | -[CameraUIView displayConfirm] | [line:329] | [MESSAGE] show step confirm animation
+2018-06-05 14:40:11.534 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-06-05 14:40:12.186 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-06-05 14:40:12.223 | I | -[CameraUIView displayConfirm] | [line:329] | [MESSAGE] show step confirm animation
+2018-06-05 14:40:12.223 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-06-05 14:40:13.686 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-06-05 14:40:13.691 | I | -[FlexibleVideoPlayerController playTutorialVideoOnView:step:] | [line:178] | [MESSAGE] playTutorialVideo full_version_pill_identification_order_0_numpill_0_total_0
+2018-06-05 14:40:39.917 | I | -[StepsController goToCamera] | [line:509] | [MESSAGE] goToCamera
+2018-06-05 14:40:39.917 | I | -[StepsController defineCurrentStep] | [line:274] | [MESSAGE] defineCurrentStep 9
+2018-06-05 14:40:39.918 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 14:40:39.918 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 14:40:39.929 | I | -[CameraUIView displayPreInstruction:] | [line:185] | [MESSAGE] show pre instruction animation
+2018-06-05 14:40:39.931 | I | -[StepsController goToCamera] | [line:509] | [MESSAGE] goToCamera
+2018-06-05 14:40:39.931 | I | -[StepsController defineCurrentStep] | [line:274] | [MESSAGE] defineCurrentStep 1
+2018-06-05 14:40:39.932 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 14:40:39.932 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 14:40:39.943 | I | -[FlexibleVideoPlayerController videoPlayingComplete:] | [line:193] | [MESSAGE] flex video videoPlayingComplete
+2018-06-05 14:40:40.144 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 14:40:40.196 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 14:40:40.229 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-06-05 14:40:40.276 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-06-05 14:40:40.276 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-06-05 14:40:40.300 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 14:40:40.310 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-06-05 14:40:40.336 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-06-05 14:40:40.336 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-06-05 14:40:40.364 | I | -[CameraUIView displayError:] | [line:286] | [MESSAGE] show error animation; error type 18
+2018-06-05 14:40:40.931 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 14:40:40.993 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 14:40:41.024 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-06-05 14:40:41.070 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-06-05 14:40:41.070 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-06-05 14:40:42.626 | I | -[CameraUIView displayError:] | [line:286] | [MESSAGE] show error animation; error type 18
+2018-06-05 14:40:42.826 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 14:40:43.926 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-06-05 14:40:43.960 | I | -[CameraUIView displayConfirm] | [line:329] | [MESSAGE] show step confirm animation
+2018-06-05 14:40:43.960 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-06-05 14:40:46.124 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-06-05 14:40:46.129 | I | -[FlexibleVideoPlayerController playTutorialVideoOnView:step:] | [line:178] | [MESSAGE] playTutorialVideo full_version_pill_in_mouth_order_0_numpill_0_total_0
+2018-06-05 14:41:07.373 | I | -[StepsController goToCamera] | [line:509] | [MESSAGE] goToCamera
+2018-06-05 14:41:07.373 | I | -[StepsController defineCurrentStep] | [line:274] | [MESSAGE] defineCurrentStep 9
+2018-06-05 14:41:07.374 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 14:41:07.374 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 14:41:07.386 | I | -[CameraUIView displayPreInstruction:] | [line:185] | [MESSAGE] show pre instruction animation
+2018-06-05 14:41:07.387 | I | -[StepsController goToCamera] | [line:509] | [MESSAGE] goToCamera
+2018-06-05 14:41:07.387 | I | -[StepsController defineCurrentStep] | [line:274] | [MESSAGE] defineCurrentStep 2
+2018-06-05 14:41:07.388 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 14:41:07.388 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 14:41:07.400 | I | -[FlexibleVideoPlayerController videoPlayingComplete:] | [line:193] | [MESSAGE] flex video videoPlayingComplete
+2018-06-05 14:41:07.601 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 14:41:07.734 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-06-05 14:41:07.775 | I | -[CameraUIView displayConfirm] | [line:329] | [MESSAGE] show step confirm animation
+2018-06-05 14:41:07.775 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-06-05 14:41:08.388 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-06-05 14:41:08.447 | I | -[CameraUIView displayConfirm] | [line:329] | [MESSAGE] show step confirm animation
+2018-06-05 14:41:08.447 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-06-05 14:41:09.939 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-06-05 14:41:09.944 | I | -[FlexibleVideoPlayerController playTutorialVideoOnView:step:] | [line:178] | [MESSAGE] playTutorialVideo full_version_empty_mouth_order_0_numpill_0_total_0
+2018-06-05 14:41:30.477 | I | -[StepsController goToCamera] | [line:509] | [MESSAGE] goToCamera
+2018-06-05 14:41:30.477 | I | -[StepsController defineCurrentStep] | [line:274] | [MESSAGE] defineCurrentStep 9
+2018-06-05 14:41:30.477 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 14:41:30.477 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 14:41:30.489 | I | -[CameraUIView displayPreInstruction:] | [line:185] | [MESSAGE] show pre instruction animation
+2018-06-05 14:41:30.491 | I | -[StepsController goToCamera] | [line:509] | [MESSAGE] goToCamera
+2018-06-05 14:41:30.491 | I | -[StepsController defineCurrentStep] | [line:274] | [MESSAGE] defineCurrentStep 3
+2018-06-05 14:41:30.492 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 14:41:30.492 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 14:41:30.503 | I | -[FlexibleVideoPlayerController videoPlayingComplete:] | [line:193] | [MESSAGE] flex video videoPlayingComplete
+2018-06-05 14:41:30.704 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 14:41:30.769 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 14:41:31.491 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 14:41:31.564 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 14:41:32.294 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-06-05 14:41:32.328 | I | -[CameraUIView displayConfirm] | [line:329] | [MESSAGE] show step confirm animation
+2018-06-05 14:41:32.328 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-06-05 14:41:34.481 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-06-05 14:41:34.486 | I | -[FlexibleVideoPlayerController playTutorialVideoOnView:step:] | [line:178] | [MESSAGE] playTutorialVideo full_version_pill_not_under_the_tongue_order_0_numpill_0_total_0
+2018-06-05 14:41:53.240 | I | -[StepsController goToCamera] | [line:509] | [MESSAGE] goToCamera
+2018-06-05 14:41:53.240 | I | -[StepsController defineCurrentStep] | [line:274] | [MESSAGE] defineCurrentStep 9
+2018-06-05 14:41:53.240 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 14:41:53.240 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 14:41:53.252 | I | -[CameraUIView displayPreInstruction:] | [line:185] | [MESSAGE] show pre instruction animation
+2018-06-05 14:41:53.254 | I | -[StepsController goToCamera] | [line:509] | [MESSAGE] goToCamera
+2018-06-05 14:41:53.254 | I | -[StepsController defineCurrentStep] | [line:274] | [MESSAGE] defineCurrentStep 9
+2018-06-05 14:41:53.256 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 14:41:53.256 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 14:41:53.267 | I | -[CameraUIView displayPreInstruction:] | [line:185] | [MESSAGE] show pre instruction animation
+2018-06-05 14:41:53.267 | I | -[FlexibleVideoPlayerController videoPlayingComplete:] | [line:193] | [MESSAGE] flex video videoPlayingComplete
+2018-06-05 14:41:54.262 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 14:41:54.270 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 14:41:54.434 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 14:41:55.540 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-06-05 14:41:55.577 | I | -[CameraUIView displayConfirm] | [line:329] | [MESSAGE] show step confirm animation
+2018-06-05 14:41:55.578 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-06-05 14:41:57.736 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-06-05 14:41:57.737 | I | -[StepsController currentPillAllDone] | [line:629] | [MESSAGE] currentPillAllDone username 0AF1B679-37C0-4369-9F33-3D784429E4C0, pill id 0, dose id 0
+2018-06-05 14:41:57.739 | I | -[AiViewTutorial handleAllStepsDone] | [line:172] | [MESSAGE] handleAllStepsDone
+2018-06-05 14:41:57.746 | I | -[NextTraining viewDidLoad] | [line:43] | [MESSAGE] NextTraining view Did Load
+2018-06-05 14:41:57.746 | I | -[CameraEngine pauseCapture] | [line:231] | [MESSAGE] Pausing capture
+2018-06-05 14:41:57.754 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-06-05 14:41:59.258 | I | -[StepsController init:uiView:steps:viewController:recordVideo:] | [line:83] | [MESSAGE] should record video flag 0
+2018-06-05 14:41:59.259 | I | -[AiViewTutorial viewDidLoad] | [line:67] | [MESSAGE] AiViewTutorial viewDidLoad
+2018-06-05 14:41:59.767 | I | +[AIUtil checkPermission] | [line:1131] | [MESSAGE] camera access / mic access Authorized
+2018-06-05 14:41:59.768 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-06-05 14:42:00.162 | I | -[StepsController goToCamera] | [line:509] | [MESSAGE] goToCamera
+2018-06-05 14:42:00.162 | I | -[StepsController defineCurrentStep] | [line:274] | [MESSAGE] defineCurrentStep 0
+2018-06-05 14:42:00.162 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 14:42:00.162 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 14:42:00.173 | I | -[CameraUIView displayPreInstruction:] | [line:185] | [MESSAGE] show pre instruction animation
+2018-06-05 14:42:00.175 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-06-05 14:42:05.181 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 14:42:05.236 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName D_3_1_Head_in_Outline
+2018-06-05 14:42:05.236 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name D_3_1_Head_in_Outline
+2018-06-05 14:42:05.343 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 14:42:05.361 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-06-05 14:42:05.385 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-06-05 14:42:05.385 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-06-05 14:42:05.417 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 14:42:05.432 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-06-05 14:42:05.457 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-06-05 14:42:05.457 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-06-05 14:42:05.481 | I | -[CameraUIView displayError:] | [line:286] | [MESSAGE] show error animation; error type 18
+2018-06-05 14:42:06.566 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-06-05 14:42:06.607 | I | -[CameraUIView displayConfirm] | [line:329] | [MESSAGE] show step confirm animation
+2018-06-05 14:42:06.607 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-06-05 14:42:08.771 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-06-05 14:42:08.771 | I | -[StepsController goToCamera] | [line:509] | [MESSAGE] goToCamera
+2018-06-05 14:42:08.771 | I | -[StepsController defineCurrentStep] | [line:274] | [MESSAGE] defineCurrentStep 1
+2018-06-05 14:42:08.772 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 14:42:08.772 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 14:42:08.985 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 14:42:08.998 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName D_3_10_Show_Pill_(New)
+2018-06-05 14:42:08.998 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name D_3_10_Show_Pill_(New)
+2018-06-05 14:42:09.041 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 14:42:10.938 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-06-05 14:42:10.971 | I | -[CameraUIView displayConfirm] | [line:329] | [MESSAGE] show step confirm animation
+2018-06-05 14:42:10.971 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-06-05 14:42:13.134 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-06-05 14:42:13.134 | I | -[StepsController goToCamera] | [line:509] | [MESSAGE] goToCamera
+2018-06-05 14:42:13.134 | I | -[StepsController defineCurrentStep] | [line:274] | [MESSAGE] defineCurrentStep 2
+2018-06-05 14:42:13.136 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 14:42:13.136 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 14:42:13.350 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 14:42:13.367 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName D_3_3_PIM
+2018-06-05 14:42:13.367 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name D_3_3_PIM
+2018-06-05 14:42:13.427 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 14:42:15.900 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-06-05 14:42:15.952 | I | -[CameraUIView displayConfirm] | [line:329] | [MESSAGE] show step confirm animation
+2018-06-05 14:42:15.953 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-06-05 14:42:18.121 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-06-05 14:42:18.121 | I | -[StepsController goToCamera] | [line:509] | [MESSAGE] goToCamera
+2018-06-05 14:42:18.121 | I | -[StepsController defineCurrentStep] | [line:274] | [MESSAGE] defineCurrentStep 3
+2018-06-05 14:42:18.123 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 14:42:18.123 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 14:42:18.137 | I | -[CameraUIView displayPreInstruction:] | [line:185] | [MESSAGE] show pre instruction animation
+2018-06-05 14:42:18.149 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName D_3_4_Swallow
+2018-06-05 14:42:18.149 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name D_3_4_Swallow
+2018-06-05 14:42:23.140 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 14:42:23.195 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName D_3_5_EM
+2018-06-05 14:42:23.195 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name D_3_5_EM
+2018-06-05 14:42:23.342 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 14:42:28.101 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-06-05 14:42:28.144 | I | -[CameraUIView displayConfirm] | [line:329] | [MESSAGE] show step confirm animation
+2018-06-05 14:42:28.144 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-06-05 14:42:30.302 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-06-05 14:42:30.302 | I | -[StepsController goToCamera] | [line:509] | [MESSAGE] goToCamera
+2018-06-05 14:42:30.302 | I | -[StepsController defineCurrentStep] | [line:274] | [MESSAGE] defineCurrentStep 9
+2018-06-05 14:42:30.304 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-06-05 14:42:30.304 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-06-05 14:42:30.318 | I | -[CameraUIView displayPreInstruction:] | [line:185] | [MESSAGE] show pre instruction animation
+2018-06-05 14:42:30.328 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName D_3_6_Raise_Tongue
+2018-06-05 14:42:30.328 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name D_3_6_Raise_Tongue
+2018-06-05 14:42:31.321 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-06-05 14:42:31.482 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-06-05 14:42:33.115 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-06-05 14:42:33.156 | I | -[CameraUIView displayConfirm] | [line:329] | [MESSAGE] show step confirm animation
+2018-06-05 14:42:33.157 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-06-05 14:42:35.326 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-06-05 14:42:35.327 | I | -[StepsController currentPillAllDone] | [line:629] | [MESSAGE] currentPillAllDone username 0AF1B679-37C0-4369-9F33-3D784429E4C0, pill id 0, dose id 0
+2018-06-05 14:42:35.330 | I | -[AiViewTutorial handleAllStepsDone] | [line:172] | [MESSAGE] handleAllStepsDone
+2018-06-05 14:42:35.343 | I | -[TutorialDone viewDidLoad] | [line:41] | [MESSAGE] TutorialDone view did load
+2018-06-05 14:42:35.343 | I | -[CameraEngine pauseCapture] | [line:231] | [MESSAGE] Pausing capture
+2018-06-05 14:42:35.352 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-06-05 14:42:35.455 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-06-05 14:42:36.623 | I | -[AiWebView viewDidLoad] | [line:91] | [MESSAGE] enter web view page
+2018-06-05 14:42:36.640 | I | -[AiWebView syncProtocol] | [line:143] | [MESSAGE] web view page syncProtocol
+2018-06-05 14:42:36.680 | I | -[AiWebView webView:shouldStartLoadWithRequest:navigationType:] | [line:153] | [MESSAGE] web view page button capatured https
+2018-06-05 14:42:37.194 | I | -[TransmissionProtocol update:task_name:] | [line:59] | [MESSAGE] trial_setup 9999
+2018-06-05 14:42:37.349 | I | -[TransmissionProtocol update:task_name:] | [line:59] | [MESSAGE] trial_setup_serialized 9999
+2018-06-05 14:42:37.467 | I | -[TransmissionProtocol update:task_name:] | [line:59] | [MESSAGE] dose_protocol_sync 5005
+2018-06-05 14:42:37.467 | I | -[AiWebView syncProtocol] | [line:143] | [MESSAGE] web view page syncProtocol
+2018-06-05 14:42:37.594 | I | -[TransmissionProtocol update:task_name:] | [line:59] | [MESSAGE] trial_setup 9999
+2018-06-05 14:42:37.728 | I | -[TransmissionProtocol update:task_name:] | [line:59] | [MESSAGE] trial_setup_serialized 9999
+2018-06-05 14:42:37.830 | I | -[TransmissionProtocol update:task_name:] | [line:59] | [MESSAGE] dose_protocol_sync 5005
+2018-06-05 14:42:37.830 | I | -[AiWebView syncProtocol] | [line:143] | [MESSAGE] web view page syncProtocol
+2018-06-05 14:42:37.946 | I | -[TransmissionProtocol update:task_name:] | [line:59] | [MESSAGE] trial_setup 9999
+2018-06-05 14:42:38.071 | I | -[TransmissionProtocol update:task_name:] | [line:59] | [MESSAGE] trial_setup_serialized 9999
+2018-06-05 14:42:38.187 | I | -[TransmissionProtocol update:task_name:] | [line:59] | [MESSAGE] dose_protocol_sync 5005
+2018-06-05 14:42:38.187 | I | -[AiWebView syncProtocol] | [line:143] | [MESSAGE] web view page syncProtocol
+2018-06-05 14:42:38.289 | I | -[TransmissionProtocol update:task_name:] | [line:59] | [MESSAGE] trial_setup 9999
+2018-06-05 14:42:38.413 | I | -[TransmissionProtocol update:task_name:] | [line:59] | [MESSAGE] trial_setup_serialized 9999
+2018-06-05 14:42:38.523 | I | -[TransmissionProtocol update:task_name:] | [line:59] | [MESSAGE] dose_protocol_sync 5005
+2018-06-05 14:42:38.523 | I | -[AiWebView syncProtocol] | [line:143] | [MESSAGE] web view page syncProtocol
+2018-06-05 14:42:38.652 | I | -[TransmissionProtocol update:task_name:] | [line:59] | [MESSAGE] trial_setup 9999
+2018-06-05 14:42:38.900 | I | -[TransmissionProtocol update:task_name:] | [line:59] | [MESSAGE] trial_setup_serialized 9999
+2018-06-05 14:42:39.022 | I | -[TransmissionProtocol update:task_name:] | [line:59] | [MESSAGE] dose_protocol_sync 5005
+2018-06-05 14:42:39.022 | I | -[AiWebView syncProtocol] | [line:143] | [MESSAGE] web view page syncProtocol
+2018-06-05 14:42:39.142 | I | -[TransmissionProtocol update:task_name:] | [line:59] | [MESSAGE] trial_setup 9999
+2018-06-05 14:42:39.285 | I | -[TransmissionProtocol update:task_name:] | [line:59] | [MESSAGE] trial_setup_serialized 9999
+2018-06-05 14:42:39.413 | I | -[TransmissionProtocol update:task_name:] | [line:59] | [MESSAGE] dose_protocol_sync 5005
+2018-06-05 14:43:09.065 | I | -[AiWebView webView:shouldStartLoadWithRequest:navigationType:] | [line:153] | [MESSAGE] web view page button capatured https
+2018-06-05 14:43:09.472 | I | -[AiWebView webView:shouldStartLoadWithRequest:navigationType:] | [line:153] | [MESSAGE] web view page button capatured https
+2018-06-05 14:44:26.238 | I | -[AiWebView webView:shouldStartLoadWithRequest:navigationType:] | [line:153] | [MESSAGE] web view page button capatured inapp
+2018-06-05 14:44:26.238 | I | -[AiWebView syncProtocol] | [line:143] | [MESSAGE] web view page syncProtocol
+2018-06-05 14:44:26.524 | I | -[TransmissionProtocol update:task_name:] | [line:59] | [MESSAGE] trial_setup 9999
+2018-06-05 14:44:26.680 | I | -[TransmissionProtocol update:task_name:] | [line:59] | [MESSAGE] trial_setup_serialized 9999
+2018-06-05 14:44:27.222 | I | -[TransmissionProtocol update:task_name:] | [line:59] | [MESSAGE] dose_protocol_sync 9999
+2018-06-05 14:44:27.866 | I | -[AiWebView goToNextPage] | [line:131] | [MESSAGE] web view page goToNextPage
+2018-06-05 14:44:27.877 | I | -[TrainingAddPatientDoneViewController viewDidLoad] | [line:44] | [MESSAGE] TrainingAddPatientDoneViewController view did load
+2018-06-05 14:44:28.004 | I | -[TransmissionProtocol update:task_name:] | [line:59] | [MESSAGE] push_token_registration 9999

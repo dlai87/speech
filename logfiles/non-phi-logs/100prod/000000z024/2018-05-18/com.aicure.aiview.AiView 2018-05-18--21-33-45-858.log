@@ -1,0 +1,631 @@
+2018-05-18 17:33:45.855 | I | -[AppDelegate application:didFinishLaunchingWithOptions:] | [line:186] | [MESSAGE] application Did Finish Launching
+2018-05-18 17:33:45.886 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID (null)
+2018-05-18 17:33:45.887 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name pro
+2018-05-18 17:33:45.887 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone10,6
+2018-05-18 17:33:45.887 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone X
+2018-05-18 17:33:45.887 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 11.3.1
+2018-05-18 17:33:45.887 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.3
+2018-05-18 17:33:45.887 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language en-US
+2018-05-18 17:33:45.890 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID F3E3467D-02B2-4A35-A695-2825CA59EEAE
+2018-05-18 17:33:45.890 | I | -[AppDelegate logMataData] | [line:173] | [MESSAGE] Patient ID (null)
+2018-05-18 17:33:45.892 | I | +[AIUtil hasInternetConnection] | [line:683] | [MESSAGE] has internet connnection = 1
+2018-05-18 17:33:46.073 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-18 17:33:46.578 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-18 17:33:46.616 | I | +[AIUtil checkPermission] | [line:1129] | [MESSAGE] camera access / mic access Not Determined
+2018-05-18 17:33:46.681 | I | -[LoginVC viewDidLoad] | [line:72] | [MESSAGE] LoginVC view did load
+2018-05-18 17:33:46.682 | I | +[AIUtil checkWifiConnection] | [line:705] | [MESSAGE] check wifi connection = CONNECT_WIFI
+2018-05-18 17:33:46.749 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-18 17:33:47.867 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-18 17:33:48.312 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-18 17:33:49.852 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-18 17:33:50.480 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:437] | [MESSAGE] Succeded to get APNS token data: <35f8c027 3a95191a 1c7e4da3 c8a43a50 5abc7d31 c3356d6b d4aa4a33 a7716d27>
+2018-05-18 17:33:50.480 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:443] | [MESSAGE] deviceToken:  35f8c0273a95191a1c7e4da3c8a43a505abc7d31c3356d6bd4aa4a33a7716d27
+2018-05-18 17:33:58.594 | I | -[LoginAction loginWithUsername:password:onView:] | [line:61] | [MESSAGE] login with username password
+2018-05-18 17:33:58.594 | I | -[LoginAction getURLTaskWithUsername:password:] | [line:94] | [MESSAGE] [self.urlGetter routingUrl] https://routing.aicure.com/backend/get_url_trial
+2018-05-18 17:33:59.073 | I | -[LoginAction update:task_name:] | [line:131] | [MESSAGE] login transmission task_name routing, result 9999
+2018-05-18 17:33:59.456 | I | -[LoginAction update:task_name:] | [line:131] | [MESSAGE] login transmission task_name trial_setup, result 9999
+2018-05-18 17:33:59.590 | I | -[LoginAction update:task_name:] | [line:131] | [MESSAGE] login transmission task_name trial_setup_serialized, result 9999
+2018-05-18 17:33:59.591 | I | -[LoginAction checkTrainingTask:password:] | [line:102] | [MESSAGE] [self.urlGetter getBackendURI:self.context] https://client100prod.aicure.com/backend/backend
+2018-05-18 17:33:59.707 | I | -[LoginAction update:task_name:] | [line:131] | [MESSAGE] login transmission task_name training, result 9999
+2018-05-18 17:33:59.712 | I | -[LoginVC handleTransmissionSuccessfully] | [line:265] | [MESSAGE] handleTransmissionSuccessfully
+2018-05-18 17:34:01.089 | I | -[TermConditionsVC loadWebView] | [line:160] | [MESSAGE] url https://client100prod.aicure.com/backend/backend/regulation/terms_and_conditions?lang=en
+2018-05-18 17:34:01.090 | I | -[TermConditionsVC viewDidLoad] | [line:83] | [MESSAGE] TermConditionsVC view did load
+2018-05-18 17:34:01.121 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone10,6
+2018-05-18 17:34:01.123 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone10,6
+2018-05-18 17:34:01.776 | I | -[TermConditionsVC viewDidAppear:] | [line:127] | [MESSAGE] TermConditionsVC viewDidAppear
+2018-05-18 17:34:02.197 | I | -[TermConditionsVC agreeButtonPressed:] | [line:178] | [MESSAGE] agreeButtonPressed
+2018-05-18 17:34:04.037 | I | -[AiWebView viewDidLoad] | [line:91] | [MESSAGE] enter web view page
+2018-05-18 17:34:04.065 | I | -[AiWebView webView:shouldStartLoadWithRequest:navigationType:] | [line:155] | [MESSAGE] web view page button capatured https
+2018-05-18 17:34:04.572 | I | -[AiWebView syncProtocol] | [line:145] | [MESSAGE] web view page syncProtocol
+2018-05-18 17:34:04.682 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup 9999
+2018-05-18 17:34:04.802 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup_serialized 9999
+2018-05-18 17:34:05.083 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] dose_protocol_sync 5005
+2018-05-18 17:34:05.083 | I | -[AiWebView syncProtocol] | [line:145] | [MESSAGE] web view page syncProtocol
+2018-05-18 17:34:05.180 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup 9999
+2018-05-18 17:34:05.485 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup_serialized 9999
+2018-05-18 17:34:05.586 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] dose_protocol_sync 5005
+2018-05-18 17:34:05.586 | I | -[AiWebView syncProtocol] | [line:145] | [MESSAGE] web view page syncProtocol
+2018-05-18 17:34:05.694 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup 9999
+2018-05-18 17:34:05.819 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup_serialized 9999
+2018-05-18 17:34:05.922 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] dose_protocol_sync 5005
+2018-05-18 17:34:05.922 | I | -[AiWebView syncProtocol] | [line:145] | [MESSAGE] web view page syncProtocol
+2018-05-18 17:34:06.106 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup 9999
+2018-05-18 17:34:06.219 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup_serialized 9999
+2018-05-18 17:34:06.316 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] dose_protocol_sync 5005
+2018-05-18 17:34:06.316 | I | -[AiWebView syncProtocol] | [line:145] | [MESSAGE] web view page syncProtocol
+2018-05-18 17:34:06.420 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup 9999
+2018-05-18 17:34:06.555 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup_serialized 9999
+2018-05-18 17:34:06.657 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] dose_protocol_sync 5005
+2018-05-18 17:34:06.657 | I | -[AiWebView syncProtocol] | [line:145] | [MESSAGE] web view page syncProtocol
+2018-05-18 17:34:06.768 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup 9999
+2018-05-18 17:34:06.967 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup_serialized 9999
+2018-05-18 17:34:07.069 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] dose_protocol_sync 5005
+2018-05-18 17:34:14.726 | I | -[AiWebView webView:shouldStartLoadWithRequest:navigationType:] | [line:155] | [MESSAGE] web view page button capatured https
+2018-05-18 17:34:14.888 | I | -[AiWebView webView:shouldStartLoadWithRequest:navigationType:] | [line:155] | [MESSAGE] web view page button capatured https
+2018-05-18 17:34:24.114 | I | -[AiWebView webView:shouldStartLoadWithRequest:navigationType:] | [line:155] | [MESSAGE] web view page button capatured https
+2018-05-18 17:34:24.315 | I | -[AiWebView webView:shouldStartLoadWithRequest:navigationType:] | [line:155] | [MESSAGE] web view page button capatured https
+2018-05-18 17:34:43.315 | I | -[AiWebView webView:shouldStartLoadWithRequest:navigationType:] | [line:155] | [MESSAGE] web view page button capatured inapp
+2018-05-18 17:34:43.315 | I | -[AiWebView syncProtocol] | [line:145] | [MESSAGE] web view page syncProtocol
+2018-05-18 17:34:43.665 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup 9999
+2018-05-18 17:34:43.794 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] trial_setup_serialized 9999
+2018-05-18 17:34:44.050 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] dose_protocol_sync 9999
+2018-05-18 17:34:46.190 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-18 17:34:47.597 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:254] | [MESSAGE] Neural network model download succeeded. Filename: pih-generic-20180508.mlmodel.
+2018-05-18 17:34:48.250 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:254] | [MESSAGE] Neural network model download succeeded. Filename: MC_MN05_resplit.mlmodel.
+2018-05-18 17:34:48.252 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:260] | [MESSAGE] model is updated on 2018-05-18 17:34:48
+2018-05-18 17:34:48.258 | I | -[AiWebView goToNextPage] | [line:131] | [MESSAGE] web view page goToNextPage
+2018-05-18 17:34:48.283 | I | -[TrainingAddPatientDoneViewController viewDidLoad] | [line:44] | [MESSAGE] TrainingAddPatientDoneViewController view did load
+2018-05-18 17:34:48.394 | I | -[TransmissionProtocol update:task_name:] | [line:64] | [MESSAGE] push_token_registration 9999
+2018-05-18 17:34:50.908 | I | -[TutorialFinishVC viewDidLoad] | [line:31] | [MESSAGE] TutorialFinishVC view did load
+2018-05-18 17:34:51.683 | I | -[PackDeviceVC viewDidLoad] | [line:27] | [MESSAGE] PackDeviceVC view did load
+2018-05-18 17:34:56.751 | I | -[DigitalClockVC viewDidLoad] | [line:138] | [MESSAGE] DigitalClockVC view did load
+2018-05-18 17:34:56.774 | I | -[Transmission sendAll] | [line:80] | [MESSAGE] Transmission send all
+2018-05-18 17:34:56.774 | I | -[Transmission sendAll] | [line:115] | [MESSAGE] Encrypting files
+2018-05-18 17:34:56.826 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-18 17:34:56.857 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-18 17:34:56.857 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-18 17:34:56.857 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-18 17:34:56.877 | I | -[DigitalClockVC showReminder1Button] | [line:615] | [MESSAGE] showReminder1Button
+2018-05-18 17:34:56.884 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-18 17:34:56.888 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-18 17:34:56.896 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-18 17:34:56.896 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-18 17:34:56.896 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-18 17:34:56.916 | I | -[DigitalClockVC showReminder1Button] | [line:615] | [MESSAGE] showReminder1Button
+2018-05-18 17:34:56.921 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-18 17:34:56.962 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-18 17:34:56.968 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 1
+2018-05-18 17:34:57.092 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-18 17:34:57.174 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-18 17:34:57.260 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 2
+2018-05-18 17:34:57.354 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 3
+2018-05-18 17:34:57.469 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 4
+2018-05-18 17:34:57.577 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 5
+2018-05-18 17:34:57.649 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-18 17:34:57.692 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6
+2018-05-18 17:34:57.707 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-18 17:34:57.826 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-18 17:34:57.993 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 1
+2018-05-18 17:34:57.998 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:165] | [MESSAGE] protocolID: 3, doseID: 0, numPillsInCurrentMed: 1, correctPillName: smarties-white, targetDate: 2018-05-18 04:00:00 +0000
+2018-05-18 17:34:57.998 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 1
+2018-05-18 17:34:57.998 | I | -[InteruptionRecovery checkInteruptionAndProcessWithUser:inManagedObjectContext:] | [line:93] | [MESSAGE] no interruption found
+2018-05-18 17:34:57.998 | I | -[AiView defineProcess:currentTime:context:] | [line:163] | [MESSAGE] ==== interuptionStatus ==== 10002
+2018-05-18 17:34:57.998 | I | -[AiView defineProcess:currentTime:context:] | [line:165] | [MESSAGE] NO_INTERUPTION_FOUND
+2018-05-18 17:34:57.998 | I | -[AiView defineProcess:currentTime:context:] | [line:167] | [MESSAGE] ==== go to start ====
+2018-05-18 17:34:58.010 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 1
+2018-05-18 17:34:58.012 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:165] | [MESSAGE] protocolID: 3, doseID: 0, numPillsInCurrentMed: 1, correctPillName: smarties-white, targetDate: 2018-05-18 04:00:00 +0000
+2018-05-18 17:34:58.012 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 1
+2018-05-18 17:34:58.012 | I | -[InteruptionRecovery checkInteruptionAndProcessWithUser:inManagedObjectContext:] | [line:93] | [MESSAGE] no interruption found
+2018-05-18 17:34:58.012 | I | -[AiView defineProcess:currentTime:context:] | [line:163] | [MESSAGE] ==== interuptionStatus ==== 10002
+2018-05-18 17:34:58.012 | I | -[AiView defineProcess:currentTime:context:] | [line:165] | [MESSAGE] NO_INTERUPTION_FOUND
+2018-05-18 17:34:58.012 | I | -[AiView defineProcess:currentTime:context:] | [line:167] | [MESSAGE] ==== go to start ====
+2018-05-18 17:34:58.040 | I | -[StartPageViewController viewDidLoad] | [line:65] | [MESSAGE] view did load
+2018-05-18 17:34:58.421 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-18 17:34:58.793 | I | -[StartPageViewController onStartButtonPressed:] | [line:138] | [MESSAGE] POP_QUESTION_BEFORE_DOSING == 0
+2018-05-18 17:34:58.795 | I | -[AiViewDaily viewDidLoad] | [line:52] | [MESSAGE] AiViewDaily view did load
+2018-05-18 17:34:58.795 | I | -[AiViewDaily viewDidLoad] | [line:70] | [MESSAGE] Current medication name smarties-white
+2018-05-18 17:34:58.795 | I | -[AiViewDaily viewDidLoad] | [line:71] | [MESSAGE] Current dosing amount 0
+2018-05-18 17:34:58.795 | I | -[AiViewDaily viewDidLoad] | [line:77] | [MESSAGE] Current dosing steps 0, 1, 2, 3, 9, 
+2018-05-18 17:34:58.804 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: smarties-white, shape: round, color: white.
+2018-05-18 17:34:58.926 | I | -[StepsController init:uiView:steps:viewController:recordVideo:] | [line:90] | [MESSAGE] should record video flag 0
+2018-05-18 17:34:58.927 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-05-18 17:34:58.928 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-18 17:34:59.836 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-18 17:34:59.836 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 0
+2018-05-18 17:34:59.860 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-05-18 17:34:59.860 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-05-18 17:35:00.049 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-18 17:35:00.330 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-05-18 17:35:00.375 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 10
+2018-05-18 17:35:00.747 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-18 17:35:00.885 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-05-18 17:35:00.913 | I | -[CameraUIView displayConfirm] | [line:329] | [MESSAGE] show step confirm animation
+2018-05-18 17:35:00.913 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-05-18 17:35:03.074 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-05-18 17:35:03.074 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-18 17:35:03.074 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 1
+2018-05-18 17:35:03.187 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-05-18 17:35:03.187 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-05-18 17:35:03.437 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-05-18 17:35:11.181 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 10
+2018-05-18 17:35:11.624 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-18 17:35:13.618 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step pill_identification frame passed. 0.999980, threadhold: 0.866000. Passed frame count: 1
+2018-05-18 17:35:13.659 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step pill_identification frame passed. 1.000000, threadhold: 0.866000. Passed frame count: 2
+2018-05-18 17:35:13.701 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step pill_identification frame passed. 1.000000, threadhold: 0.866000. Passed frame count: 3
+2018-05-18 17:35:13.702 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 1.000000
+2018-05-18 17:35:13.742 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 1.000000
+2018-05-18 17:35:13.750 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-05-18 17:35:13.783 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 1.000000
+2018-05-18 17:35:13.783 | I | -[CameraUIView displayConfirm] | [line:329] | [MESSAGE] show step confirm animation
+2018-05-18 17:35:13.807 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-05-18 17:35:13.943 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 1.000000
+2018-05-18 17:35:13.952 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 1.000000
+2018-05-18 17:35:13.983 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 1.000000
+2018-05-18 17:35:14.028 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 1.000000
+2018-05-18 17:35:14.065 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.999946
+2018-05-18 17:35:14.110 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.181263
+2018-05-18 17:35:14.155 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.087097
+2018-05-18 17:35:14.199 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.176388
+2018-05-18 17:35:14.245 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.014104
+2018-05-18 17:35:14.284 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.007039
+2018-05-18 17:35:14.328 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000847
+2018-05-18 17:35:14.367 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000268
+2018-05-18 17:35:14.411 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000066
+2018-05-18 17:35:14.451 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000071
+2018-05-18 17:35:14.493 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000158
+2018-05-18 17:35:14.534 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000214
+2018-05-18 17:35:14.578 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000204
+2018-05-18 17:35:14.612 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000452
+2018-05-18 17:35:14.655 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000279
+2018-05-18 17:35:14.701 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000626
+2018-05-18 17:35:14.743 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.001074
+2018-05-18 17:35:14.785 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.010288
+2018-05-18 17:35:14.826 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.053108
+2018-05-18 17:35:14.869 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.040693
+2018-05-18 17:35:14.909 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.002228
+2018-05-18 17:35:14.953 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000479
+2018-05-18 17:35:14.993 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000371
+2018-05-18 17:35:15.035 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000209
+2018-05-18 17:35:15.078 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000079
+2018-05-18 17:35:15.112 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000134
+2018-05-18 17:35:15.155 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000026
+2018-05-18 17:35:15.205 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000015
+2018-05-18 17:35:15.243 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000013
+2018-05-18 17:35:15.285 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000016
+2018-05-18 17:35:15.324 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-05-18 17:35:15.369 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000012
+2018-05-18 17:35:15.409 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000009
+2018-05-18 17:35:15.452 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000007
+2018-05-18 17:35:15.493 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000008
+2018-05-18 17:35:15.535 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000023
+2018-05-18 17:35:15.576 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000085
+2018-05-18 17:35:15.617 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000354
+2018-05-18 17:35:15.658 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000359
+2018-05-18 17:35:15.701 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.001749
+2018-05-18 17:35:15.743 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.001160
+2018-05-18 17:35:15.784 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.002474
+2018-05-18 17:35:15.826 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000250
+2018-05-18 17:35:15.867 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000047
+2018-05-18 17:35:15.909 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000490
+2018-05-18 17:35:15.951 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000285
+2018-05-18 17:35:15.994 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000087
+2018-05-18 17:35:15.994 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-05-18 17:35:15.994 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-18 17:35:15.994 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 2
+2018-05-18 17:35:16.131 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-05-18 17:35:16.131 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-05-18 17:35:16.331 | I | -[NNDetectorPillController onDetectorDNNCompleteWithResult:] | [line:70] | [MESSAGE] pid 0.000049
+2018-05-18 17:35:16.381 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-05-18 17:35:16.448 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 10
+2018-05-18 17:35:16.905 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-18 17:35:19.749 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step pill_in_mouth frame passed. 0.991703, threadhold: 0.900000. Passed frame count: 1
+2018-05-18 17:35:23.359 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-05-18 17:35:23.455 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-05-18 17:35:23.455 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-05-18 17:35:23.534 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-18 17:35:23.542 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-05-18 17:35:23.608 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-05-18 17:35:23.608 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-05-18 17:35:23.640 | I | -[CameraUIView displayError:] | [line:286] | [MESSAGE] show error animation; error type 18
+2018-05-18 17:35:27.582 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-18 17:35:29.127 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step pill_in_mouth frame passed. 0.948304, threadhold: 0.900000. Passed frame count: 2
+2018-05-18 17:35:29.168 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step pill_in_mouth frame passed. 0.992531, threadhold: 0.900000. Passed frame count: 3
+2018-05-18 17:35:29.168 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.003134425031021237 0.9925310015678406 0.0001434829755453393 0.0041911406442523
+2018-05-18 17:35:29.209 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.9273922443389893 0.06397859007120132 0.008343135938048363 0.0002860446402337402
+2018-05-18 17:35:29.211 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-05-18 17:35:29.252 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.002246556337922812 0.9963762164115906 7.313808600883931e-05 0.001304021920077503
+2018-05-18 17:35:29.252 | I | -[CameraUIView displayConfirm] | [line:329] | [MESSAGE] show step confirm animation
+2018-05-18 17:35:29.257 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-05-18 17:35:29.396 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.3381464779376984 0.6549847722053528 0.004002646077424288 0.002866155235096812
+2018-05-18 17:35:29.425 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.03953652083873749 0.9579991102218628 0.0003441099543124437 0.002120317658409476
+2018-05-18 17:35:29.461 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.03977961838245392 0.9544060826301575 0.001613291446119547 0.004200937692075968
+2018-05-18 17:35:29.502 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.1498363167047501 0.8463972210884094 0.0006046218331903219 0.003161811036989093
+2018-05-18 17:35:29.543 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.1138656064867973 0.8733815550804138 0.0035937933716923 0.009159168228507042
+2018-05-18 17:35:29.586 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.05636950954794884 0.9345209002494812 0.004089380614459515 0.005020208656787872
+2018-05-18 17:35:29.628 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.1138453036546707 0.7953723073005676 0.07700337469577789 0.01377900969237089
+2018-05-18 17:35:29.670 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.1150693967938423 0.8502543568611145 0.02677658200263977 0.007899699732661247
+2018-05-18 17:35:29.710 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.191692128777504 0.7699084281921387 0.02322652749717236 0.01517294254153967
+2018-05-18 17:35:29.754 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.0355384349822998 0.9521292448043823 0.002663908060640097 0.009668344631791115
+2018-05-18 17:35:29.791 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.40451779961586 0.5245563983917236 0.0419684499502182 0.02895736135542393
+2018-05-18 17:35:29.839 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.2049691081047058 0.7252607941627502 0.0264692660421133 0.04330083727836609
+2018-05-18 17:35:29.876 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.1118842512369156 0.7054059505462646 0.1146494150161743 0.06806033104658127
+2018-05-18 17:35:29.920 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.04911217093467712 0.9158827066421509 0.02306341379880905 0.01194179430603981
+2018-05-18 17:35:29.959 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.8667564988136292 0.05147146061062813 0.06672702729701996 0.01504502166062593
+2018-05-18 17:35:30.086 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.6326509118080139 0.3394613564014435 0.02266488969326019 0.00522285234183073
+2018-05-18 17:35:30.250 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.8974958062171936 0.05942795425653458 0.04265828430652618 0.0004180029209237546
+2018-05-18 17:35:30.374 | I | -[NNDetectorPIMController onDetectorDNNCompleteWithResult:] | [line:111] | [MESSAGE] pim 0.9870567917823792 0.002449059626087546 0.01048929244279861 4.797559540747898e-06
+2018-05-18 17:35:31.410 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-05-18 17:35:31.411 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-18 17:35:31.411 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 3
+2018-05-18 17:35:31.505 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-05-18 17:35:31.505 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-05-18 17:35:31.755 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-05-18 17:35:31.810 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 10
+2018-05-18 17:35:32.179 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-18 17:35:32.210 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-05-18 17:35:32.295 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-05-18 17:35:32.295 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-05-18 17:35:32.324 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-18 17:35:32.333 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 3
+2018-05-18 17:35:32.396 | I | -[FlexibleAudioPlayerController playAudioBasedOnErrorState:step:] | [line:68] | [MESSAGE] playAudioBasedOnErrorState C8_9_Device_Position_Error
+2018-05-18 17:35:32.396 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name C8_9_Device_Position_Error
+2018-05-18 17:35:32.431 | I | -[CameraUIView displayError:] | [line:286] | [MESSAGE] show error animation; error type 18
+2018-05-18 17:35:37.306 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-18 17:35:38.437 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step empty_mouth frame passed. 0.768089, threadhold: 0.650000. Passed frame count: 1
+2018-05-18 17:35:38.482 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step empty_mouth frame passed. 0.801910, threadhold: 0.650000. Passed frame count: 2
+2018-05-18 17:35:39.643 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step empty_mouth frame passed. 0.743838, threadhold: 0.650000. Passed frame count: 3
+2018-05-18 17:35:39.643 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.2271903306245804 0.02803638391196728 0.7438380122184753 0.0009353005443699658
+2018-05-18 17:35:39.645 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-05-18 17:35:39.687 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.02937510423362255 0.01394373457878828 0.9558197855949402 0.0008614407270215452
+2018-05-18 17:35:39.687 | I | -[CameraUIView displayConfirm] | [line:329] | [MESSAGE] show step confirm animation
+2018-05-18 17:35:39.687 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-05-18 17:35:39.812 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.008449108339846134 0.0008582978625781834 0.9902694225311279 0.00042323162779212
+2018-05-18 17:35:39.839 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.01370573323220015 0.0002228888479294255 0.9857956171035767 0.000275769125437364
+2018-05-18 17:35:39.861 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.0006869201315566897 0.001079622190445662 0.9979597330093384 0.0002737721952144057
+2018-05-18 17:35:39.893 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.0002333400188945234 0.0007916950853541493 0.9983154535293579 0.0006595508311875165
+2018-05-18 17:35:39.943 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.0001465856621507555 0.002525740768760443 0.9963250160217285 0.001002710196189582
+2018-05-18 17:35:39.979 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 6.787982420064509e-05 0.001569841522723436 0.9979332685470581 0.000429013540269807
+2018-05-18 17:35:40.024 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 5.052727829024661e-06 0.0001264257007278502 0.9997299313545227 0.0001385805226163939
+2018-05-18 17:35:40.062 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 1.152441927843029e-05 0.002023697597905993 0.9961529970169067 0.001811817055568099
+2018-05-18 17:35:40.107 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 5.323262303136289e-05 0.01687284000217915 0.9796826243400574 0.003391298931092024
+2018-05-18 17:35:40.146 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 4.676767730416032e-06 0.003063230775296688 0.996632993221283 0.0002991095825564116
+2018-05-18 17:35:40.190 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 2.319690975127742e-05 0.002517829183489084 0.9964830875396729 0.000975818547885865
+2018-05-18 17:35:40.229 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.0002453076303936541 0.03041907586157322 0.9668605923652649 0.002475099638104439
+2018-05-18 17:35:40.271 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 1.204894033435266e-05 0.001613947213627398 0.9976880550384521 0.000686062965542078
+2018-05-18 17:35:40.314 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 1.602312408977014e-06 5.965841410215944e-05 0.9996869564056396 0.0002517852699384093
+2018-05-18 17:35:40.355 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 1.8297652104593e-06 2.391485395492055e-05 0.9996139407157898 0.0003603752120397985
+2018-05-18 17:35:40.396 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 7.180756711022696e-06 0.0001049040511134081 0.9996446371078491 0.0002431956381769851
+2018-05-18 17:35:40.436 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 3.186724370607408e-06 3.446186383371241e-05 0.9997333884239197 0.0002289281110279262
+2018-05-18 17:35:40.479 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 7.147667474782793e-06 2.302791654074099e-05 0.9989318251609802 0.001038006274029613
+2018-05-18 17:35:40.522 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 8.325715498358477e-06 0.0002595116093289107 0.9991507530212402 0.0005814017495140433
+2018-05-18 17:35:40.563 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 1.905046701722313e-05 0.0003525035863276571 0.9987695217132568 0.0008589283097535372
+2018-05-18 17:35:40.604 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 3.500829916447401e-05 0.0006560577894560993 0.9978892207145691 0.001419729203917086
+2018-05-18 17:35:40.647 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 4.994279152015224e-05 0.002332343021407723 0.9938246011734009 0.003793166950345039
+2018-05-18 17:35:40.687 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.0003289245651103556 0.00949595682322979 0.9862723350524902 0.00390284601598978
+2018-05-18 17:35:40.728 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.005682881455868483 0.0908728688955307 0.8943096995353699 0.009134585969150066
+2018-05-18 17:35:40.770 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.02779345959424973 0.1853529214859009 0.7366733551025391 0.05018022656440735
+2018-05-18 17:35:40.810 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.003976340871304274 0.00810333713889122 0.1605497896671295 0.8273705244064331
+2018-05-18 17:35:40.851 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 0.000167439371580258 0.0001377318694721907 0.01092671509832144 0.9887681603431702
+2018-05-18 17:35:40.893 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 1.543707980999898e-06 2.001910979743116e-05 0.002392596332356334 0.9975858926773071
+2018-05-18 17:35:40.937 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 7.927212664071703e-07 1.543235703138635e-05 0.00867757759988308 0.9913062453269958
+2018-05-18 17:35:40.978 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 3.181654051331861e-07 1.236626485479064e-05 0.01139744184911251 0.9885898232460022
+2018-05-18 17:35:41.019 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 1.349864987787441e-06 2.416172719676979e-05 0.01150785386562347 0.9884666204452515
+2018-05-18 17:35:41.060 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 1.019642695609946e-06 2.639986632857472e-05 0.01467163022607565 0.9853009581565857
+2018-05-18 17:35:41.103 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 2.00821844487109e-07 4.22719267589855e-06 0.006758058443665504 0.9932375550270081
+2018-05-18 17:35:41.145 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 4.076456150414742e-07 4.985578016203362e-06 0.009689665399491787 0.9903049468994141
+2018-05-18 17:35:41.186 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 1.899541189231968e-06 3.018175993929617e-05 0.009755220264196396 0.9902127385139465
+2018-05-18 17:35:41.228 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 3.59415753337089e-06 8.21228459244594e-05 0.05041974782943726 0.9494946002960205
+2018-05-18 17:35:41.269 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 4.977394837624161e-06 7.590758468722925e-05 0.06019217520952225 0.9397269487380981
+2018-05-18 17:35:41.312 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 2.185735866078176e-06 4.646004526875913e-05 0.07723502814769745 0.9227163195610046
+2018-05-18 17:35:41.353 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 7.907074177637696e-06 3.529887544573285e-05 0.03986077383160591 0.9600960612297058
+2018-05-18 17:35:41.394 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 4.190258096059551e-06 3.374053630977869e-05 0.02306434884667397 0.9768977165222168
+2018-05-18 17:35:41.436 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 5.343480893316155e-07 2.076872442557942e-05 0.01243138313293457 0.9875472784042358
+2018-05-18 17:35:41.476 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 7.307060059247306e-07 1.89189231605269e-05 0.03108433820307255 0.9688960313796997
+2018-05-18 17:35:41.520 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 3.261206984461751e-07 1.505248656030744e-05 0.01014985889196396 0.989834725856781
+2018-05-18 17:35:41.562 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 1.383380322295125e-06 3.242164893890731e-05 0.01812410540878773 0.981842041015625
+2018-05-18 17:35:41.604 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 3.823436600214336e-06 4.567803625832312e-05 0.02096320129930973 0.9789872765541077
+2018-05-18 17:35:41.645 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 1.191021738122799e-06 0.0001750454975990579 0.02306115813553333 0.976762592792511
+2018-05-18 17:35:41.685 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 4.26890392191126e-06 0.0005070962361060083 0.1143100410699844 0.8851785659790039
+2018-05-18 17:35:41.729 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 1.404824524797732e-05 0.0002783349191304296 0.1552891433238983 0.844418466091156
+2018-05-18 17:35:41.770 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 2.639368403833942e-06 4.605857247952372e-05 0.01280823443084955 0.9871430993080139
+2018-05-18 17:35:41.812 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 7.144191840779968e-06 9.766409493749961e-05 0.04344234615564346 0.9564528465270996
+2018-05-18 17:35:41.852 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 1.35399150167359e-05 0.000295783334877342 0.01414072699844837 0.9855499267578125
+2018-05-18 17:35:41.852 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-05-18 17:35:41.852 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-18 17:35:41.852 | I | -[StepsController defineCurrentStep] | [line:281] | [MESSAGE] defineCurrentStep 9
+2018-05-18 17:35:41.956 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 0
+2018-05-18 17:35:41.956 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 12
+2018-05-18 17:35:42.009 | I | -[CameraUIView displayPreInstruction:] | [line:185] | [MESSAGE] show pre instruction animation
+2018-05-18 17:35:42.160 | I | -[NNDetectorEMController onDetectorDNNCompleteWithResult:] | [line:112] | [MESSAGE] em 1.191485353047028e-05 4.79598056699615e-05 0.009494323283433914 0.9904457330703735
+2018-05-18 17:35:43.012 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 1
+2018-05-18 17:35:43.109 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step pill_not_under_the_tongue frame passed. 0.994795, threadhold: 0.800000. Passed frame count: 1
+2018-05-18 17:35:43.141 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step pill_not_under_the_tongue frame passed. 0.923226, threadhold: 0.800000. Passed frame count: 2
+2018-05-18 17:35:43.141 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 10
+2018-05-18 17:35:43.167 | I | -[AIDetectorDecisionMaker decisionWithValue:] | [line:41] | [MESSAGE] Step pill_not_under_the_tongue frame passed. 0.987050, threadhold: 0.800000. Passed frame count: 3
+2018-05-18 17:35:43.167 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 3.227689012419432e-05 0.0001227670727530494 0.01279453374445438 0.9870504140853882
+2018-05-18 17:35:43.171 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 6
+2018-05-18 17:35:43.197 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 6.777576345484704e-06 5.912388951401226e-05 0.0188318882137537 0.9811021685600281
+2018-05-18 17:35:43.197 | I | -[CameraUIView displayConfirm] | [line:329] | [MESSAGE] show step confirm animation
+2018-05-18 17:35:43.197 | I | -[AudioPlayer playAudioWithoutFlag:] | [line:49] | [MESSAGE] play audio name confirm
+2018-05-18 17:35:43.329 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 2.720622251217719e-05 0.0001258002885151654 0.01569138839840889 0.9841556549072266
+2018-05-18 17:35:43.354 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 1.623730167921167e-05 7.30553365428932e-05 0.01240658666938543 0.9875041842460632
+2018-05-18 17:35:43.395 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 4.258255557942903e-06 0.0001093936516554095 0.01100693456828594 0.9888794422149658
+2018-05-18 17:35:43.436 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 1.876578062365297e-05 9.492891695117578e-05 0.1248376220464706 0.8750486969947815
+2018-05-18 17:35:43.477 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.001278837793506682 0.001083218143321574 0.9847976565361023 0.01284034550189972
+2018-05-18 17:35:43.520 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.01532627083361149 0.00138711289037019 0.9537750482559204 0.02951152622699738
+2018-05-18 17:35:43.561 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.009480657055974007 0.005761551670730114 0.8175277709960938 0.167230099439621
+2018-05-18 17:35:43.604 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.01232083607465029 0.002025612397119403 0.9818766117095947 0.003776958212256432
+2018-05-18 17:35:43.645 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.002133253263309598 0.00113656441681087 0.9966274499893188 0.0001027650141622871
+2018-05-18 17:35:43.686 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.001146990805864334 0.003603541990742087 0.9950240850448608 0.0002254151477245614
+2018-05-18 17:35:43.728 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.001467266934923828 0.002360767917707562 0.99518883228302 0.0009831544011831284
+2018-05-18 17:35:43.774 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.0003020529984496534 0.0002967898035421968 0.9986085295677185 0.0007927011465653777
+2018-05-18 17:35:43.811 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.0004184076387900859 0.000774091633502394 0.9982907176017761 0.0005166644114069641
+2018-05-18 17:35:43.852 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 6.0004967963323e-05 0.0002246940566692501 0.9996197819709778 9.551383118377998e-05
+2018-05-18 17:35:43.894 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.0001008959661703557 3.755506986635737e-05 0.9997511506080627 0.0001103804970625788
+2018-05-18 17:35:43.936 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 1.018891271087341e-05 2.054200012935326e-05 0.9999295473098755 3.975071376771666e-05
+2018-05-18 17:35:43.980 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 5.244719795882702e-05 1.722781416901853e-05 0.9997647404670715 0.000165541292517446
+2018-05-18 17:35:44.020 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 4.592060940922238e-05 4.628078386303969e-05 0.9996848106384277 0.0002229599049314857
+2018-05-18 17:35:44.060 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.0002215788554167375 9.890284127322957e-05 0.999330997467041 0.0003485926426947117
+2018-05-18 17:35:44.102 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.0006680085207335651 0.0001744306355249137 0.9983620047569275 0.0007956070476211607
+2018-05-18 17:35:44.145 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.005728788208216429 0.00187628366984427 0.989175021648407 0.003219841979444027
+2018-05-18 17:35:44.188 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.0008727160166017711 0.0002454406348988414 0.9980934262275696 0.0007884328369982541
+2018-05-18 17:35:44.227 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 6.095147182350047e-05 8.250115934060887e-05 0.999645471572876 0.0002110858767991886
+2018-05-18 17:35:44.269 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.0002024265850195661 0.0001665115560172126 0.9987737536430359 0.0008572562946937978
+2018-05-18 17:35:44.310 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 8.730763511266559e-05 9.293852053815499e-05 0.9996308088302612 0.0001888442347990349
+2018-05-18 17:35:44.356 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.001787430024705827 0.0004278816923033446 0.9972459077835083 0.0005387841956689954
+2018-05-18 17:35:44.394 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.00145773752592504 0.0005527544999495149 0.9974537491798401 0.0005357480840757489
+2018-05-18 17:35:44.436 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.000572117161937058 0.0001322243915637955 0.9947846531867981 0.004511050879955292
+2018-05-18 17:35:44.476 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.0002068650064757094 0.001089200610294938 0.9834906458854675 0.01521318778395653
+2018-05-18 17:35:44.517 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.03942594677209854 0.00489633297547698 0.8920879364013672 0.06358968466520309
+2018-05-18 17:35:44.560 | I | -[NNDetectorPNUTController onDetectorDNNCompleteWithResult:] | [line:120] | [MESSAGE] pnut 0.9601448774337769 0.01187583897262812 0.01345708966255188 0.01452219299972057
+2018-05-18 17:35:45.384 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 5
+2018-05-18 17:35:45.413 | I | -[StepsController currentPillAllDone] | [line:651] | [MESSAGE] currentPillAllDone username F3E3467D-02B2-4A35-A695-2825CA59EEAE, pill id 0, dose id 0
+2018-05-18 17:35:45.432 | I | -[AiViewDaily handleAllStepsDone] | [line:192] | [MESSAGE] handle All Steps Done
+2018-05-18 17:35:45.433 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-18 17:35:45.438 | I | -[CameraEngine pauseCapture] | [line:231] | [MESSAGE] Pausing capture
+2018-05-18 17:35:45.438 | I | -[AiViewDaily viewWillDisappear:] | [line:145] | [MESSAGE] view will disappear
+2018-05-18 17:35:45.441 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-18 17:35:45.548 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-18 17:35:46.536 | I | -[AiView goToNextPill] | [line:244] | [MESSAGE] all medication done, no more next medication........
+2018-05-18 17:35:46.541 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-18 17:35:46.543 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 0
+2018-05-18 17:35:46.543 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 0
+2018-05-18 17:35:46.559 | I | -[TransmitionViewController viewDidLoad] | [line:73] | [MESSAGE] view did load
+2018-05-18 17:35:48.561 | I | -[Transmission sendAll] | [line:80] | [MESSAGE] Transmission send all
+2018-05-18 17:35:48.574 | I | -[Transmission sendAll] | [line:110] | [MESSAGE] Add data for transmission 1
+2018-05-18 17:35:48.620 | I | -[Transmission sendAll] | [line:115] | [MESSAGE] Encrypting files
+2018-05-18 17:35:49.247 | I | -[Transmission update:task_name:] | [line:219] | [MESSAGE] Transmitted successfully on user:F3E3467D-02B2-4A35-A695-2825CA59EEAE pill:smarties-white date:2018-05-18 04:00:00 +0000 doseID:0
+2018-05-18 17:35:49.247 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 1
+2018-05-18 17:35:50.732 | I | -[Transmission update:task_name:] | [line:230] | [MESSAGE] File transmitted /var/mobile/Containers/Data/Application/0A3633E2-EA87-4F01-8A65-E2A4F896F21B/Library/transmission/0_smarties-white_0_2018-05-18.mp4
+2018-05-18 17:35:50.733 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 2
+2018-05-18 17:35:50.835 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 3
+2018-05-18 17:35:50.941 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 4
+2018-05-18 17:35:51.041 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 5
+2018-05-18 17:35:51.164 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6
+2018-05-18 17:35:51.267 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 7
+2018-05-18 17:35:51.389 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 8
+2018-05-18 17:35:52.154 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-18 17:35:52.164 | I | -[MedicationConfirmVC viewDidLoad] | [line:45] | [MESSAGE] MedicationConfirmVC view did load
+2018-05-18 17:35:52.795 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName conclusion_11
+2018-05-18 17:35:52.795 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name conclusion_11
+2018-05-18 17:35:57.740 | I | -[DigitalClockVC viewDidLoad] | [line:138] | [MESSAGE] DigitalClockVC view did load
+2018-05-18 17:35:57.761 | I | -[Transmission sendAll] | [line:80] | [MESSAGE] Transmission send all
+2018-05-18 17:35:57.762 | I | -[Transmission sendAll] | [line:115] | [MESSAGE] Encrypting files
+2018-05-18 17:35:57.801 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-18 17:35:57.825 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-18 17:35:57.825 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-18 17:35:57.825 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-18 17:35:57.846 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-18 17:35:57.846 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-18 17:35:57.851 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-18 17:35:57.896 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-18 17:35:57.896 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-18 17:35:57.896 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-18 17:35:57.916 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-18 17:35:57.916 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-18 17:35:57.921 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-18 17:35:57.924 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 1
+2018-05-18 17:35:58.205 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 2
+2018-05-18 17:35:58.307 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 3
+2018-05-18 17:35:58.623 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 4
+2018-05-18 17:35:58.819 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 5
+2018-05-18 17:35:58.927 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6
+2018-05-18 17:35:59.053 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-18 17:35:59.666 | I | -[DigitalClockVC showQuestionnaire] | [line:788] | [MESSAGE] showQuestionnaire
+2018-05-18 17:35:59.733 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-18 17:35:59.848 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-18 17:36:00.202 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-18 17:36:00.824 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-18 17:36:00.824 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-18 17:36:00.837 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-18 17:36:00.837 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-18 17:36:01.139 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-18 17:36:01.139 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-18 17:36:01.139 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-18 17:36:01.160 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-18 17:36:01.160 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-18 17:36:01.165 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-18 17:36:01.168 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-18 17:36:01.168 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-18 17:36:01.168 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-18 17:36:01.186 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-18 17:36:01.187 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-18 17:36:01.192 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-18 17:36:10.747 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-18 17:36:10.747 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-18 17:36:10.749 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-18 17:36:10.749 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-18 17:36:22.935 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-18 17:36:22.935 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-18 17:36:22.937 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-18 17:36:22.937 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-18 17:36:30.565 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-18 17:36:30.566 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-18 17:36:30.567 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-18 17:36:30.567 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-18 17:36:40.826 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-18 17:36:40.826 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-18 17:36:40.828 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-18 17:36:40.828 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-18 17:36:52.422 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-18 17:36:52.422 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-18 17:36:52.423 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-18 17:36:52.423 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-18 17:37:03.878 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-18 17:37:03.878 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-18 17:37:03.880 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-18 17:37:03.880 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-18 17:37:08.114 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-18 17:37:16.121 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-18 17:37:18.508 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-18 17:37:22.509 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-18 17:37:25.293 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-18 17:37:32.867 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-18 17:37:33.060 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-18 17:37:36.920 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-18 17:37:40.924 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-18 17:37:42.827 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-18 17:37:46.829 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-18 17:37:48.982 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-18 17:37:49.904 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-18 17:37:54.044 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-18 17:37:54.244 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-18 17:37:54.375 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-18 17:37:57.336 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-18 17:37:57.336 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-18 17:37:57.339 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-18 17:37:57.339 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-18 17:37:57.503 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-18 17:38:00.939 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-18 17:38:01.309 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-18 17:38:04.547 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-18 17:38:05.657 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-18 17:38:05.932 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-18 17:38:08.552 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-18 17:38:08.568 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-18 17:38:10.459 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-18 17:38:12.447 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-18 17:38:14.461 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-18 17:38:14.465 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-18 17:38:16.614 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-18 17:38:18.319 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-18 17:38:18.466 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-18 17:38:18.482 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-18 17:38:20.588 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-18 17:38:20.588 | I | -[SpeechDetector activateDetection] | [line:76] | [MESSAGE] Speech Detector onSpeechBeginOverall
+2018-05-18 17:38:23.468 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-18 17:38:27.816 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-18 17:38:27.816 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-18 17:38:27.818 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-18 17:38:27.818 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-18 17:38:28.807 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-18 17:38:31.895 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-18 17:38:33.066 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-18 17:38:35.896 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-18 17:38:35.899 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-18 17:38:37.797 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-18 17:38:37.797 | I | -[SpeechDetector activateDetection] | [line:76] | [MESSAGE] Speech Detector onSpeechBeginOverall
+2018-05-18 17:38:37.899 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-18 17:38:38.713 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-18 17:38:41.902 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-18 17:38:41.912 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-18 17:38:44.062 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-18 17:38:44.062 | I | -[SpeechDetector activateDetection] | [line:76] | [MESSAGE] Speech Detector onSpeechBeginOverall
+2018-05-18 17:38:45.912 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-18 17:38:45.929 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-18 17:38:48.028 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-18 17:38:48.028 | I | -[SpeechDetector activateDetection] | [line:76] | [MESSAGE] Speech Detector onSpeechBeginOverall
+2018-05-18 17:38:51.900 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-18 17:38:51.900 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-18 17:38:51.902 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-18 17:38:51.902 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-18 17:38:52.913 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-18 17:38:58.611 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-18 17:38:58.999 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-18 17:39:02.412 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-18 17:39:05.572 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-18 17:39:06.415 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-18 17:39:06.432 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-18 17:39:08.325 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-18 17:39:08.325 | I | -[SpeechDetector activateDetection] | [line:76] | [MESSAGE] Speech Detector onSpeechBeginOverall
+2018-05-18 17:39:12.326 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-18 17:39:12.330 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-18 17:39:14.482 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-18 17:39:14.482 | I | -[SpeechDetector activateDetection] | [line:76] | [MESSAGE] Speech Detector onSpeechBeginOverall
+2018-05-18 17:39:16.330 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-18 17:39:16.347 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-18 17:39:17.875 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageListVC, answering
+2018-05-18 17:39:17.875 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-18 17:39:17.877 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-18 17:39:17.877 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-18 17:39:23.103 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageListVC, answering
+2018-05-18 17:39:23.103 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-18 17:39:23.104 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-18 17:39:23.104 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-18 17:39:32.047 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-18 17:39:32.047 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-18 17:39:32.048 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-18 17:39:32.048 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-18 17:39:38.746 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-18 17:39:38.746 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-18 17:39:38.747 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-18 17:39:38.747 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-18 17:39:40.844 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-18 17:39:43.479 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-18 17:39:55.968 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-18 17:39:55.968 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-18 17:39:55.970 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-18 17:39:55.970 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-18 17:39:56.999 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-18 17:40:02.692 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-18 17:40:02.692 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-18 17:40:02.693 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIARViewController, reviewing
+2018-05-18 17:40:02.693 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-18 17:40:17.110 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-18 17:40:17.110 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-05-18 17:40:17.158 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-18 17:40:17.649 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-18 17:40:18.270 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 0
+2018-05-18 17:40:18.270 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 0
+2018-05-18 17:40:18.291 | I | -[MedicationConfirmVC viewDidLoad] | [line:45] | [MESSAGE] MedicationConfirmVC view did load
+2018-05-18 17:40:18.507 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-18 17:40:18.929 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName conclusion_11
+2018-05-18 17:40:18.929 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name conclusion_11
+2018-05-18 17:40:23.904 | I | -[DigitalClockVC viewDidLoad] | [line:138] | [MESSAGE] DigitalClockVC view did load
+2018-05-18 17:40:24.152 | I | -[Transmission sendAll] | [line:80] | [MESSAGE] Transmission send all
+2018-05-18 17:40:24.153 | I | -[Transmission sendAll] | [line:115] | [MESSAGE] Encrypting files
+2018-05-18 17:40:24.243 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-18 17:40:24.305 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-18 17:40:24.306 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-18 17:40:24.306 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-18 17:40:24.334 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-18 17:40:24.334 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-18 17:40:24.341 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-18 17:40:24.550 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 1
+2018-05-18 17:40:24.551 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-18 17:40:24.551 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-18 17:40:24.551 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-18 17:40:24.576 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-18 17:40:24.576 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-18 17:40:24.582 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-18 17:40:24.666 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 2
+2018-05-18 17:40:24.776 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 3
+2018-05-18 17:40:24.924 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 4
+2018-05-18 17:40:25.041 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 5
+2018-05-18 17:40:25.163 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6
+2018-05-18 17:40:25.311 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-18 17:40:28.356 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-18 17:40:28.657 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-18 17:40:28.685 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-18 17:40:28.685 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-18 17:40:28.685 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-18 17:40:28.780 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-18 17:40:28.780 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-18 17:40:28.790 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-18 17:40:29.613 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-18 17:40:29.644 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-18 17:40:29.645 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-18 17:40:29.645 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-18 17:40:29.668 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-18 17:40:29.668 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-18 17:40:29.673 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary

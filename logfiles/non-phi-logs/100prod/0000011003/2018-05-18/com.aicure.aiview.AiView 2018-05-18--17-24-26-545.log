@@ -1,0 +1,3 @@
+2018-05-18 13:24:26.534 | I | -[TutorialFinishVC viewDidLoad] | [line:31] | [MESSAGE] TutorialFinishVC view did load
+2018-05-18 13:25:03.362 | I | -[SettingsVC viewDidLoad] | [line:47] | [MESSAGE] SettingsVC view did load
+2018-05-18 13:25:43.077 | I | -[AppDelegate applicationWillResignActive:] | [line:196] | [MESSAGE] application Will Resign Active

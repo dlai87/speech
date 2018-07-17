@@ -1,0 +1,46 @@
+2018-05-24 11:25:50.411 | I | -[AppDelegate application:didFinishLaunchingWithOptions:] | [line:186] | [MESSAGE] application Did Finish Launching
+2018-05-24 11:25:50.477 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID (null)
+2018-05-24 11:25:50.478 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name pro
+2018-05-24 11:25:50.480 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone6,1
+2018-05-24 11:25:50.480 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone 5,5S
+2018-05-24 11:25:50.480 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 10.3.3
+2018-05-24 11:25:50.480 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.3
+2018-05-24 11:25:50.480 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language en-US
+2018-05-24 11:25:50.486 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID 3C8BF5D8-AA55-4296-9409-433170508990
+2018-05-24 11:25:50.488 | I | -[AppDelegate logMataData] | [line:173] | [MESSAGE] Patient ID (null)
+2018-05-24 11:25:50.491 | I | +[AIUtil hasInternetConnection] | [line:683] | [MESSAGE] has internet connnection = 0
+2018-05-24 11:25:51.311 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-24 11:25:51.332 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-24 11:25:51.367 | I | +[AIUtil checkPermission] | [line:1129] | [MESSAGE] camera access / mic access Not Determined
+2018-05-24 11:25:51.564 | I | -[LoginVC viewDidLoad] | [line:72] | [MESSAGE] LoginVC view did load
+2018-05-24 11:25:51.566 | I | +[AIUtil checkWifiConnection] | [line:700] | [MESSAGE] check wifi connection = NO_INTERNET
+2018-05-24 11:25:52.370 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-24 11:26:45.766 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-24 11:26:46.807 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-24 11:26:51.857 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-24 11:26:52.730 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:437] | [MESSAGE] Succeded to get APNS token data: <5d362892 deb630de eb4e9d1f 8bd247a8 fb876cf2 af225122 80498662 b15dce31>
+2018-05-24 11:26:52.730 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:443] | [MESSAGE] deviceToken:  5d362892deb630deeb4e9d1f8bd247a8fb876cf2af22512280498662b15dce31
+2018-05-24 11:26:53.529 | I | -[AppDelegate applicationWillResignActive:] | [line:201] | [MESSAGE] application Will Resign Active
+2018-05-24 11:26:54.907 | I | -[AppDelegate cleanAlertDialog] | [line:369] | [MESSAGE] clean Alert Dialog
+2018-05-24 11:26:56.855 | I | -[AppDelegate applicationWillEnterForeground:] | [line:227] | [MESSAGE] application will enter foreground
+2018-05-24 11:26:56.856 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID (null)
+2018-05-24 11:26:56.857 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name pro
+2018-05-24 11:26:56.857 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone6,1
+2018-05-24 11:26:56.857 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone 5,5S
+2018-05-24 11:26:56.857 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 10.3.3
+2018-05-24 11:26:56.857 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.3
+2018-05-24 11:26:56.857 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language en-US
+2018-05-24 11:26:56.862 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID 3C8BF5D8-AA55-4296-9409-433170508990
+2018-05-24 11:26:56.863 | I | -[AppDelegate logMataData] | [line:173] | [MESSAGE] Patient ID (null)
+2018-05-24 11:26:56.864 | I | +[AIUtil hasInternetConnection] | [line:683] | [MESSAGE] has internet connnection = 1
+2018-05-24 11:26:57.412 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-24 11:26:57.415 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-05-24 11:26:57.488 | I | -[LoginVC viewDidLoad] | [line:72] | [MESSAGE] LoginVC view did load
+2018-05-24 11:26:57.489 | I | +[AIUtil checkWifiConnection] | [line:705] | [MESSAGE] check wifi connection = CONNECT_WIFI
+2018-05-24 11:27:14.510 | I | -[RelinkAction relinkWithUsername:code:] | [line:92] | [MESSAGE] relinkWithUsername 3C8BF5D8-AA55-4296-9409-433170508990 url /backend/backend
+2018-05-24 11:27:15.145 | I | -[RelinkAction update:task_name:] | [line:152] | [MESSAGE] relink transmission task_name routing, result 9999
+2018-05-24 11:27:16.099 | I | -[RelinkAction update:task_name:] | [line:152] | [MESSAGE] relink transmission task_name Relink, result 9999
+2018-05-24 11:27:16.416 | I | -[RelinkAction update:task_name:] | [line:152] | [MESSAGE] relink transmission task_name kiosk_dose_check, result 9999
+2018-05-24 11:27:16.586 | I | -[TransmissionProtocol update:task_name:] | [line:65] | [MESSAGE] trial_setup 9999
+2018-05-24 11:27:16.765 | I | -[TransmissionProtocol update:task_name:] | [line:65] | [MESSAGE] trial_setup_serialized 9999
+2018-05-24 11:27:17.274 | I | -[TransmissionProtocol update:task_name:] | [line:65] | [MESSAGE] dose_protocol_sync 9999

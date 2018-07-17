@@ -1,0 +1,41 @@
+2018-06-28 16:33:57.136 | I | -[AppDelegate applicationWillEnterForeground:] | [line:227] | [MESSAGE] application will enter foreground
+2018-06-28 16:33:57.136 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial ID 0prod1499883450
+2018-06-28 16:33:57.150 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] trial name 0prod
+2018-06-28 16:33:57.150 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone7,1
+2018-06-28 16:33:57.150 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] Device Hardware iPhone 6 PLUS
+2018-06-28 16:33:57.150 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] OS Version 11.4
+2018-06-28 16:33:57.150 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] AiView build version 2018.4
+2018-06-28 16:33:57.150 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device language en-US
+2018-06-28 16:33:57.153 | I | -[AppDelegate logMataData] | [line:171] | [MESSAGE] device UUID A02DD34B-CA14-4349-ACD7-FD0D4C2AB2AC
+2018-06-28 16:33:57.154 | I | -[AppDelegate logMataData] | [line:174] | [MESSAGE] Patient ID 1840000z23
+2018-06-28 16:33:57.155 | I | +[AIUtil hasInternetConnection] | [line:706] | [MESSAGE] has internet connnection = 1
+2018-06-28 16:33:57.678 | D | -[AiViewSwitch startApp] | [line:157] | [MESSAGE] StartApp in AiViewSwitch
+2018-06-28 16:33:57.681 | I | +[AIUtil checkPermission] | [line:1155] | [MESSAGE] camera access / mic access Authorized
+2018-06-28 16:33:57.727 | E | -[AIDownloadAssetsViewController viewDidLoad]_block_invoke | [line:53] | [MESSAGE] [Download Assets] Get Cognito session succeeded. Downloading assets.
+2018-06-28 16:56:05.144 | I | getKitNum() | [line:37] | [MESSAGE] [API Gateway] Get Cognito session succeeded. Getting kit num.
+2018-06-28 16:56:05.369 | I | -[AppDelegate applicationWillResignActive:] | [line:203] | [MESSAGE] application Will Resign Active
+2018-06-28 16:56:05.705 | I | getKitNum() | [line:43] | [MESSAGE] [API Gateway] Get kit num succeeded. No (non-synchronized) kit num.
+2018-06-28 16:56:05.717 | I | -[AIKitNumManager updateWithData:] | [line:158] | [MESSAGE] [KitNum] Update kit nums with GET response succeeded. Saved the download time 2018-06-28 20:56:05 +0000 to user defaults.
+2018-06-28 16:56:05.717 | E | -[AIKitNumManager updateWithData:] | [line:164] | [MESSAGE] [KitNum] Empty kit num list returned.
+2018-06-28 16:56:05.929 | I | -[AIKitNumManager syncStatus] | [line:141] | [MESSAGE] [KitNum] No kit num status to put.
+2018-06-28 16:56:05.942 | I | -[AppDelegate cleanAlertDialog] | [line:378] | [MESSAGE] clean Alert Dialog
+2018-06-28 16:56:06.000 | I | -[AppDelegate applicationWillEnterForeground:] | [line:227] | [MESSAGE] application will enter foreground
+2018-06-28 16:56:06.001 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial ID 0prod1499883450
+2018-06-28 16:56:06.001 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] trial name 0prod
+2018-06-28 16:56:06.002 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone7,1
+2018-06-28 16:56:06.002 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] Device Hardware iPhone 6 PLUS
+2018-06-28 16:56:06.002 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] OS Version 11.4
+2018-06-28 16:56:06.002 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] AiView build version 2018.4
+2018-06-28 16:56:06.002 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device language en-US
+2018-06-28 16:56:06.007 | I | -[AppDelegate logMataData] | [line:171] | [MESSAGE] device UUID A02DD34B-CA14-4349-ACD7-FD0D4C2AB2AC
+2018-06-28 16:56:06.008 | I | -[AppDelegate logMataData] | [line:174] | [MESSAGE] Patient ID 1840000z23
+2018-06-28 16:56:06.009 | I | +[AIUtil hasInternetConnection] | [line:706] | [MESSAGE] has internet connnection = 1
+2018-06-28 16:56:06.543 | D | -[AiViewSwitch startApp] | [line:157] | [MESSAGE] StartApp in AiViewSwitch
+2018-06-28 16:56:06.546 | I | +[AIUtil checkPermission] | [line:1155] | [MESSAGE] camera access / mic access Authorized
+2018-06-28 16:56:06.839 | I | -[AiView viewDidLoad] | [line:69] | [MESSAGE] AiView view did load
+2018-06-28 16:56:07.345 | I | upload(fileURL:bucket:) | [line:60] | [MESSAGE] [S3] Upload succeeded. prod-cd-temp-lambda-s3.aicure.com/non_phi/logs/0prod/1840000z23/2018-06-28/com.aicure.aiview.AiView 2018-06-28--20-32-34-777.log.
+2018-06-28 16:56:07.566 | E | -[Transmission update:task_name:] | [line:234] | [MESSAGE] Task Dose_miss_time_report failed
+2018-06-28 16:56:08.017 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 0
+2018-06-28 16:56:08.017 | I | -[AiView defineProcess:currentTime:context:] | [line:158] | [MESSAGE] allMedsWithinDoseNotFinished 0
+2018-06-28 16:56:08.071 | I | -[TransmitionViewController viewDidLoad] | [line:73] | [MESSAGE] view did load
+2018-06-28 16:56:08.505 | I | -[AICognitoHelper login]_block_invoke | [line:183] | [MESSAGE] [Cognito] Get session succeeded.

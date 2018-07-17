@@ -1,0 +1,542 @@
+1526396608766,2018.05.15 11:03:28.766,DEBUG,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:862),AiView app is currently running in daily dose mode
+1526396608770,2018.05.15 11:03:28.770,DEBUG,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:885),Trial id :null
+1526396608775,2018.05.15 11:03:28.775,DEBUG,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:889),Device ID (IMEI) : 358510081093110
+1526396608777,2018.05.15 11:03:28.777,DEBUG,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:894),External patient id : 
+1526396608778,2018.05.15 11:03:28.778,DEBUG,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:895),OS version : 26
+1526396608781,2018.05.15 11:03:28.781,DEBUG,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:905),Total available memory for this phone is : 3055.0mb  Percentage : 58.48126911029209%
+1526396608783,2018.05.15 11:03:28.783,DEBUG,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:907), Device has access to internet.
+1526396608785,2018.05.15 11:03:28.785,INFO,aiview_android,AppUtil.writeHeaderLog  (AppUtil.java:909),Device is connected to WIFI with fast connection.
+1526396608787,2018.05.15 11:03:28.787,INFO,aiview_android,AiViewSwitch.hasPermissionsGranted  (AiViewSwitch.java:150),All permissions have been granted.
+1526396608789,2018.05.15 11:03:28.789,INFO,aiview_android,AiViewSwitch.onStart  (AiViewSwitch.java:430),All required permissions have been granted.
+1526396608817,2018.05.15 11:03:28.817,INFO,aiview_android,AiViewSwitch.StartAppWithoutCheckingVideos  (AiViewSwitch.java:303),Device is not registered, go to AiViewTutorial
+1526396608864,2018.05.15 11:03:28.864,DEBUG,aiview_android,AppUtil$3.onFinished  (AppUtil.java:872),manufacturer : Samsung name :Galaxy Note8 model :SM-N950U1 codename : greatqlteue deviceName : Galaxy Note8
+1526396609086,2018.05.15 11:03:29.086,DEBUG,aiview_android,AiViewTutorial.startOrResume  (AiViewTutorial.java:493),Current trainning step is -1.
+1526396609119,2018.05.15 11:03:29.119,DEBUG,aiview_android,LocaleHelper.setLocale  (LocaleHelper.java:71),Setting app locale -- en
+1526396609123,2018.05.15 11:03:29.123,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526396619941,2018.05.15 11:03:39.941,INFO,aiview_android,LoginFragment.getURLTask  (LoginFragment.java:265),starting getURL task
+1526396620669,2018.05.15 11:03:40.669,INFO,aiview_android,LoginFragment$4.onComplete  (LoginFragment.java:282),UNIQUE_URL_EXIST 
+1526396620672,2018.05.15 11:03:40.672,INFO,aiview_android,LoginFragment.getTrialSetupInfo  (LoginFragment.java:214),starting getTrialSetupInfo task
+1526396621424,2018.05.15 11:03:41.424,DEBUG,aiview_android,TrialSetupSerializedObjectTask.sync  (TrialSetupSerializedObjectTask.java:92),ResponseWithSerializedPOJO ----- {"message":"{\"allow_change_notification\":true,\"allow_edit_protocol\":true,\"allow_individual_consent_for_questionnaires\":false,\"allow_send_msg_to_patient_for_visit\":false,\"auto_schedule_clinic_visit\":true,\"auto_timeout_timer\":15,\"client_url\":\"client0qa.aicure.com\",\"clinic_visit_display_start\":3,\"comparator\":\"\",\"condition\":\"Cognitive impairment in schizophrenia\",\"create_protocol_in_real_time\":false,\"created_at\":\"2016-04-19T21:48:28Z\",\"daily_doses_as_one_dose\":false,\"default_dispensed_pills\":20,\"delete_user_from_cognito_user_pool\":false,\"device_provision_way\":\"BYOD\",\"dose_alarm_apart\":60,\"dose_gap\":360,\"dose_in_clinic_during_visit\":true,\"early_termination_days_threshold\":21,\"enable_add_delete_visit\":true,\"enable_additional_dose\":false,\"enable_allocate_alarms_evenly\":false,\"enable_cache\":true,\"enable_central_registration\":false,\"enable_clinic_visit\":false,\"enable_clinic_visit_in_screening\":false,\"enable_custom_privacy_policy\":false,\"enable_custom_terms_and_conditions\":false,\"enable_custom_terms_of_use\":false,\"enable_default_start_date\":true,\"enable_dose_reminder\":false,\"enable_global_deployment\":false,\"enable_half_pill\":false,\"enable_iu_skip_rollback_when_change_protocol\":false,\"enable_iu_video_review\":false,\"enable_kiosk\":true,\"enable_likert_scale\":true,\"enable_multi_choice_question\":false,\"enable_multiple_barcode_identification\":false,\"enable_passcode\":false,\"enable_patient_late_alert\":true,\"enable_patient_low_battery_alert\":true,\"enable_pause_resume\":false,\"enable_pay\":false,\"enable_pill_count\":false,\"enable_pill_count_calculator\":false,\"enable_pill_level\":false,\"enable_pill_reclassification\":false,\"enable_pk_days\":true,\"enable_pk_days_in_screening\":false,\"enable_protocol_rule\":false,\"enable_questionnaire\":false,\"enable_reason\":true,\"enable_sc_video_review\":false,\"enable_screening_period\":false,\"enable_session\":false,\"enable_side_effects\":false,\"enable_skip\":false,\"enable_start_dose\":true,\"enable_taken_together\":false,\"enable_time_on_task_timeout\":false,\"enable_unblurred\":true,\"enable_user_authentication_service\":false,\"enable_video_data_service\":false,\"enable_x_hour_after_alarm_alert\":false,\"ending_soon_num_days\":7,\"enrollment_end\":\"2019-01-04\",\"enter_payee_id_during_add_patient\":false,\"expanded_terms_conditions_drug_abuse\":false,\"guide_1\":\"FAQ_Modify_Settings_RocheBP39207.pdf\",\"guide_2\":\"FAQ_Reclassify_dose_RocheBP39207.pdf\",\"guide_3\":\"FAQ_Call_Participant_RocheBP39207.pdf\",\"guide_4\":\"FAQ_Manage_Visits_RocheBP39207.pdf\",\"guide_5\":\"FAQ_Start_Next_Phase.pdf\",\"id\":1,\"intervention_contact_allow\":true,\"lang_options\":\"[\\\"[\\\\\\\"ENGLISH\\\\\\\", \\\\\\\"en\\\\\\\"]\\\"]\",\"length_of_patient_in_trial\":168,\"lockout\":true,\"lockout_duration\":5,\"lockout_unsuccessful_attempts\":5,\"low_battery_threshold\":0.15,\"match_last_visit_date_with_last_protocol_date\":false,\"med_category_name\":\"medication\",\"med_type\":\"oral\",\"med_unit\":\"pill\",\"middle_character\":\"\",\"name\":\"Internal Beta Testing\",\"non_adherence_patient_group_threshold\":50,\"num_continuous_unsuccessful_login_threshold\":3,\"num_doses_go_full_training\":0,\"num_doses_go_short_training\":0,\"num_patient_id_character\":4,\"num_patient_id_character_screening\":2,\"num_patient_load_each_time\":10,\"num_site_id_character\":6,\"num_trial_sessions\":1,\"patient_clinic_visit_reminder_enabled\":false,\"patient_label\":\"participant\",\"patient_low_battery_alert_with_schedule_constraint\":false,\"patient_recruitment_goal\":180,\"patient_same_day_low_battery_alert_lastest_time\":240,\"phase\":\"2\",\"pill_rectangle_values\":\"{\\\"android\\\":{\\\"pill_identification\\\":{\\\"center_x_ratio\\\":0.5,\\\"center_y_ratio\\\":0.5,\\\"width_ratio\\\":0.4166667,\\\"height_ratio\\\":0.3125},\\\"pill_in_mouth\\\":{\\\"center_x_ratio\\\":0.5,\\\"center_y_ratio\\\":0.65,\\\"width_ratio\\\":0.533334,\\\"height_ratio\\\":0.4}},\\\"ios\\\":{\\\"pill_identification\\\":{\\\"center_x_ratio\\\":0.5,\\\"center_y_ratio\\\":0.5,\\\"width_ratio\\\":0.34722223,\\\"height_ratio\\\":0.285},\\\"pill_in_mouth\\\":{\\\"center_x_ratio\\\":0.5,\\\"center_y_ratio\\\":0.65,\\\"width_ratio\\\":0.533334,\\\"height_ratio\\\":0.4}}}\",\"psw_duration\":180,\"qnn_notification_times\":\"[0.0, 0.5, 0.9]\",\"questions_shown_on_summary_page\":null,\"record_audio\":true,\"record_video\":true,\"registration_ui_label\":null,\"relink_code_ttl\":10080,\"send_stands_with_provisioned_device\":false,\"show_barcode_bottle_id_on_dashboard\":false,\"show_call_your_site_number\":true,\"show_early_termination\":true,\"show_full_terms_conditions\":true,\"show_instruction_at_beginning_of_app\":true,\"show_instructions_for_drinking_water\":true,\"show_med_dosage\":false,\"show_more_adh\":false,\"show_questionnaire_tab\":false,\"show_support_button\":true,\"show_terms_conditions\":true,\"show_unblurred\":false,\"site_aiview_adh_change_threshold\":10.0,\"site_aiview_adh_goal\":80,\"site_all_source_dose_adh_goal\":80,\"site_all_source_dose_adh_high\":85,\"site_all_source_dose_adh_low\":70,\"sponsor_name\":\"AiCure\",\"start_date_num_days_from_today\":0,\"start_date_num_days_from_today_max\":100,\"start_date_num_days_from_today_min\":0,\"start_guide_add_train\":\"AiCure_Quick_Start_RocheBP39207_Add-train.pdf\",\"start_guide_dashboard\":\"AiCure_Quick_Start_RocheBP39207_Dashboard.pdf\",\"surveillance_level_high\":9000,\"surveillance_level_low\":12000,\"threshold_try_mobi\":10,\"time_on_task_timeout_duration_each_step\":60,\"time_on_task_timeout_num_retries\":3,\"time_window_fixed\":true,\"training_med\":\"basmisinal\",\"training_med_dosage\":1.0,\"treatment_protocol\":false,\"trial_duration_1\":60,\"trial_duration_2\":120,\"trial_end_date\":\"2019-01-04\",\"trial_id\":null,\"trial_start_date\":\"2017-01-04\",\"two_factor_authentication\":false,\"unit_to_pay_per_dose\":1.0,\"updated_at\":\"2018-05-01T16:33:49Z\",\"use_mobi\":true,\"use_population_average\":false,\"use_same_customized_patient_id_after_screening\":false,\"x_hour_after_alarm\":3,\"reminders\":[],\"multi_choice_questions\":[]}","result":"success"}
+1526396621444,2018.05.15 11:03:41.444,DEBUG,aiview_android,TrialSetupTask.sync  (TrialSetupTask.java:52),Android SDK Level: 26
+1526396621448,2018.05.15 11:03:41.448,DEBUG,aiview_android,TrialSetupTask.sync  (TrialSetupTask.java:66),url https://client100prod.aicure.com/backend/backend
+1526396621805,2018.05.15 11:03:41.805,DEBUG,aiview_android,TrialSetupTask.sync  (TrialSetupTask.java:82),url resultType 9999
+1526396621843,2018.05.15 11:03:41.843,DEBUG,aiview_android,TrialSetupTask.sync  (TrialSetupTask.java:85),GeneralResponse body ------{"message":{"enable_multiple_barcode_identification":false,"enable_reason":true,"enable_side_effects":false,"enable_skip":false,"med_category_name":"medication","med_type":"oral","med_unit":"pill","num_trial_sessions":1,"patient_label":"participant","reimbursement":false,"show_call_your_site_number":true,"show_instruction_at_beginning_of_app":1,"show_instructions_for_drinking_water":1,"show_med_dosage":false,"show_support_button":1,"show_terms_conditions":true,"time_window_fixed":true,"training_med":"basmisinal","training_med_dosage":1.0},"result":"success"}
+1526396621885,2018.05.15 11:03:41.885,INFO,aiview_android,LoginFragment$3.onComplete  (LoginFragment.java:227),trial setup success
+1526396621962,2018.05.15 11:03:41.962,INFO,aiview_android,LoginFragment.checkUserNamePasswordMatch  (LoginFragment.java:312),Staring training task
+1526396622417,2018.05.15 11:03:42.417,INFO,aiview_android,LoginFragment$5.onComplete  (LoginFragment.java:335),training task is successful.
+1526396622440,2018.05.15 11:03:42.440,INFO,aiview_android,DNNConfigManager.makeSureMedicationUpdated  (DNNConfigManager.java:86),at least one medication parameter is null
+1526396622442,2018.05.15 11:03:42.442,ERROR,aiview_android,DNNConfigManager.updateMedication  (DNNConfigManager.java:77),config for DNN is null
+1526396622446,2018.05.15 11:03:42.446,INFO,aiview_android,LoginFragment$5.onComplete  (LoginFragment.java:339),Pill is supported, handle success.
+1526396624850,2018.05.15 11:03:44.850,DEBUG,aiview_android,LoginFragment.continueAfterConfirmingStudy  (LoginFragment.java:477),SC_TRAINED_DONE false
+1526396624855,2018.05.15 11:03:44.855,DEBUG,aiview_android,LoginFragment.continueAfterConfirmingStudy  (LoginFragment.java:480),start page isTrained true
+1526396624886,2018.05.15 11:03:44.886,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526396625136,2018.05.15 11:03:45.136,INFO,aiview_android,FileDownloadTask.doInBackground  (FileDownloadTask.java:51),Downloading file from URL -- https://client100prod.aicure.com/tutorial_video_tablet/oral_pill/en/full_version_face_identification_order_0_numpill_0_total_0.mp4
+1526396645495,2018.05.15 11:04:05.495,INFO,aiview_android,FileDownloadTask.doInBackground  (FileDownloadTask.java:51),Downloading file from URL -- https://client100prod.aicure.com/tutorial_video_tablet/oral_pill/en/full_version_pill_identification_order_0_numpill_0_total_0.mp4
+1526396657075,2018.05.15 11:04:17.075,INFO,aiview_android,FileDownloadTask.doInBackground  (FileDownloadTask.java:51),Downloading file from URL -- https://client100prod.aicure.com/tutorial_video_tablet/oral_pill/en/full_version_pill_in_mouth_order_0_numpill_0_total_0.mp4
+1526396669741,2018.05.15 11:04:29.741,INFO,aiview_android,FileDownloadTask.doInBackground  (FileDownloadTask.java:51),Downloading file from URL -- https://client100prod.aicure.com/tutorial_video_tablet/oral_pill/en/full_version_empty_mouth_order_0_numpill_0_total_0.mp4
+1526396684695,2018.05.15 11:04:44.695,INFO,aiview_android,FileDownloadTask.doInBackground  (FileDownloadTask.java:51),Downloading file from URL -- https://client100prod.aicure.com/tutorial_video_tablet/oral_pill/en/full_version_pill_not_under_the_tongue_order_0_numpill_0_total_0.mp4
+1526396692735,2018.05.15 11:04:52.735,INFO,aiview_android,FileDownloadTask.doInBackground  (FileDownloadTask.java:51),Downloading file from URL -- https://client100prod.aicure.com/tutorial_video_tablet/oral_pill/en/short_version_face_identification_order_0_numpill_0_total_0.mp4
+1526396704493,2018.05.15 11:05:04.493,INFO,aiview_android,FileDownloadTask.doInBackground  (FileDownloadTask.java:51),Downloading file from URL -- https://client100prod.aicure.com/tutorial_video_tablet/oral_pill/en/short_version_pill_identification_order_0_numpill_0_total_0.mp4
+1526396705133,2018.05.15 11:05:05.133,INFO,aiview_android,FileDownloadTask.doInBackground  (FileDownloadTask.java:51),Downloading file from URL -- https://client100prod.aicure.com/tutorial_video_tablet/oral_pill/en/short_version_pill_in_mouth_order_0_numpill_0_total_0.mp4
+1526396705533,2018.05.15 11:05:05.533,INFO,aiview_android,FileDownloadTask.doInBackground  (FileDownloadTask.java:51),Downloading file from URL -- https://client100prod.aicure.com/tutorial_video_tablet/oral_pill/en/short_version_empty_mouth_order_0_numpill_0_total_0.mp4
+1526396706033,2018.05.15 11:05:06.033,INFO,aiview_android,FileDownloadTask.doInBackground  (FileDownloadTask.java:51),Downloading file from URL -- https://client100prod.aicure.com/tutorial_video_tablet/oral_pill/en/short_version_pill_not_under_the_tongue_order_0_numpill_0_total_0.mp4
+1526396706275,2018.05.15 11:05:06.275,INFO,aiview_android,DownloadVideoFragment$1.onPostExecute  (DownloadVideoFragment.java:276),Tutorial videos have been downloaded successfully.
+1526396708327,2018.05.15 11:05:08.327,DEBUG,aiview_android,LocaleHelper.setLocale  (LocaleHelper.java:71),Setting app locale -- en
+1526396708344,2018.05.15 11:05:08.344,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526396708612,2018.05.15 11:05:08.612,DEBUG,aiview_android,LocaleHelper.setLocale  (LocaleHelper.java:71),Setting app locale -- en
+1526396708638,2018.05.15 11:05:08.638,DEBUG,aiview_android,LocaleHelper.setLocale  (LocaleHelper.java:71),Setting app locale -- en
+1526396712053,2018.05.15 11:05:12.053,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526396771141,2018.05.15 11:06:11.141,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526396771145,2018.05.15 11:06:11.145,ERROR,aiview_android,DNNConfigManager.updateMedication  (DNNConfigManager.java:77),config for DNN is null
+1526396771146,2018.05.15 11:06:11.146,ERROR,aiview_android,DNNConfigManager.updateMedication  (DNNConfigManager.java:77),config for DNN is null
+1526396772993,2018.05.15 11:06:12.993,INFO,aiview_android,Camera2Fragment.stopCamera  (Camera2Fragment.java:867),Stopping camera.
+1526396772996,2018.05.15 11:06:12.996,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1526396772997,2018.05.15 11:06:12.997,INFO,aiview_android,Camera2Fragment.closeCamera  (Camera2Fragment.java:447),Closing the camera.
+1526396772998,2018.05.15 11:06:12.998,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1526396773000,2018.05.15 11:06:13.000,DEBUG,aiview_android,FlexibleTutorialVideoController.play  (FlexibleTutorialVideoController.java:238),Playing tutorial video --- /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/full_version_face_identification_order_0_numpill_0_total_0.mp4
+1526396773001,2018.05.15 11:06:13.001,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526396773003,2018.05.15 11:06:13.003,DEBUG,aiview_android,FlexibleTutorialVideoController$3.run  (FlexibleTutorialVideoController.java:280),Starting playing video --- 0 videoName: /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/full_version_face_identification_order_0_numpill_0_total_0.mp4
+1526396841579,2018.05.15 11:07:21.579,DEBUG,aiview_android,FlexibleTutorialVideoController$3$1.onComplete  (FlexibleTutorialVideoController.java:285),finishing playing tutorial video -- /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/full_version_face_identification_order_0_numpill_0_total_0.mp4
+1526396841609,2018.05.15 11:07:21.609,DEBUG,aiview_android,Camera2Fragment.startCamera  (Camera2Fragment.java:839),Should record video -- false
+1526396841697,2018.05.15 11:07:21.697,INFO,aiview_android,Camera2Fragment.startBackgroundThread  (Camera2Fragment.java:339),Starting background thread.
+1526396841721,2018.05.15 11:07:21.721,INFO,aiview_android,Camera2Fragment.openCamera  (Camera2Fragment.java:393),Openning the camera.
+1526396841740,2018.05.15 11:07:21.740,ERROR,aiview_android,Camera2Fragment.chooseOptimalSize  (Camera2Fragment.java:329),Couldn't find any suitable preview size
+1526396841744,2018.05.15 11:07:21.744,INFO,aiview_android,Camera2Fragment.openCamera  (Camera2Fragment.java:427),Camera should record video -- false
+1526396841851,2018.05.15 11:07:21.851,INFO,aiview_android,Camera2Fragment$2.onOpened  (Camera2Fragment.java:209),Camera is successfully opened.
+1526396841863,2018.05.15 11:07:21.863,INFO,aiview_android,StepsController.defineCurrentStep  (StepsController.java:579),Entering FACE_ID step.
+1526396842141,2018.05.15 11:07:22.141,INFO,aiview_android,InCameraViewControllerV3.displayNormal  (InCameraViewControllerV3.java:253),display normal step :0 inCameraView true view android.widget.RelativeLayout{634f7ed G.E...... ......I. 0,0-0,0 #7f090272 app:id/silhouette_layout}
+1526396845726,2018.05.15 11:07:25.726,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:45),Audio playing flag -- true
+1526396845728,2018.05.15 11:07:25.728,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:46),Questionnaire in progress  -- false
+1526396845729,2018.05.15 11:07:25.729,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526396845731,2018.05.15 11:07:25.731,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:60),play audio: voice/confirm.mp3
+1526396848418,2018.05.15 11:07:28.418,INFO,aiview_android,StepsController$6.onComplete  (StepsController.java:1018),Current step completes.
+1526396848420,2018.05.15 11:07:28.420,INFO,aiview_android,StepsController.defineCurrentStep  (StepsController.java:601),Entering PILL_ID step.
+1526396848424,2018.05.15 11:07:28.424,INFO,aiview_android,Camera2Fragment.stopCamera  (Camera2Fragment.java:867),Stopping camera.
+1526396848425,2018.05.15 11:07:28.425,INFO,aiview_android,Camera2Fragment.closeCamera  (Camera2Fragment.java:447),Closing the camera.
+1526396848447,2018.05.15 11:07:28.447,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526396848486,2018.05.15 11:07:28.486,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526396848504,2018.05.15 11:07:28.504,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1526396848518,2018.05.15 11:07:28.518,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526396848543,2018.05.15 11:07:28.543,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526396848671,2018.05.15 11:07:28.671,INFO,aiview_android,Camera2Fragment$2.onClosed  (Camera2Fragment.java:248),Camera is successfully closed.
+1526396848674,2018.05.15 11:07:28.674,INFO,aiview_android,Camera2Fragment.stopBackgroundThread  (Camera2Fragment.java:360),Stopping background thread.
+1526396848676,2018.05.15 11:07:28.676,DEBUG,aiview_android,FlexibleTutorialVideoController.play  (FlexibleTutorialVideoController.java:238),Playing tutorial video --- /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/full_version_pill_identification_order_0_numpill_0_total_0.mp4
+1526396848678,2018.05.15 11:07:28.678,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1526396848680,2018.05.15 11:07:28.680,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526396848724,2018.05.15 11:07:28.724,DEBUG,aiview_android,FlexibleTutorialVideoController$3.run  (FlexibleTutorialVideoController.java:280),Starting playing video --- 1 videoName: /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/full_version_pill_identification_order_0_numpill_0_total_0.mp4
+1526396873819,2018.05.15 11:07:53.819,DEBUG,aiview_android,FlexibleTutorialVideoController$3$1.onComplete  (FlexibleTutorialVideoController.java:285),finishing playing tutorial video -- /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/full_version_pill_identification_order_0_numpill_0_total_0.mp4
+1526396873836,2018.05.15 11:07:53.836,DEBUG,aiview_android,Camera2Fragment.startCamera  (Camera2Fragment.java:839),Should record video -- false
+1526396873913,2018.05.15 11:07:53.913,INFO,aiview_android,Camera2Fragment.openCamera  (Camera2Fragment.java:393),Openning the camera.
+1526396873924,2018.05.15 11:07:53.924,ERROR,aiview_android,Camera2Fragment.chooseOptimalSize  (Camera2Fragment.java:329),Couldn't find any suitable preview size
+1526396873927,2018.05.15 11:07:53.927,INFO,aiview_android,Camera2Fragment.openCamera  (Camera2Fragment.java:427),Camera should record video -- false
+1526396873979,2018.05.15 11:07:53.979,INFO,aiview_android,Camera2Fragment.startBackgroundThread  (Camera2Fragment.java:339),Starting background thread.
+1526396873992,2018.05.15 11:07:53.992,INFO,aiview_android,Camera2Fragment$2.onOpened  (Camera2Fragment.java:209),Camera is successfully opened.
+1526396874002,2018.05.15 11:07:54.002,INFO,aiview_android,StepsController.defineCurrentStep  (StepsController.java:601),Entering PILL_ID step.
+1526396874235,2018.05.15 11:07:54.235,INFO,aiview_android,InCameraViewControllerV3.displayNormal  (InCameraViewControllerV3.java:253),display normal step :1 inCameraView true view android.widget.RelativeLayout{634f7ed G.E...... ......ID 0,0-1080,2220 #7f090272 app:id/silhouette_layout}
+1526396890528,2018.05.15 11:08:10.528,INFO,aiview_android,DetectorPillController.run  (DetectorPillController.java:121),Pill id is successfully detected.
+1526396890686,2018.05.15 11:08:10.686,INFO,aiview_android,DetectorPillController.run  (DetectorPillController.java:121),Pill id is successfully detected.
+1526396890722,2018.05.15 11:08:10.722,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:45),Audio playing flag -- true
+1526396890723,2018.05.15 11:08:10.723,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:46),Questionnaire in progress  -- false
+1526396890724,2018.05.15 11:08:10.724,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526396890725,2018.05.15 11:08:10.725,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:60),play audio: voice/confirm.mp3
+1526396891972,2018.05.15 11:08:11.972,INFO,aiview_android,StepsController$6.onComplete  (StepsController.java:1018),Current step completes.
+1526396891973,2018.05.15 11:08:11.973,INFO,aiview_android,StepsController.defineCurrentStep  (StepsController.java:672),Entering PILL_IN_MOUTH step.
+1526396891976,2018.05.15 11:08:11.976,INFO,aiview_android,Camera2Fragment.stopCamera  (Camera2Fragment.java:867),Stopping camera.
+1526396891976,2018.05.15 11:08:11.976,INFO,aiview_android,Camera2Fragment.closeCamera  (Camera2Fragment.java:447),Closing the camera.
+1526396891997,2018.05.15 11:08:11.997,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526396892041,2018.05.15 11:08:12.041,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526396892051,2018.05.15 11:08:12.051,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1526396892066,2018.05.15 11:08:12.066,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526396892107,2018.05.15 11:08:12.107,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526396892240,2018.05.15 11:08:12.240,INFO,aiview_android,Camera2Fragment$2.onClosed  (Camera2Fragment.java:248),Camera is successfully closed.
+1526396892242,2018.05.15 11:08:12.242,INFO,aiview_android,Camera2Fragment.stopBackgroundThread  (Camera2Fragment.java:360),Stopping background thread.
+1526396892243,2018.05.15 11:08:12.243,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1526396892246,2018.05.15 11:08:12.246,DEBUG,aiview_android,FlexibleTutorialVideoController.play  (FlexibleTutorialVideoController.java:238),Playing tutorial video --- /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/full_version_pill_in_mouth_order_0_numpill_0_total_0.mp4
+1526396892248,2018.05.15 11:08:12.248,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526396892292,2018.05.15 11:08:12.292,DEBUG,aiview_android,FlexibleTutorialVideoController$3.run  (FlexibleTutorialVideoController.java:280),Starting playing video --- 2 videoName: /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/full_version_pill_in_mouth_order_0_numpill_0_total_0.mp4
+1526396913653,2018.05.15 11:08:33.653,DEBUG,aiview_android,FlexibleTutorialVideoController$3$1.onComplete  (FlexibleTutorialVideoController.java:285),finishing playing tutorial video -- /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/full_version_pill_in_mouth_order_0_numpill_0_total_0.mp4
+1526396913674,2018.05.15 11:08:33.674,DEBUG,aiview_android,Camera2Fragment.startCamera  (Camera2Fragment.java:839),Should record video -- false
+1526396913761,2018.05.15 11:08:33.761,INFO,aiview_android,Camera2Fragment.openCamera  (Camera2Fragment.java:393),Openning the camera.
+1526396913771,2018.05.15 11:08:33.771,ERROR,aiview_android,Camera2Fragment.chooseOptimalSize  (Camera2Fragment.java:329),Couldn't find any suitable preview size
+1526396913775,2018.05.15 11:08:33.775,INFO,aiview_android,Camera2Fragment.openCamera  (Camera2Fragment.java:427),Camera should record video -- false
+1526396913834,2018.05.15 11:08:33.834,INFO,aiview_android,Camera2Fragment.startBackgroundThread  (Camera2Fragment.java:339),Starting background thread.
+1526396913855,2018.05.15 11:08:33.855,INFO,aiview_android,Camera2Fragment$2.onOpened  (Camera2Fragment.java:209),Camera is successfully opened.
+1526396913861,2018.05.15 11:08:33.861,INFO,aiview_android,StepsController.defineCurrentStep  (StepsController.java:672),Entering PILL_IN_MOUTH step.
+1526396914105,2018.05.15 11:08:34.105,INFO,aiview_android,InCameraViewControllerV3.displayNormal  (InCameraViewControllerV3.java:253),display normal step :2 inCameraView true view android.widget.RelativeLayout{634f7ed G.E...... ......ID 0,0-1080,2220 #7f090272 app:id/silhouette_layout}
+1526396922773,2018.05.15 11:08:42.773,INFO,aiview_android,DetectorPIMController.run  (DetectorPIMController.java:154),Pill in mouth is successfully detected.
+1526396922890,2018.05.15 11:08:42.890,INFO,aiview_android,DetectorPIMController.run  (DetectorPIMController.java:154),Pill in mouth is successfully detected.
+1526396922931,2018.05.15 11:08:42.931,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:45),Audio playing flag -- true
+1526396922932,2018.05.15 11:08:42.932,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:46),Questionnaire in progress  -- false
+1526396922932,2018.05.15 11:08:42.932,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526396922933,2018.05.15 11:08:42.933,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:60),play audio: voice/confirm.mp3
+1526396924170,2018.05.15 11:08:44.170,INFO,aiview_android,StepsController$6.onComplete  (StepsController.java:1018),Current step completes.
+1526396924171,2018.05.15 11:08:44.171,INFO,aiview_android,StepsController.defineCurrentStep  (StepsController.java:755),Entering EMPTY_MOUTH step.
+1526396924173,2018.05.15 11:08:44.173,INFO,aiview_android,Camera2Fragment.stopCamera  (Camera2Fragment.java:867),Stopping camera.
+1526396924174,2018.05.15 11:08:44.174,INFO,aiview_android,Camera2Fragment.closeCamera  (Camera2Fragment.java:447),Closing the camera.
+1526396924212,2018.05.15 11:08:44.212,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526396924236,2018.05.15 11:08:44.236,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526396924260,2018.05.15 11:08:44.260,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1526396924262,2018.05.15 11:08:44.262,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526396924300,2018.05.15 11:08:44.300,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526396924430,2018.05.15 11:08:44.430,INFO,aiview_android,Camera2Fragment$2.onClosed  (Camera2Fragment.java:248),Camera is successfully closed.
+1526396924431,2018.05.15 11:08:44.431,INFO,aiview_android,Camera2Fragment.stopBackgroundThread  (Camera2Fragment.java:360),Stopping background thread.
+1526396924433,2018.05.15 11:08:44.433,DEBUG,aiview_android,FlexibleTutorialVideoController.play  (FlexibleTutorialVideoController.java:238),Playing tutorial video --- /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/full_version_empty_mouth_order_0_numpill_0_total_0.mp4
+1526396924437,2018.05.15 11:08:44.437,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1526396924438,2018.05.15 11:08:44.438,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526396924503,2018.05.15 11:08:44.503,DEBUG,aiview_android,FlexibleTutorialVideoController$3.run  (FlexibleTutorialVideoController.java:280),Starting playing video --- 3 videoName: /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/full_version_empty_mouth_order_0_numpill_0_total_0.mp4
+1526396945214,2018.05.15 11:09:05.214,DEBUG,aiview_android,FlexibleTutorialVideoController$3$1.onComplete  (FlexibleTutorialVideoController.java:285),finishing playing tutorial video -- /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/full_version_empty_mouth_order_0_numpill_0_total_0.mp4
+1526396945234,2018.05.15 11:09:05.234,DEBUG,aiview_android,Camera2Fragment.startCamera  (Camera2Fragment.java:839),Should record video -- false
+1526396945320,2018.05.15 11:09:05.320,INFO,aiview_android,Camera2Fragment.openCamera  (Camera2Fragment.java:393),Openning the camera.
+1526396945327,2018.05.15 11:09:05.327,ERROR,aiview_android,Camera2Fragment.chooseOptimalSize  (Camera2Fragment.java:329),Couldn't find any suitable preview size
+1526396945329,2018.05.15 11:09:05.329,INFO,aiview_android,Camera2Fragment.openCamera  (Camera2Fragment.java:427),Camera should record video -- false
+1526396945389,2018.05.15 11:09:05.389,INFO,aiview_android,Camera2Fragment.startBackgroundThread  (Camera2Fragment.java:339),Starting background thread.
+1526396945410,2018.05.15 11:09:05.410,INFO,aiview_android,Camera2Fragment$2.onOpened  (Camera2Fragment.java:209),Camera is successfully opened.
+1526396945415,2018.05.15 11:09:05.415,INFO,aiview_android,StepsController.defineCurrentStep  (StepsController.java:755),Entering EMPTY_MOUTH step.
+1526396945663,2018.05.15 11:09:05.663,INFO,aiview_android,InCameraViewControllerV3.displayNormal  (InCameraViewControllerV3.java:253),display normal step :3 inCameraView true view android.widget.RelativeLayout{634f7ed G.E...... ......ID 0,0-1080,2220 #7f090272 app:id/silhouette_layout}
+1526396947298,2018.05.15 11:09:07.298,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :1
+1526396947484,2018.05.15 11:09:07.484,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :2
+1526396947609,2018.05.15 11:09:07.609,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :3
+1526396947729,2018.05.15 11:09:07.729,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :4
+1526396947838,2018.05.15 11:09:07.838,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :5
+1526396947838,2018.05.15 11:09:07.838,INFO,aiview_android,DetectorEMController.confidence  (DetectorEMController.java:235),Empty mouth is successfully detected.
+1526396947839,2018.05.15 11:09:07.839,INFO,aiview_android,DetectorEMController.confidence  (DetectorEMController.java:235),Empty mouth is successfully detected.
+1526396947854,2018.05.15 11:09:07.854,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:45),Audio playing flag -- true
+1526396947855,2018.05.15 11:09:07.855,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:46),Questionnaire in progress  -- false
+1526396947855,2018.05.15 11:09:07.855,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526396947856,2018.05.15 11:09:07.856,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:60),play audio: voice/confirm.mp3
+1526396949112,2018.05.15 11:09:09.112,INFO,aiview_android,StepsController$6.onComplete  (StepsController.java:1018),Current step completes.
+1526396949113,2018.05.15 11:09:09.113,INFO,aiview_android,StepsController.defineCurrentStep  (StepsController.java:939),Entering PILL_NOT_UNDER_THE_TONGUE step.
+1526396949114,2018.05.15 11:09:09.114,INFO,aiview_android,Camera2Fragment.stopCamera  (Camera2Fragment.java:867),Stopping camera.
+1526396949115,2018.05.15 11:09:09.115,INFO,aiview_android,Camera2Fragment.closeCamera  (Camera2Fragment.java:447),Closing the camera.
+1526396949126,2018.05.15 11:09:09.126,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526396949149,2018.05.15 11:09:09.149,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526396949198,2018.05.15 11:09:09.198,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526396949201,2018.05.15 11:09:09.201,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1526396949227,2018.05.15 11:09:09.227,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526396949256,2018.05.15 11:09:09.256,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526396949390,2018.05.15 11:09:09.390,INFO,aiview_android,Camera2Fragment$2.onClosed  (Camera2Fragment.java:248),Camera is successfully closed.
+1526396949391,2018.05.15 11:09:09.391,INFO,aiview_android,Camera2Fragment.stopBackgroundThread  (Camera2Fragment.java:360),Stopping background thread.
+1526396949394,2018.05.15 11:09:09.394,DEBUG,aiview_android,FlexibleTutorialVideoController.play  (FlexibleTutorialVideoController.java:238),Playing tutorial video --- /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/full_version_pill_not_under_the_tongue_order_0_numpill_0_total_0.mp4
+1526396949396,2018.05.15 11:09:09.396,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1526396949398,2018.05.15 11:09:09.398,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526396949456,2018.05.15 11:09:09.456,DEBUG,aiview_android,FlexibleTutorialVideoController$3.run  (FlexibleTutorialVideoController.java:280),Starting playing video --- 9 videoName: /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/full_version_pill_not_under_the_tongue_order_0_numpill_0_total_0.mp4
+1526396968359,2018.05.15 11:09:28.359,DEBUG,aiview_android,FlexibleTutorialVideoController$3$1.onComplete  (FlexibleTutorialVideoController.java:285),finishing playing tutorial video -- /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/full_version_pill_not_under_the_tongue_order_0_numpill_0_total_0.mp4
+1526396968370,2018.05.15 11:09:28.370,DEBUG,aiview_android,Camera2Fragment.startCamera  (Camera2Fragment.java:839),Should record video -- false
+1526396968453,2018.05.15 11:09:28.453,INFO,aiview_android,Camera2Fragment.openCamera  (Camera2Fragment.java:393),Openning the camera.
+1526396968458,2018.05.15 11:09:28.458,ERROR,aiview_android,Camera2Fragment.chooseOptimalSize  (Camera2Fragment.java:329),Couldn't find any suitable preview size
+1526396968461,2018.05.15 11:09:28.461,INFO,aiview_android,Camera2Fragment.openCamera  (Camera2Fragment.java:427),Camera should record video -- false
+1526396968518,2018.05.15 11:09:28.518,INFO,aiview_android,Camera2Fragment.startBackgroundThread  (Camera2Fragment.java:339),Starting background thread.
+1526396968531,2018.05.15 11:09:28.531,INFO,aiview_android,Camera2Fragment$2.onOpened  (Camera2Fragment.java:209),Camera is successfully opened.
+1526396968532,2018.05.15 11:09:28.532,INFO,aiview_android,StepsController.defineCurrentStep  (StepsController.java:939),Entering PILL_NOT_UNDER_THE_TONGUE step.
+1526396968781,2018.05.15 11:09:28.781,INFO,aiview_android,InCameraViewControllerV3.displayNormal  (InCameraViewControllerV3.java:253),display normal step :9 inCameraView true view android.widget.RelativeLayout{634f7ed G.E...... ......ID 0,0-1080,2220 #7f090272 app:id/silhouette_layout}
+1526396973985,2018.05.15 11:09:33.985,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :1
+1526396974074,2018.05.15 11:09:34.074,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :2
+1526396974181,2018.05.15 11:09:34.181,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :3
+1526396974281,2018.05.15 11:09:34.281,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :4
+1526396974378,2018.05.15 11:09:34.378,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :5
+1526396974379,2018.05.15 11:09:34.379,INFO,aiview_android,DetectorEMController.confidence  (DetectorEMController.java:235),Empty mouth is successfully detected.
+1526396974380,2018.05.15 11:09:34.380,INFO,aiview_android,DetectorEMController.confidence  (DetectorEMController.java:235),Empty mouth is successfully detected.
+1526396974405,2018.05.15 11:09:34.405,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:45),Audio playing flag -- true
+1526396974405,2018.05.15 11:09:34.405,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:46),Questionnaire in progress  -- false
+1526396974406,2018.05.15 11:09:34.406,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526396974407,2018.05.15 11:09:34.407,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:60),play audio: voice/confirm.mp3
+1526396975674,2018.05.15 11:09:35.674,INFO,aiview_android,StepsController$6.onComplete  (StepsController.java:1018),Current step completes.
+1526396975698,2018.05.15 11:09:35.698,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1526396975699,2018.05.15 11:09:35.699,INFO,aiview_android,Camera2Fragment.stopCamera  (Camera2Fragment.java:867),Stopping camera.
+1526396975700,2018.05.15 11:09:35.700,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1526396975701,2018.05.15 11:09:35.701,INFO,aiview_android,Camera2Fragment.closeCamera  (Camera2Fragment.java:447),Closing the camera.
+1526396975720,2018.05.15 11:09:35.720,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526396975737,2018.05.15 11:09:35.737,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526396975766,2018.05.15 11:09:35.766,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526396975800,2018.05.15 11:09:35.800,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526396975834,2018.05.15 11:09:35.834,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526396975976,2018.05.15 11:09:35.976,INFO,aiview_android,Camera2Fragment$2.onClosed  (Camera2Fragment.java:248),Camera is successfully closed.
+1526396975977,2018.05.15 11:09:35.977,INFO,aiview_android,Camera2Fragment.stopBackgroundThread  (Camera2Fragment.java:360),Stopping background thread.
+1526396975977,2018.05.15 11:09:35.977,INFO,aiview_android,InCameraViewControllerV3.cleanMemory  (InCameraViewControllerV3.java:430),Clear all camera views including animations and instructions.
+1526396976018,2018.05.15 11:09:36.018,INFO,aiview_android,Camera2Fragment.stopCamera  (Camera2Fragment.java:867),Stopping camera.
+1526396976020,2018.05.15 11:09:36.020,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1526396976021,2018.05.15 11:09:36.021,INFO,aiview_android,Camera2Fragment.closeCamera  (Camera2Fragment.java:447),Closing the camera.
+1526396976024,2018.05.15 11:09:36.024,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526396999297,2018.05.15 11:09:59.297,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526396999300,2018.05.15 11:09:59.300,ERROR,aiview_android,DNNConfigManager.updateMedication  (DNNConfigManager.java:77),config for DNN is null
+1526396999300,2018.05.15 11:09:59.300,ERROR,aiview_android,DNNConfigManager.updateMedication  (DNNConfigManager.java:77),config for DNN is null
+1526397000988,2018.05.15 11:10:00.988,INFO,aiview_android,Camera2Fragment.stopCamera  (Camera2Fragment.java:867),Stopping camera.
+1526397000989,2018.05.15 11:10:00.989,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1526397000990,2018.05.15 11:10:00.990,INFO,aiview_android,Camera2Fragment.closeCamera  (Camera2Fragment.java:447),Closing the camera.
+1526397000992,2018.05.15 11:10:00.992,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1526397000993,2018.05.15 11:10:00.993,DEBUG,aiview_android,FlexibleTutorialVideoController.play  (FlexibleTutorialVideoController.java:238),Playing tutorial video --- /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/short_version_face_identification_order_0_numpill_0_total_0.mp4
+1526397000996,2018.05.15 11:10:00.996,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397000998,2018.05.15 11:10:00.998,DEBUG,aiview_android,FlexibleTutorialVideoController$3.run  (FlexibleTutorialVideoController.java:280),Starting playing video --- 0 videoName: /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/short_version_face_identification_order_0_numpill_0_total_0.mp4
+1526397023704,2018.05.15 11:10:23.704,DEBUG,aiview_android,FlexibleTutorialVideoController$3$1.onComplete  (FlexibleTutorialVideoController.java:285),finishing playing tutorial video -- /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/short_version_face_identification_order_0_numpill_0_total_0.mp4
+1526397023718,2018.05.15 11:10:23.718,DEBUG,aiview_android,Camera2Fragment.startCamera  (Camera2Fragment.java:839),Should record video -- false
+1526397023814,2018.05.15 11:10:23.814,INFO,aiview_android,Camera2Fragment.startBackgroundThread  (Camera2Fragment.java:339),Starting background thread.
+1526397023827,2018.05.15 11:10:23.827,INFO,aiview_android,Camera2Fragment.openCamera  (Camera2Fragment.java:393),Openning the camera.
+1526397023831,2018.05.15 11:10:23.831,ERROR,aiview_android,Camera2Fragment.chooseOptimalSize  (Camera2Fragment.java:329),Couldn't find any suitable preview size
+1526397023833,2018.05.15 11:10:23.833,INFO,aiview_android,Camera2Fragment.openCamera  (Camera2Fragment.java:427),Camera should record video -- false
+1526397023898,2018.05.15 11:10:23.898,INFO,aiview_android,Camera2Fragment$2.onOpened  (Camera2Fragment.java:209),Camera is successfully opened.
+1526397023906,2018.05.15 11:10:23.906,INFO,aiview_android,StepsController.defineCurrentStep  (StepsController.java:579),Entering FACE_ID step.
+1526397024164,2018.05.15 11:10:24.164,INFO,aiview_android,InCameraViewControllerV3.displayNormal  (InCameraViewControllerV3.java:253),display normal step :0 inCameraView true view android.widget.RelativeLayout{634f7ed G.E...... ......ID 0,0-1080,2220 #7f090272 app:id/silhouette_layout}
+1526397036408,2018.05.15 11:10:36.408,INFO,aiview_android,InCameraViewControllerV3.displayError  (InCameraViewControllerV3.java:187),Display error animation.
+1526397036506,2018.05.15 11:10:36.506,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:45),Audio playing flag -- true
+1526397036507,2018.05.15 11:10:36.507,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:46),Questionnaire in progress  -- false
+1526397036507,2018.05.15 11:10:36.507,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397036508,2018.05.15 11:10:36.508,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:60),play audio: voice/C8_9_Device_Position_Error.mp3
+1526397036743,2018.05.15 11:10:36.743,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:45),Audio playing flag -- true
+1526397036745,2018.05.15 11:10:36.745,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:46),Questionnaire in progress  -- false
+1526397036749,2018.05.15 11:10:36.749,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397036816,2018.05.15 11:10:36.816,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:60),play audio: voice/confirm.mp3
+1526397039495,2018.05.15 11:10:39.495,INFO,aiview_android,StepsController$6.onComplete  (StepsController.java:1018),Current step completes.
+1526397039496,2018.05.15 11:10:39.496,INFO,aiview_android,StepsController.defineCurrentStep  (StepsController.java:601),Entering PILL_ID step.
+1526397039499,2018.05.15 11:10:39.499,INFO,aiview_android,Camera2Fragment.stopCamera  (Camera2Fragment.java:867),Stopping camera.
+1526397039500,2018.05.15 11:10:39.500,INFO,aiview_android,Camera2Fragment.closeCamera  (Camera2Fragment.java:447),Closing the camera.
+1526397039523,2018.05.15 11:10:39.523,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526397039546,2018.05.15 11:10:39.546,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526397039569,2018.05.15 11:10:39.569,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1526397039582,2018.05.15 11:10:39.582,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526397039622,2018.05.15 11:10:39.622,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526397039752,2018.05.15 11:10:39.752,INFO,aiview_android,Camera2Fragment$2.onClosed  (Camera2Fragment.java:248),Camera is successfully closed.
+1526397039754,2018.05.15 11:10:39.754,INFO,aiview_android,Camera2Fragment.stopBackgroundThread  (Camera2Fragment.java:360),Stopping background thread.
+1526397039755,2018.05.15 11:10:39.755,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1526397039757,2018.05.15 11:10:39.757,DEBUG,aiview_android,FlexibleTutorialVideoController.play  (FlexibleTutorialVideoController.java:238),Playing tutorial video --- /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/full_version_pill_identification_order_0_numpill_0_total_0.mp4
+1526397039758,2018.05.15 11:10:39.758,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397039798,2018.05.15 11:10:39.798,DEBUG,aiview_android,FlexibleTutorialVideoController$3.run  (FlexibleTutorialVideoController.java:280),Starting playing video --- 1 videoName: /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/full_version_pill_identification_order_0_numpill_0_total_0.mp4
+1526397064854,2018.05.15 11:11:04.854,DEBUG,aiview_android,FlexibleTutorialVideoController$3$1.onComplete  (FlexibleTutorialVideoController.java:285),finishing playing tutorial video -- /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/full_version_pill_identification_order_0_numpill_0_total_0.mp4
+1526397064875,2018.05.15 11:11:04.875,DEBUG,aiview_android,Camera2Fragment.startCamera  (Camera2Fragment.java:839),Should record video -- false
+1526397064965,2018.05.15 11:11:04.965,INFO,aiview_android,Camera2Fragment.openCamera  (Camera2Fragment.java:393),Openning the camera.
+1526397064971,2018.05.15 11:11:04.971,ERROR,aiview_android,Camera2Fragment.chooseOptimalSize  (Camera2Fragment.java:329),Couldn't find any suitable preview size
+1526397064975,2018.05.15 11:11:04.975,INFO,aiview_android,Camera2Fragment.openCamera  (Camera2Fragment.java:427),Camera should record video -- false
+1526397065031,2018.05.15 11:11:05.031,INFO,aiview_android,Camera2Fragment.startBackgroundThread  (Camera2Fragment.java:339),Starting background thread.
+1526397065051,2018.05.15 11:11:05.051,INFO,aiview_android,Camera2Fragment$2.onOpened  (Camera2Fragment.java:209),Camera is successfully opened.
+1526397065056,2018.05.15 11:11:05.056,INFO,aiview_android,StepsController.defineCurrentStep  (StepsController.java:601),Entering PILL_ID step.
+1526397065284,2018.05.15 11:11:05.284,INFO,aiview_android,InCameraViewControllerV3.displayNormal  (InCameraViewControllerV3.java:253),display normal step :1 inCameraView true view android.widget.RelativeLayout{634f7ed G.E...... ......ID 0,0-1080,2220 #7f090272 app:id/silhouette_layout}
+1526397071843,2018.05.15 11:11:11.843,INFO,aiview_android,DetectorPillController.run  (DetectorPillController.java:121),Pill id is successfully detected.
+1526397071872,2018.05.15 11:11:11.872,INFO,aiview_android,DetectorPillController.run  (DetectorPillController.java:121),Pill id is successfully detected.
+1526397071908,2018.05.15 11:11:11.908,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:45),Audio playing flag -- true
+1526397071909,2018.05.15 11:11:11.909,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:46),Questionnaire in progress  -- false
+1526397071909,2018.05.15 11:11:11.909,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397071913,2018.05.15 11:11:11.913,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:60),play audio: voice/confirm.mp3
+1526397073164,2018.05.15 11:11:13.164,INFO,aiview_android,StepsController$6.onComplete  (StepsController.java:1018),Current step completes.
+1526397073165,2018.05.15 11:11:13.165,INFO,aiview_android,StepsController.defineCurrentStep  (StepsController.java:672),Entering PILL_IN_MOUTH step.
+1526397073167,2018.05.15 11:11:13.167,INFO,aiview_android,Camera2Fragment.stopCamera  (Camera2Fragment.java:867),Stopping camera.
+1526397073168,2018.05.15 11:11:13.168,INFO,aiview_android,Camera2Fragment.closeCamera  (Camera2Fragment.java:447),Closing the camera.
+1526397073183,2018.05.15 11:11:13.183,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526397073215,2018.05.15 11:11:13.215,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526397073217,2018.05.15 11:11:13.217,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1526397073251,2018.05.15 11:11:13.251,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526397073282,2018.05.15 11:11:13.282,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526397073418,2018.05.15 11:11:13.418,INFO,aiview_android,Camera2Fragment$2.onClosed  (Camera2Fragment.java:248),Camera is successfully closed.
+1526397073419,2018.05.15 11:11:13.419,INFO,aiview_android,Camera2Fragment.stopBackgroundThread  (Camera2Fragment.java:360),Stopping background thread.
+1526397073421,2018.05.15 11:11:13.421,DEBUG,aiview_android,FlexibleTutorialVideoController.play  (FlexibleTutorialVideoController.java:238),Playing tutorial video --- /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/full_version_pill_in_mouth_order_0_numpill_0_total_0.mp4
+1526397073422,2018.05.15 11:11:13.422,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1526397073423,2018.05.15 11:11:13.423,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397073472,2018.05.15 11:11:13.472,DEBUG,aiview_android,FlexibleTutorialVideoController$3.run  (FlexibleTutorialVideoController.java:280),Starting playing video --- 2 videoName: /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/full_version_pill_in_mouth_order_0_numpill_0_total_0.mp4
+1526397094892,2018.05.15 11:11:34.892,DEBUG,aiview_android,FlexibleTutorialVideoController$3$1.onComplete  (FlexibleTutorialVideoController.java:285),finishing playing tutorial video -- /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/full_version_pill_in_mouth_order_0_numpill_0_total_0.mp4
+1526397094913,2018.05.15 11:11:34.913,DEBUG,aiview_android,Camera2Fragment.startCamera  (Camera2Fragment.java:839),Should record video -- false
+1526397095001,2018.05.15 11:11:35.001,INFO,aiview_android,Camera2Fragment.openCamera  (Camera2Fragment.java:393),Openning the camera.
+1526397095006,2018.05.15 11:11:35.006,ERROR,aiview_android,Camera2Fragment.chooseOptimalSize  (Camera2Fragment.java:329),Couldn't find any suitable preview size
+1526397095009,2018.05.15 11:11:35.009,INFO,aiview_android,Camera2Fragment.openCamera  (Camera2Fragment.java:427),Camera should record video -- false
+1526397095066,2018.05.15 11:11:35.066,INFO,aiview_android,Camera2Fragment.startBackgroundThread  (Camera2Fragment.java:339),Starting background thread.
+1526397095083,2018.05.15 11:11:35.083,INFO,aiview_android,Camera2Fragment$2.onOpened  (Camera2Fragment.java:209),Camera is successfully opened.
+1526397095091,2018.05.15 11:11:35.091,INFO,aiview_android,StepsController.defineCurrentStep  (StepsController.java:672),Entering PILL_IN_MOUTH step.
+1526397095343,2018.05.15 11:11:35.343,INFO,aiview_android,InCameraViewControllerV3.displayNormal  (InCameraViewControllerV3.java:253),display normal step :2 inCameraView true view android.widget.RelativeLayout{634f7ed G.E...... ......ID 0,0-1080,2220 #7f090272 app:id/silhouette_layout}
+1526397100840,2018.05.15 11:11:40.840,INFO,aiview_android,DetectorPIMController.run  (DetectorPIMController.java:154),Pill in mouth is successfully detected.
+1526397100994,2018.05.15 11:11:40.994,INFO,aiview_android,DetectorPIMController.run  (DetectorPIMController.java:154),Pill in mouth is successfully detected.
+1526397101011,2018.05.15 11:11:41.011,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:45),Audio playing flag -- true
+1526397101011,2018.05.15 11:11:41.011,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:46),Questionnaire in progress  -- false
+1526397101012,2018.05.15 11:11:41.012,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397101013,2018.05.15 11:11:41.013,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:60),play audio: voice/confirm.mp3
+1526397102249,2018.05.15 11:11:42.249,INFO,aiview_android,StepsController$6.onComplete  (StepsController.java:1018),Current step completes.
+1526397102249,2018.05.15 11:11:42.249,INFO,aiview_android,StepsController.defineCurrentStep  (StepsController.java:755),Entering EMPTY_MOUTH step.
+1526397102251,2018.05.15 11:11:42.251,INFO,aiview_android,Camera2Fragment.stopCamera  (Camera2Fragment.java:867),Stopping camera.
+1526397102252,2018.05.15 11:11:42.252,INFO,aiview_android,Camera2Fragment.closeCamera  (Camera2Fragment.java:447),Closing the camera.
+1526397102273,2018.05.15 11:11:42.273,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526397102308,2018.05.15 11:11:42.308,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526397102335,2018.05.15 11:11:42.335,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1526397102341,2018.05.15 11:11:42.341,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526397102378,2018.05.15 11:11:42.378,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526397102513,2018.05.15 11:11:42.513,INFO,aiview_android,Camera2Fragment$2.onClosed  (Camera2Fragment.java:248),Camera is successfully closed.
+1526397102514,2018.05.15 11:11:42.514,INFO,aiview_android,Camera2Fragment.stopBackgroundThread  (Camera2Fragment.java:360),Stopping background thread.
+1526397102515,2018.05.15 11:11:42.515,DEBUG,aiview_android,FlexibleTutorialVideoController.play  (FlexibleTutorialVideoController.java:238),Playing tutorial video --- /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/full_version_empty_mouth_order_0_numpill_0_total_0.mp4
+1526397102518,2018.05.15 11:11:42.518,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1526397102519,2018.05.15 11:11:42.519,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397102556,2018.05.15 11:11:42.556,DEBUG,aiview_android,FlexibleTutorialVideoController$3.run  (FlexibleTutorialVideoController.java:280),Starting playing video --- 3 videoName: /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/full_version_empty_mouth_order_0_numpill_0_total_0.mp4
+1526397123255,2018.05.15 11:12:03.255,DEBUG,aiview_android,FlexibleTutorialVideoController$3$1.onComplete  (FlexibleTutorialVideoController.java:285),finishing playing tutorial video -- /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/full_version_empty_mouth_order_0_numpill_0_total_0.mp4
+1526397123273,2018.05.15 11:12:03.273,DEBUG,aiview_android,Camera2Fragment.startCamera  (Camera2Fragment.java:839),Should record video -- false
+1526397123340,2018.05.15 11:12:03.340,INFO,aiview_android,Camera2Fragment.openCamera  (Camera2Fragment.java:393),Openning the camera.
+1526397123344,2018.05.15 11:12:03.344,ERROR,aiview_android,Camera2Fragment.chooseOptimalSize  (Camera2Fragment.java:329),Couldn't find any suitable preview size
+1526397123347,2018.05.15 11:12:03.347,INFO,aiview_android,Camera2Fragment.openCamera  (Camera2Fragment.java:427),Camera should record video -- false
+1526397123399,2018.05.15 11:12:03.399,INFO,aiview_android,Camera2Fragment.startBackgroundThread  (Camera2Fragment.java:339),Starting background thread.
+1526397123415,2018.05.15 11:12:03.415,INFO,aiview_android,Camera2Fragment$2.onOpened  (Camera2Fragment.java:209),Camera is successfully opened.
+1526397123419,2018.05.15 11:12:03.419,INFO,aiview_android,StepsController.defineCurrentStep  (StepsController.java:755),Entering EMPTY_MOUTH step.
+1526397123665,2018.05.15 11:12:03.665,INFO,aiview_android,InCameraViewControllerV3.displayNormal  (InCameraViewControllerV3.java:253),display normal step :3 inCameraView true view android.widget.RelativeLayout{634f7ed G.E...... ......ID 0,0-1080,2220 #7f090272 app:id/silhouette_layout}
+1526397128060,2018.05.15 11:12:08.060,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :1
+1526397128161,2018.05.15 11:12:08.161,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :2
+1526397128271,2018.05.15 11:12:08.271,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :3
+1526397128370,2018.05.15 11:12:08.370,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :4
+1526397128483,2018.05.15 11:12:08.483,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :5
+1526397128483,2018.05.15 11:12:08.483,INFO,aiview_android,DetectorEMController.confidence  (DetectorEMController.java:235),Empty mouth is successfully detected.
+1526397128484,2018.05.15 11:12:08.484,INFO,aiview_android,DetectorEMController.confidence  (DetectorEMController.java:235),Empty mouth is successfully detected.
+1526397128495,2018.05.15 11:12:08.495,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:45),Audio playing flag -- true
+1526397128495,2018.05.15 11:12:08.495,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:46),Questionnaire in progress  -- false
+1526397128496,2018.05.15 11:12:08.496,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397128497,2018.05.15 11:12:08.497,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:60),play audio: voice/confirm.mp3
+1526397129718,2018.05.15 11:12:09.718,INFO,aiview_android,StepsController$6.onComplete  (StepsController.java:1018),Current step completes.
+1526397129719,2018.05.15 11:12:09.719,INFO,aiview_android,StepsController.defineCurrentStep  (StepsController.java:939),Entering PILL_NOT_UNDER_THE_TONGUE step.
+1526397129720,2018.05.15 11:12:09.720,INFO,aiview_android,Camera2Fragment.stopCamera  (Camera2Fragment.java:867),Stopping camera.
+1526397129721,2018.05.15 11:12:09.721,INFO,aiview_android,Camera2Fragment.closeCamera  (Camera2Fragment.java:447),Closing the camera.
+1526397129744,2018.05.15 11:12:09.744,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526397129745,2018.05.15 11:12:09.745,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1526397129779,2018.05.15 11:12:09.779,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526397129815,2018.05.15 11:12:09.815,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526397129846,2018.05.15 11:12:09.846,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526397129943,2018.05.15 11:12:09.943,INFO,aiview_android,Camera2Fragment$2.onClosed  (Camera2Fragment.java:248),Camera is successfully closed.
+1526397129944,2018.05.15 11:12:09.944,INFO,aiview_android,Camera2Fragment.stopBackgroundThread  (Camera2Fragment.java:360),Stopping background thread.
+1526397129945,2018.05.15 11:12:09.945,DEBUG,aiview_android,FlexibleTutorialVideoController.play  (FlexibleTutorialVideoController.java:238),Playing tutorial video --- /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/full_version_pill_not_under_the_tongue_order_0_numpill_0_total_0.mp4
+1526397129945,2018.05.15 11:12:09.945,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1526397129946,2018.05.15 11:12:09.946,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397129969,2018.05.15 11:12:09.969,DEBUG,aiview_android,FlexibleTutorialVideoController$3.run  (FlexibleTutorialVideoController.java:280),Starting playing video --- 9 videoName: /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/full_version_pill_not_under_the_tongue_order_0_numpill_0_total_0.mp4
+1526397148840,2018.05.15 11:12:28.840,DEBUG,aiview_android,FlexibleTutorialVideoController$3$1.onComplete  (FlexibleTutorialVideoController.java:285),finishing playing tutorial video -- /storage/emulated/0/Android/data/com.aicure.aiview.clinical.master.mobile/tutorial_video_tablet/oral_pill/en/full_version_pill_not_under_the_tongue_order_0_numpill_0_total_0.mp4
+1526397148850,2018.05.15 11:12:28.850,DEBUG,aiview_android,Camera2Fragment.startCamera  (Camera2Fragment.java:839),Should record video -- false
+1526397148935,2018.05.15 11:12:28.935,INFO,aiview_android,Camera2Fragment.openCamera  (Camera2Fragment.java:393),Openning the camera.
+1526397148941,2018.05.15 11:12:28.941,ERROR,aiview_android,Camera2Fragment.chooseOptimalSize  (Camera2Fragment.java:329),Couldn't find any suitable preview size
+1526397148944,2018.05.15 11:12:28.944,INFO,aiview_android,Camera2Fragment.openCamera  (Camera2Fragment.java:427),Camera should record video -- false
+1526397149000,2018.05.15 11:12:29.000,INFO,aiview_android,Camera2Fragment.startBackgroundThread  (Camera2Fragment.java:339),Starting background thread.
+1526397149020,2018.05.15 11:12:29.020,INFO,aiview_android,Camera2Fragment$2.onOpened  (Camera2Fragment.java:209),Camera is successfully opened.
+1526397149026,2018.05.15 11:12:29.026,INFO,aiview_android,StepsController.defineCurrentStep  (StepsController.java:939),Entering PILL_NOT_UNDER_THE_TONGUE step.
+1526397149279,2018.05.15 11:12:29.279,INFO,aiview_android,InCameraViewControllerV3.displayNormal  (InCameraViewControllerV3.java:253),display normal step :9 inCameraView true view android.widget.RelativeLayout{634f7ed G.E...... ......ID 0,0-1080,2220 #7f090272 app:id/silhouette_layout}
+1526397151023,2018.05.15 11:12:31.023,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :1
+1526397151112,2018.05.15 11:12:31.112,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :2
+1526397151226,2018.05.15 11:12:31.226,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :3
+1526397151352,2018.05.15 11:12:31.352,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :4
+1526397151448,2018.05.15 11:12:31.448,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :5
+1526397151448,2018.05.15 11:12:31.448,INFO,aiview_android,DetectorEMController.confidence  (DetectorEMController.java:235),Empty mouth is successfully detected.
+1526397151449,2018.05.15 11:12:31.449,INFO,aiview_android,DetectorEMController.confidence  (DetectorEMController.java:235),Empty mouth is successfully detected.
+1526397151467,2018.05.15 11:12:31.467,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:45),Audio playing flag -- true
+1526397151468,2018.05.15 11:12:31.468,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:46),Questionnaire in progress  -- false
+1526397151468,2018.05.15 11:12:31.468,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397151469,2018.05.15 11:12:31.469,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:60),play audio: voice/confirm.mp3
+1526397152684,2018.05.15 11:12:32.684,INFO,aiview_android,StepsController$6.onComplete  (StepsController.java:1018),Current step completes.
+1526397152706,2018.05.15 11:12:32.706,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1526397152706,2018.05.15 11:12:32.706,INFO,aiview_android,Camera2Fragment.stopCamera  (Camera2Fragment.java:867),Stopping camera.
+1526397152707,2018.05.15 11:12:32.707,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1526397152707,2018.05.15 11:12:32.707,INFO,aiview_android,Camera2Fragment.closeCamera  (Camera2Fragment.java:447),Closing the camera.
+1526397152711,2018.05.15 11:12:32.711,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526397152734,2018.05.15 11:12:32.734,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526397152768,2018.05.15 11:12:32.768,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526397152801,2018.05.15 11:12:32.801,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526397152833,2018.05.15 11:12:32.833,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526397152977,2018.05.15 11:12:32.977,INFO,aiview_android,Camera2Fragment$2.onClosed  (Camera2Fragment.java:248),Camera is successfully closed.
+1526397152978,2018.05.15 11:12:32.978,INFO,aiview_android,Camera2Fragment.stopBackgroundThread  (Camera2Fragment.java:360),Stopping background thread.
+1526397152978,2018.05.15 11:12:32.978,INFO,aiview_android,InCameraViewControllerV3.cleanMemory  (InCameraViewControllerV3.java:430),Clear all camera views including animations and instructions.
+1526397153019,2018.05.15 11:12:33.019,INFO,aiview_android,Camera2Fragment.stopCamera  (Camera2Fragment.java:867),Stopping camera.
+1526397153020,2018.05.15 11:12:33.020,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1526397153021,2018.05.15 11:12:33.021,INFO,aiview_android,Camera2Fragment.closeCamera  (Camera2Fragment.java:447),Closing the camera.
+1526397153022,2018.05.15 11:12:33.022,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397153734,2018.05.15 11:12:33.734,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397153737,2018.05.15 11:12:33.737,ERROR,aiview_android,DNNConfigManager.updateMedication  (DNNConfigManager.java:77),config for DNN is null
+1526397153738,2018.05.15 11:12:33.738,ERROR,aiview_android,DNNConfigManager.updateMedication  (DNNConfigManager.java:77),config for DNN is null
+1526397155415,2018.05.15 11:12:35.415,DEBUG,aiview_android,Camera2Fragment.startCamera  (Camera2Fragment.java:839),Should record video -- false
+1526397155420,2018.05.15 11:12:35.420,INFO,aiview_android,Camera2Fragment.startBackgroundThread  (Camera2Fragment.java:339),Starting background thread.
+1526397155430,2018.05.15 11:12:35.430,INFO,aiview_android,Camera2Fragment.openCamera  (Camera2Fragment.java:393),Openning the camera.
+1526397155434,2018.05.15 11:12:35.434,ERROR,aiview_android,Camera2Fragment.chooseOptimalSize  (Camera2Fragment.java:329),Couldn't find any suitable preview size
+1526397155437,2018.05.15 11:12:35.437,INFO,aiview_android,Camera2Fragment.openCamera  (Camera2Fragment.java:427),Camera should record video -- false
+1526397155534,2018.05.15 11:12:35.534,INFO,aiview_android,Camera2Fragment$2.onOpened  (Camera2Fragment.java:209),Camera is successfully opened.
+1526397155539,2018.05.15 11:12:35.539,INFO,aiview_android,StepsController.defineCurrentStep  (StepsController.java:579),Entering FACE_ID step.
+1526397155778,2018.05.15 11:12:35.778,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:45),Audio playing flag -- true
+1526397155779,2018.05.15 11:12:35.779,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:46),Questionnaire in progress  -- false
+1526397155779,2018.05.15 11:12:35.779,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397155780,2018.05.15 11:12:35.780,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:60),play audio: voice/D_3_1_Head_in_Outline.mp3
+1526397155871,2018.05.15 11:12:35.871,INFO,aiview_android,InCameraViewControllerV3.displayNormal  (InCameraViewControllerV3.java:253),display normal step :0 inCameraView true view android.widget.RelativeLayout{634f7ed G.E...... ......ID 0,0-1080,2220 #7f090272 app:id/silhouette_layout}
+1526397156034,2018.05.15 11:12:36.034,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:45),Audio playing flag -- true
+1526397156035,2018.05.15 11:12:36.035,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:46),Questionnaire in progress  -- false
+1526397156035,2018.05.15 11:12:36.035,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397156079,2018.05.15 11:12:36.079,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:60),play audio: voice/confirm.mp3
+1526397158712,2018.05.15 11:12:38.712,INFO,aiview_android,StepsController$6.onComplete  (StepsController.java:1018),Current step completes.
+1526397158713,2018.05.15 11:12:38.713,INFO,aiview_android,StepsController.defineCurrentStep  (StepsController.java:601),Entering PILL_ID step.
+1526397158741,2018.05.15 11:12:38.741,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:45),Audio playing flag -- true
+1526397158742,2018.05.15 11:12:38.742,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:46),Questionnaire in progress  -- false
+1526397158742,2018.05.15 11:12:38.742,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397158792,2018.05.15 11:12:38.792,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:60),play audio: voice/D_3_10_Show_Pill_(New).mp3
+1526397158934,2018.05.15 11:12:38.934,INFO,aiview_android,DetectorPillController.run  (DetectorPillController.java:121),Pill id is successfully detected.
+1526397158936,2018.05.15 11:12:38.936,INFO,aiview_android,InCameraViewControllerV3.displayNormal  (InCameraViewControllerV3.java:253),display normal step :1 inCameraView true view android.widget.RelativeLayout{634f7ed G.E...... ......ID 0,0-1080,2220 #7f090272 app:id/silhouette_layout}
+1526397159014,2018.05.15 11:12:39.014,INFO,aiview_android,DetectorPillController.run  (DetectorPillController.java:121),Pill id is successfully detected.
+1526397159058,2018.05.15 11:12:39.058,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:45),Audio playing flag -- true
+1526397159059,2018.05.15 11:12:39.059,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:46),Questionnaire in progress  -- false
+1526397159059,2018.05.15 11:12:39.059,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397159112,2018.05.15 11:12:39.112,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:60),play audio: voice/confirm.mp3
+1526397160357,2018.05.15 11:12:40.357,INFO,aiview_android,StepsController$6.onComplete  (StepsController.java:1018),Current step completes.
+1526397160358,2018.05.15 11:12:40.358,INFO,aiview_android,StepsController.defineCurrentStep  (StepsController.java:672),Entering PILL_IN_MOUTH step.
+1526397160383,2018.05.15 11:12:40.383,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:45),Audio playing flag -- true
+1526397160384,2018.05.15 11:12:40.384,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:46),Questionnaire in progress  -- false
+1526397160384,2018.05.15 11:12:40.384,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397160427,2018.05.15 11:12:40.427,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:60),play audio: voice/D_3_3_PIM.mp3
+1526397160593,2018.05.15 11:12:40.593,INFO,aiview_android,InCameraViewControllerV3.displayNormal  (InCameraViewControllerV3.java:253),display normal step :2 inCameraView true view android.widget.RelativeLayout{634f7ed G.E...... ......ID 0,0-1080,2220 #7f090272 app:id/silhouette_layout}
+1526397160748,2018.05.15 11:12:40.748,INFO,aiview_android,DetectorPIMController.run  (DetectorPIMController.java:154),Pill in mouth is successfully detected.
+1526397160870,2018.05.15 11:12:40.870,INFO,aiview_android,DetectorPIMController.run  (DetectorPIMController.java:154),Pill in mouth is successfully detected.
+1526397160962,2018.05.15 11:12:40.962,INFO,aiview_android,DetectorPIMController.run  (DetectorPIMController.java:154),Pill in mouth is successfully detected.
+1526397160998,2018.05.15 11:12:40.998,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:45),Audio playing flag -- true
+1526397160998,2018.05.15 11:12:40.998,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:46),Questionnaire in progress  -- false
+1526397160998,2018.05.15 11:12:40.998,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397161045,2018.05.15 11:12:41.045,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:60),play audio: voice/confirm.mp3
+1526397162310,2018.05.15 11:12:42.310,INFO,aiview_android,StepsController$6.onComplete  (StepsController.java:1018),Current step completes.
+1526397162311,2018.05.15 11:12:42.311,INFO,aiview_android,StepsController.defineCurrentStep  (StepsController.java:755),Entering EMPTY_MOUTH step.
+1526397162331,2018.05.15 11:12:42.331,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:45),Audio playing flag -- true
+1526397162331,2018.05.15 11:12:42.331,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:46),Questionnaire in progress  -- false
+1526397162332,2018.05.15 11:12:42.332,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397162384,2018.05.15 11:12:42.384,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:60),play audio: voice/D_3_4_Swallow.mp3
+1526397162446,2018.05.15 11:12:42.446,INFO,aiview_android,InCameraViewControllerV3.displayPreInstruction  (InCameraViewControllerV3.java:115),Display pre instruction
+1526397165564,2018.05.15 11:12:45.564,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:45),Audio playing flag -- true
+1526397165565,2018.05.15 11:12:45.565,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:46),Questionnaire in progress  -- false
+1526397165565,2018.05.15 11:12:45.565,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397165605,2018.05.15 11:12:45.605,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:60),play audio: voice/D_3_5_EM.mp3
+1526397165816,2018.05.15 11:12:45.816,INFO,aiview_android,InCameraViewControllerV3.displayNormal  (InCameraViewControllerV3.java:253),display normal step :3 inCameraView true view android.widget.RelativeLayout{634f7ed V.E...... ........ 0,0-1080,2220 #7f090272 app:id/silhouette_layout}
+1526397166518,2018.05.15 11:12:46.518,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :1
+1526397166587,2018.05.15 11:12:46.587,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :2
+1526397166653,2018.05.15 11:12:46.653,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :3
+1526397166757,2018.05.15 11:12:46.757,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :4
+1526397166821,2018.05.15 11:12:46.821,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :5
+1526397166822,2018.05.15 11:12:46.822,INFO,aiview_android,DetectorEMController.confidence  (DetectorEMController.java:235),Empty mouth is successfully detected.
+1526397166822,2018.05.15 11:12:46.822,INFO,aiview_android,DetectorEMController.confidence  (DetectorEMController.java:235),Empty mouth is successfully detected.
+1526397166882,2018.05.15 11:12:46.882,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:45),Audio playing flag -- true
+1526397166882,2018.05.15 11:12:46.882,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:46),Questionnaire in progress  -- false
+1526397166882,2018.05.15 11:12:46.882,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397166932,2018.05.15 11:12:46.932,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:60),play audio: voice/confirm.mp3
+1526397168143,2018.05.15 11:12:48.143,INFO,aiview_android,StepsController$6.onComplete  (StepsController.java:1018),Current step completes.
+1526397168144,2018.05.15 11:12:48.144,INFO,aiview_android,StepsController.defineCurrentStep  (StepsController.java:939),Entering PILL_NOT_UNDER_THE_TONGUE step.
+1526397168181,2018.05.15 11:12:48.181,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:45),Audio playing flag -- true
+1526397168182,2018.05.15 11:12:48.182,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:46),Questionnaire in progress  -- false
+1526397168182,2018.05.15 11:12:48.182,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397168219,2018.05.15 11:12:48.219,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:60),play audio: voice/D_3_6_Raise_Tongue.mp3
+1526397168382,2018.05.15 11:12:48.382,INFO,aiview_android,InCameraViewControllerV3.displayNormal  (InCameraViewControllerV3.java:253),display normal step :9 inCameraView true view android.widget.RelativeLayout{634f7ed G.E...... ......ID 0,0-1080,2220 #7f090272 app:id/silhouette_layout}
+1526397168516,2018.05.15 11:12:48.516,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :1
+1526397168629,2018.05.15 11:12:48.629,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :2
+1526397168705,2018.05.15 11:12:48.705,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :3
+1526397168772,2018.05.15 11:12:48.772,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :4
+1526397168845,2018.05.15 11:12:48.845,INFO,aiview_android,DetectorEMController.run  (DetectorEMController.java:154),Empty mouth detected frame :5
+1526397168845,2018.05.15 11:12:48.845,INFO,aiview_android,DetectorEMController.confidence  (DetectorEMController.java:235),Empty mouth is successfully detected.
+1526397168845,2018.05.15 11:12:48.845,INFO,aiview_android,DetectorEMController.confidence  (DetectorEMController.java:235),Empty mouth is successfully detected.
+1526397168888,2018.05.15 11:12:48.888,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:45),Audio playing flag -- true
+1526397168888,2018.05.15 11:12:48.888,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:46),Questionnaire in progress  -- false
+1526397168889,2018.05.15 11:12:48.889,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397168945,2018.05.15 11:12:48.945,DEBUG,aiview_android,AudioPlayer.play  (AudioPlayer.java:60),play audio: voice/confirm.mp3
+1526397170186,2018.05.15 11:12:50.186,INFO,aiview_android,StepsController$6.onComplete  (StepsController.java:1018),Current step completes.
+1526397170209,2018.05.15 11:12:50.209,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1526397170210,2018.05.15 11:12:50.210,INFO,aiview_android,Camera2Fragment.stopCamera  (Camera2Fragment.java:867),Stopping camera.
+1526397170211,2018.05.15 11:12:50.211,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1526397170211,2018.05.15 11:12:50.211,INFO,aiview_android,Camera2Fragment.closeCamera  (Camera2Fragment.java:447),Closing the camera.
+1526397170219,2018.05.15 11:12:50.219,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526397170245,2018.05.15 11:12:50.245,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526397170275,2018.05.15 11:12:50.275,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526397170319,2018.05.15 11:12:50.319,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526397170341,2018.05.15 11:12:50.341,INFO,aiview_android,Camera2Fragment$3.onImageAvailable  (Camera2Fragment.java:624),the image reader has already been released.
+1526397170475,2018.05.15 11:12:50.475,INFO,aiview_android,Camera2Fragment$2.onClosed  (Camera2Fragment.java:248),Camera is successfully closed.
+1526397170476,2018.05.15 11:12:50.476,INFO,aiview_android,Camera2Fragment.stopBackgroundThread  (Camera2Fragment.java:360),Stopping background thread.
+1526397170476,2018.05.15 11:12:50.476,INFO,aiview_android,InCameraViewControllerV3.cleanMemory  (InCameraViewControllerV3.java:430),Clear all camera views including animations and instructions.
+1526397170517,2018.05.15 11:12:50.517,INFO,aiview_android,Camera2Fragment.stopCamera  (Camera2Fragment.java:867),Stopping camera.
+1526397170519,2018.05.15 11:12:50.519,INFO,aiview_android,InCameraViewControllerV3.hideAllViews  (InCameraViewControllerV3.java:87),Hide all camera views.
+1526397170519,2018.05.15 11:12:50.519,INFO,aiview_android,Camera2Fragment.closeCamera  (Camera2Fragment.java:447),Closing the camera.
+1526397170520,2018.05.15 11:12:50.520,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397171547,2018.05.15 11:12:51.547,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397171570,2018.05.15 11:12:51.570,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397172127,2018.05.15 11:12:52.127,DEBUG,aiview_android,TrialSetupTask.sync  (TrialSetupTask.java:52),Android SDK Level: 26
+1526397172133,2018.05.15 11:12:52.133,DEBUG,aiview_android,TrialSetupTask.sync  (TrialSetupTask.java:66),url https://client100prod.aicure.com/backend/backend
+1526397172483,2018.05.15 11:12:52.483,DEBUG,aiview_android,TrialSetupTask.sync  (TrialSetupTask.java:82),url resultType 5005
+1526397200909,2018.05.15 11:13:20.909,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397200923,2018.05.15 11:13:20.923,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397201810,2018.05.15 11:13:21.810,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397201834,2018.05.15 11:13:21.834,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397202228,2018.05.15 11:13:22.228,DEBUG,aiview_android,TrialSetupTask.sync  (TrialSetupTask.java:52),Android SDK Level: 26
+1526397202232,2018.05.15 11:13:22.232,DEBUG,aiview_android,TrialSetupTask.sync  (TrialSetupTask.java:66),url https://client100prod.aicure.com/backend/backend
+1526397202588,2018.05.15 11:13:22.588,DEBUG,aiview_android,TrialSetupTask.sync  (TrialSetupTask.java:82),url resultType 5005
+1526397207375,2018.05.15 11:13:27.375,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397207390,2018.05.15 11:13:27.390,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397210132,2018.05.15 11:13:30.132,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397210154,2018.05.15 11:13:30.154,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397210555,2018.05.15 11:13:30.555,DEBUG,aiview_android,TrialSetupTask.sync  (TrialSetupTask.java:52),Android SDK Level: 26
+1526397210558,2018.05.15 11:13:30.558,DEBUG,aiview_android,TrialSetupTask.sync  (TrialSetupTask.java:66),url https://client100prod.aicure.com/backend/backend
+1526397210902,2018.05.15 11:13:30.902,DEBUG,aiview_android,TrialSetupTask.sync  (TrialSetupTask.java:82),url resultType 5005
+1526397213141,2018.05.15 11:13:33.141,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397213154,2018.05.15 11:13:33.154,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397240782,2018.05.15 11:14:00.782,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397240804,2018.05.15 11:14:00.804,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397241187,2018.05.15 11:14:01.187,DEBUG,aiview_android,TrialSetupTask.sync  (TrialSetupTask.java:52),Android SDK Level: 26
+1526397241190,2018.05.15 11:14:01.190,DEBUG,aiview_android,TrialSetupTask.sync  (TrialSetupTask.java:66),url https://client100prod.aicure.com/backend/backend
+1526397241572,2018.05.15 11:14:01.572,DEBUG,aiview_android,TrialSetupTask.sync  (TrialSetupTask.java:82),url resultType 5005
+1526397243490,2018.05.15 11:14:03.490,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397243498,2018.05.15 11:14:03.498,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397283097,2018.05.15 11:14:43.097,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397283119,2018.05.15 11:14:43.119,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397283524,2018.05.15 11:14:43.524,DEBUG,aiview_android,TrialSetupTask.sync  (TrialSetupTask.java:52),Android SDK Level: 26
+1526397283527,2018.05.15 11:14:43.527,DEBUG,aiview_android,TrialSetupTask.sync  (TrialSetupTask.java:66),url https://client100prod.aicure.com/backend/backend
+1526397283895,2018.05.15 11:14:43.895,DEBUG,aiview_android,TrialSetupTask.sync  (TrialSetupTask.java:82),url resultType 5005
+1526397291200,2018.05.15 11:14:51.200,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526397291213,2018.05.15 11:14:51.213,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526398177104,2018.05.15 11:29:37.104,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526398177125,2018.05.15 11:29:37.125,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526398177671,2018.05.15 11:29:37.671,DEBUG,aiview_android,TrialSetupTask.sync  (TrialSetupTask.java:52),Android SDK Level: 26
+1526398177675,2018.05.15 11:29:37.675,DEBUG,aiview_android,TrialSetupTask.sync  (TrialSetupTask.java:66),url https://client100prod.aicure.com/backend/backend
+1526398178013,2018.05.15 11:29:38.013,DEBUG,aiview_android,TrialSetupTask.sync  (TrialSetupTask.java:82),url resultType 5005
+1526398180261,2018.05.15 11:29:40.261,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526398180271,2018.05.15 11:29:40.271,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526398182376,2018.05.15 11:29:42.376,INFO,aiview_android,AudioPlayer.stop  (AudioPlayer.java:20),Stopping audio player.
+1526398182377,2018.05.15 11:29:42.377,INFO,aiview_android,InCameraViewControllerV3.cleanMemory  (InCameraViewControllerV3.java:430),Clear all camera views including animations and instructions.

@@ -1,0 +1,122 @@
+2018-06-28 16:26:08.145 | I | -[AppDelegate application:didFinishLaunchingWithOptions:] | [line:191] | [MESSAGE] application Did Finish Launching
+2018-06-28 16:26:08.193 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial ID 0prod1499883450
+2018-06-28 16:26:08.194 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] trial name pro
+2018-06-28 16:26:08.196 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone7,1
+2018-06-28 16:26:08.196 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] Device Hardware iPhone 6 PLUS
+2018-06-28 16:26:08.196 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] OS Version 11.4
+2018-06-28 16:26:08.196 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] AiView build version 2018.4
+2018-06-28 16:26:08.196 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device language en-US
+2018-06-28 16:26:08.201 | I | -[AppDelegate logMataData] | [line:171] | [MESSAGE] device UUID 10990519-1758-4253-8BA9-A7DE503FBD3E
+2018-06-28 16:26:08.202 | I | -[AppDelegate logMataData] | [line:174] | [MESSAGE] Patient ID (null)
+2018-06-28 16:26:08.206 | I | +[AIUtil hasInternetConnection] | [line:706] | [MESSAGE] has internet connnection = 1
+2018-06-28 16:26:08.386 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:446] | [MESSAGE] Succeded to get APNS token data: <141e4215 b7dd6311 81a5de6f 93979321 eaba3b08 7941ad4b 44bd2f23 e8e3d280>
+2018-06-28 16:26:08.386 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:452] | [MESSAGE] deviceToken:  141e4215b7dd631181a5de6f93979321eaba3b087941ad4b44bd2f23e8e3d280
+2018-06-28 16:26:08.851 | D | -[AiViewSwitch startApp] | [line:157] | [MESSAGE] StartApp in AiViewSwitch
+2018-06-28 16:26:08.910 | I | +[AIUtil checkPermission] | [line:1155] | [MESSAGE] camera access / mic access Authorized
+2018-06-28 16:26:10.121 | I | -[AICognitoHelper login]_block_invoke | [line:183] | [MESSAGE] [Cognito] Get session succeeded.
+2018-06-28 16:26:10.190 | I | getKitNum() | [line:37] | [MESSAGE] [API Gateway] Get Cognito session succeeded. Getting kit num.
+2018-06-28 16:26:10.222 | E | postCachedQuestionnaireEvents() | [line:501] | [MESSAGE] [Questionnaire] Post cached questionnaire events failed. Error Domain=NSCocoaErrorDomain Code=260 "The file “event” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///var/mobile/Containers/Data/Application/15D6DFC5-AC00-435E-A64F-E666C64284A3/Documents/event, NSFilePath=/var/mobile/Containers/Data/Application/15D6DFC5-AC00-435E-A64F-E666C64284A3/Documents/event, NSUnderlyingError=0x109c27290 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+2018-06-28 16:26:10.231 | E | -[AIDownloadAssetsViewController viewDidLoad]_block_invoke | [line:53] | [MESSAGE] [Download Assets] Get Cognito session succeeded. Downloading assets.
+2018-06-28 16:26:10.248 | I | getKitNum() | [line:37] | [MESSAGE] [API Gateway] Get Cognito session succeeded. Getting kit num.
+2018-06-28 16:26:10.478 | E | getKitNum() | [line:49] | [MESSAGE] [API Geteway] Get kit num failed. Error Domain=com.amazonaws.AWSAPIGatewayErrorDomain Code=1 "(null)" UserInfo={HTTPHeaderFields=<CFBasicHash 0x109a36b60 [0x1b3f78538]>{type = immutable dict, count = 12,
+entries =>
+	0 : Content-Type = <CFString 0x109c22c30 [0x1b3f78538]>{contents = "application/json"}
+	1 : x-amz-cf-id = <CFString 0x1091cc6d0 [0x1b3f78538]>{contents = "wFnqmaiu71iSbOpvMhcfnJuP9LCzMuaKg7FdArh-A3kp9cH6h5_Xrw=="}
+	2 : Access-Control-Allow-Origin = *
+	3 : x-cache = <CFString 0x109c23930 [0x1b3f78538]>{contents = "Error from cloudfront"}
+	5 : Via = <CFString 0x1091a3e80 [0x1b3f78538]>{contents = "1.1 52187b0c6f7878d62f08293f88e6cdd1.cloudfront.net (CloudFront)"}
+	6 : access-control-allow-methods = <CFString 0x109c31450 [0x1b3f78538]>{contents = "GET,OPTIONS"}
+	10 : access-control-allow-headers = <CFString 0x109c0b400 [0x1b3f78538]>{contents = "Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token"}
+	12 : x-amz-apigw-id = <CFString 0x109c28740 [0x1b3f78538]>{contents = "JNefXHwJvHcF-_g="}
+	13 : Date = <CFString 0x1091c7d20 [0x1b3f78538]>{contents = "Thu, 28 Jun 2018 20:26:10 GMT"}
+	15 : Content-Length = 26
+	19 : x-amzn-requestid = <CFString 0x109c1fed0 [0x1b3f78538]>{contents = "7ea0d4c4-7b11-11e8-93b6-5f9bbe541c50"}
+	22 : x-amzn-errortype = <CFString 0x1091a6080 [0x1b3f78538]>{contents = "UnauthorizedException"}
+}
+, HTTPBody={
+    message = Unauthorized;
+}}
+2018-06-28 16:26:10.487 | I | -[AIKitNumManager syncStatus] | [line:141] | [MESSAGE] [KitNum] No kit num status to put.
+2018-06-28 16:26:10.598 | E | getKitNum() | [line:49] | [MESSAGE] [API Geteway] Get kit num failed. Error Domain=com.amazonaws.AWSAPIGatewayErrorDomain Code=1 "(null)" UserInfo={HTTPHeaderFields=<CFBasicHash 0x109c00650 [0x1b3f78538]>{type = immutable dict, count = 12,
+entries =>
+	0 : Content-Type = <CFString 0x109c20ee0 [0x1b3f78538]>{contents = "application/json"}
+	1 : x-amz-cf-id = <CFString 0x1091db180 [0x1b3f78538]>{contents = "ggTmQqjjYpmIZwT6Vgih9jwio8M7358Y90YN1Z_5r1IZz5Xy-3nOrg=="}
+	2 : Access-Control-Allow-Origin = *
+	3 : x-cache = <CFString 0x1091c9ca0 [0x1b3f78538]>{contents = "Error from cloudfront"}
+	5 : Via = <CFString 0x1091c0880 [0x1b3f78538]>{contents = "1.1 52187b0c6f7878d62f08293f88e6cdd1.cloudfront.net (CloudFront)"}
+	6 : access-control-allow-methods = <CFString 0x102029dd0 [0x1b3f78538]>{contents = "GET,OPTIONS"}
+	10 : access-control-allow-headers = <CFString 0x109c2fb90 [0x1b3f78538]>{contents = "Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token"}
+	12 : x-amz-apigw-id = <CFString 0x109c25530 [0x1b3f78538]>{contents = "JNefZFU6vHcFrPw="}
+	13 : Date = <CFString 0x1091c9a70 [0x1b3f78538]>{contents = "Thu, 28 Jun 2018 20:26:10 GMT"}
+	15 : Content-Length = 26
+	19 : x-amzn-requestid = <CFString 0x1091a6620 [0x1b3f78538]>{contents = "7eb93f84-7b11-11e8-902f-c35da0300c77"}
+	22 : x-amzn-errortype = <CFString 0x109c289e0 [0x1b3f78538]>{contents = "UnauthorizedException"}
+}
+, HTTPBody={
+    message = Unauthorized;
+}}
+2018-06-28 16:26:10.599 | I | -[AIKitNumManager syncStatus] | [line:141] | [MESSAGE] [KitNum] No kit num status to put.
+2018-06-28 16:26:10.967 | I | upload(fileURL:bucket:) | [line:60] | [MESSAGE] [S3] Upload succeeded. prod-cd-temp-lambda-s3.aicure.com/non_phi/logs/0prod/1840000z23/2018-06-28/com.aicure.aiview.AiView 2018-06-28--17-48-01-142.log.
+2018-06-28 16:26:10.975 | I | upload(fileURL:bucket:) | [line:60] | [MESSAGE] [S3] Upload succeeded. prod-cd-temp-lambda-s3.aicure.com/non_phi/logs/0prod/1840000z23/2018-06-28/com.aicure.aiview.AiView 2018-06-28--17-48-01-566.log.
+2018-06-28 16:26:10.979 | I | upload(fileURL:bucket:) | [line:60] | [MESSAGE] [S3] Upload succeeded. prod-cd-temp-lambda-s3.aicure.com/non_phi/logs/0prod/1840000z23/2018-06-28/com.aicure.aiview.AiView 2018-06-28--17-47-52-823.log.
+2018-06-28 16:26:19.151 | I | getKitNum() | [line:37] | [MESSAGE] [API Gateway] Get Cognito session succeeded. Getting kit num.
+2018-06-28 16:26:19.431 | E | getKitNum() | [line:49] | [MESSAGE] [API Geteway] Get kit num failed. Error Domain=com.amazonaws.AWSAPIGatewayErrorDomain Code=1 "(null)" UserInfo={HTTPHeaderFields=<CFBasicHash 0x109c235a0 [0x1b3f78538]>{type = immutable dict, count = 12,
+entries =>
+	0 : Content-Type = <CFString 0x109c294d0 [0x1b3f78538]>{contents = "application/json"}
+	1 : x-amz-cf-id = <CFString 0x109c24460 [0x1b3f78538]>{contents = "4i2yFzY9ajJIlz1VuhvUhdv2qX_xiKRq-yQQW-K_xEX1eErLg_IR6g=="}
+	2 : Access-Control-Allow-Origin = *
+	3 : x-cache = <CFString 0x1091f6f10 [0x1b3f78538]>{contents = "Error from cloudfront"}
+	5 : Via = <CFString 0x10209f1e0 [0x1b3f78538]>{contents = "1.1 52187b0c6f7878d62f08293f88e6cdd1.cloudfront.net (CloudFront)"}
+	6 : access-control-allow-methods = <CFString 0x10913cf80 [0x1b3f78538]>{contents = "GET,OPTIONS"}
+	10 : access-control-allow-headers = <CFString 0x102099630 [0x1b3f78538]>{contents = "Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token"}
+	12 : x-amz-apigw-id = <CFString 0x109c30300 [0x1b3f78538]>{contents = "JNegxH3XPHcFvkQ="}
+	13 : Date = <CFString 0x102082ba0 [0x1b3f78538]>{contents = "Thu, 28 Jun 2018 20:26:19 GMT"}
+	15 : Content-Length = 26
+	19 : x-amzn-requestid = <CFString 0x1091d5af0 [0x1b3f78538]>{contents = "83fc23fa-7b11-11e8-8a4b-c3a2ff774640"}
+	22 : x-amzn-errortype = <CFString 0x109c31260 [0x1b3f78538]>{contents = "UnauthorizedException"}
+}
+, HTTPBody={
+    message = Unauthorized;
+}}
+2018-06-28 16:26:19.436 | I | -[AIKitNumManager syncStatus] | [line:141] | [MESSAGE] [KitNum] No kit num status to put.
+2018-06-28 16:26:28.072 | I | getKitNum() | [line:37] | [MESSAGE] [API Gateway] Get Cognito session succeeded. Getting kit num.
+2018-06-28 16:26:28.185 | E | getKitNum() | [line:49] | [MESSAGE] [API Geteway] Get kit num failed. Error Domain=com.amazonaws.AWSAPIGatewayErrorDomain Code=1 "(null)" UserInfo={HTTPHeaderFields=<CFBasicHash 0x10218adc0 [0x1b3f78538]>{type = immutable dict, count = 12,
+entries =>
+	0 : Content-Type = <CFString 0x1091ba600 [0x1b3f78538]>{contents = "application/json"}
+	1 : x-amz-cf-id = <CFString 0x109c1fe40 [0x1b3f78538]>{contents = "_cQVjn_DaPgVh-ttO_UwbmuEB0vDdMDExGtio7gY2rL0Gj-joztXng=="}
+	2 : Access-Control-Allow-Origin = *
+	3 : x-cache = <CFString 0x109c03f40 [0x1b3f78538]>{contents = "Error from cloudfront"}
+	5 : Via = <CFString 0x109c00440 [0x1b3f78538]>{contents = "1.1 52187b0c6f7878d62f08293f88e6cdd1.cloudfront.net (CloudFront)"}
+	6 : access-control-allow-methods = <CFString 0x1091c7e70 [0x1b3f78538]>{contents = "GET,OPTIONS"}
+	10 : access-control-allow-headers = <CFString 0x109c343a0 [0x1b3f78538]>{contents = "Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token"}
+	12 : x-amz-apigw-id = <CFString 0x1020e80d0 [0x1b3f78538]>{contents = "JNeiJFrtvHcF7jA="}
+	13 : Date = <CFString 0x109c2a540 [0x1b3f78538]>{contents = "Thu, 28 Jun 2018 20:26:28 GMT"}
+	15 : Content-Length = 26
+	19 : x-amzn-requestid = <CFString 0x109c34700 [0x1b3f78538]>{contents = "8932d301-7b11-11e8-8f5f-cb46a699c60a"}
+	22 : x-amzn-errortype = <CFString 0x10910fa50 [0x1b3f78538]>{contents = "UnauthorizedException"}
+}
+, HTTPBody={
+    message = Unauthorized;
+}}
+2018-06-28 16:26:28.189 | I | -[AIKitNumManager syncStatus] | [line:141] | [MESSAGE] [KitNum] No kit num status to put.
+2018-06-28 16:26:28.790 | I | getKitNum() | [line:37] | [MESSAGE] [API Gateway] Get Cognito session succeeded. Getting kit num.
+2018-06-28 16:26:28.893 | E | getKitNum() | [line:49] | [MESSAGE] [API Geteway] Get kit num failed. Error Domain=com.amazonaws.AWSAPIGatewayErrorDomain Code=1 "(null)" UserInfo={HTTPHeaderFields=<CFBasicHash 0x1021ec270 [0x1b3f78538]>{type = immutable dict, count = 12,
+entries =>
+	0 : Content-Type = <CFString 0x10910fa50 [0x1b3f78538]>{contents = "application/json"}
+	1 : x-amz-cf-id = <CFString 0x102091090 [0x1b3f78538]>{contents = "jWiQtLfrrYSWWrDhRJaRcm1kGykvzENcC_OPWF4K6zhYj_EwnVndrQ=="}
+	2 : Access-Control-Allow-Origin = *
+	3 : x-cache = <CFString 0x1020cd490 [0x1b3f78538]>{contents = "Error from cloudfront"}
+	5 : Via = <CFString 0x1091d6160 [0x1b3f78538]>{contents = "1.1 52187b0c6f7878d62f08293f88e6cdd1.cloudfront.net (CloudFront)"}
+	6 : access-control-allow-methods = <CFString 0x102029df0 [0x1b3f78538]>{contents = "GET,OPTIONS"}
+	10 : access-control-allow-headers = <CFString 0x109c3e580 [0x1b3f78538]>{contents = "Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token"}
+	12 : x-amz-apigw-id = <CFString 0x109c03f40 [0x1b3f78538]>{contents = "JNeiQE2MvHcFbQQ="}
+	13 : Date = <CFString 0x109c40ec0 [0x1b3f78538]>{contents = "Thu, 28 Jun 2018 20:26:28 GMT"}
+	15 : Content-Length = 26
+	19 : x-amzn-requestid = <CFString 0x1091d78a0 [0x1b3f78538]>{contents = "899f512e-7b11-11e8-a0ea-ab05e11644fb"}
+	22 : x-amzn-errortype = <CFString 0x1020ab280 [0x1b3f78538]>{contents = "UnauthorizedException"}
+}
+, HTTPBody={
+    message = Unauthorized;
+}}
+2018-06-28 16:26:28.898 | I | -[AIKitNumManager syncStatus] | [line:141] | [MESSAGE] [KitNum] No kit num status to put.
+2018-06-28 16:29:48.299 | I | -[AppDelegate applicationWillResignActive:] | [line:203] | [MESSAGE] application Will Resign Active

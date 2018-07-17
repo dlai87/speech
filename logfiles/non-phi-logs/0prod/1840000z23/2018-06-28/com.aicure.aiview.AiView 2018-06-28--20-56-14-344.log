@@ -1,0 +1,23 @@
+2018-06-28 16:56:14.340 | I | upload(fileURL:bucket:) | [line:60] | [MESSAGE] [S3] Upload succeeded. prod-cd-temp-lambda-s3.aicure.com/non_phi/logs/0prod/1840000z23/2018-06-28/com.aicure.aiview.AiView 2018-06-28--20-56-11-770.log.
+2018-06-28 16:56:14.340 | I | -[Transmission sendAll] | [line:75] | [MESSAGE] Transmission send all
+2018-06-28 16:56:14.348 | I | -[Transmission sendAll] | [line:110] | [MESSAGE] Encrypting files
+2018-06-28 16:56:14.436 | I | getKitNum() | [line:43] | [MESSAGE] [API Gateway] Get kit num succeeded. No (non-synchronized) kit num.
+2018-06-28 16:56:14.438 | I | -[AIKitNumManager updateWithData:] | [line:158] | [MESSAGE] [KitNum] Update kit nums with GET response succeeded. Saved the download time 2018-06-28 20:56:14 +0000 to user defaults.
+2018-06-28 16:56:14.438 | E | -[AIKitNumManager updateWithData:] | [line:164] | [MESSAGE] [KitNum] Empty kit num list returned.
+2018-06-28 16:56:14.448 | I | -[AIKitNumManager syncStatus] | [line:141] | [MESSAGE] [KitNum] No kit num status to put.
+2018-06-28 16:56:14.452 | E | -[Transmission update:task_name:] | [line:234] | [MESSAGE] Task Update_device_version failed
+2018-06-28 16:56:14.455 | I | -[Transmission update:task_name:] | [line:241] | [MESSAGE] Task id done: 1
+2018-06-28 16:56:14.562 | E | -[Transmission update:task_name:] | [line:234] | [MESSAGE] Task pk_clinic_visit_only failed
+2018-06-28 16:56:14.563 | I | -[Transmission update:task_name:] | [line:241] | [MESSAGE] Task id done: 2
+2018-06-28 16:56:14.673 | E | -[Transmission update:task_name:] | [line:234] | [MESSAGE] Task push_token_registration failed
+2018-06-28 16:56:14.676 | I | -[Transmission update:task_name:] | [line:241] | [MESSAGE] Task id done: 3
+2018-06-28 16:56:14.783 | E | -[Transmission update:task_name:] | [line:234] | [MESSAGE] Task kiosk_dose_check failed
+2018-06-28 16:56:14.789 | I | -[Transmission update:task_name:] | [line:241] | [MESSAGE] Task id done: 4
+2018-06-28 16:56:14.902 | E | -[Transmission update:task_name:] | [line:234] | [MESSAGE] Task questionnaire_sync failed
+2018-06-28 16:56:14.908 | I | -[Transmission update:task_name:] | [line:241] | [MESSAGE] Task id done: 5
+2018-06-28 16:56:15.043 | E | -[Transmission update:task_name:] | [line:234] | [MESSAGE] Task reimbursement_sync failed
+2018-06-28 16:56:15.047 | I | -[Transmission update:task_name:] | [line:241] | [MESSAGE] Task id done: 6
+2018-06-28 16:56:15.309 | E | -[Transmission update:task_name:] | [line:234] | [MESSAGE] Task Dose_miss_time_report failed
+2018-06-28 16:56:15.969 | I | -[AICognitoHelper login]_block_invoke | [line:183] | [MESSAGE] [Cognito] Get session succeeded.
+2018-06-28 16:56:16.016 | I | getKitNum() | [line:37] | [MESSAGE] [API Gateway] Get Cognito session succeeded. Getting kit num.
+2018-06-28 16:56:16.022 | E | postCachedQuestionnaireEvents() | [line:501] | [MESSAGE] [Questionnaire] Post cached questionnaire events failed. Error Domain=NSCocoaErrorDomain Code=260 "The file “event” couldn’t be opened because there is no such file." UserInfo={NSURL=file:///var/mobile/Containers/Data/Application/86FEEE0D-2401-4B96-BF7C-C0210C08D295/Documents/event, NSFilePath=/var/mobile/Containers/Data/Application/86FEEE0D-2401-4B96-BF7C-C0210C08D295/Documents/event, NSUnderlyingError=0x1089b1360 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}

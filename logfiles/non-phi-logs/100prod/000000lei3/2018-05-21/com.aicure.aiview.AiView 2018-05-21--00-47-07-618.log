@@ -1,0 +1,794 @@
+2018-05-20 20:47:07.612 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6
+2018-05-20 20:47:07.722 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-20 20:47:07.812 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-20 20:47:08.163 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-20 20:47:08.331 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-20 20:47:08.331 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 20:47:08.332 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 20:47:08.461 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 20:47:08.462 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 20:47:08.496 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-20 20:47:09.743 | I | -[DigitalClockVC showQuestionnaire] | [line:788] | [MESSAGE] showQuestionnaire
+2018-05-20 20:47:10.199 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-20 20:47:10.392 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:806] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-20 20:47:10.422 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-20 20:47:10.422 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:47:10.428 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:47:10.429 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:47:10.429 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:47:11.300 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:358] | [MESSAGE] show screen based on status
+2018-05-20 20:47:11.300 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 20:47:11.300 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 20:47:11.473 | I | -[DigitalClockVC displayReminderView] | [line:515] | [MESSAGE] displayReminderView
+2018-05-20 20:47:11.473 | I | -[DigitalClockVC showDigitalClockNormal] | [line:580] | [MESSAGE] showDigitalClockNormal
+2018-05-20 20:47:11.514 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:721] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-20 20:47:11.837 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:47:12.017 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:47:12.765 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:47:12.765 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:47:12.765 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:47:22.129 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:47:22.129 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:47:22.326 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:47:22.921 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-20 20:47:22.922 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:47:22.925 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:47:22.925 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:47:22.925 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:47:23.651 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:47:23.793 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:47:24.253 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:47:24.254 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:47:24.254 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:47:31.693 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:47:31.693 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:47:31.890 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:47:32.406 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-20 20:47:32.406 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:47:32.408 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:47:32.408 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:47:32.408 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:47:33.099 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:47:33.237 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:47:33.689 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:47:33.690 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:47:33.690 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:47:41.111 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:47:41.111 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:47:41.297 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:47:41.809 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-20 20:47:41.809 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:47:41.811 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:47:41.811 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:47:41.811 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:47:42.505 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:47:42.641 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:47:43.083 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:47:43.084 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:47:43.084 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:47:47.595 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:47:47.595 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:47:47.780 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:47:48.298 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-20 20:47:48.299 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:47:48.301 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:47:48.301 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:47:48.301 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:47:48.947 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:47:49.087 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:47:49.546 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:47:49.547 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:47:49.547 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:47:58.128 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:47:58.128 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:47:58.347 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:47:58.810 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-20 20:47:58.810 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:47:58.812 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:47:58.812 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:47:58.812 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:47:59.500 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:47:59.635 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:48:00.070 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:48:00.071 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:48:00.071 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:48:27.780 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:48:27.780 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:48:28.041 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:48:28.476 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-20 20:48:28.476 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:48:28.480 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:48:28.480 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:48:28.480 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:48:29.183 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:48:29.330 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:48:29.776 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:48:29.776 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:48:29.776 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:48:41.048 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:48:41.048 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:48:41.254 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:48:41.729 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-20 20:48:41.730 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:48:41.733 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:48:41.733 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:48:41.733 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:48:42.413 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:48:42.554 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:48:42.992 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:48:42.992 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:48:42.992 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:48:51.765 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:48:51.765 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:48:51.945 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:48:52.436 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-20 20:48:52.436 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:48:52.439 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:48:52.439 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:48:52.439 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:48:53.220 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:48:53.363 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:48:53.809 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:48:53.810 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:48:53.810 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:48:56.669 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:49:00.843 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:49:11.786 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:49:11.786 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:49:11.971 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:49:12.532 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-20 20:49:12.532 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:49:12.535 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:49:12.535 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:49:12.535 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:49:12.714 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:49:13.321 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:49:13.462 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:49:13.894 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:49:13.894 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:49:13.894 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:49:16.097 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:49:16.482 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:49:20.098 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-20 20:49:20.115 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:49:21.970 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:49:21.970 | I | -[SpeechDetector activateDetection] | [line:76] | [MESSAGE] Speech Detector onSpeechBeginOverall
+2018-05-20 20:49:25.972 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-20 20:49:25.992 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:49:28.149 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:49:28.150 | I | -[SpeechDetector activateDetection] | [line:76] | [MESSAGE] Speech Detector onSpeechBeginOverall
+2018-05-20 20:49:29.993 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-20 20:49:30.005 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:49:32.139 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:49:32.140 | I | -[SpeechDetector activateDetection] | [line:76] | [MESSAGE] Speech Detector onSpeechBeginOverall
+2018-05-20 20:49:34.640 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:49:34.640 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:49:34.873 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:49:35.465 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-20 20:49:35.466 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:49:35.468 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:49:35.468 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:49:35.468 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:49:36.250 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:49:36.401 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:49:36.863 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:49:36.863 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:49:36.864 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:49:38.172 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:49:38.944 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:49:42.632 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:49:42.945 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-20 20:49:42.960 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:49:44.817 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:49:44.818 | I | -[SpeechDetector activateDetection] | [line:76] | [MESSAGE] Speech Detector onSpeechBeginOverall
+2018-05-20 20:49:48.819 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-20 20:49:48.833 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:49:50.948 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:49:50.948 | I | -[SpeechDetector activateDetection] | [line:76] | [MESSAGE] Speech Detector onSpeechBeginOverall
+2018-05-20 20:49:52.834 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-20 20:49:52.851 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:49:54.974 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:49:54.974 | I | -[SpeechDetector activateDetection] | [line:76] | [MESSAGE] Speech Detector onSpeechBeginOverall
+2018-05-20 20:49:55.144 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:50:00.137 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:50:08.546 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:50:10.811 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:50:10.811 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:50:10.967 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:50:11.563 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-20 20:50:11.563 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:50:11.566 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:50:11.567 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:50:11.567 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:50:12.314 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:50:12.457 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:50:12.961 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:50:12.962 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:50:12.962 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:50:13.983 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:50:21.983 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-20 20:50:24.290 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:50:25.843 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:50:40.584 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:50:41.843 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:50:45.782 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:50:47.623 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:50:55.943 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:50:55.943 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:50:56.096 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:50:56.688 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-20 20:50:56.688 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:50:56.691 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:50:56.691 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:50:56.691 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:50:56.867 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:50:57.458 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:50:57.605 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:50:58.044 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:50:58.045 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:50:58.045 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:51:00.189 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:51:02.981 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:51:04.190 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-20 20:51:04.206 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:51:06.090 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:51:06.090 | I | -[SpeechDetector activateDetection] | [line:76] | [MESSAGE] Speech Detector onSpeechBeginOverall
+2018-05-20 20:51:06.790 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:51:10.791 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-20 20:51:12.936 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:51:13.868 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:51:30.389 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:51:37.528 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:51:37.528 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:51:37.662 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:51:38.233 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-20 20:51:38.234 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:51:38.238 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:51:38.238 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:51:38.238 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:51:39.024 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:51:39.175 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:51:39.624 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:51:39.625 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:51:39.625 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:51:40.747 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:51:41.983 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:51:43.050 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:51:45.984 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-20 20:51:46.001 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:51:47.862 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:51:49.030 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:51:51.864 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-20 20:51:51.875 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:51:54.010 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:51:54.010 | I | -[SpeechDetector activateDetection] | [line:76] | [MESSAGE] Speech Detector onSpeechBeginOverall
+2018-05-20 20:51:55.876 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-20 20:51:55.891 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:51:58.007 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:51:58.007 | I | -[SpeechDetector activateDetection] | [line:76] | [MESSAGE] Speech Detector onSpeechBeginOverall
+2018-05-20 20:51:58.983 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:51:59.938 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:52:09.503 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:52:09.503 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:52:09.700 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:52:10.263 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-20 20:52:10.263 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:52:10.267 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:52:10.267 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:52:10.267 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:52:10.431 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:52:11.043 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:52:11.192 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:52:11.637 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:52:11.638 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:52:11.638 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:52:12.957 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:52:14.296 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:52:16.958 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-20 20:52:16.974 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:52:18.832 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:52:18.832 | I | -[SpeechDetector activateDetection] | [line:76] | [MESSAGE] Speech Detector onSpeechBeginOverall
+2018-05-20 20:52:22.834 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-20 20:52:22.849 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:52:24.985 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:52:24.985 | I | -[SpeechDetector activateDetection] | [line:76] | [MESSAGE] Speech Detector onSpeechBeginOverall
+2018-05-20 20:52:26.850 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-20 20:52:26.867 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:52:28.978 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:52:28.978 | I | -[SpeechDetector activateDetection] | [line:76] | [MESSAGE] Speech Detector onSpeechBeginOverall
+2018-05-20 20:52:35.079 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:52:35.079 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:52:35.310 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:52:35.823 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-20 20:52:35.823 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:52:35.826 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:52:35.826 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:52:35.826 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:52:36.552 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:52:36.703 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:52:37.198 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:52:37.198 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:52:37.198 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:52:37.779 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:52:38.830 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:52:43.980 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:52:47.930 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:52:47.980 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-20 20:52:47.995 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:52:49.852 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:52:49.853 | I | -[SpeechDetector activateDetection] | [line:76] | [MESSAGE] Speech Detector onSpeechBeginOverall
+2018-05-20 20:52:53.855 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-20 20:52:53.870 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:52:56.008 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:52:56.008 | I | -[SpeechDetector activateDetection] | [line:76] | [MESSAGE] Speech Detector onSpeechBeginOverall
+2018-05-20 20:52:56.579 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:52:56.949 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:52:57.871 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-20 20:52:57.889 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:53:00.003 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:53:00.003 | I | -[SpeechDetector activateDetection] | [line:76] | [MESSAGE] Speech Detector onSpeechBeginOverall
+2018-05-20 20:53:00.103 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:53:00.103 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:53:00.341 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:53:00.832 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-20 20:53:00.832 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:53:00.835 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:53:00.835 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:53:00.835 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:53:01.628 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:53:01.773 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:53:02.262 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:53:02.263 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:53:02.263 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:53:02.437 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:53:03.929 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:53:36.852 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:53:36.852 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:53:37.004 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:53:37.588 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-20 20:53:37.588 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:53:37.591 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:53:37.591 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:53:37.591 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:53:37.767 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:53:38.367 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:53:38.507 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:53:38.949 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:53:38.950 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:53:38.950 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:53:41.496 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:53:41.888 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:53:45.496 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-20 20:53:45.510 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:53:47.368 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:53:47.368 | I | -[SpeechDetector activateDetection] | [line:76] | [MESSAGE] Speech Detector onSpeechBeginOverall
+2018-05-20 20:53:48.096 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:53:48.299 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:53:52.097 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-20 20:53:52.109 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:53:54.241 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:53:54.241 | I | -[SpeechDetector activateDetection] | [line:76] | [MESSAGE] Speech Detector onSpeechBeginOverall
+2018-05-20 20:53:56.109 | I | -[SpeechDetector deactivateDetection] | [line:84] | [MESSAGE] Speech Detector deactivate
+2018-05-20 20:53:56.121 | I | -[SpeechDetector deactivateDetection] | [line:94] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:53:58.233 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:53:58.234 | I | -[SpeechDetector activateDetection] | [line:76] | [MESSAGE] Speech Detector onSpeechBeginOverall
+2018-05-20 20:53:59.096 | I | -[SpeechDetector repeatChecking] | [line:121] | [MESSAGE] Speech Detector onSpeechEndOverall
+2018-05-20 20:53:59.287 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:54:03.216 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:54:03.216 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:54:03.353 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:54:03.954 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageListVC, answering
+2018-05-20 20:54:03.954 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:54:03.957 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:54:03.957 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:54:03.957 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:54:04.229 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:54:04.837 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:54:04.979 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:54:05.433 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:54:05.433 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:54:05.433 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:54:08.018 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:54:08.018 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:54:08.189 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:54:08.709 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-20 20:54:08.709 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:54:08.711 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:54:08.711 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:54:08.711 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:54:09.436 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:54:09.576 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:54:10.062 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:54:10.062 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:54:10.062 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:54:17.151 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:54:17.151 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:54:17.337 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:54:17.847 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageListVC, answering
+2018-05-20 20:54:17.847 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:54:17.849 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:54:17.849 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:54:17.849 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:54:18.654 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:54:18.800 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:54:19.253 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:54:19.254 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:54:19.254 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:54:24.170 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:54:24.170 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:54:24.337 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:54:24.874 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageListVC, answering
+2018-05-20 20:54:24.874 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:54:24.876 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:54:24.876 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:54:24.876 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:54:25.616 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:54:25.751 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:54:26.207 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:54:26.208 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:54:26.208 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:54:26.951 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:54:26.951 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:54:27.090 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:54:27.620 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageListVC, answering
+2018-05-20 20:54:27.621 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:54:27.622 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:54:27.623 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:54:27.623 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:54:28.352 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:54:28.494 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:54:28.960 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:54:28.961 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:54:28.961 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:54:31.235 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:54:31.235 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:54:31.399 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:54:31.909 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageListVC, answering
+2018-05-20 20:54:31.909 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:54:31.912 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:54:31.912 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:54:31.912 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:54:32.719 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:54:32.854 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:54:33.304 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:54:33.305 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:54:33.305 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:54:37.252 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:54:37.252 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:54:37.419 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:54:37.933 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-20 20:54:37.933 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:54:37.935 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:54:37.935 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:54:37.935 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:54:38.636 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:54:38.771 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:54:39.218 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:54:39.218 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:54:39.218 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:54:43.586 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:54:43.586 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:54:43.756 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:54:44.260 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageListVC, answering
+2018-05-20 20:54:44.260 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:54:44.262 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:54:44.262 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:54:44.262 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:54:45.090 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:54:45.231 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:54:45.688 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:54:45.689 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:54:45.689 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:54:49.440 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:54:49.440 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:54:49.612 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:54:50.122 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-20 20:54:50.123 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:54:50.124 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:54:50.125 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:54:50.125 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:54:50.834 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:54:50.974 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:54:51.461 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:54:51.462 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:54:51.462 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:54:51.639 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:54:52.046 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:55:03.183 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:55:03.183 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:55:03.335 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:55:03.880 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-20 20:55:03.880 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:55:03.883 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:55:03.883 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:55:03.883 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:55:03.966 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:55:04.584 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:55:04.721 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:55:05.178 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:55:05.178 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:55:05.178 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:55:06.853 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:55:06.853 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:55:07.007 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:55:07.547 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageListVC, answering
+2018-05-20 20:55:07.548 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:55:07.550 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:55:07.550 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:55:07.551 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:55:08.292 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:55:08.431 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:55:08.876 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:55:08.876 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:55:08.876 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:55:10.737 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:55:10.737 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:55:10.865 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:55:11.415 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-20 20:55:11.415 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:55:11.417 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:55:11.417 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:55:11.417 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:55:12.098 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:55:12.237 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:55:12.703 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:55:12.704 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:55:12.704 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:55:15.673 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:55:17.906 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:55:28.641 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:55:28.642 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:55:28.901 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:55:29.377 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-20 20:55:29.377 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:55:29.381 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:55:29.381 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:55:29.381 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:55:29.466 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:55:30.038 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:55:30.175 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:55:30.631 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:55:30.632 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:55:30.632 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:55:35.807 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:55:35.807 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:55:35.943 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:55:36.490 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageListVC, answering
+2018-05-20 20:55:36.490 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:55:36.493 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:55:36.493 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:55:36.493 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:55:37.311 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:55:37.448 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:55:37.905 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:55:37.905 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:55:37.905 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:55:41.089 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:55:41.089 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:55:41.220 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:55:41.757 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageListVC, answering
+2018-05-20 20:55:41.757 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:55:41.759 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:55:41.759 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:55:41.759 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:55:42.510 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:55:42.650 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:55:43.092 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:55:43.095 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:55:43.096 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:55:48.289 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:55:48.289 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:55:48.493 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:55:48.997 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-20 20:55:48.998 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:55:48.999 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:55:49.000 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:55:49.000 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:55:49.701 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:55:49.838 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:55:50.320 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:55:50.321 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:55:50.321 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:55:50.477 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:55:51.044 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:56:05.074 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:56:05.074 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:56:05.292 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:56:05.832 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-20 20:56:05.832 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:56:05.834 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:56:05.834 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:56:05.835 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:56:05.922 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:56:06.532 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:56:06.671 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:56:07.127 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:56:07.127 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:56:07.127 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:56:08.990 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:56:08.991 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:56:09.154 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:56:09.698 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-20 20:56:09.698 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:56:09.700 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:56:09.700 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:56:09.700 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:56:10.373 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:56:10.507 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:56:10.948 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:56:10.948 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:56:10.949 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:56:14.008 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:56:14.008 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:56:14.157 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:56:14.679 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageListVC, answering
+2018-05-20 20:56:14.679 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:56:14.681 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:56:14.682 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:56:14.682 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:56:15.422 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:56:15.560 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:56:16.010 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:56:16.011 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:56:16.011 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:56:18.758 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:56:18.758 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:56:18.907 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:56:19.437 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageListVC, answering
+2018-05-20 20:56:19.437 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:56:19.439 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:56:19.439 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:56:19.439 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:56:20.172 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:56:20.312 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:56:20.761 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:56:20.761 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:56:20.761 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:56:22.042 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:56:22.042 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:56:22.188 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:56:22.716 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageListVC, answering
+2018-05-20 20:56:22.716 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:56:22.718 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:56:22.718 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:56:22.719 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:56:23.448 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:56:23.586 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:56:24.032 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:56:24.033 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:56:24.033 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:56:24.775 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:56:24.775 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:56:24.900 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:56:25.481 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageListVC, answering
+2018-05-20 20:56:25.481 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:56:25.483 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:56:25.483 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:56:25.484 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:56:26.229 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:56:26.366 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:56:26.817 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:56:26.817 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:56:26.817 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:56:27.492 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:56:27.492 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:56:27.642 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:56:28.170 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageListVC, answering
+2018-05-20 20:56:28.170 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:56:28.172 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:56:28.172 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:56:28.172 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:56:29.001 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:56:29.138 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:56:29.594 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:56:29.595 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:56:29.595 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:56:34.161 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:56:34.161 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:56:34.337 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:56:34.858 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-20 20:56:34.859 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:56:34.860 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:56:34.860 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:56:34.861 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:56:35.543 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:56:35.678 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:56:36.128 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:56:36.129 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:56:36.129 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:56:38.691 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:56:40.643 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:56:51.383 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:56:51.383 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:56:51.629 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:56:52.112 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-20 20:56:52.112 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:56:52.115 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:56:52.116 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:56:52.116 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:56:52.202 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:56:52.802 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:56:52.946 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:56:53.394 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:56:53.394 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:56:53.394 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:56:57.161 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:56:57.161 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:56:57.306 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:56:57.833 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageListVC, answering
+2018-05-20 20:56:57.833 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:56:57.835 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:56:57.835 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:56:57.835 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:56:58.597 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:56:58.736 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:56:59.229 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:56:59.230 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:56:59.230 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:57:00.911 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:57:00.911 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:57:01.077 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:57:01.609 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageListVC, answering
+2018-05-20 20:57:01.609 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:57:01.611 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:57:01.611 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:57:01.611 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:57:02.372 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:57:02.513 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:57:02.967 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:57:02.967 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:57:02.967 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:57:04.778 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:57:04.779 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:57:04.944 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:57:05.481 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageListVC, answering
+2018-05-20 20:57:05.482 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:57:05.484 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:57:05.484 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:57:05.484 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:57:06.217 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:57:06.360 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:57:06.815 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:57:06.815 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:57:06.816 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:57:13.378 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:57:13.378 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:57:13.558 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:57:14.055 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: QuestionPageVideoVC, answering
+2018-05-20 20:57:14.056 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:57:14.058 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:57:14.059 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:57:14.059 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:57:14.739 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:57:14.876 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:57:15.322 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:57:15.322 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:57:15.322 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:57:16.575 | I | -[SpeechDetector activateDetection] | [line:68] | [MESSAGE] Speech Detector activate
+2018-05-20 20:57:17.862 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:57:29.285 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:57:29.286 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:57:29.516 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:57:30.027 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIQuestionPageTextInstructionViewController, answering
+2018-05-20 20:57:30.027 | I | -[QuestionPageVC viewDidLoad] | [line:258] | [MESSAGE] Background recording is on.
+2018-05-20 20:57:30.029 | I | -[AIFaceRecognitionCameraViewController viewDidLoad] | [line:43] | [MESSAGE] AIFaceRecognitionCameraViewController view did load
+2018-05-20 20:57:30.029 | I | -[QuestionPageVC viewDidLoad] | [line:250] | [MESSAGE] Question page view did load. title: AiCure, class: AIFaceRecognitionCameraViewController, reviewing
+2018-05-20 20:57:30.029 | I | -[QuestionPageVC viewDidLoad] | [line:283] | [MESSAGE] Background recording is off.
+2018-05-20 20:57:30.716 | I | +[AINeuralNetworkConfigManager setCurrentMedicationName:shape:color:] | [line:94] | [MESSAGE] Set current medication name: , shape: (null), color: (null).
+2018-05-20 20:57:30.855 | I | -[CameraEngine previewAndInitRecordVideo:recordAudio:videoName:CameraEngineScenario:] | [line:110] | [MESSAGE] Starting up server
+2018-05-20 20:57:31.295 | I | -[StepsController goToCamera] | [line:531] | [MESSAGE] goToCamera
+2018-05-20 20:57:31.296 | I | -[PhasesController defineState] | [line:223] | [MESSAGE] PhasesController defineState 2
+2018-05-20 20:57:31.296 | I | -[CameraEngine startCapture] | [line:187] | [MESSAGE] starting capture
+2018-05-20 20:57:31.982 | I | -[SpeechDetector pocketsphinxDidDetectSpeech] | [line:148] | [MESSAGE] Speech Detector checkOverallBegin
+2018-05-20 20:57:33.780 | I | -[AIFaceRecognitionCameraViewController stopRecording] | [line:103] | [MESSAGE] AIFaceRecognitionCameraViewController stop recording
+2018-05-20 20:57:33.780 | I | -[CameraEngine shutdown] | [line:504] | [MESSAGE] shutting down server
+2018-05-20 20:57:33.917 | I | -[CameraEngine shutdown]_block_invoke | [line:510] | [MESSAGE] Capture completed
+2018-05-20 20:57:35.498 | D | -[AiViewSwitch startApp] | [line:156] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-20 20:57:35.506 | I | +[AIUtil checkPermission] | [line:1132] | [MESSAGE] camera access / mic access Authorized
+2018-05-20 20:57:35.730 | I | -[AiView viewDidLoad] | [line:68] | [MESSAGE] AiView view did load
+2018-05-20 20:57:36.603 | E | -[Transmission update:task_name:] | [line:239] | [MESSAGE] Task Dose_miss_time_report failed
+2018-05-20 20:57:36.883 | I | -[MedProtocolController getNexMedFromUser:dateTime:loadData:context:] | [line:144] | [MESSAGE] currentDoseDone: 0
+2018-05-20 20:57:36.883 | I | -[AiView defineProcess:currentTime:context:] | [line:157] | [MESSAGE] allMedsWithinDoseNotFinished 0
+2018-05-20 20:57:37.081 | I | -[MedicationConfirmVC viewDidLoad] | [line:45] | [MESSAGE] MedicationConfirmVC view did load
+2018-05-20 20:57:37.728 | I | -[FlexibleAudioPlayerController playAudioWithName:] | [line:80] | [MESSAGE] playAudioWithName conclusion_11
+2018-05-20 20:57:37.728 | I | -[AudioPlayer playAudioName:] | [line:38] | [MESSAGE] play audio name conclusion_11

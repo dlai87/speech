@@ -1,0 +1,56 @@
+2018-05-02 14:51:31.996 | I | -[AppDelegate application:didFinishLaunchingWithOptions:] | [line:181] | [MESSAGE] application Did Finish Launching
+2018-05-02 14:51:32.046 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID 0prod1499883450
+2018-05-02 14:51:32.046 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name pro
+2018-05-02 14:51:32.052 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone10,6
+2018-05-02 14:51:32.052 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone X
+2018-05-02 14:51:32.052 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 11.3.1
+2018-05-02 14:51:32.052 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.2
+2018-05-02 14:51:32.052 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language en-US
+2018-05-02 14:51:32.054 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID C3354371-AAE2-4E98-AA8F-9B68CD4C7B2A
+2018-05-02 14:51:32.196 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:414] | [MESSAGE] Succeded to get APNS token data: <470141a3 4053d43b 34e75d8e e28fe17c 281e1a08 2e54f824 67a294ad 80e9a3d8>
+2018-05-02 14:51:32.196 | I | -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] | [line:420] | [MESSAGE] deviceToken:  470141a34053d43b34e75d8ee28fe17c281e1a082e54f82467a294ad80e9a3d8
+2018-05-02 14:51:32.270 | D | -[AiViewSwitch startApp] | [line:157] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-02 14:51:32.285 | I | +[AIUtil checkPermission] | [line:1131] | [MESSAGE] camera access / mic access Authorized
+2018-05-02 14:51:32.363 | I | -[DigitalClockVC viewDidLoad] | [line:136] | [MESSAGE] DigitalClockVC view did load
+2018-05-02 14:51:32.384 | I | -[Transmission sendAll] | [line:79] | [MESSAGE] Transmission send all
+2018-05-02 14:51:32.774 | I | -[Transmission sendAll] | [line:114] | [MESSAGE] Encrypting files
+2018-05-02 14:51:32.865 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:800] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-02 14:51:32.865 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:355] | [MESSAGE] show screen based on status
+2018-05-02 14:51:32.865 | I | -[DigitalClockVC displayReminderView] | [line:512] | [MESSAGE] displayReminderView
+2018-05-02 14:51:32.865 | I | -[DigitalClockVC showDigitalClockNormal] | [line:577] | [MESSAGE] showDigitalClockNormal
+2018-05-02 14:51:32.900 | I | -[DigitalClockVC displayReminderView] | [line:512] | [MESSAGE] displayReminderView
+2018-05-02 14:51:32.900 | I | -[DigitalClockVC showDigitalClockNormal] | [line:577] | [MESSAGE] showDigitalClockNormal
+2018-05-02 14:51:32.910 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:715] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-02 14:51:32.912 | I | -[DigitalClockVC showReimbursement] | [line:629] | [MESSAGE] showReimbursement
+2018-05-02 14:51:34.873 | I | -[Transmission update:task_name:] | [line:236] | [MESSAGE] Task id done: 1
+2018-05-02 14:51:35.027 | I | -[Transmission update:task_name:] | [line:236] | [MESSAGE] Task id done: 2
+2018-05-02 14:51:35.144 | I | -[Transmission update:task_name:] | [line:236] | [MESSAGE] Task id done: 3
+2018-05-02 14:51:35.402 | I | -[AppDelegate applicationWillResignActive:] | [line:196] | [MESSAGE] application Will Resign Active
+2018-05-02 14:51:35.496 | I | -[Transmission update:task_name:] | [line:236] | [MESSAGE] Task id done: 4
+2018-05-02 14:51:35.617 | I | -[Transmission update:task_name:] | [line:236] | [MESSAGE] Task id done: 5
+2018-05-02 14:51:35.759 | I | -[Transmission update:task_name:] | [line:236] | [MESSAGE] Task id done: 6
+2018-05-02 14:51:36.328 | I | -[AppDelegate cleanAlertDialog] | [line:346] | [MESSAGE] clean Alert Dialog
+2018-05-02 14:51:46.789 | I | -[AppDelegate applicationWillEnterForeground:] | [line:221] | [MESSAGE] application will enter foreground
+2018-05-02 14:51:46.789 | I | -[AppDelegate logMataData] | [line:164] | [MESSAGE] trial ID 0prod1499883450
+2018-05-02 14:51:46.789 | I | -[AppDelegate logMataData] | [line:165] | [MESSAGE] trial name 0prod
+2018-05-02 14:51:46.790 | I | -[UIDeviceHardware platformString] | [line:30] | [MESSAGE] apple device internal version code iPhone10,6
+2018-05-02 14:51:46.790 | I | -[AppDelegate logMataData] | [line:166] | [MESSAGE] Device Hardware iPhone X
+2018-05-02 14:51:46.790 | I | -[AppDelegate logMataData] | [line:167] | [MESSAGE] OS Version 11.3.1
+2018-05-02 14:51:46.790 | I | -[AppDelegate logMataData] | [line:168] | [MESSAGE] AiView build version 2018.2
+2018-05-02 14:51:46.790 | I | -[AppDelegate logMataData] | [line:169] | [MESSAGE] device language en-US
+2018-05-02 14:51:46.790 | I | -[AppDelegate logMataData] | [line:170] | [MESSAGE] device UUID C3354371-AAE2-4E98-AA8F-9B68CD4C7B2A
+2018-05-02 14:51:46.902 | D | -[AiViewSwitch startApp] | [line:157] | [MESSAGE] StartApp in AiViewSwitch
+2018-05-02 14:51:46.903 | I | +[AIUtil checkPermission] | [line:1131] | [MESSAGE] camera access / mic access Authorized
+2018-05-02 14:51:46.962 | I | -[DigitalClockVC viewDidLoad] | [line:136] | [MESSAGE] DigitalClockVC view did load
+2018-05-02 14:51:46.980 | I | -[Transmission sendAll] | [line:79] | [MESSAGE] Transmission send all
+2018-05-02 14:51:46.980 | I | -[Transmission sendAll] | [line:114] | [MESSAGE] Encrypting files
+2018-05-02 14:51:47.065 | I | -[DigitalClockVC constructNextActionSchedulesAndQuestionnairesIfPossible] | [line:800] | [MESSAGE] constructNextActionSchedulesAndQuestionnairesIfPossible
+2018-05-02 14:51:47.065 | I | -[DigitalClockVC showScreenBasedOnStatus] | [line:355] | [MESSAGE] show screen based on status
+2018-05-02 14:51:47.065 | I | -[DigitalClockVC displayReminderView] | [line:512] | [MESSAGE] displayReminderView
+2018-05-02 14:51:47.065 | I | -[DigitalClockVC showDigitalClockNormal] | [line:577] | [MESSAGE] showDigitalClockNormal
+2018-05-02 14:51:47.103 | I | -[DigitalClockVC displayReminderView] | [line:512] | [MESSAGE] displayReminderView
+2018-05-02 14:51:47.104 | I | -[DigitalClockVC showDigitalClockNormal] | [line:577] | [MESSAGE] showDigitalClockNormal
+2018-05-02 14:51:47.115 | I | -[DigitalClockVC startPKVisitQuestionIfNecessary] | [line:715] | [MESSAGE] startPKVisitQuestionIfNecessary
+2018-05-02 14:51:47.118 | I | -[DigitalClockVC showReimbursement] | [line:629] | [MESSAGE] showReimbursement
+2018-05-02 14:51:47.319 | I | -[Transmission update:task_name:] | [line:236] | [MESSAGE] Task id done: 1
+2018-05-02 14:51:47.458 | I | -[Transmission update:task_name:] | [line:236] | [MESSAGE] Task id done: 2

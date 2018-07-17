@@ -1,0 +1,16 @@
+2018-05-20 20:06:27.707 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.
+2018-05-20 20:06:28.932 | I | -[InterruptedDialog skipAiview:isZeroLeft:] | [line:139] | [MESSAGE] Interruption choose skip, message I have 0 left
+2018-05-20 20:06:30.411 | I | -[InterruptedDialog skipAiview:isZeroLeft:]_block_invoke | [line:147] | [MESSAGE] Ok button pressed in SKIPPING UNTIL NEXT REMINDER
+2018-05-20 20:06:30.465 | I | -[TransmitionViewController viewDidLoad] | [line:73] | [MESSAGE] view did load
+2018-05-20 20:06:32.466 | I | -[Transmission sendAll] | [line:80] | [MESSAGE] Transmission send all
+2018-05-20 20:06:32.495 | I | -[Transmission sendAll] | [line:110] | [MESSAGE] Add data for transmission 1
+2018-05-20 20:06:32.496 | I | -[Transmission sendAll] | [line:115] | [MESSAGE] Encrypting files
+2018-05-20 20:06:32.908 | I | -[Transmission update:task_name:] | [line:219] | [MESSAGE] Transmitted successfully on user:CE41411A-EF46-4F7C-AA85-EE3C7C4C4986 pill:smarties-white date:2018-05-20 04:00:00 +0000 doseID:0
+2018-05-20 20:06:32.908 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 1
+2018-05-20 20:06:33.098 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 2
+2018-05-20 20:06:33.223 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 3
+2018-05-20 20:06:33.333 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 4
+2018-05-20 20:06:33.604 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 5
+2018-05-20 20:06:33.844 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 6
+2018-05-20 20:06:33.978 | I | -[Transmission update:task_name:] | [line:246] | [MESSAGE] Task id done: 7
+2018-05-20 20:06:34.792 | I | -[AINeuralNetworkConfigManager fileDownloadedWithUrl:succeeded:] | [line:249] | [MESSAGE] Neural network config download succeeded.

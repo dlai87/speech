@@ -32,6 +32,14 @@ class Video(object):
         lastest_file = max(paths, key=os.path.getctime)
         return lastest_file
 
+    def find_between(self, s, first, last ):
+        try:
+            start = s.index( first ) + len( first )
+            end = s.index( last, start )
+            return s[start:end]
+        except Exception, e:
+            return ''
+
     def getTimeInSec(self, string):
         time = 0
         substr = self.find_between(string, "Duration: ", ", start")

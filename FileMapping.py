@@ -5,7 +5,7 @@ import os
 import subprocess
 import re
 import csv
-from PIL import Image, ImageDraw
+from PIL import Image, ImageDraw, ImageFont
 
 ROOT = '/home/sfeng/data/'
 DECRYPT_ROOT = '/data/client100prod/'
@@ -21,7 +21,7 @@ PIX_PER_SEC = 50
 LINE_WIDTH = 60
 GREEN = (77,175,80,255)
 RED = (244,67,54,255)
-BLUE = (179,229,252)
+BLUE = (142,180,232)
 LIGHT_GRAY = (207,216,220, 255)
 DARK_GRAY = (80,80,80,255)
 WHITE = (255,255,255,255)
@@ -212,7 +212,8 @@ def drawDetection(detection, draw):
     draw.line(position, fill=RED, width = LINE_WIDTH)
     x = x1 + (x2-x1)/3
     y = y1 + 50 
-    draw.text((x,y), str(detection[1] - detection[0]) + 's',  fill=DARK_GRAY)
+    font = ImageFont.truetype("arial.ttf", 10)
+    draw.text((x,y), str(detection[1] - detection[0]) + 's', font = font,  fill=DARK_GRAY)
 
 
 def drawPrompt(prompt, draw): 

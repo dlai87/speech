@@ -159,7 +159,7 @@ def createCSVfile(video, duration, detectList, promptList):
         fieldnames = ['time', 'type', 'metadata']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
-        writer.writerow({'metadata', video.getMetadata()})
+        writer.writerow({'metadata':video.getMetadata()})
         for prompt in promptList:
             writer.writerow({'time':prompt[0], 'type':'IMA start'})
             writer.writerow({'time':prompt[1], 'type':'IMA stop'})

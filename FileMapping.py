@@ -40,15 +40,14 @@ class Video(object):
 
     def get_duration(self):
         filename = self.decrypt_video_path
-        result = subprocess.Popen([FFPROBE_PATH, filename],
-        stdout = subprocess.PIPE, stderr = subprocess.STDOUT)
+        result = subprocess.Popen([FFPROBE_PATH, filename], stdout = subprocess.PIPE, stderr = subprocess.STDOUT)
+        print result
         for line in result.stdout.readlines():
             if "Duration" in line :
                 string = line 
                 print string
                 originalDuration = self.getTimeInSec(string)
                 print originalDuration
-        return [x for x in result.stdout.readlines() if "Duration" in x]
 
 
 def createVideoList():

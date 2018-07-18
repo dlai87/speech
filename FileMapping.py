@@ -101,13 +101,13 @@ class Video(object):
         log_filename = self.log_path
         with open(log_filename) as json_data:
             d = json.load(json_data)
-            detectList = self.extractHumanTalking(d)
-            promptList = self.extractAudioPrompt(d)
+            self.detectList = self.extractHumanTalking(d)
+            self.promptList = self.extractAudioPrompt(d)
             self.speech_total = 0 
             for detect in detectList:
                 self.speech_total += (detect[1] - detect[0])
             self.ttr = detectList[0][0] - promptList[0][1]
-            return detectList, promptList
+            return self.detectList, self.promptList
 
     # private method 
     def extractHumanTalking(self, d):

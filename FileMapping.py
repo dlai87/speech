@@ -22,6 +22,7 @@ LINE_WIDTH = 60
 GREEN = (77,175,80,255)
 RED = (244,67,54,255)
 BLUE = (142,180,232)
+LIGHT_BLUE = (162,180,252)
 LIGHT_GRAY = (207,216,220, 255)
 DARK_GRAY = (60,60,60,255)
 WHITE = (255,255,255,255)
@@ -177,7 +178,7 @@ def createCSVfile(video, duration, detectList, promptList):
             writer.writerow({'time':prompt[1], 'type':'IMA stop'})
         for detection in detectList: 
             writer.writerow({'time':detection[0], 'type':'human start'})
-            writer.writerow({'time':detection[1], 'type':'huam stop'})
+            writer.writerow({'time':detection[1], 'type':'human stop'})
 
 def createVisulizeImage(video, duration, detectList, promptList):
     if detectList[-1][1] > duration:
@@ -233,6 +234,7 @@ def drawPoints(duration, video, draw):
     left = MARGIN_H + duration * PIX_PER_SEC
     right = left + LINE_WIDTH
     draw.ellipse((left, upper, right, lower), fill = RED, outline =RED)
+    draw.line((MARGIN_H, MARGIN_V + LINE_WIDTH/2, MARGIN_H + duration * PIX_PER_SEC, MARGIN_V + LINE_WIDTH/2), fill = LIGHT_BLUE, width = 4)
     x = right + 22
     y = upper + 20
     font = ImageFont.truetype("./font/OpenSans-Regular.ttf", 22)

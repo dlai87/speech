@@ -117,4 +117,6 @@ if __name__ == "__main__":
         video.get_duration()
         detectList, promptList = video.parseSpeechLog()
         print detectList
+        print "===>"
         print promptList
+        print "<==="

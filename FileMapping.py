@@ -15,7 +15,7 @@ CSV_ROOT = 'csv/'
 IMAGE_ROOT = 'img/'
 
 # UI related 
-MARGIN_H = 100
+MARGIN_H = 280
 MARGIN_V = 80
 PIX_PER_SEC = 50 
 LINE_WIDTH = 60
@@ -212,7 +212,7 @@ def drawDetection(detection, draw):
     draw.line(position, fill=RED, width = LINE_WIDTH)
     x = x1 + (x2-x1)/3
     y = y1 + 50 
-    font = ImageFont.truetype("./font/OpenSans-Regular.ttf", 11)
+    font = ImageFont.truetype("./font/OpenSans-Regular.ttf", 22)
     draw.text((x,y), str(detection[1] - detection[0]) + 's', font = font,  fill=DARK_GRAY)
 
 

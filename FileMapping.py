@@ -23,7 +23,7 @@ GREEN = (77,175,80,255)
 RED = (244,67,54,255)
 BLUE = (142,180,232)
 LIGHT_GRAY = (207,216,220, 255)
-DARK_GRAY = (80,80,80,255)
+DARK_GRAY = (60,60,60,255)
 WHITE = (255,255,255,255)
 
 class Video(object):
@@ -234,7 +234,7 @@ def drawPoints(duration, video, draw):
     right = left + LINE_WIDTH
     draw.ellipse((left, upper, right, lower), fill = RED, outline =RED)
     x = right + 50
-    y = upper + 50
+    y = upper + 20
     font = ImageFont.truetype("./font/OpenSans-Regular.ttf", 22)
     draw.text((x,y), str(video.originalDuration) + 's total', font = font,  fill=DARK_GRAY)
 

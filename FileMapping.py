@@ -95,7 +95,10 @@ class Video(object):
                 if detection is not None:
                     detection.append(record['timeInSec'])
                     detectList.append(detection)
-        return detectList
+        promptList = []
+        for i in range(1, len(detectList)): 
+            promptList.append([detectList[i-1][1], detectList[i][0]])
+        return promptList
 
 
 def createVideoList():

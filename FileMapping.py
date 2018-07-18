@@ -190,11 +190,11 @@ def createVisulizeImage(video, duration, detectList, promptList):
     image_height = int ( LINE_WIDTH + MARGIN_V * 2 )
     canvas = Image.new('RGBA', (image_width, image_height), LIGHT_GRAY) 
     draw = ImageDraw.Draw(canvas)
-    drawPoints(duration, video, draw)
     for detection in detectList:
         drawDetection(detection, draw)
     for prompt in promptList:
         drawPrompt(prompt, draw)
+    drawPoints(duration, video, draw)
     writepath = IMAGE_ROOT + video.video_name + '.png'
     canvas.save(writepath)
     pass 
@@ -212,7 +212,7 @@ def drawDetection(detection, draw):
     position = (x2-5, y1, x2, y2)
     draw.line(position, fill=RED, width = LINE_WIDTH)
     x = x1 + (x2-x1)/3
-    y = y1 + 50 
+    y = y1 - 40 
     font = ImageFont.truetype("./font/OpenSans-Regular.ttf", 22)
     draw.text((x,y), str(detection[1] - detection[0]) + 's', font = font,  fill=DARK_GRAY)
 
@@ -223,6 +223,10 @@ def drawPrompt(prompt, draw):
     x2 = MARGIN_H + PIX_PER_SEC * prompt[1]
     y2 = MARGIN_V + LINE_WIDTH / 2 
     position = (x1, y1, x2, y2)
+    draw.line(position, fill=BLUE, width = 10)
+    position = (x1, y1, x1+5, y2)
+    draw.line(position, fill=BLUE, width = LINE_WIDTH)
+    position = (x2-5, y1, x2, y2)
     draw.line(position, fill=BLUE, width = LINE_WIDTH)
 
 def drawPoints(duration, video, draw): 
@@ -239,6 +243,9 @@ def drawPoints(duration, video, draw):
     y = upper + 20
     font = ImageFont.truetype("./font/OpenSans-Regular.ttf", 22)
     draw.text((x,y), str(video.originalDuration) + 's total', font = font,  fill=DARK_GRAY)
+
+def drawTTR(prompt, detection, draw):
+    pass 
 
  
 

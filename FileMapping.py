@@ -31,7 +31,7 @@ class Video(object):
         lastest_file = max(paths, key=os.path.getctime)
         return lastest_file
 
-    def getLength(self):
+    def get_duration(self):
         filename = self.decrypt_video_path
         result = subprocess.Popen([FFPROBE_PATH, filename],
         stdout = subprocess.PIPE, stderr = subprocess.STDOUT)

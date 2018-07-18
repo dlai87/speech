@@ -214,10 +214,10 @@ def drawPoints(duration, draw):
     left = MARGIN_H - LINE_WIDTH
     lower = MARGIN_V + LINE_WIDTH
     right = MARGIN_H
-    draw.ellipse((upper, left, lower, right), fill = 'green', outline ='green')
+    draw.ellipse((left, upper, right, lower), fill = 'green', outline ='green')
     left = MARGIN_H + duration * PIX_PER_SEC
     right = left + LINE_WIDTH
-    draw.ellipse((upper, left, lower, right), fill = 'red', outline ='red')
+    draw.ellipse((left, upper, right, lower), fill = 'red', outline ='red')
 
  
 

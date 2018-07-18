@@ -83,6 +83,8 @@ class Video(object):
                 detectList.append(detection)
         return detectList
 
+        
+
     # private  method 
     def extractAudioPrompt(self, d):
         records = d['speechDetectionLog']['SpeechDetectionRecords']

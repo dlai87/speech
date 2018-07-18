@@ -212,7 +212,7 @@ def drawDetection(detection, draw):
     draw.line(position, fill=RED, width = LINE_WIDTH)
     x = x1 + (x2-x1)/3
     y = y1 + 50 
-    font = ImageFont.truetype("arial.ttf", 10)
+    font = ImageFont.truetype("./font/OpenSans-Regular.ttf", 11)
     draw.text((x,y), str(detection[1] - detection[0]) + 's', font = font,  fill=DARK_GRAY)
 
 

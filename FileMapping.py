@@ -174,10 +174,12 @@ def createCSVfile(video, duration, detectList, promptList):
             writer.writerow({'time':detection[1], 'type':'huam stop'})
 
 def createVisulizeImage(video, duration, detectList, promptList):
+    """
     if detectList[-1][1] > duration:
         duration = detectList[-1][1]
     if promptList[-1][1] > duration:
         duration = promptList[-1][1]
+    """
     image_width = int ( duration * PIX_PER_SEC + MARGIN_H * 2 )
     image_height = int ( LINE_WIDTH + MARGIN_H * 2 )
     canvas = Image.new('RGBA', (image_width, image_height), (180, 180, 180, 255)) 

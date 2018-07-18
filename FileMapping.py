@@ -66,8 +66,8 @@ class Video(object):
         with open(log_filename) as json_data:
             d = json.load(json_data)
             detectList = self.extractHumanTalking(d)
-            promptList, firstActivateTime = self.extractAudioPrompt(d)
-            return detectList, promptList, firstActivateTime
+            promptList = self.extractAudioPrompt(d)
+            return detectList, promptList
 
     # private method 
     def extractHumanTalking(self, d):
@@ -83,7 +83,7 @@ class Video(object):
                 detectList.append(detection)
         return detectList
 
-        
+
 
     # private  method 
     def extractAudioPrompt(self, d):
@@ -102,9 +102,11 @@ class Video(object):
                     detection.append(record['timeInSec'])
                     detectList.append(detection)
         promptList = []
+        promptList.append[0, firstActivateTime]   # from 0 sec to first actived , is initial IMA talking
         for i in range(1, len(detectList)): 
+            # IMA talking during prompt up instrution 
             promptList.append([detectList[i-1][1], detectList[i][0]])
-        return promptList, firstActivateTime
+        return promptList
 
 
 def createVideoList():
@@ -124,9 +126,8 @@ if __name__ == "__main__":
     videoList = createVideoList()
     for video in videoList:
         duration = video.get_duration()
-        detectList, promptList, firstActivateTime = video.parseSpeechLog()
+        detectList, promptList = video.parseSpeechLog()
         print duration
         print detectList
         print promptList
-        print firstActivateTime
         print "========================="

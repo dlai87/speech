@@ -31,10 +31,23 @@ class Video(object):
         lastest_file = max(paths, key=os.path.getctime)
         return lastest_file
 
+    def getTimeInSec(self, string):
+        time = 0
+        substr = self.find_between(string, "Duration: ", ", start")
+        times = substr.replace(':',' ').replace('.',' ').split()
+        time = int(times[3])*10+int(times[2])*1000+(int)(times[1])*60*1000+(int)(times[0])*60*60*1000
+        return time/1000
+
     def get_duration(self):
         filename = self.decrypt_video_path
         result = subprocess.Popen([FFPROBE_PATH, filename],
         stdout = subprocess.PIPE, stderr = subprocess.STDOUT)
+        for line in result.stdout.readlines():
+            if "Duration" in line :
+                string = line 
+                print string
+                originalDuration = self.getTimeInSec(string)
+                print originalDuration
         return [x for x in result.stdout.readlines() if "Duration" in x]
 
 
@@ -54,4 +67,4 @@ def createVideoList():
 if __name__ == "__main__":
     videoList = createVideoList()
     for video in videoList:
-        print video.get_duration()
+        video.get_duration()

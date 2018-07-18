@@ -49,7 +49,7 @@ class Video(object):
         substr = self.find_between(string, "Duration: ", ", start")
         times = substr.replace(':',' ').replace('.',' ').split()
         time = int(times[3])*10+int(times[2])*1000+(int)(times[1])*60*1000+(int)(times[0])*60*60*1000
-        return time/1000.0
+        return time/1000
 
     def get_duration(self):
         tokens = self.s3_video_path.split('/')

@@ -84,16 +84,18 @@ class Video(object):
 
     # private  method 
     def extractAudioPrompt(self, d):
-        promptList = []
-        try : 
-            audioPrompt = d['audioPromptLog']
-            if audioPrompt is not None:
-                promptLogs = audioPrompt['logs']
-                for log in promptLogs:
-                    promptList.append([log['occurTimeInSec'] , PROMPT_DICT[log['audioPromptType']]])
-        except: 
-            print("audioPromptLog dosen't exist.")
-        return promptList
+        records = d['speechDetectionLog']['SpeechDetectionRecords']
+        detectList = [] 
+        detection = None
+        for record in records:
+            if record['type'] == "activated":
+                detection = [] 
+                detection.append(record['timeInSec'])
+            if record['type'] == "deactivated":
+                if detection is not None:
+                    detection.append(record['timeInSec'])
+                    detectList.append(detection)
+        return detectList
 
 
 def createVideoList():

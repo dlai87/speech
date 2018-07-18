@@ -104,9 +104,9 @@ class Video(object):
             self.detectList = self.extractHumanTalking(d)
             self.promptList = self.extractAudioPrompt(d)
             self.speech_total = 0 
-            for detect in detectList:
+            for detect in self.detectList:
                 self.speech_total += (detect[1] - detect[0])
-            self.ttr = detectList[0][0] - promptList[0][1]
+            self.ttr = self.detectList[0][0] - self.promptList[0][1]
             return self.detectList, self.promptList
 
     # private method 

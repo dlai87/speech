@@ -22,7 +22,7 @@ LINE_WIDTH = 60
 GREEN = (77,175,80,255)
 RED = (244,67,54,255)
 BLUE = (142,180,232)
-LIGHT_BLUE = (162,180,252)
+LIGHT_BLUE = (162,180,252, 200)
 LIGHT_GRAY = (207,216,220, 255)
 DARK_GRAY = (60,60,60,255)
 WHITE = (255,255,255,255)
@@ -212,7 +212,7 @@ def drawDetection(detection, draw):
     position = (x2-5, y1, x2, y2)
     draw.line(position, fill=RED, width = LINE_WIDTH)
     x = x1 + (x2-x1)/3
-    y = y1 - 40 
+    y = y1 - 50 
     font = ImageFont.truetype("./font/OpenSans-Regular.ttf", 22)
     draw.text((x,y), str(detection[1] - detection[0]) + 's', font = font,  fill=DARK_GRAY)
 
@@ -238,7 +238,7 @@ def drawPoints(duration, video, draw):
     left = MARGIN_H + duration * PIX_PER_SEC
     right = left + LINE_WIDTH
     draw.ellipse((left, upper, right, lower), fill = RED, outline =RED)
-    draw.line((MARGIN_H, MARGIN_V + LINE_WIDTH/2, MARGIN_H + duration * PIX_PER_SEC, MARGIN_V + LINE_WIDTH/2), fill = LIGHT_BLUE, width = 4)
+    draw.line((MARGIN_H, MARGIN_V + LINE_WIDTH/2, MARGIN_H + duration * PIX_PER_SEC, MARGIN_V + LINE_WIDTH/2), fill = LIGHT_BLUE, width = 2)
     x = right + 22
     y = upper + 20
     font = ImageFont.truetype("./font/OpenSans-Regular.ttf", 22)

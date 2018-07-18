@@ -9,13 +9,16 @@ class Video(object):
     def __init__(self, decrypt_video_path, s3_video_path):
         self.decrypt_video_path = decrypt_video_path
         self.s3_video_path = s3_video_path
-        self.log_path = self.getLogFile()
         print "===>"
-        print self.log_path
+        try:
+            self.log_path = self.getLogFile()
+            print self.log_path
+        except:
+            print "*******cannot find********"
         print "<==="
 
     def getLogFile(self):
-        logfile = self.s3_video_path.replace('phi/client100prod_1525443315/', 'non_phi/')
+        logfile = self.s3_video_path.replace('phi/', 'non_phi/')
         path = logfile.rsplit('/',1)[0]
         path = ROOT + path
         print path

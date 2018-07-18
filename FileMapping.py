@@ -247,7 +247,7 @@ def drawPoints(duration, video, draw):
     x = right + 22
     y = upper + 15
     font = ImageFont.truetype("./font/OpenSans-Regular.ttf", 22)
-    draw.text((x,y), str(format(video.originalDuration), '.3f') + 's total', font = font,  fill=DARK_GRAY)
+    draw.text((x,y), str(format(video.originalDuration, '.3f')) + 's total', font = font,  fill=DARK_GRAY)
     font = ImageFont.truetype("./font/OpenSans-Regular.ttf", 18)
 
 def drawTTR():

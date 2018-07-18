@@ -14,8 +14,8 @@ class Video(object):
             self.log_path = self.getLogFile()
             print self.log_path
             print "FOUND !!!!!!!!!!!!!!!!!!"
-        except:
-            print "*******cannot find********"
+        except Exception, e :
+            print "*******cannot find********" + str(e)
         print "<==="
 
     def getLogFile(self):

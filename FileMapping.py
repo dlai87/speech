@@ -249,10 +249,22 @@ def drawPoints(duration, video, draw):
     font = ImageFont.truetype("./font/OpenSans-Regular.ttf", 22)
     draw.text((x,y), str(format(video.originalDuration, '.3f')) + 's total', font = font,  fill=DARK_GRAY)
     font = ImageFont.truetype("./font/OpenSans-Regular.ttf", 18)
-    draw.text((x, y + 25), str(format(video.ttr, '.3f')) + 's TTR\n' + str(format(video.speech_total, '.3f')) + 's speech', font = font, fill = DARK_GRAY)
+    draw.text((x, y + 30), str(format(video.ttr, '.3f')) + 's TTR\n' + str(format(video.speech_total, '.3f')) + 's speech', font = font, fill = DARK_GRAY)
 
 
  
+def drawTTR(video, draw): 
+    prompt = video.promptList[0]
+    detection = video.detectList[0]
+    x1 = MARGIN_H + prompt[1]*PIX_PER_SEC
+    y1 = MARGIN_V + LINE_WIDTH/2
+    x2 = MARGIN_H + detection[0]*PIX_PER_SEC
+    y2 = MARGIN_V + LINE_WIDTH/2
+    draw.line((x1, y1, x2, y2), fill = DARK_GRAY, width = 4)
+    x = x1 + (x2-x1)/3
+    y = y1 + 50 
+    font = ImageFont.truetype("./font/OpenSans-Regular.ttf", 22)
+    draw.text((x,y), str(format( video.ttr, '.3f')  ) + 's', font = font,  fill=DARK_GRAY)
 
 
 

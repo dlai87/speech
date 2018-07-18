@@ -24,6 +24,10 @@ class Video(object):
         except Exception, e :
             print "*******cannot find********" + str(e)
 
+    def getIdentity(self):
+        tokens = self.s3_video_path.split('/')
+        print tokens
+
     # private method
     def getLogFile(self):
         logfile = self.s3_video_path.replace('phi/', 'non_phi/')
@@ -121,10 +125,17 @@ def createVideoList():
         print len(data.items())
         return videoList
 
+def createCSVfile():
+    pass
+
+def createVisulizeImage():
+    pass 
+
 
 if __name__ == "__main__":
     videoList = createVideoList()
     for video in videoList:
+        video.getIdentity()
         duration = video.get_duration()
         detectList, promptList = video.parseSpeechLog()
         print duration

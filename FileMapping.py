@@ -148,7 +148,7 @@ def createCSVfile(video, duration, detectList, promptList):
     if not os.path.exists(writepath):
         os.mknod(writepath)
     with open(writepath, 'w') as csvfile: 
-        fieldnames = ['time', 'tpye']
+        fieldnames = ['time', 'type']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
         for prompt in promptList:

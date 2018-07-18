@@ -144,7 +144,9 @@ def groupByQuestionniare():
     pass
 
 def createCSVfile(video, duration, detectList, promptList):
-    with open(CSV_ROOT + video.video_name + '.csv', 'w+') as csvfile: 
+    writepath = CSV_ROOT + video.video_name + '.csv'
+    mode = 'a' if os.path.exists(writepath) else 'w'
+    with open(writepath, mode) as csvfile: 
         fieldnames = ['time', 'tpye']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()

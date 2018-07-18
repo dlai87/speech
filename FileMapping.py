@@ -43,6 +43,8 @@ class Video(object):
         filename = DECRYPT_ROOT + self.decrypt_video_path
         print filename
         print self.s3_video_path
+        tokens = self.s3_video_path.split('/')
+        print tokens
         result = subprocess.Popen([FFPROBE_PATH, filename], stdout = subprocess.PIPE, stderr = subprocess.STDOUT)
         print result
         for line in result.stdout.readlines():

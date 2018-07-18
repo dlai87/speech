@@ -31,14 +31,11 @@ class Video(object):
         lastest_file = max(paths, key=os.path.getctime)
         return lastest_file
 
-    def get_duration(self):
-        # valid for any audio file accepted by ffprobe
+    def getLength(self):
         filename = self.decrypt_video_path
-        args = (FFPROBE_PATH, "-show_entries", "format=duration", "-i", filename)
-        popen = subprocess.Popen(args, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-        output, err = popen.communicate()
-        match = re.search(r"[-+]?\d*\.\d+|\d+", output)
-        return float(match.group()) 
+        result = subprocess.Popen([FFPROBE_PATH, filename],
+        stdout = subprocess.PIPE, stderr = subprocess.STDOUT)
+        return [x for x in result.stdout.readlines() if "Duration" in x]
 
 
 def createVideoList():

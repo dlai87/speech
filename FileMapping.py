@@ -174,7 +174,10 @@ def createCSVfile(video, duration, detectList, promptList):
             writer.writerow({'time':detection[1], 'type':'huam stop'})
 
 def createVisulizeImage(video, duration, detectList, promptList):
-    
+    if detectList[-1][1] > duration:
+        duration = detectList[-1][1]
+    if promptList[-1][1] > duration:
+        duration = promptList[-1][1]
     image_width = int ( duration * PIX_PER_SEC + MARGIN_H * 2 )
     image_height = int ( LINE_WIDTH + MARGIN_H * 2 )
     canvas = Image.new('RGBA', (image_width, image_height), (180, 180, 180, 255)) 
@@ -191,9 +194,9 @@ def createVisulizeImage(video, duration, detectList, promptList):
 
 def drawDetection(detection, draw):
     x1 = MARGIN_H + PIX_PER_SEC * detection[0]
-    y1 = MARGIN_V
+    y1 = MARGIN_V + LINE_WIDTH / 2
     x2 = MARGIN_H + PIX_PER_SEC * detection[1]
-    y2 = MARGIN_V
+    y2 = MARGIN_V + LINE_WIDTH / 2
     position = (x1, y1, x2, y2)
     draw.line(position, fill=(255,255,255,255), width = LINE_WIDTH)
     position = (x1, y1, x1+5, y2)
@@ -203,9 +206,9 @@ def drawDetection(detection, draw):
 
 def drawPrompt(prompt, draw): 
     x1 = MARGIN_H + PIX_PER_SEC * prompt[0]
-    y1 = MARGIN_V
+    y1 = MARGIN_V + LINE_WIDTH / 2
     x2 = MARGIN_H + PIX_PER_SEC * prompt[1]
-    y2 = MARGIN_V
+    y2 = MARGIN_V + LINE_WIDTH / 2 
     position = (x1, y1, x2, y2)
     draw.line(position, fill=(0,0,255,255), width = LINE_WIDTH)
 

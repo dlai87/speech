@@ -7,6 +7,7 @@ import re
 from PIL import Image, ImageDraw
 
 ROOT = '/home/sfeng/data/'
+DECRYPT_ROOT = '/data/client100prod/'
 FFPROBE_PATH = './ffprobe'
 
 
@@ -39,7 +40,7 @@ class Video(object):
         return time/1000
 
     def get_duration(self):
-        filename = self.decrypt_video_path
+        filename = DECRYPT_ROOT + self.decrypt_video_path
         print filename
         result = subprocess.Popen([FFPROBE_PATH, filename], stdout = subprocess.PIPE, stderr = subprocess.STDOUT)
         print result

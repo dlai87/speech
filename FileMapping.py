@@ -218,7 +218,7 @@ def drawDetection(detection, draw):
     draw.line(position, fill=RED, width = LINE_WIDTH)
     x = x1 + (x2-x1)/3
     y = y1 - 62 
-    font = ImageFont.truetype("./font/OpenSans-Regular.ttf", 22)
+    font = ImageFont.truetype("./font/OpenSans-Regular.ttf", 18)
     draw.text((x,y), str(format(detection[1] - detection[0], '.3f')  ) + 's', font = font,  fill=DARK_GRAY)
 
 

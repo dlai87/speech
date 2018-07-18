@@ -40,11 +40,10 @@ class Video(object):
         return time/1000
 
     def get_duration(self):
-        filename = DECRYPT_ROOT + self.decrypt_video_path
-        print filename
-        print self.s3_video_path
         tokens = self.s3_video_path.split('/')
         print tokens
+        filename = DECRYPT_ROOT + tokens[2] + '/' + self.decrypt_video_path
+        print filename
         result = subprocess.Popen([FFPROBE_PATH, filename], stdout = subprocess.PIPE, stderr = subprocess.STDOUT)
         print result
         for line in result.stdout.readlines():

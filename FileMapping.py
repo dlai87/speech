@@ -186,10 +186,10 @@ def createVisulizeImage(video, duration, detectList, promptList):
         duration = promptList[-1][1]
     
     image_width = int ( duration * PIX_PER_SEC + MARGIN_H * 2 )
-    image_height = int ( LINE_WIDTH + MARGIN_H * 2 )
+    image_height = int ( LINE_WIDTH + MARGIN_V * 2 )
     canvas = Image.new('RGBA', (image_width, image_height), LIGHT_GRAY) 
     draw = ImageDraw.Draw(canvas)
-    drawPoints(duration, draw)
+    drawPoints(duration, video, draw)
     for detection in detectList:
         drawDetection(detection, draw)
     for prompt in promptList:
@@ -224,7 +224,7 @@ def drawPrompt(prompt, draw):
     position = (x1, y1, x2, y2)
     draw.line(position, fill=BLUE, width = LINE_WIDTH)
 
-def drawPoints(duration, draw): 
+def drawPoints(duration, video, draw): 
     upper = MARGIN_V
     left = MARGIN_H - LINE_WIDTH
     lower = MARGIN_V + LINE_WIDTH
@@ -233,6 +233,10 @@ def drawPoints(duration, draw):
     left = MARGIN_H + duration * PIX_PER_SEC
     right = left + LINE_WIDTH
     draw.ellipse((left, upper, right, lower), fill = RED, outline =RED)
+    x = right + 50
+    y = upper + 50
+    font = ImageFont.truetype("./font/OpenSans-Regular.ttf", 22)
+    draw.text((x,y), str(video.originalDuration) + 's total', font = font,  fill=DARK_GRAY)
 
  
 

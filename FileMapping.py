@@ -38,6 +38,14 @@ class Video(object):
         self.question_id = tokens[6]
         self.video_name = tokens[7]
 
+    def getMetadata(self):
+        return 'trial_id:' + str(self.trial_id) + ',\n'\
+        + 'patient_id:' + str(self.patient_id) + ',\n'\
+        + 'date:' + str(self.date) + ',\n'\
+        + 'questionnaire_id:' + str(self.questionnaire_id) + ',\n'\
+        + 'question_id:' + str(self.question_id) + ',\n'\
+        + 'video_name:' + str(self.video_name) + ',\n'
+
 
     # private method
     def getLogFile(self):
@@ -148,9 +156,10 @@ def createCSVfile(video, duration, detectList, promptList):
     if not os.path.exists(writepath):
         os.mknod(writepath)
     with open(writepath, 'w') as csvfile: 
-        fieldnames = ['time', 'type']
+        fieldnames = ['time', 'type', 'metadata']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
+        writer.writerow({'metadata', video.getMetadata()})
         for prompt in promptList:
             writer.writerow({'time':prompt[0], 'type':'IMA start'})
             writer.writerow({'time':prompt[1], 'type':'IMA stop'})

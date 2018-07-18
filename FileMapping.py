@@ -31,7 +31,7 @@ class Video(object):
         lastest_file = max(paths, key=os.path.getctime)
         return lastest_file
 
-    def get_duration():
+    def get_duration(self):
         # valid for any audio file accepted by ffprobe
         filename = self.decrypt_video_path
         args = (FFPROBE_PATH, "-show_entries", "format=duration", "-i", filename)

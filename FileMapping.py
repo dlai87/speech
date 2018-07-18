@@ -14,6 +14,12 @@ FFPROBE_PATH = './ffprobe'
 CSV_ROOT = 'csv/'
 IMAGE_ROOT = 'img/'
 
+# UI related 
+MARGIN_H = 100
+MARGIN_V = 80
+PIX_PER_SEC = 50 
+LINE_WIDTH = 60
+
 class Video(object):
     def __init__(self, decrypt_video_path, s3_video_path):
         self.decrypt_video_path = decrypt_video_path
@@ -166,10 +172,55 @@ def createCSVfile(video, duration, detectList, promptList):
         for detection in detectList: 
             writer.writerow({'time':detection[0], 'type':'human start'})
             writer.writerow({'time':detection[1], 'type':'huam stop'})
-    pass
 
 def createVisulizeImage(video, duration, detectList, promptList):
+    
+    image_width = int ( duration * PIX_PER_SEC + MARGIN_H * 2 )
+    image_height = int ( LINE_WIDTH + MARGIN_H * 2 )
+    canvas = Image.new('RGBA', (image_width, image_height), (180, 180, 180, 255)) 
+    draw = ImageDraw.Draw(canvas)
+    drawPoints(duration, draw)
+    for detection in detectList:
+        drawDetection(detection, draw)
+    for prompt in promptList:
+        drawPrompt(prompt, draw)
+    writepath = IMAGE_ROOT + video.video_name + '.png'
+    canvas.save(writepath)
     pass 
+
+
+def drawDetection(detection, draw):
+    x1 = MARGIN_H + PIX_PER_SEC * detection[0]
+    y1 = MARGIN_V
+    x2 = MARGIN_H + PIX_PER_SEC * detection[1]
+    y2 = MARGIN_V
+    position = (x1, y1, x2, y2)
+    draw.line(position, fill=(255,255,255,255), width = LINE_WIDTH)
+    position = (x1, y1, x1+5, y2)
+    draw.line(position, fill=(100,255,100,255), width = LINE_WIDTH)
+    position = (x2-5, y1, x2, y2)
+    draw.line(position, fill=(255,100,100,255), width = LINE_WIDTH)
+
+def drawPrompt(prompt, draw): 
+    x1 = MARGIN_H + PIX_PER_SEC * prompt[0]
+    y1 = MARGIN_V
+    x2 = MARGIN_H + PIX_PER_SEC * prompt[1]
+    y2 = MARGIN_V
+    position = (x1, y1, x2, y2)
+    draw.line(position, fill=(0,0,255,255), width = LINE_WIDTH)
+
+def drawPoints(duration, draw): 
+    upper = MARGIN_V
+    left = MARGIN_H - LINE_WIDTH
+    lower = MARGIN_V + LINE_WIDTH
+    right = MARGIN_H
+    draw.ellipse((upper, left, lower, right), fill = 'green', outline ='green')
+    left = MARGIN_H + duration * PIX_PER_SEC
+    right = left + LINE_WIDTH
+    draw.ellipse((upper, left, lower, right), fill = 'red', outline ='red')
+
+ 
+
 
 
 if __name__ == "__main__":
@@ -181,4 +232,5 @@ if __name__ == "__main__":
         print detectList
         print promptList
         createCSVfile(video, duration, detectList, promptList)
+        createVisulizeImage(video, duration, detectList, promptList)
         print "========================="

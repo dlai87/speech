@@ -17,12 +17,14 @@ class Video(object):
         self.decrypt_video_path = decrypt_video_path
         self.s3_video_path = s3_video_path
         self.valid = False
+        self.originalDuration = -1
         try:
             self.log_path = self.getLogFile()
             self.valid = True
         except Exception, e :
             print "*******cannot find********" + str(e)
 
+    # private method
     def getLogFile(self):
         logfile = self.s3_video_path.replace('phi/', 'non_phi/')
         path = logfile.rsplit('/',1)[0]
@@ -32,6 +34,7 @@ class Video(object):
         lastest_file = max(paths, key=os.path.getctime)
         return lastest_file
 
+    # private method 
     def find_between(self, s, first, last ):
         try:
             start = s.index( first ) + len( first )
@@ -40,6 +43,7 @@ class Video(object):
         except Exception, e:
             return ''
 
+    # private method 
     def getTimeInSec(self, string):
         time = 0
         substr = self.find_between(string, "Duration: ", ", start")
@@ -49,17 +53,47 @@ class Video(object):
 
     def get_duration(self):
         tokens = self.s3_video_path.split('/')
-        print tokens
         filename = DECRYPT_ROOT + tokens[2] + '/' + self.decrypt_video_path
-        print filename
         result = subprocess.Popen([FFPROBE_PATH, filename], stdout = subprocess.PIPE, stderr = subprocess.STDOUT)
-        print result
         for line in result.stdout.readlines():
             if "Duration" in line :
                 string = line 
-                print string
-                originalDuration = self.getTimeInSec(string)
-                print originalDuration
+                self.originalDuration = self.getTimeInSec(string)
+
+    def parseSpeechLog(self):
+        log_filename = self.log_path
+        with open(log_filename) as json_data:
+            d = json.load(json_data)
+            detectList = self.extractHumanTalking(d)
+            promptList = self.extractAudioPrompt(d)
+            return detectList, promptList
+
+    # private method 
+    def extractHumanTalking(self, d):
+        records = d['speechDetectionLog']['SpeechDetectionRecords']
+        detectList = [] 
+        detection = None
+        for record in records:
+            if record['type'] == "begin_overall":
+                detection = [] 
+                detection.append(record['timeInSec'])
+            if record['type'] == "end_overall":
+                detection.append(record['timeInSec'])
+                detectList.append(detection)
+        return detectList
+
+    # private  method 
+    def extractAudioPrompt(self, d):
+        promptList = []
+        try : 
+            audioPrompt = d['audioPromptLog']
+            if audioPrompt is not None:
+                promptLogs = audioPrompt['logs']
+                for log in promptLogs:
+                    promptList.append([log['occurTimeInSec'] , PROMPT_DICT[log['audioPromptType']]])
+        except: 
+            print("audioPromptLog dosen't exist.")
+        return promptList
 
 
 def createVideoList():
@@ -79,3 +113,6 @@ if __name__ == "__main__":
     videoList = createVideoList()
     for video in videoList:
         video.get_duration()
+        detectList, promptList = video.parseSpeechLog()
+        print detectList
+        print promptList

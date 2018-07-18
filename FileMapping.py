@@ -199,6 +199,7 @@ def createVisulizeImage(video, duration, detectList, promptList):
     for prompt in promptList:
         drawPrompt(prompt, draw)
     drawPoints(duration, video, draw)
+    drawTTR(video, draw)
     writepath = IMAGE_ROOT + video.video_name + '.png'
     canvas.save(writepath)
     pass 

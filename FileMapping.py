@@ -4,8 +4,6 @@ import glob
 import os
 
 ROOT = '/home/sfeng/data/'
-found = 0 
-total = 0 
     
 class Video(object):
     def __init__(self, decrypt_video_path, s3_video_path):
@@ -16,11 +14,9 @@ class Video(object):
             self.log_path = self.getLogFile()
             print self.log_path
             print "FOUND !!!!!!!!!!!!!!!!!!"
-            found += 1
         except:
             print "*******cannot find********"
         print "<==="
-        total += 1
 
     def getLogFile(self):
         logfile = self.s3_video_path.replace('phi/', 'non_phi/')
@@ -44,4 +40,3 @@ def createVideoList():
 
 if __name__ == "__main__":
     createVideoList()
-    print "found / total " + str(found) + " " + str(total)

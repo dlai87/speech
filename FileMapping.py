@@ -40,6 +40,7 @@ class Video(object):
 
     def get_duration(self):
         filename = self.decrypt_video_path
+        print filename
         result = subprocess.Popen([FFPROBE_PATH, filename], stdout = subprocess.PIPE, stderr = subprocess.STDOUT)
         print result
         for line in result.stdout.readlines():

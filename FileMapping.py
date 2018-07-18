@@ -11,8 +11,8 @@ ROOT = '/home/sfeng/data/'
 DECRYPT_ROOT = '/data/client100prod/'
 FFPROBE_PATH = './ffprobe'
 
-CSV_ROOT = './csv/'
-IMAGE_ROOT = './img/'
+CSV_ROOT = 'csv/'
+IMAGE_ROOT = 'img/'
 
 class Video(object):
     def __init__(self, decrypt_video_path, s3_video_path):
@@ -145,8 +145,9 @@ def groupByQuestionniare():
 
 def createCSVfile(video, duration, detectList, promptList):
     writepath = CSV_ROOT + video.video_name + '.csv'
-    mode = 'a' if os.path.exists(writepath) else 'w'
-    with open(writepath, mode) as csvfile: 
+    if not os.path.exists(writepath):
+        os.mknod(writepath)
+    with open(writepath, 'w') as csvfile: 
         fieldnames = ['time', 'tpye']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()

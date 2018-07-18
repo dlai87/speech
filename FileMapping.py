@@ -65,8 +65,8 @@ class Video(object):
         with open(log_filename) as json_data:
             d = json.load(json_data)
             detectList = self.extractHumanTalking(d)
-            promptList = self.extractAudioPrompt(d)
-            return detectList, promptList
+            promptList, firstActivateTime = self.extractAudioPrompt(d)
+            return detectList, promptList, firstActivateTime
 
     # private method 
     def extractHumanTalking(self, d):
@@ -87,10 +87,13 @@ class Video(object):
         records = d['speechDetectionLog']['SpeechDetectionRecords']
         detectList = [] 
         detection = None
+        firstActivateTime = -1; 
         for record in records:
             if record['type'] == "activated":
                 detection = [] 
                 detection.append(record['timeInSec'])
+                if firstActivateTime < 0 : 
+                    firstActivateTime = record['timeInSec']
             if record['type'] == "deactivated":
                 if detection is not None:
                     detection.append(record['timeInSec'])
@@ -98,7 +101,7 @@ class Video(object):
         promptList = []
         for i in range(1, len(detectList)): 
             promptList.append([detectList[i-1][1], detectList[i][0]])
-        return promptList
+        return promptList, firstActivateTime
 
 
 def createVideoList():
@@ -117,9 +120,10 @@ def createVideoList():
 if __name__ == "__main__":
     videoList = createVideoList()
     for video in videoList:
-        video.get_duration()
-        detectList, promptList = video.parseSpeechLog()
+        duration = video.get_duration()
+        detectList, promptList, firstActivateTime = video.parseSpeechLog()
+        print duration
         print detectList
-        print "===>"
         print promptList
-        print "<==="
+        print firstActivateTime
+        print "========================="

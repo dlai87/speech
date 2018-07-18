@@ -249,9 +249,12 @@ def drawPoints(duration, video, draw):
     font = ImageFont.truetype("./font/OpenSans-Regular.ttf", 22)
     draw.text((x,y), str(format(video.originalDuration, '.3f')) + 's total', font = font,  fill=DARK_GRAY)
     font = ImageFont.truetype("./font/OpenSans-Regular.ttf", 18)
+    draw.text((x, y + 5), str(format(video.ttr, '.3f')) + 's TTR\n' + str(format(video.speech_total, '.3f')) + 's speech', font = font, fill = DARK_GRAY)
 
-def drawTTR():
-    pass 
+
+ 
+
+
 
 if __name__ == "__main__":
     videoList = createVideoList()

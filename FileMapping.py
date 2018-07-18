@@ -22,7 +22,8 @@ LINE_WIDTH = 60
 GREEN = (77,175,80,255)
 RED = (244,67,54,255)
 BLUE = (179,229,252)
-LIGHT_GRAY = (207,216,220)
+LIGHT_GRAY = (207,216,220, 255)
+DARK_GRAY = (80,80,80,255)
 WHITE = (255,255,255,255)
 
 class Video(object):
@@ -209,6 +210,10 @@ def drawDetection(detection, draw):
     draw.line(position, fill=GREEN, width = LINE_WIDTH)
     position = (x2-5, y1, x2, y2)
     draw.line(position, fill=RED, width = LINE_WIDTH)
+    x = x1 + (x2-x1)/3
+    y = y1 + 50 
+    draw.text((x,y), str(detection[1] - detection[0]) + 's',  fill=DARK_GRAY)
+
 
 def drawPrompt(prompt, draw): 
     x1 = MARGIN_H + PIX_PER_SEC * prompt[0]

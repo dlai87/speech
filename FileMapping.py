@@ -233,7 +233,7 @@ def drawPoints(duration, video, draw):
     left = MARGIN_H + duration * PIX_PER_SEC
     right = left + LINE_WIDTH
     draw.ellipse((left, upper, right, lower), fill = RED, outline =RED)
-    x = right + 50
+    x = right + 22
     y = upper + 20
     font = ImageFont.truetype("./font/OpenSans-Regular.ttf", 22)
     draw.text((x,y), str(video.originalDuration) + 's total', font = font,  fill=DARK_GRAY)

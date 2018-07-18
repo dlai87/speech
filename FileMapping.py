@@ -25,7 +25,8 @@ class Video(object):
         print path
         files = os.listdir(path)
         print files
-        lastest_file = max(files, key=os.path.getctime)
+        paths = [os.path.join(path, basename) for basename in files]
+        lastest_file = max(paths, key=os.path.getctime)
         return lastest_file
 
 

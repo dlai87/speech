@@ -9,11 +9,13 @@ class Video(object):
     def __init__(self, decrypt_video_path, s3_video_path):
         self.decrypt_video_path = decrypt_video_path
         self.s3_video_path = s3_video_path
+        self.valid = False
         print "===>"
         try:
             self.log_path = self.getLogFile()
             print self.log_path
             print "FOUND !!!!!!!!!!!!!!!!!!"
+            self.valid = True
         except Exception, e :
             print "*******cannot find********" + str(e)
         print "<==="
@@ -33,10 +35,15 @@ class Video(object):
 def createVideoList():
     with open('map_filename_to_s3.pkl', 'rb') as f:
         data = pickle.load(f)
+        videoList = []
         for key, value in data.items():
             print key
             print value
             video = Video(key, value)
+            if video.valid : 
+                videoList.append(video)
+        print len(videoList)
+        print len(data.items())
 
 
 if __name__ == "__main__":

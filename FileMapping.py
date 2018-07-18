@@ -216,7 +216,7 @@ def drawDetection(detection, draw):
     position = (x2-5, y1, x2, y2)
     draw.line(position, fill=RED, width = LINE_WIDTH)
     x = x1 + (x2-x1)/3
-    y = y1 - 58 
+    y = y1 - 62 
     font = ImageFont.truetype("./font/OpenSans-Regular.ttf", 22)
     draw.text((x,y), str(format(detection[1] - detection[0], '.3f')  ) + 's', font = font,  fill=DARK_GRAY)
 
@@ -249,7 +249,7 @@ def drawPoints(duration, video, draw):
     font = ImageFont.truetype("./font/OpenSans-Regular.ttf", 22)
     draw.text((x,y), str(format(video.originalDuration, '.3f')) + 's total', font = font,  fill=DARK_GRAY)
     font = ImageFont.truetype("./font/OpenSans-Regular.ttf", 18)
-    draw.text((x, y + 5), str(format(video.ttr, '.3f')) + 's TTR\n' + str(format(video.speech_total, '.3f')) + 's speech', font = font, fill = DARK_GRAY)
+    draw.text((x, y + 25), str(format(video.ttr, '.3f')) + 's TTR\n' + str(format(video.speech_total, '.3f')) + 's speech', font = font, fill = DARK_GRAY)
 
 
  

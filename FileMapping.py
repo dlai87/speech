@@ -102,7 +102,7 @@ class Video(object):
                     detection.append(record['timeInSec'])
                     detectList.append(detection)
         promptList = []
-        promptList.append[0, firstActivateTime]   # from 0 sec to first actived , is initial IMA talking
+        promptList.append([0, firstActivateTime])   # from 0 sec to first actived , is initial IMA talking
         for i in range(1, len(detectList)): 
             # IMA talking during prompt up instrution 
             promptList.append([detectList[i-1][1], detectList[i][0]])

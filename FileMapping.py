@@ -4,13 +4,15 @@ import sys
 import os
 import subprocess
 import re
+import csv
 from PIL import Image, ImageDraw
 
 ROOT = '/home/sfeng/data/'
 DECRYPT_ROOT = '/data/client100prod/'
 FFPROBE_PATH = './ffprobe'
 
-
+CSV_ROOT = './csv/'
+IMAGE_ROOT = './img/'
 
 class Video(object):
     def __init__(self, decrypt_video_path, s3_video_path):
@@ -21,12 +23,21 @@ class Video(object):
         try:
             self.log_path = self.getLogFile()
             self.valid = True
+            self.getIdentity()
         except Exception, e :
             print "*******cannot find********" + str(e)
 
     def getIdentity(self):
         tokens = self.s3_video_path.split('/')
-        print tokens
+        #print tokens
+        self.trial_id = tokens[1]
+        self.patient_id = tokens[2]
+        self.schedle_or_dose_id = tokens[3]
+        self.date = tokens[4]
+        self.questionnaire_id = tokens[5]
+        self.question_id = tokens[6]
+        self.video_name = tokens[7]
+
 
     # private method
     def getLogFile(self):
@@ -125,20 +136,37 @@ def createVideoList():
         print len(data.items())
         return videoList
 
-def createCSVfile():
+
+def groupByPatient():
     pass
 
-def createVisulizeImage():
+def groupByQuestionniare():
+    pass
+
+def createCSVfile(video, duration, detectList, promptList):
+    with open(CSV_ROOT + video.video_name + '.csv', 'w') as csvfile: 
+        fieldnames = ['time', 'tpye']
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+        for prompt in promptList:
+            writer.writerow({'time':prompt[0], 'type':'IMA start'})
+            writer.writerow({'time':prompt[1], 'type':'IMA stop'})
+        for detection in detectList: 
+            writer.writerow({'time':detection[0], 'type':'human start'})
+            writer.writerow({'time':detection[1], 'type':'huam stop'})
+    pass
+
+def createVisulizeImage(video, duration, detectList, promptList):
     pass 
 
 
 if __name__ == "__main__":
     videoList = createVideoList()
     for video in videoList:
-        video.getIdentity()
         duration = video.get_duration()
         detectList, promptList = video.parseSpeechLog()
         print duration
         print detectList
         print promptList
+        createCSVfile(video, duration, detectList, promptList)
         print "========================="

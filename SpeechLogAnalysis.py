@@ -26,15 +26,18 @@ PROMPT_DICT = {
 
 
 
+"""
 
+"""
 def process(audio_filename, log_filename): 
     duration = get_duration(audio_filename)
     print duration
     detectList , promptList = parseSpeechLog(log_filename)
 
-
-
-
+"""
+Get the total record duration from the file. 
+If the total duration can be recorded in the JSON file in the future, then we don't need this step. 
+"""
 def get_duration(filename):
     # valid for any audio file accepted by ffprobe
     args = (FFPROBE_PATH, "-show_entries", "format=duration", "-i", filename)
@@ -43,6 +46,13 @@ def get_duration(filename):
     match = re.search(r"[-+]?\d*\.\d+|\d+", output)
     return float(match.group())
 
+"""
+Parsing JSON log file into : 
+
+1) a summary file in csv format 
+2) a image to visualize the data 
+
+"""
 def parseSpeechLog(log_filename):
     with open(log_filename) as json_data:
         d = json.load(json_data)
@@ -51,7 +61,7 @@ def parseSpeechLog(log_filename):
         visualize(detectList, promptList)
         return detectList, promptList
 
-
+"""
 def drawHuamnTalkingSegment():
     pass 
 
@@ -61,16 +71,9 @@ def drawImaTalkingSegment():
 def drawStartEnd():
     pass
 
-
 def combineMultipleImages(image_list):
-    """
-    #example for image merge
-    foreground = Image.new('RGB', (100, 100), (122, 255, 255))  
-    background = Image.new('RGB', (200, 200), (255, 255, 255)) 
-    background.paste(foreground, (50, 20))
-    background.save("test.jpg")
-    """
     pass
+"""
 
 
 

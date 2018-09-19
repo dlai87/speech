@@ -1,0 +1,14 @@
+time,type,metadata
+,,"trial_id:client100prod_1525443315,
+patient_id:client100prod_1525443315_59,
+date:2018-05-30,
+questionnaire_id:client100prod_1525443315-1525899697730-48b05138-e9c5-4e0f-9e9e-6ffdfe32d197,
+question_id:12,
+video_name:7c589bf7-ca84-430c-aebe-1d648e41c789.mp4,
+"
+0,IMA start,
+1.666,IMA stop,
+3.789,human start,
+9.991,human stop,
+12.395,human start,
+22.491,human stop,

@@ -30,8 +30,8 @@ PROMPT_DICT = {
 
 """
 def process(audio_filename, log_filename): 
-    duration = get_duration(audio_filename)
-    print duration
+    #duration = get_duration(audio_filename)
+    #print duration
     detectList , promptList = parseSpeechLog(log_filename)
 
 """
